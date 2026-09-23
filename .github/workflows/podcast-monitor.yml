@@ -63,6 +63,7 @@ jobs:
       - name: Monitor RSS feeds
         env:
           GOOGLE_TOKEN_JSON: ${{ secrets.GOOGLE_TOKEN_JSON }}
+          YEMOS_TOKEN: ${{ secrets.YEMOS_TOKEN }}
           GITHUB_TOKEN: ${{ github.token }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_API_URL: ${{ github.api_url }}
