@@ -13,7 +13,7 @@ import requests
 
 from src.drive import upload_audio
 from src.yemos import upload_audio as upload_yemos_audio
-from src.github_notify import send_notification
+from src.github_notify import queue_notification, flush_notifications
 from src.state import load_state, save_state
 
 CONFIG_PATH = Path("config/podcasts.json")
@@ -76,7 +76,7 @@ def notify_existing_uploaded(podcast, record, notifications):
         return False
 
     try:
-        send_notification(
+        queue_notification(
             podcast,
             record,
             {
@@ -84,9 +84,7 @@ def notify_existing_uploaded(podcast, record, notifications):
                 "webViewLink": record.get("drive_url", ""),
             },
         )
-        record["status"] = "notified"
-        record["notification_status"] = "sent"
-        record["notification_sent_at"] = utc_now()
+        record["notification_status"] = "queued"
         record.pop("notification_error", None)
         return True
     except Exception as exc:
@@ -219,7 +217,10 @@ def process_feed(podcast, config, state):
             try:
                 print(f"Uploading to Yemos: {title}")
                 yemos_file = upload_yemos_audio(
-                    local_path, podcast["name"], filename, branch="1"
+                    local_path,
+                    podcast["name"],
+                    filename,
+                    branch=podcast.get("yemos_branch", "1"),
                 )
                 record["yemos_status"] = "uploaded"
                 record["yemos_path"] = yemos_file.get("path")
@@ -233,16 +234,8 @@ def process_feed(podcast, config, state):
             save_state(state)
 
             if notifications.get("enabled", True):
-                try:
-                    send_notification(podcast, record, drive_file)
-                    record["status"] = "notified"
-                    record["notification_status"] = "sent"
-                    record["notification_sent_at"] = utc_now()
-                    print(f"Notification sent: {title}")
-                except Exception as exc:
-                    record["notification_status"] = "error"
-                    record["notification_error"] = str(exc)
-                    print(f"WARNING: notification failed for {title}: {exc}")
+                queue_notification(podcast, record, drive_file)
+                print(f"Notification queued: {title}")
 
             save_state(state)
             new_count += 1
@@ -273,7 +266,7 @@ def validate_environment(config):
     if not os.getenv("GOOGLE_TOKEN_JSON"):
         missing.append("GOOGLE_TOKEN_JSON")
 
-    if not os.getenv("YEMOS_TOKEN"):
+    if config.get("settings", {}).get("yemos_enabled", True) and not os.getenv("YEMOS_TOKEN"):
         missing.append("YEMOS_TOKEN")
 
     if config.get("notifications", {}).get("enabled", True):
@@ -310,11 +303,25 @@ def main():
             save_state(state)
             print("ERROR:", message)
 
+    if notifications.get("enabled", True):
+        try:
+            sent_records = flush_notifications()
+            now = utc_now()
+            for record in sent_records:
+                record["status"] = "notified"
+                record["notification_status"] = "sent"
+                record["notification_sent_at"] = now
+                record.pop("notification_error", None)
+            if sent_records:
+                save_state(state)
+                print(f"Notification batch sent: {len(sent_records)} episodes")
+        except Exception as exc:
+            print(f"WARNING: notification batch failed: {exc}")
+
     save_state(state)
     print(f"Finished. New episodes: {total}")
 
     if failures:
-        raise SystemExit(
             "One or more feeds failed: " + " | ".join(failures)
         )
 
