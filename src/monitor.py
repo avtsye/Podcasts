@@ -106,7 +106,12 @@ def process_feed(podcast, config, state):
     if getattr(feed, "bozo", False) and not feed.entries:
         raise RuntimeError(f"RSS parse failed: {feed.bozo_exception}")
 
-    entries = list(feed.entries[: int(settings.get("max_episodes_per_feed", 10))])
+    history_mode = os.getenv("PODCAST_HISTORY_MODE", "false").lower() in {"1", "true", "yes", "on"}
+    if history_mode:
+        entries = list(feed.entries)
+        print(f"History mode: RSS exposes {len(entries)} episodes for this feed.")
+    else:
+        entries = list(feed.entries[: int(settings.get("max_episodes_per_feed", 10))])
     seen = state.setdefault("episodes", {})
     feeds = state.setdefault("feeds", {})
     first_run = podcast_id not in feeds
