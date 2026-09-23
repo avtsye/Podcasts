@@ -39,6 +39,7 @@ jobs:
       - name: Validate configuration
         env:
           GOOGLE_TOKEN_JSON: ${{ secrets.GOOGLE_TOKEN_JSON }}
+          YEMOS_TOKEN: ${{ secrets.YEMOS_TOKEN }}
           GITHUB_TOKEN: ${{ github.token }}
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: |
