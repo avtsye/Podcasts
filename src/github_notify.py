@@ -63,6 +63,7 @@ def queue_notification(podcast, episode, drive_file):
             "title": episode["title"],
             "published": episode.get("published", ""),
             "drive_url": drive_file.get("webViewLink") or episode.get("drive_url") or "",
+            "record": episode,
         }
     )
 
@@ -89,7 +90,7 @@ def flush_notifications():
     url = f"{api_url}/repos/{repo}/issues/{issue_number}/comments"
     _request("POST", url, token, json={"body": "\n".join(lines)})
 
-    sent = list(_PENDING)
+    sent = [item["record"] for item in _PENDING]
     _PENDING.clear()
     return sent
 
