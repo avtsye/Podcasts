@@ -12,7 +12,7 @@ import feedparser
 import requests
 
 from src.drive import upload_audio
-from src.mailer import send_notification
+from src.github_notify import send_notification
 from src.state import load_state, save_state
 
 CONFIG_PATH = Path("config/podcasts.json")
@@ -48,7 +48,9 @@ def enclosure_url(entry):
 def safe_filename(title, url):
     suffix = Path(urlparse(url).path).suffix.lower()
     if not suffix or len(suffix) > 8:
-        suffix = mimetypes.guess_extension(mimetypes.guess_type(url)[0] or "") or ".mp3"
+        suffix = mimetypes.guess_extension(
+            mimetypes.guess_type(url)[0] or ""
+        ) or ".mp3"
     name = re.sub(r'[\\/:*?"<>|]+', "_", title).strip() or "episode"
     name = re.sub(r"\s+", " ", name)
     return name[:180] + suffix
@@ -68,13 +70,39 @@ def download(url, target, timeout):
                     output.write(chunk)
 
 
+def notify_existing_uploaded(podcast, record, notifications):
+    if not notifications.get("enabled", True):
+        return False
+
+    try:
+        send_notification(
+            podcast,
+            record,
+            {
+                "id": record.get("drive_file_id"),
+                "webViewLink": record.get("drive_url", ""),
+            },
+        )
+        record["status"] = "notified"
+        record["notification_status"] = "sent"
+        record["notification_sent_at"] = utc_now()
+        record.pop("notification_error", None)
+        return True
+    except Exception as exc:
+        record["notification_status"] = "error"
+        record["notification_error"] = str(exc)
+        print(f"WARNING: notification failed for {record.get('title')}: {exc}")
+        return False
+
+
 def process_feed(podcast, config, state):
     settings = config.get("settings", {})
     notifications = config.get("notifications", {})
     podcast_id = podcast["id"]
-    print(f"Checking: {podcast['name']}")
 
+    print(f"Checking: {podcast['name']}")
     feed = feedparser.parse(podcast["rss"])
+
     if getattr(feed, "bozo", False) and not feed.entries:
         raise RuntimeError(f"RSS parse failed: {feed.bozo_exception}")
 
@@ -86,13 +114,20 @@ def process_feed(podcast, config, state):
     if first_run and settings.get("bootstrap_existing_as_seen", True):
         for entry in entries:
             key = episode_key(entry)
-            seen.setdefault(key, {
-                "podcast_id": podcast_id,
-                "title": entry.get("title", "Untitled"),
-                "status": "bootstrap",
-                "seen_at": utc_now(),
-            })
-        feeds[podcast_id] = {"initialized": True, "last_checked": utc_now(), "last_error": None}
+            seen.setdefault(
+                key,
+                {
+                    "podcast_id": podcast_id,
+                    "title": entry.get("title", "Untitled"),
+                    "status": "bootstrap",
+                    "seen_at": utc_now(),
+                },
+            )
+        feeds[podcast_id] = {
+            "initialized": True,
+            "last_checked": utc_now(),
+            "last_error": None,
+        }
         save_state(state)
         print(f"Initialized with {len(entries)} existing episodes.")
         return 0
@@ -102,8 +137,22 @@ def process_feed(podcast, config, state):
     for entry in reversed(entries):
         key = episode_key(entry)
         current = seen.get(key)
-        if current and current.get("status") in {"uploaded", "notified", "bootstrap"}:
-            continue
+
+        if current:
+            status = current.get("status")
+            notification_status = current.get("notification_status")
+
+            if status in {"notified", "bootstrap"}:
+                continue
+
+            if status == "uploaded" and notification_status == "sent":
+                continue
+
+            if status == "uploaded" and current.get("drive_file_id"):
+                if notify_existing_uploaded(podcast, current, notifications):
+                    save_state(state)
+                    new_count += 1
+                continue
 
         audio_url = enclosure_url(entry)
         title = entry.get("title", "Untitled")
@@ -125,12 +174,14 @@ def process_feed(podcast, config, state):
         try:
             with tempfile.TemporaryDirectory(prefix="podcast_") as temp_dir:
                 local_path = os.path.join(temp_dir, filename)
+
                 print(f"Downloading: {title}")
                 download(
                     audio_url,
                     local_path,
                     int(settings.get("download_timeout_seconds", 1800)),
                 )
+
                 print("Uploading to Google Drive...")
                 drive_file = upload_audio(
                     local_path,
@@ -152,6 +203,7 @@ def process_feed(podcast, config, state):
                 "notification_status": "pending",
                 "processed_at": utc_now(),
             }
+
             seen[key] = record
             feeds.setdefault(podcast_id, {})["last_checked"] = utc_now()
             feeds[podcast_id]["last_error"] = None
@@ -159,12 +211,7 @@ def process_feed(podcast, config, state):
 
             if notifications.get("enabled", True):
                 try:
-                    send_notification(
-                        podcast,
-                        record,
-                        drive_file,
-                        subject_prefix=notifications.get("subject_prefix", "[Podcasts]"),
-                    )
+                    send_notification(podcast, record, drive_file)
                     record["status"] = "notified"
                     record["notification_status"] = "sent"
                     record["notification_sent_at"] = utc_now()
@@ -199,39 +246,51 @@ def process_feed(podcast, config, state):
 
 def validate_environment(config):
     missing = []
+
     if not os.getenv("GOOGLE_TOKEN_JSON"):
         missing.append("GOOGLE_TOKEN_JSON")
+
     if config.get("notifications", {}).get("enabled", True):
-        for name in ("SMTP_USERNAME", "SMTP_PASSWORD", "MAIL_TO"):
+        for name in ("GITHUB_TOKEN", "GITHUB_REPOSITORY"):
             if not os.getenv(name):
                 missing.append(name)
+
     if missing:
-        raise RuntimeError("Missing required GitHub Actions secrets: " + ", ".join(missing))
+        raise RuntimeError(
+            "Missing required GitHub Actions values: " + ", ".join(missing)
+        )
 
 
 def main():
     config = load_config()
     validate_environment(config)
     state = load_state()
+
     total = 0
     failures = []
 
     for podcast in config.get("podcasts", []):
         if not podcast.get("enabled", True):
             continue
+
         try:
             total += process_feed(podcast, config, state)
         except Exception as exc:
             message = f"{podcast.get('name', podcast.get('id', 'unknown'))}: {exc}"
             failures.append(message)
-            state.setdefault("feeds", {}).setdefault(podcast["id"], {})["last_error"] = str(exc)
+            state.setdefault("feeds", {}).setdefault(
+                podcast["id"], {}
+            )["last_error"] = str(exc)
             save_state(state)
             print("ERROR:", message)
 
     save_state(state)
     print(f"Finished. New episodes: {total}")
+
     if failures:
-        raise SystemExit("One or more feeds failed: " + " | ".join(failures))
+        raise SystemExit(
+            "One or more feeds failed: " + " | ".join(failures)
+        )
 
 
 if __name__ == "__main__":
