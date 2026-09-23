@@ -1,7 +1,7 @@
 {
   "settings": {
     "check_interval_minutes": 60,
-    "bootstrap_existing_as_seen": true,
+    "bootstrap_existing_as_seen": false,
     "drive_root_folder": "Podcasts",
     "download_timeout_seconds": 1800,
     "max_episodes_per_feed": 10
