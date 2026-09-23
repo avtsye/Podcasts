@@ -1,0 +1,22 @@
+{
+  "settings": {
+    "check_interval_minutes": 60,
+    "bootstrap_existing_as_seen": true,
+    "drive_root_folder": "Podcasts",
+    "download_timeout_seconds": 1800,
+    "max_episodes_per_feed": 10
+  },
+  "notifications": {
+    "enabled": true,
+    "subject_prefix": "[Podcasts]"
+  },
+  "podcasts": [
+    {
+      "id": "nasa-hwhap",
+      "name": "Houston We Have a Podcast",
+      "rss": "https://www.nasa.gov/feeds/podcasts/houston-we-have-a-podcast",
+      "enabled": true,
+      "drive_folder": "Houston We Have a Podcast"
+    }
+  ]
+}
