@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "17 * * * *"
   workflow_dispatch:
+    inputs:
+      history:
+        description: "Download all episodes currently exposed by each RSS feed"
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -59,6 +65,7 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_API_URL: ${{ github.api_url }}
+          PODCAST_HISTORY_MODE: ${{ inputs.history || false }}
         run: python -m src.monitor
 
       - name: Save monitoring state
