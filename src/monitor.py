@@ -196,6 +196,20 @@ def process_feed(podcast, config, state):
                     podcast_id=podcast_id,
                 )
 
+                yemos_file = None
+                if settings.get("yemos_enabled", True):
+                    try:
+                        print(f"Uploading to Yemos: {title}")
+                        yemos_file = upload_yemos_audio(
+                            local_path,
+                            podcast["name"],
+                            filename,
+                            branch=podcast.get("yemos_branch", "1"),
+                        )
+                        print(f"Yemos upload complete: {yemos_file.get('path')}")
+                    except Exception as exc:
+                        print(f"WARNING: Yemos upload failed for {title}: {exc}")
+
             record = {
                 "podcast_id": podcast_id,
                 "title": title,
@@ -214,22 +228,13 @@ def process_feed(podcast, config, state):
             feeds[podcast_id]["last_error"] = None
             save_state(state)
 
-            try:
-                print(f"Uploading to Yemos: {title}")
-                yemos_file = upload_yemos_audio(
-                    local_path,
-                    podcast["name"],
-                    filename,
-                    branch=podcast.get("yemos_branch", "1"),
-                )
+            if yemos_file:
                 record["yemos_status"] = "uploaded"
                 record["yemos_path"] = yemos_file.get("path")
                 record.pop("yemos_error", None)
-                print(f"Yemos upload complete: {yemos_file.get('path')}")
-            except Exception as exc:
+            else:
                 record["yemos_status"] = "error"
-                record["yemos_error"] = str(exc)
-                print(f"WARNING: Yemos upload failed for {title}: {exc}")
+                record["yemos_error"] = "Upload did not complete; will retry on a later run."
 
             save_state(state)
 
