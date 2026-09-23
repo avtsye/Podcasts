@@ -1,0 +1,238 @@
+import hashlib
+import json
+import mimetypes
+import os
+import re
+import tempfile
+from datetime import datetime, timezone
+from pathlib import Path
+from urllib.parse import urlparse
+
+import feedparser
+import requests
+
+from src.drive import upload_audio
+from src.mailer import send_notification
+from src.state import load_state, save_state
+
+CONFIG_PATH = Path("config/podcasts.json")
+
+
+def utc_now():
+    return datetime.now(timezone.utc).isoformat()
+
+
+def load_config():
+    return json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
+
+
+def episode_key(entry):
+    value = (entry.get("id") or entry.get("guid") or "").strip()
+    if value:
+        return value
+    fallback = enclosure_url(entry) or entry.get("link") or entry.get("title", "")
+    return hashlib.sha256(fallback.encode("utf-8")).hexdigest()
+
+
+def enclosure_url(entry):
+    for enclosure in entry.get("enclosures") or []:
+        url = enclosure.get("href") or enclosure.get("url")
+        if url:
+            return url
+    for item in entry.get("media_content") or []:
+        if item.get("url"):
+            return item["url"]
+    return None
+
+
+def safe_filename(title, url):
+    suffix = Path(urlparse(url).path).suffix.lower()
+    if not suffix or len(suffix) > 8:
+        suffix = mimetypes.guess_extension(mimetypes.guess_type(url)[0] or "") or ".mp3"
+    name = re.sub(r'[\\/:*?"<>|]+', "_", title).strip() or "episode"
+    name = re.sub(r"\s+", " ", name)
+    return name[:180] + suffix
+
+
+def download(url, target, timeout):
+    with requests.get(
+        url,
+        stream=True,
+        timeout=(30, timeout),
+        headers={"User-Agent": "Podcasts-RSS-Monitor/1.0"},
+    ) as response:
+        response.raise_for_status()
+        with open(target, "wb") as output:
+            for chunk in response.iter_content(chunk_size=1024 * 1024):
+                if chunk:
+                    output.write(chunk)
+
+
+def process_feed(podcast, config, state):
+    settings = config.get("settings", {})
+    notifications = config.get("notifications", {})
+    podcast_id = podcast["id"]
+    print(f"Checking: {podcast['name']}")
+
+    feed = feedparser.parse(podcast["rss"])
+    if getattr(feed, "bozo", False) and not feed.entries:
+        raise RuntimeError(f"RSS parse failed: {feed.bozo_exception}")
+
+    entries = list(feed.entries[: int(settings.get("max_episodes_per_feed", 10))])
+    seen = state.setdefault("episodes", {})
+    feeds = state.setdefault("feeds", {})
+    first_run = podcast_id not in feeds
+
+    if first_run and settings.get("bootstrap_existing_as_seen", True):
+        for entry in entries:
+            key = episode_key(entry)
+            seen.setdefault(key, {
+                "podcast_id": podcast_id,
+                "title": entry.get("title", "Untitled"),
+                "status": "bootstrap",
+                "seen_at": utc_now(),
+            })
+        feeds[podcast_id] = {"initialized": True, "last_checked": utc_now(), "last_error": None}
+        save_state(state)
+        print(f"Initialized with {len(entries)} existing episodes.")
+        return 0
+
+    new_count = 0
+
+    for entry in reversed(entries):
+        key = episode_key(entry)
+        current = seen.get(key)
+        if current and current.get("status") in {"uploaded", "notified", "bootstrap"}:
+            continue
+
+        audio_url = enclosure_url(entry)
+        title = entry.get("title", "Untitled")
+
+        if not audio_url:
+            seen[key] = {
+                "podcast_id": podcast_id,
+                "title": title,
+                "published": entry.get("published", ""),
+                "status": "skipped_no_audio",
+                "updated_at": utc_now(),
+            }
+            save_state(state)
+            print(f"Skipping without audio enclosure: {title}")
+            continue
+
+        filename = safe_filename(title, audio_url)
+
+        try:
+            with tempfile.TemporaryDirectory(prefix="podcast_") as temp_dir:
+                local_path = os.path.join(temp_dir, filename)
+                print(f"Downloading: {title}")
+                download(
+                    audio_url,
+                    local_path,
+                    int(settings.get("download_timeout_seconds", 1800)),
+                )
+                print("Uploading to Google Drive...")
+                drive_file = upload_audio(
+                    local_path,
+                    podcast.get("drive_folder") or podcast["name"],
+                    filename,
+                    settings.get("drive_root_folder", "Podcasts"),
+                    episode_key=key,
+                    podcast_id=podcast_id,
+                )
+
+            record = {
+                "podcast_id": podcast_id,
+                "title": title,
+                "published": entry.get("published", ""),
+                "audio_url": audio_url,
+                "drive_file_id": drive_file.get("id"),
+                "drive_url": drive_file.get("webViewLink"),
+                "status": "uploaded",
+                "notification_status": "pending",
+                "processed_at": utc_now(),
+            }
+            seen[key] = record
+            feeds.setdefault(podcast_id, {})["last_checked"] = utc_now()
+            feeds[podcast_id]["last_error"] = None
+            save_state(state)
+
+            if notifications.get("enabled", True):
+                try:
+                    send_notification(
+                        podcast,
+                        record,
+                        drive_file,
+                        subject_prefix=notifications.get("subject_prefix", "[Podcasts]"),
+                    )
+                    record["status"] = "notified"
+                    record["notification_status"] = "sent"
+                    record["notification_sent_at"] = utc_now()
+                    print(f"Notification sent: {title}")
+                except Exception as exc:
+                    record["notification_status"] = "error"
+                    record["notification_error"] = str(exc)
+                    print(f"WARNING: notification failed for {title}: {exc}")
+
+            save_state(state)
+            new_count += 1
+            print(f"Done: {title}")
+
+        except Exception as exc:
+            seen[key] = {
+                "podcast_id": podcast_id,
+                "title": title,
+                "published": entry.get("published", ""),
+                "audio_url": audio_url,
+                "status": "error",
+                "error": str(exc),
+                "updated_at": utc_now(),
+            }
+            feeds.setdefault(podcast_id, {})["last_error"] = str(exc)
+            save_state(state)
+            print(f"ERROR [{podcast['name']}] {title}: {exc}")
+
+    feeds.setdefault(podcast_id, {})["last_checked"] = utc_now()
+    save_state(state)
+    return new_count
+
+
+def validate_environment(config):
+    missing = []
+    if not os.getenv("GOOGLE_TOKEN_JSON"):
+        missing.append("GOOGLE_TOKEN_JSON")
+    if config.get("notifications", {}).get("enabled", True):
+        for name in ("SMTP_USERNAME", "SMTP_PASSWORD", "MAIL_TO"):
+            if not os.getenv(name):
+                missing.append(name)
+    if missing:
+        raise RuntimeError("Missing required GitHub Actions secrets: " + ", ".join(missing))
+
+
+def main():
+    config = load_config()
+    validate_environment(config)
+    state = load_state()
+    total = 0
+    failures = []
+
+    for podcast in config.get("podcasts", []):
+        if not podcast.get("enabled", True):
+            continue
+        try:
+            total += process_feed(podcast, config, state)
+        except Exception as exc:
+            message = f"{podcast.get('name', podcast.get('id', 'unknown'))}: {exc}"
+            failures.append(message)
+            state.setdefault("feeds", {}).setdefault(podcast["id"], {})["last_error"] = str(exc)
+            save_state(state)
+            print("ERROR:", message)
+
+    save_state(state)
+    print(f"Finished. New episodes: {total}")
+    if failures:
+        raise SystemExit("One or more feeds failed: " + " | ".join(failures))
+
+
+if __name__ == "__main__":
+    main()
