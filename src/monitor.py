@@ -12,6 +12,7 @@ import feedparser
 import requests
 
 from src.drive import upload_audio
+from src.yemos import upload_audio as upload_yemos_audio
 from src.github_notify import send_notification
 from src.state import load_state, save_state
 
@@ -206,12 +207,29 @@ def process_feed(podcast, config, state):
                 "drive_url": drive_file.get("webViewLink"),
                 "status": "uploaded",
                 "notification_status": "pending",
+                "yemos_status": "pending",
                 "processed_at": utc_now(),
             }
 
             seen[key] = record
             feeds.setdefault(podcast_id, {})["last_checked"] = utc_now()
             feeds[podcast_id]["last_error"] = None
+            save_state(state)
+
+            try:
+                print(f"Uploading to Yemos: {title}")
+                yemos_file = upload_yemos_audio(
+                    local_path, podcast["name"], filename, branch="1"
+                )
+                record["yemos_status"] = "uploaded"
+                record["yemos_path"] = yemos_file.get("path")
+                record.pop("yemos_error", None)
+                print(f"Yemos upload complete: {yemos_file.get('path')}")
+            except Exception as exc:
+                record["yemos_status"] = "error"
+                record["yemos_error"] = str(exc)
+                print(f"WARNING: Yemos upload failed for {title}: {exc}")
+
             save_state(state)
 
             if notifications.get("enabled", True):
@@ -254,6 +272,9 @@ def validate_environment(config):
 
     if not os.getenv("GOOGLE_TOKEN_JSON"):
         missing.append("GOOGLE_TOKEN_JSON")
+
+    if not os.getenv("YEMOS_TOKEN"):
+        missing.append("YEMOS_TOKEN")
 
     if config.get("notifications", {}).get("enabled", True):
         for name in ("GITHUB_TOKEN", "GITHUB_REPOSITORY"):
