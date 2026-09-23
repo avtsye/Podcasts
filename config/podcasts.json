@@ -12,11 +12,39 @@
   },
   "podcasts": [
     {
-      "id": "nasa-hwhap",
-      "name": "Houston We Have a Podcast",
-      "rss": "https://www.nasa.gov/feeds/podcasts/houston-we-have-a-podcast",
+      "id": "ehad_beyom",
+      "name": "אחד ביום",
+      "rss": "https://www.omnycontent.com/d/playlist/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/409bad89-c4c2-46cb-b69b-accf01152781/podcast.rss",
       "enabled": true,
-      "drive_folder": "Houston We Have a Podcast"
+      "drive_folder": "אחד ביום"
+    },
+    {
+      "id": "geekonomy",
+      "name": "גיקונומי",
+      "rss": "https://feed.podbean.com/geekonomy/feed.xml",
+      "enabled": true,
+      "drive_folder": "גיקונומי"
+    },
+    {
+      "id": "hayot_kes",
+      "name": "חיות כיס",
+      "rss": "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/1ea69f94-8d46-4ff2-aaca-a919008d58b8/podcast.rss",
+      "enabled": true,
+      "drive_folder": "חיות כיס"
+    },
+    {
+      "id": "osim_tech",
+      "name": "עושים טכנולוגיה",
+      "rss": "https://www.spreaker.com/show/4231127/episodes/feed",
+      "enabled": true,
+      "drive_folder": "עושים טכנולוגיה"
+    },
+    {
+      "id": "hatshuva",
+      "name": "התשובה",
+      "rss": "https://www.spreaker.com/show/4228834/episodes/feed",
+      "enabled": true,
+      "drive_folder": "התשובה"
     }
   ]
 }
