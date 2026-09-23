@@ -4,7 +4,9 @@
     "bootstrap_existing_as_seen": false,
     "drive_root_folder": "Podcasts",
     "download_timeout_seconds": 1800,
-    "max_episodes_per_feed": 10
+    "max_episodes_per_feed": 10,
+    "yemos_enabled": true,
+    "yemos_branch_root": "1"
   },
   "notifications": {
     "enabled": true,
@@ -16,175 +18,200 @@
       "name": "אחד ביום",
       "rss": "https://www.omnycontent.com/d/playlist/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/409bad89-c4c2-46cb-b69b-accf01152781/podcast.rss",
       "enabled": true,
-      "drive_folder": "אחד ביום"
+      "drive_folder": "אחד ביום",
+      "yemos_branch": "1"
     },
     {
       "id": "geekonomy",
       "name": "גיקונומי",
       "rss": "https://feed.podbean.com/geekonomy/feed.xml",
       "enabled": true,
-      "drive_folder": "גיקונומי"
+      "drive_folder": "גיקונומי",
+      "yemos_branch": "2"
     },
     {
       "id": "hayot_kes",
       "name": "חיות כיס",
       "rss": "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/1ea69f94-8d46-4ff2-aaca-a919008d58b8/podcast.rss",
       "enabled": true,
-      "drive_folder": "חיות כיס"
+      "drive_folder": "חיות כיס",
+      "yemos_branch": "3"
     },
     {
       "id": "osim_tech",
       "name": "עושים טכנולוגיה",
       "rss": "https://www.spreaker.com/show/4231127/episodes/feed",
       "enabled": true,
-      "drive_folder": "עושים טכנולוגיה"
+      "drive_folder": "עושים טכנולוגיה",
+      "yemos_branch": "4"
     },
     {
       "id": "hatshuva",
       "name": "התשובה",
       "rss": "https://www.spreaker.com/show/4228834/episodes/feed",
       "enabled": true,
-      "drive_folder": "התשובה"
+      "drive_folder": "התשובה",
+      "yemos_branch": "5"
     },
     {
       "id": "startup_for_startup",
       "name": "Startup for Startup",
       "rss": "https://omny.fm/shows/startupforstartup/playlists/podcast.rss",
       "enabled": true,
-      "drive_folder": "Startup for Startup"
+      "drive_folder": "Startup for Startup",
+      "yemos_branch": "6"
     },
     {
       "id": "money_engines",
       "name": "מנועי הכסף",
       "rss": "https://omny.fm/shows/calcalistpodsmenoeyhakesef/playlists/podcast.rss",
       "enabled": true,
-      "drive_folder": "מנועי הכסף"
+      "drive_folder": "מנועי הכסף",
+      "yemos_branch": "7"
     },
     {
       "id": "history_for_children",
       "name": "היסטוריה לילדים",
       "rss": "https://omny.fm/shows/history-for-children/playlists/podcast.rss",
       "enabled": true,
-      "drive_folder": "היסטוריה לילדים"
+      "drive_folder": "היסטוריה לילדים",
+      "yemos_branch": "8"
     },
     {
       "id": "baduk",
       "name": "בָּדוּק",
       "rss": "https://omny.fm/shows/baduk/playlists/podcast.rss",
       "enabled": true,
-      "drive_folder": "בָּדוּק"
+      "drive_folder": "בָּדוּק",
+      "yemos_branch": "9"
     },
     {
       "id": "20th_century",
       "name": "המאה ה-20: שנה בשעה",
       "rss": "https://omny.fm/shows/a-year-in-an-hour/playlists/podcast.rss",
       "enabled": true,
-      "drive_folder": "המאה ה-20: שנה בשעה"
+      "drive_folder": "המאה ה-20: שנה בשעה",
+      "yemos_branch": "10"
     },
     {
       "id": "sakranit",
       "name": "סקרנית",
       "rss": "https://omny.fm/shows/curious/playlists/podcast.rss",
       "enabled": true,
-      "drive_folder": "סקרנית"
+      "drive_folder": "סקרנית",
+      "yemos_branch": "11"
     },
     {
       "id": "out_of_memory",
       "name": "Out of Memory",
       "rss": "https://omny.fm/shows/out-of-memory/playlists/podcast.rss",
       "enabled": true,
-      "drive_folder": "Out of Memory"
+      "drive_folder": "Out of Memory",
+      "yemos_branch": "12"
     },
     {
       "id": "erech_musaf",
       "name": "ערך מוסף בשבילי",
       "rss": "https://omny.fm/shows/valueadded/playlists/podcast.rss",
       "enabled": true,
-      "drive_folder": "ערך מוסף בשבילי"
+      "drive_folder": "ערך מוסף בשבילי",
+      "yemos_branch": "13"
     },
     {
       "id": "team_atzmaim",
       "name": "TEAM לעצמאים",
       "rss": "https://omny.fm/shows/team-isracard/playlists/podcast.rss",
       "enabled": true,
-      "drive_folder": "TEAM לעצמאים"
+      "drive_folder": "TEAM לעצמאים",
+      "yemos_branch": "14"
     },
     {
       "id": "maariv_magazine",
       "name": "מגזין מעריב",
       "rss": "https://omny.fm/shows/magazinemaariv/playlists/podcast.rss",
       "enabled": true,
-      "drive_folder": "מגזין מעריב"
+      "drive_folder": "מגזין מעריב",
+      "yemos_branch": "15"
     },
     {
       "id": "cx_podcast",
       "name": "The CX PODCAST",
       "rss": "https://omny.fm/shows/cx2024/playlists/podcast.rss",
       "enabled": true,
-      "drive_folder": "The CX PODCAST"
+      "drive_folder": "The CX PODCAST",
+      "yemos_branch": "16"
     },
     {
       "id": "haim_aherim",
       "name": "חיים של אחרים",
       "rss": "https://omny.fm/shows/haimaherim/playlists/podcast.rss",
       "enabled": true,
-      "drive_folder": "חיים של אחרים"
+      "drive_folder": "חיים של אחרים",
+      "yemos_branch": "17"
     },
     {
       "id": "esek_kalkali",
       "name": "עסק כלכלי",
       "rss": "https://omny.fm/shows/israelhayom-business/playlists/podcast.rss",
       "enabled": true,
-      "drive_folder": "עסק כלכלי"
+      "drive_folder": "עסק כלכלי",
+      "yemos_branch": "18"
     },
     {
       "id": "keta_kalkali",
       "name": "קטע כלכלי",
       "rss": "https://omny.fm/shows/ushi/playlists/podcast.rss",
       "enabled": true,
-      "drive_folder": "קטע כלכלי"
+      "drive_folder": "קטע כלכלי",
+      "yemos_branch": "19"
     },
     {
       "id": "zman_sheavodtem",
       "name": "בזמן שעבדתם",
       "rss": "https://makopod.podbean.com/feed.xml",
       "enabled": true,
-      "drive_folder": "בזמן שעבדתם"
+      "drive_folder": "בזמן שעבדתם",
+      "yemos_branch": "20"
     },
     {
       "id": "little_university",
       "name": "האוניברסיטה הקטנה של המדעים",
       "rss": "https://omny.fm/shows/littleuniversity/playlists/podcast.rss",
       "enabled": true,
-      "drive_folder": "האוניברסיטה הקטנה של המדעים"
+      "drive_folder": "האוניברסיטה הקטנה של המדעים",
+      "yemos_branch": "21"
     },
     {
       "id": "music_tech",
       "name": "פודקאסט על מוזיקה וטכנולוגיה",
       "rss": "https://omny.fm/shows/musictech/playlists/podcast.rss",
       "enabled": true,
-      "drive_folder": "פודקאסט על מוזיקה וטכנולוגיה"
+      "drive_folder": "פודקאסט על מוזיקה וטכנולוגיה",
+      "yemos_branch": "22"
     },
     {
       "id": "traveler",
       "name": "הנוסע המתמיד עם נדב יעקבי",
       "rss": "https://omny.fm/shows/hanoseahamatmid/playlists/podcast.rss",
       "enabled": true,
-      "drive_folder": "הנוסע המתמיד עם נדב יעקבי"
+      "drive_folder": "הנוסע המתמיד עם נדב יעקבי",
+      "yemos_branch": "23"
     },
     {
       "id": "ear_catcher",
       "name": "Ear Catcher",
       "rss": "https://omny.fm/shows/ear-catcher/playlists/podcast.rss",
       "enabled": true,
-      "drive_folder": "Ear Catcher"
+      "drive_folder": "Ear Catcher",
+      "yemos_branch": "24"
     },
     {
       "id": "historia_bederech",
       "name": "היסטוריה על הדרך",
       "rss": "https://omny.fm/shows/naftalihen/playlists/playlist-2.rss",
       "enabled": true,
-      "drive_folder": "היסטוריה על הדרך"
+      "drive_folder": "היסטוריה על הדרך",
+      "yemos_branch": "25"
     }
   ]
 }
