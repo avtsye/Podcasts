@@ -8,7 +8,7 @@
   },
   "notifications": {
     "enabled": true,
-    "subject_prefix": "[Podcasts]"
+    "github_issue_title": "Podcast Notifications"
   },
   "podcasts": [
     {
