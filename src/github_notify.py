@@ -3,6 +3,8 @@ import requests
 
 ISSUE_TITLE = "Podcast Notifications"
 
+_PENDING = []
+
 
 def _config():
     token = os.getenv("GITHUB_TOKEN")
@@ -47,26 +49,52 @@ def _find_or_create_issue(token, repo, api_url):
             "title": ISSUE_TITLE,
             "body": (
                 "This issue is used by Podcast Monitor for new-episode notifications.\n\n"
-                "Each new episode is added as a comment below."
+                "Each monitoring run adds one batched comment containing the new episodes."
             ),
         },
     )
     return issue["number"]
 
 
-def send_notification(podcast, episode, drive_file):
+def queue_notification(podcast, episode, drive_file):
+    _PENDING.append(
+        {
+            "podcast": podcast["name"],
+            "title": episode["title"],
+            "published": episode.get("published", ""),
+            "drive_url": drive_file.get("webViewLink") or episode.get("drive_url") or "",
+        }
+    )
+
+
+def flush_notifications():
+    if not _PENDING:
+        return []
+
     token, repo, api_url = _config()
     issue_number = _find_or_create_issue(token, repo, api_url)
 
-    drive_url = drive_file.get("webViewLink") or episode.get("drive_url") or ""
-    body = (
-        "## 🎙️ New podcast episode\n\n"
-        f"**Podcast:** {podcast['name']}\n\n"
-        f"**Episode:** {episode['title']}\n\n"
-        f"**Published:** {episode.get('published', '')}\n\n"
-        f"**Google Drive:** {drive_url}\n"
-    )
+    lines = ["## 🎙️ New podcast episodes", ""]
+    for item in _PENDING:
+        lines.extend(
+            [
+                f"### {item['podcast']}",
+                f"**Episode:** {item['title']}",
+                f"**Published:** {item['published']}",
+                f"**Google Drive:** {item['drive_url']}",
+                "",
+            ]
+        )
 
     url = f"{api_url}/repos/{repo}/issues/{issue_number}/comments"
-    _request("POST", url, token, json={"body": body})
-    return issue_number
+    _request("POST", url, token, json={"body": "\n".join(lines)})
+
+    sent = list(_PENDING)
+    _PENDING.clear()
+    return sent
+
+
+def send_notification(podcast, episode, drive_file):
+    queue_notification(podcast, episode, drive_file)
+    sent = flush_notifications()
+    return sent
