@@ -44,6 +44,8 @@ def upload_audio(local_path, podcast_name, filename, branch="1"):
     podcast_folder = _safe_path_part(podcast_name)
     base_name = Path(filename).stem
     base_name = _safe_path_part(base_name)
+    # Keep each podcast in its numeric branch. The branch itself is the
+    # first directory, followed by the podcast folder and the WAV file.
     destination = f"{_safe_path_part(branch)}/{podcast_folder}/{base_name}.wav"
 
     url = f"{API_BASE}/UploadFile"
