@@ -5,3 +5,8 @@ venv/
 .env
 *.log
 .DS_Store
+
+# Google OAuth credentials - never commit these
+credentials.json
+token.json
+google-credentials*.json
