@@ -1,4 +1,130 @@
 {
-  "feeds": {},
-  "episodes": {}
+  "feeds": {
+    "nasa-hwhap": {
+      "last_checked": "2026-09-23T15:48:51.076084+00:00",
+      "last_error": null
+    }
+  },
+  "episodes": {
+    "6b1b8bc2-7c61-11f1-bf55-77c19ea51ee2": {
+      "podcast_id": "nasa-hwhap",
+      "title": "Space Runs in the Family",
+      "published": "Fri, 10 Jul 2026 13:25:00 -0000",
+      "audio_url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION7744373742.mp3",
+      "drive_file_id": "1-1ZTqntYQeuvp3RGqck0Lv-NDLw-cE9E",
+      "drive_url": "https://drive.google.com/file/d/1-1ZTqntYQeuvp3RGqck0Lv-NDLw-cE9E/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "processed_at": "2026-09-23T15:47:54.191623+00:00",
+      "notification_sent_at": "2026-09-23T15:47:55.746659+00:00"
+    },
+    "0a2682f8-81e4-11f1-9d77-fb3260a0e541": {
+      "podcast_id": "nasa-hwhap",
+      "title": "Artemis II Lunar Science",
+      "published": "Fri, 17 Jul 2026 13:55:00 -0000",
+      "audio_url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION8141278983.mp3",
+      "drive_file_id": "1DJTpi3vCubqQn7PzhFF4d81gNQXhPQju",
+      "drive_url": "https://drive.google.com/file/d/1DJTpi3vCubqQn7PzhFF4d81gNQXhPQju/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "processed_at": "2026-09-23T15:48:00.561015+00:00",
+      "notification_sent_at": "2026-09-23T15:48:01.627539+00:00"
+    },
+    "90835a36-8763-11f1-acfb-27f6b878a121": {
+      "podcast_id": "nasa-hwhap",
+      "title": "ISS Results: Materials Science",
+      "published": "Fri, 24 Jul 2026 13:34:00 -0000",
+      "audio_url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION9215033298.mp3",
+      "drive_file_id": "15VZo1heiOg0MCZj26qwnMx45r54Qglhc",
+      "drive_url": "https://drive.google.com/file/d/15VZo1heiOg0MCZj26qwnMx45r54Qglhc/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "processed_at": "2026-09-23T15:48:10.098814+00:00",
+      "notification_sent_at": "2026-09-23T15:48:10.998270+00:00"
+    },
+    "a42baca8-8ce2-11f1-b731-cb369b984c2c": {
+      "podcast_id": "nasa-hwhap",
+      "title": "CHAPEA 2: Audio Log 3",
+      "published": "Fri, 31 Jul 2026 13:30:00 -0000",
+      "audio_url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION3617465336.mp3",
+      "drive_file_id": "1UOvgFO6iqe0k1kU7G2A6t_4hbUL02wgj",
+      "drive_url": "https://drive.google.com/file/d/1UOvgFO6iqe0k1kU7G2A6t_4hbUL02wgj/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "processed_at": "2026-09-23T15:48:16.591482+00:00",
+      "notification_sent_at": "2026-09-23T15:48:17.920268+00:00"
+    },
+    "a7a9cd48-9263-11f1-b956-cf4cb90ed221": {
+      "podcast_id": "nasa-hwhap",
+      "title": "ISS Results: Stem Cells in Space",
+      "published": "Fri, 07 Aug 2026 13:26:00 -0000",
+      "audio_url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION1953821370.mp3",
+      "drive_file_id": "1Kh1PTn1QgQ3q3trzbd6iXASpLM8qexdy",
+      "drive_url": "https://drive.google.com/file/d/1Kh1PTn1QgQ3q3trzbd6iXASpLM8qexdy/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "processed_at": "2026-09-23T15:48:23.031467+00:00",
+      "notification_sent_at": "2026-09-23T15:48:24.103240+00:00"
+    },
+    "c07783da-97de-11f1-8743-77812e3c07d4": {
+      "podcast_id": "nasa-hwhap",
+      "title": "Callsign White Flight",
+      "published": "Fri, 14 Aug 2026 12:50:00 -0000",
+      "audio_url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION9055430257.mp3",
+      "drive_file_id": "1EojZgHONSzFEIFKzymliTrl20l7ln1Pa",
+      "drive_url": "https://drive.google.com/file/d/1EojZgHONSzFEIFKzymliTrl20l7ln1Pa/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "processed_at": "2026-09-23T15:48:29.303147+00:00",
+      "notification_sent_at": "2026-09-23T15:48:30.299165+00:00"
+    },
+    "1ec5465a-9d63-11f1-a7ca-5772de4eaeea": {
+      "podcast_id": "nasa-hwhap",
+      "title": "Artemis III Training",
+      "published": "Fri, 21 Aug 2026 13:20:00 -0000",
+      "audio_url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION1028622555.mp3",
+      "drive_file_id": "10oWdxrTiyeF_byBpb1cxGBrI5Q4iT2ux",
+      "drive_url": "https://drive.google.com/file/d/10oWdxrTiyeF_byBpb1cxGBrI5Q4iT2ux/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "processed_at": "2026-09-23T15:48:35.027433+00:00",
+      "notification_sent_at": "2026-09-23T15:48:35.924635+00:00"
+    },
+    "e1c5437e-a170-11f1-91dc-63283e05ebb5": {
+      "podcast_id": "nasa-hwhap",
+      "title": "National Lab 15",
+      "published": "Fri, 28 Aug 2026 13:00:00 -0000",
+      "audio_url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION7649878096.mp3",
+      "drive_file_id": "13mJgNe3h0xw2n47l2SJEfyo0S-1gWvJ2",
+      "drive_url": "https://drive.google.com/file/d/13mJgNe3h0xw2n47l2SJEfyo0S-1gWvJ2/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "processed_at": "2026-09-23T15:48:40.307701+00:00",
+      "notification_sent_at": "2026-09-23T15:48:41.115061+00:00"
+    },
+    "3c3c42fc-ade3-11f1-9953-f7f954cb0158": {
+      "podcast_id": "nasa-hwhap",
+      "title": "The Moon Base",
+      "published": "Fri, 11 Sep 2026 13:37:00 -0000",
+      "audio_url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION9936593694.mp3",
+      "drive_file_id": "1vpSC-5PZnL2PcOexXVtxBxIIHvbCQt9p",
+      "drive_url": "https://drive.google.com/file/d/1vpSC-5PZnL2PcOexXVtxBxIIHvbCQt9p/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "processed_at": "2026-09-23T15:48:45.226394+00:00",
+      "notification_sent_at": "2026-09-23T15:48:46.249615+00:00"
+    },
+    "e6a8cd30-b1ff-11f1-b5f2-3fbec06f144b": {
+      "podcast_id": "nasa-hwhap",
+      "title": "Cosmic Perspectives with Neil deGrasse Tyson",
+      "published": "Fri, 18 Sep 2026 13:00:00 -0000",
+      "audio_url": "https://traffic.megaphone.fm/NATIONALAERONAUTICSANDSPACEADMINISTRATION1279952529.mp3",
+      "drive_file_id": "1a-mVk-6bVc1HGBLs-q8HXhOCbBVC56P_",
+      "drive_url": "https://drive.google.com/file/d/1a-mVk-6bVc1HGBLs-q8HXhOCbBVC56P_/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "processed_at": "2026-09-23T15:48:50.184241+00:00",
+      "notification_sent_at": "2026-09-23T15:48:51.075326+00:00"
+    }
+  }
 }
