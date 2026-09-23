@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: podcast-monitor
@@ -32,9 +33,8 @@ jobs:
       - name: Validate configuration
         env:
           GOOGLE_TOKEN_JSON: ${{ secrets.GOOGLE_TOKEN_JSON }}
-          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
-          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-          MAIL_TO: ${{ secrets.MAIL_TO }}
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
         run: |
           python - <<'PY'
           import json
@@ -42,24 +42,23 @@ jobs:
           from pathlib import Path
 
           config = json.loads(Path("config/podcasts.json").read_text(encoding="utf-8"))
-          required = ["GOOGLE_TOKEN_JSON", "SMTP_USERNAME", "SMTP_PASSWORD", "MAIL_TO"]
+          required = ["GOOGLE_TOKEN_JSON", "GITHUB_TOKEN", "GITHUB_REPOSITORY"]
           missing = [name for name in required if not os.getenv(name)]
+
           if missing:
-              raise SystemExit("Missing GitHub Actions secrets: " + ", ".join(missing))
+              raise SystemExit("Missing required values: " + ", ".join(missing))
           if not config.get("podcasts"):
               raise SystemExit("No podcasts configured.")
+
           print("Configuration validation passed.")
           PY
 
       - name: Monitor RSS feeds
         env:
           GOOGLE_TOKEN_JSON: ${{ secrets.GOOGLE_TOKEN_JSON }}
-          SMTP_HOST: ${{ secrets.SMTP_HOST }}
-          SMTP_PORT: ${{ secrets.SMTP_PORT }}
-          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
-          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-          MAIL_FROM: ${{ secrets.MAIL_FROM }}
-          MAIL_TO: ${{ secrets.MAIL_TO }}
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_API_URL: ${{ github.api_url }}
         run: python -m src.monitor
 
       - name: Save monitoring state
@@ -67,6 +66,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/state.json
+
           if git diff --cached --quiet; then
             echo "No state changes."
           else
