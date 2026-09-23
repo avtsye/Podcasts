@@ -45,6 +45,146 @@
       "rss": "https://www.spreaker.com/show/4228834/episodes/feed",
       "enabled": true,
       "drive_folder": "התשובה"
+    },
+    {
+      "id": "startup_for_startup",
+      "name": "Startup for Startup",
+      "rss": "https://omny.fm/shows/startupforstartup/playlists/podcast.rss",
+      "enabled": true,
+      "drive_folder": "Startup for Startup"
+    },
+    {
+      "id": "money_engines",
+      "name": "מנועי הכסף",
+      "rss": "https://omny.fm/shows/calcalistpodsmenoeyhakesef/playlists/podcast.rss",
+      "enabled": true,
+      "drive_folder": "מנועי הכסף"
+    },
+    {
+      "id": "history_for_children",
+      "name": "היסטוריה לילדים",
+      "rss": "https://omny.fm/shows/history-for-children/playlists/podcast.rss",
+      "enabled": true,
+      "drive_folder": "היסטוריה לילדים"
+    },
+    {
+      "id": "baduk",
+      "name": "בָּדוּק",
+      "rss": "https://omny.fm/shows/baduk/playlists/podcast.rss",
+      "enabled": true,
+      "drive_folder": "בָּדוּק"
+    },
+    {
+      "id": "20th_century",
+      "name": "המאה ה-20: שנה בשעה",
+      "rss": "https://omny.fm/shows/a-year-in-an-hour/playlists/podcast.rss",
+      "enabled": true,
+      "drive_folder": "המאה ה-20: שנה בשעה"
+    },
+    {
+      "id": "sakranit",
+      "name": "סקרנית",
+      "rss": "https://omny.fm/shows/curious/playlists/podcast.rss",
+      "enabled": true,
+      "drive_folder": "סקרנית"
+    },
+    {
+      "id": "out_of_memory",
+      "name": "Out of Memory",
+      "rss": "https://omny.fm/shows/out-of-memory/playlists/podcast.rss",
+      "enabled": true,
+      "drive_folder": "Out of Memory"
+    },
+    {
+      "id": "erech_musaf",
+      "name": "ערך מוסף בשבילי",
+      "rss": "https://omny.fm/shows/valueadded/playlists/podcast.rss",
+      "enabled": true,
+      "drive_folder": "ערך מוסף בשבילי"
+    },
+    {
+      "id": "team_atzmaim",
+      "name": "TEAM לעצמאים",
+      "rss": "https://omny.fm/shows/team-isracard/playlists/podcast.rss",
+      "enabled": true,
+      "drive_folder": "TEAM לעצמאים"
+    },
+    {
+      "id": "maariv_magazine",
+      "name": "מגזין מעריב",
+      "rss": "https://omny.fm/shows/magazinemaariv/playlists/podcast.rss",
+      "enabled": true,
+      "drive_folder": "מגזין מעריב"
+    },
+    {
+      "id": "cx_podcast",
+      "name": "The CX PODCAST",
+      "rss": "https://omny.fm/shows/cx2024/playlists/podcast.rss",
+      "enabled": true,
+      "drive_folder": "The CX PODCAST"
+    },
+    {
+      "id": "haim_aherim",
+      "name": "חיים של אחרים",
+      "rss": "https://omny.fm/shows/haimaherim/playlists/podcast.rss",
+      "enabled": true,
+      "drive_folder": "חיים של אחרים"
+    },
+    {
+      "id": "esek_kalkali",
+      "name": "עסק כלכלי",
+      "rss": "https://omny.fm/shows/israelhayom-business/playlists/podcast.rss",
+      "enabled": true,
+      "drive_folder": "עסק כלכלי"
+    },
+    {
+      "id": "keta_kalkali",
+      "name": "קטע כלכלי",
+      "rss": "https://omny.fm/shows/ushi/playlists/podcast.rss",
+      "enabled": true,
+      "drive_folder": "קטע כלכלי"
+    },
+    {
+      "id": "zman_sheavodtem",
+      "name": "בזמן שעבדתם",
+      "rss": "https://makopod.podbean.com/feed.xml",
+      "enabled": true,
+      "drive_folder": "בזמן שעבדתם"
+    },
+    {
+      "id": "little_university",
+      "name": "האוניברסיטה הקטנה של המדעים",
+      "rss": "https://omny.fm/shows/littleuniversity/playlists/podcast.rss",
+      "enabled": true,
+      "drive_folder": "האוניברסיטה הקטנה של המדעים"
+    },
+    {
+      "id": "music_tech",
+      "name": "פודקאסט על מוזיקה וטכנולוגיה",
+      "rss": "https://omny.fm/shows/musictech/playlists/podcast.rss",
+      "enabled": true,
+      "drive_folder": "פודקאסט על מוזיקה וטכנולוגיה"
+    },
+    {
+      "id": "traveler",
+      "name": "הנוסע המתמיד עם נדב יעקבי",
+      "rss": "https://omny.fm/shows/hanoseahamatmid/playlists/podcast.rss",
+      "enabled": true,
+      "drive_folder": "הנוסע המתמיד עם נדב יעקבי"
+    },
+    {
+      "id": "ear_catcher",
+      "name": "Ear Catcher",
+      "rss": "https://omny.fm/shows/ear-catcher/playlists/podcast.rss",
+      "enabled": true,
+      "drive_folder": "Ear Catcher"
+    },
+    {
+      "id": "historia_bederech",
+      "name": "היסטוריה על הדרך",
+      "rss": "https://omny.fm/shows/naftalihen/playlists/playlist-2.rss",
+      "enabled": true,
+      "drive_folder": "היסטוריה על הדרך"
     }
   ]
 }
