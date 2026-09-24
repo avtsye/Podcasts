@@ -15,6 +15,7 @@ from src.drive import upload_audio
 from src.yemos import upload_audio as upload_yemos_audio
 from src.github_notify import queue_notification, flush_notifications
 from src.state import load_state, save_state
+from src.yemos_state import load_yemos_state, save_yemos_state
 
 CONFIG_PATH = Path("config/podcasts.json")
 
@@ -94,7 +95,7 @@ def notify_existing_uploaded(podcast, record, notifications):
         return False
 
 
-def process_feed(podcast, config, state):
+def process_feed(podcast, config, state, yemos_state):
     settings = config.get("settings", {})
     notifications = config.get("notifications", {})
     podcast_id = podcast["id"]
@@ -107,6 +108,7 @@ def process_feed(podcast, config, state):
 
     history_mode = os.getenv("PODCAST_HISTORY_MODE", "false").lower() in {"1", "true", "yes", "on"}
     requested_count = int(os.getenv("PODCAST_COUNT", "0") or "0")
+
     if history_mode:
         entries = list(feed.entries)
         print(f"History mode: RSS exposes {len(entries)} episodes for this feed.")
@@ -115,8 +117,10 @@ def process_feed(podcast, config, state):
         print(f"Latest mode: checking the newest {len(entries)} episodes for this feed.")
     else:
         entries = list(feed.entries[: int(settings.get("max_episodes_per_feed", 10))])
+
     seen = state.setdefault("episodes", {})
     feeds = state.setdefault("feeds", {})
+    yemos_episodes = yemos_state.setdefault("episodes", {})
     first_run = podcast_id not in feeds
 
     if first_run and settings.get("bootstrap_existing_as_seen", True):
@@ -145,6 +149,68 @@ def process_feed(podcast, config, state):
     for entry in reversed(entries):
         key = episode_key(entry)
         current = seen.get(key)
+        yemos_record = yemos_episodes.get(key, {})
+        title = entry.get("title", "Untitled")
+        audio_url = enclosure_url(entry)
+
+        # A Drive upload is independent from Yemos. If Drive already has the
+        # episode but Yemos does not, retry only Yemos instead of uploading
+        # the episode to Drive again.
+        if (
+            current
+            and current.get("drive_file_id")
+            and settings.get("yemos_enabled", True)
+            and yemos_record.get("status") != "uploaded"
+            and audio_url
+        ):
+            filename = safe_filename(title, audio_url)
+            try:
+                with tempfile.TemporaryDirectory(prefix="yemos_retry_") as temp_dir:
+                    local_path = os.path.join(temp_dir, filename)
+
+                    print(f"Retrying Yemos only: {title}")
+                    download(
+                        audio_url,
+                        local_path,
+                        int(settings.get("download_timeout_seconds", 1800)),
+                    )
+
+                    yemos_file = upload_yemos_audio(
+                        local_path,
+                        podcast["name"],
+                        filename,
+                        branch=podcast.get("yemos_branch", "1"),
+                    )
+
+                yemos_episodes[key] = {
+                    "podcast_id": podcast_id,
+                    "title": title,
+                    "status": "uploaded",
+                    "path": yemos_file.get("path"),
+                    "uploaded_at": utc_now(),
+                }
+                save_yemos_state(yemos_state)
+
+                current["yemos_status"] = "uploaded"
+                current["yemos_path"] = yemos_file.get("path")
+                current.pop("yemos_error", None)
+                save_state(state)
+
+                print(f"Yemos retry complete: {title}")
+            except Exception as exc:
+                yemos_episodes[key] = {
+                    "podcast_id": podcast_id,
+                    "title": title,
+                    "status": "error",
+                    "error": str(exc),
+                    "updated_at": utc_now(),
+                }
+                save_yemos_state(yemos_state)
+                print(f"WARNING: Yemos retry failed for {title}: {exc}")
+
+            # Do not redownload/reupload to Drive in this pass.
+            if current.get("status") in {"notified", "uploaded", "bootstrap"}:
+                continue
 
         if current:
             status = current.get("status")
@@ -161,9 +227,6 @@ def process_feed(podcast, config, state):
                     save_state(state)
                     new_count += 1
                 continue
-
-        audio_url = enclosure_url(entry)
-        title = entry.get("title", "Untitled")
 
         if not audio_url:
             seen[key] = {
@@ -200,7 +263,23 @@ def process_feed(podcast, config, state):
                     podcast_id=podcast_id,
                 )
 
-                yemos_file = None
+                record = {
+                    "podcast_id": podcast_id,
+                    "title": title,
+                    "published": entry.get("published", ""),
+                    "audio_url": audio_url,
+                    "drive_file_id": drive_file.get("id"),
+                    "drive_url": drive_file.get("webViewLink"),
+                    "status": "uploaded",
+                    "notification_status": "pending",
+                    "yemos_status": "pending",
+                    "processed_at": utc_now(),
+                }
+                seen[key] = record
+                feeds.setdefault(podcast_id, {})["last_checked"] = utc_now()
+                feeds[podcast_id]["last_error"] = None
+                save_state(state)
+
                 if settings.get("yemos_enabled", True):
                     try:
                         print(f"Uploading to Yemos: {title}")
@@ -210,37 +289,35 @@ def process_feed(podcast, config, state):
                             filename,
                             branch=podcast.get("yemos_branch", "1"),
                         )
+                        yemos_episodes[key] = {
+                            "podcast_id": podcast_id,
+                            "title": title,
+                            "status": "uploaded",
+                            "path": yemos_file.get("path"),
+                            "uploaded_at": utc_now(),
+                        }
+                        save_yemos_state(yemos_state)
+
+                        record["yemos_status"] = "uploaded"
+                        record["yemos_path"] = yemos_file.get("path")
+                        record.pop("yemos_error", None)
                         print(f"Yemos upload complete: {yemos_file.get('path')}")
                     except Exception as exc:
+                        yemos_episodes[key] = {
+                            "podcast_id": podcast_id,
+                            "title": title,
+                            "status": "error",
+                            "error": str(exc),
+                            "updated_at": utc_now(),
+                        }
+                        save_yemos_state(yemos_state)
+                        record["yemos_status"] = "error"
+                        record["yemos_error"] = str(exc)
                         print(f"WARNING: Yemos upload failed for {title}: {exc}")
+                else:
+                    record["yemos_status"] = "disabled"
 
-            record = {
-                "podcast_id": podcast_id,
-                "title": title,
-                "published": entry.get("published", ""),
-                "audio_url": audio_url,
-                "drive_file_id": drive_file.get("id"),
-                "drive_url": drive_file.get("webViewLink"),
-                "status": "uploaded",
-                "notification_status": "pending",
-                "yemos_status": "pending",
-                "processed_at": utc_now(),
-            }
-
-            seen[key] = record
-            feeds.setdefault(podcast_id, {})["last_checked"] = utc_now()
-            feeds[podcast_id]["last_error"] = None
-            save_state(state)
-
-            if yemos_file:
-                record["yemos_status"] = "uploaded"
-                record["yemos_path"] = yemos_file.get("path")
-                record.pop("yemos_error", None)
-            else:
-                record["yemos_status"] = "error"
-                record["yemos_error"] = "Upload did not complete; will retry on a later run."
-
-            save_state(state)
+                save_state(state)
 
             if notifications.get("enabled", True):
                 queue_notification(podcast, record, drive_file)
@@ -266,84 +343,6 @@ def process_feed(podcast, config, state):
 
     feeds.setdefault(podcast_id, {})["last_checked"] = utc_now()
     save_state(state)
+    save_yemos_state(yemos_state)
     return new_count
 
-
-def validate_environment(config):
-    missing = []
-
-    if not os.getenv("GOOGLE_TOKEN_JSON"):
-        missing.append("GOOGLE_TOKEN_JSON")
-
-    if config.get("settings", {}).get("yemos_enabled", True) and not os.getenv("YEMOS_TOKEN"):
-        missing.append("YEMOS_TOKEN")
-
-    if config.get("notifications", {}).get("enabled", True):
-        for name in ("GITHUB_TOKEN", "GITHUB_REPOSITORY"):
-            if not os.getenv(name):
-                missing.append(name)
-
-    if missing:
-        raise RuntimeError(
-            "Missing required GitHub Actions values: " + ", ".join(missing)
-        )
-
-
-def main():
-    config = load_config()
-    validate_environment(config)
-    state = load_state()
-
-    total = 0
-    failures = []
-    notifications = config.get("notifications", {})
-    requested_ids = {
-        value.strip()
-        for value in os.getenv("PODCAST_IDS", "").split(",")
-        if value.strip()
-    }
-
-    podcasts = config.get("podcasts", [])
-    if requested_ids:
-        podcasts = [p for p in podcasts if p.get("id") in requested_ids]
-        print(f"Manual selection: {len(podcasts)} podcast(s) selected.")
-
-    for podcast in podcasts:
-        if not podcast.get("enabled", True):
-            continue
-
-        try:
-            total += process_feed(podcast, config, state)
-        except Exception as exc:
-            message = f"{podcast.get('name', podcast.get('id', 'unknown'))}: {exc}"
-            failures.append(message)
-            state.setdefault("feeds", {}).setdefault(
-                podcast["id"], {}
-            )["last_error"] = str(exc)
-            save_state(state)
-            print("ERROR:", message)
-
-    if notifications.get("enabled", True):
-        try:
-            sent_records = flush_notifications()
-            now = utc_now()
-            for record in sent_records:
-                record["status"] = "notified"
-                record["notification_status"] = "sent"
-                record["notification_sent_at"] = now
-                record.pop("notification_error", None)
-            if sent_records:
-                save_state(state)
-                print(f"Notification batch sent: {len(sent_records)} episodes")
-        except Exception as exc:
-            print(f"WARNING: notification batch failed: {exc}")
-
-    save_state(state)
-    print(f"Finished. New episodes: {total}")
-
-    if failures:
-        print("One or more feeds failed: " + " | ".join(failures))
-
-
-if __name__ == "__main__":
-    main()
