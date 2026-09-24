@@ -17,10 +17,42 @@ body:
       label: מספר פרקים אחרונים
       description: "במצב פרקים אחרונים. ברירת מחדל: 1"
       value: "1"
-  - type: textarea
+  - type: checkboxes
     id: podcasts
     attributes:
-      label: פודקאסטים
-      description: "רשום מזהי פודקאסטים מופרדים בפסיקים, או ALL לכל הפעילים."
-      value: "ALL"
-    validations: {required: true}
+      label: בחירת פודקאסטים
+      description: "סמן את הפודקאסטים הרצויים. אפשר לסמן את כולם."
+      options:
+        - label: "כל הפודקאסטים הפעילים"
+        - label: "אחד ביום"
+        - label: "גיקונומי"
+        - label: "חיות כיס"
+        - label: "עושים טכנולוגיה"
+        - label: "התשובה"
+        - label: "Startup for Startup"
+        - label: "מנועי הכסף"
+        - label: "היסטוריה לילדים"
+        - label: "בָּדוּק"
+        - label: "המאה ה-20: שנה בשעה"
+        - label: "סקרנית"
+        - label: "Out of Memory"
+        - label: "ערך מוסף בשבילי"
+        - label: "TEAM לעצמאים"
+        - label: "מגזין מעריב"
+        - label: "The CX PODCAST"
+        - label: "חיים של אחרים"
+        - label: "עסק כלכלי"
+        - label: "קטע כלכלי"
+        - label: "בזמן שעבדתם"
+        - label: "האוניברסיטה הקטנה של המדעים"
+        - label: "פודקאסט על מוזיקה וטכנולוגיה"
+        - label: "הנוסע המתמיד עם נדב יעקבי"
+        - label: "Ear Catcher"
+        - label: "היסטוריה על הדרך"
+        - label: "היסטוריה עם יובל מלחי - קטעים"
+        - label: "עושים היסטוריה עם ערן ניצן"
+        - label: "ילדין"
+        - label: "יציאת אתיופיה"
+        - label: "סוכן סודי"
+        - label: "סיפור בערך"
+        - label: "פרונטירז – מדע לצעירים"
