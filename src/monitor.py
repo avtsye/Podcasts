@@ -125,7 +125,12 @@ def process_feed(podcast, config, state, yemos_state):
     except json.JSONDecodeError:
         force_items = []
     force_targets = os.getenv("PODCAST_FORCE_TARGETS", "")
-    force_match = lambda entry, key: any(
+    force_count = int(os.getenv("PODCAST_FORCE_COUNT", "0") or "0")
+    force_keys = {
+        episode_key(entry)
+        for entry in list(feed.entries)[:force_count]
+    } if force_count > 0 else set()
+    force_match = lambda entry, key: key in force_keys or any(
         item == key or item.casefold() == (entry.get("title", "") or "").strip().casefold()
         for item in force_items
     )
