@@ -80,50 +80,77 @@ jobs:
           print(f"Configuration validation passed: {len(config['podcasts'])} podcasts configured.")
           PY
 
-      - name: Parse podcast selector form
+      - name: Parse Issues dashboard request
         id: parse_request
         if: github.event_name == 'issues'
         env:
           ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+        run: python -m src.issue_dashboard
+
+      - name: Mark request in progress
+        if: github.event_name == 'issues'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          gh issue edit "$ISSUE_NUMBER" --add-label "בתהליך" || true
+          gh issue comment "$ISSUE_NUMBER" --body "⏳ הבקשה התקבלה והטיפול התחיל."
+
+      - name: Manage podcast configuration
+        if: github.event_name == 'issues' && steps.parse_request.outputs.kind == 'manage'
+        env:
+          ACTION: ${{ steps.parse_request.outputs.action }}
+          PODCAST_ID: ${{ steps.parse_request.outputs.podcast_id }}
+          NAME: ${{ steps.parse_request.outputs.name }}
+          RSS: ${{ steps.parse_request.outputs.rss }}
+          DRIVE_FOLDER: ${{ steps.parse_request.outputs.drive_folder }}
+          YEMOS_BRANCH: ${{ steps.parse_request.outputs.yemos_branch }}
         run: |
           python - <<'PY'
-          import json
-          import os
-          import re
+          import json, os
           from pathlib import Path
-
-          body = os.environ.get("ISSUE_BODY", "")
-          config = json.loads(Path("config/podcasts.json").read_text(encoding="utf-8"))
-          podcasts = config.get("podcasts", [])
-          names = {p["name"]: p["id"] for p in podcasts}
-
-          all_selected = bool(re.search(r"(?mi)^- \[x\] .*הורד את כל הפודקאסטים", body))
-          selected = []
-          if not all_selected:
-              for name, podcast_id in names.items():
-                  if re.search(r"(?mi)^- \[x\] " + re.escape(name) + r"\s*$", body):
-                      selected.append(podcast_id)
-
-          mode_all = bool(re.search(r"(?mi)^-?\s*כל הפרקים הזמינים ב-RSS\s*$", body))
-          count_match = re.search(r"(?mi)^### מספר פרקים אחרונים\s*\n+([^\n]+)", body)
-          count = "1"
-          if count_match:
-              digits = re.search(r"\d+", count_match.group(1))
-              if digits:
-                  count = str(max(1, min(1000, int(digits.group(0)))))
-
-          if all_selected:
-              selected = [p["id"] for p in podcasts if p.get("enabled", True)]
-
-          if not selected:
-              raise SystemExit("לא נבחר אף פודקאסט. סמן לפחות פודקאסט אחד או את 'הורד את כל הפודקאסטים'.")
-
-          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as out:
-              out.write(f"ids={','.join(selected)}\n")
-              out.write(f"mode={'all' if mode_all else 'latest'}\n")
-              out.write(f"count={count}\n")
-          print(f"Selected {len(selected)} podcast(s), mode={'all' if mode_all else 'latest'}, count={count}")
+          p=Path("config/podcasts.json"); cfg=json.loads(p.read_text(encoding="utf-8")); items=cfg["podcasts"]
+          pid=os.environ["PODCAST_ID"].strip(); action=os.environ["ACTION"]
+          item=next((x for x in items if x["id"]==pid),None)
+          if action=="הוספה":
+              if item: raise SystemExit("הפודקאסט כבר קיים")
+              if not os.environ["NAME"].strip() or not os.environ["RSS"].strip(): raise SystemExit("בהוספה חובה שם ו-RSS")
+              item={"id":pid,"name":os.environ["NAME"].strip(),"rss":os.environ["RSS"].strip(),"enabled":True,"drive_folder":os.environ["DRIVE_FOLDER"].strip() or os.environ["NAME"].strip(),"yemos_branch":os.environ["YEMOS_BRANCH"].strip() or "1"}; items.append(item)
+          else:
+              if not item: raise SystemExit("הפודקאסט לא נמצא")
+              if action=="הפעלה": item["enabled"]=True
+              elif action=="השבתה": item["enabled"]=False
+              elif action=="עריכה":
+                  for env,key in [("NAME","name"),("RSS","rss"),("DRIVE_FOLDER","drive_folder"),("YEMOS_BRANCH","yemos_branch")]:
+                      if os.environ[env].strip(): item[key]=os.environ[env].strip()
+          p.write_text(json.dumps(cfg,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
           PY
+
+      - name: Report system status
+        if: github.event_name == 'issues' && steps.parse_request.outputs.kind == 'status'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          SCOPE: ${{ steps.parse_request.outputs.scope }}
+        run: |
+          python - <<'PY' > /tmp/status.md
+          import json, os
+          from pathlib import Path
+          cfg=json.loads(Path("config/podcasts.json").read_text(encoding="utf-8"))
+          st=json.loads(Path("data/state.json").read_text(encoding="utf-8")) if Path("data/state.json").exists() else {"feeds":{},"episodes":{}}
+          feeds=st.get("feeds",{}); eps=st.get("episodes",{})
+          errors=[(p["name"],feeds.get(p["id"],{}).get("last_error")) for p in cfg["podcasts"] if feeds.get(p["id"],{}).get("last_error")]
+          print("## 📊 מצב המערכת\n")
+          print(f"- פודקאסטים מוגדרים: **{len(cfg['podcasts'])}**")
+          print(f"- פודקאסטים פעילים: **{sum(p.get('enabled',True) for p in cfg['podcasts'])}**")
+          print(f"- פרקים במעקב: **{len(eps)}**")
+          print(f"- פידים עם שגיאה אחרונה: **{len(errors)}**\n")
+          if errors:
+              print("### שגיאות אחרונות")
+              for name,error in errors: print(f"- **{name}** — {error}")
+          PY
+          gh issue comment "$ISSUE_NUMBER" --body-file /tmp/status.md
 
       - name: Monitor RSS feeds
         env:
@@ -132,9 +159,12 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_API_URL: ${{ github.api_url }}
-          PODCAST_HISTORY_MODE: ${{ github.event_name == 'schedule' && 'false' || github.event_name == 'issues' && steps.parse_request.outputs.mode == 'all' || github.event_name == 'workflow_dispatch' && inputs.mode == 'all' || github.event.client_payload.mode == 'all' }}
+          PODCAST_HISTORY_MODE: ${{ github.event_name == 'schedule' && 'false' || github.event_name == 'issues' && (steps.parse_request.outputs.kind == 'redownload' || steps.parse_request.outputs.mode == 'all') || github.event_name == 'workflow_dispatch' && inputs.mode == 'all' || github.event.client_payload.mode == 'all' }}
           PODCAST_COUNT: ${{ github.event_name == 'schedule' && '0' || github.event_name == 'issues' && steps.parse_request.outputs.count || github.event_name == 'workflow_dispatch' && inputs.count || github.event.client_payload.count }}
           PODCAST_IDS: ${{ github.event_name == 'schedule' && '' || github.event_name == 'issues' && steps.parse_request.outputs.ids || github.event_name == 'workflow_dispatch' && inputs.podcasts || github.event.client_payload.podcasts }}
+          PODCAST_FORCE_EPISODES: ${{ github.event_name == 'issues' && steps.parse_request.outputs.episodes || '[]' }}
+          PODCAST_FORCE_TARGETS: ${{ github.event_name == 'issues' && steps.parse_request.outputs.targets || '' }}
+        if: github.event_name != 'issues' || steps.parse_request.outputs.kind == 'download' || steps.parse_request.outputs.kind == 'redownload'
         run: python -m src.monitor
 
       - name: Log temporary run in dedicated issue
@@ -155,7 +185,8 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
         run: |
-          gh issue comment "$ISSUE_NUMBER" --body "הפעלת ההורדה הסתיימה. ניתן לראות את פרטי הריצה בלשונית Actions."
+          gh issue edit "$ISSUE_NUMBER" --remove-label "בתהליך" --add-label "הושלם" || true
+          gh issue comment "$ISSUE_NUMBER" --body "✅ הטיפול בבקשה הסתיים. ניתן לראות את פרטי הריצה בלשונית Actions."
 
       - name: Close manual request
         if: github.event_name == 'issues'
