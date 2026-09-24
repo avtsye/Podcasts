@@ -93,7 +93,9 @@ def dashboard_styles():
 
 @app.get("/app.js")
 def dashboard_script():
-    return send_from_directory(DASHBOARD_DIR, "app.js")
+    response = send_from_directory(DASHBOARD_DIR, "app.js", mimetype="application/javascript")
+    response.headers["Cache-Control"] = "no-store, no-cache, must-revalidate, max-age=0"
+    return response
 
 
 @app.get("/health")
