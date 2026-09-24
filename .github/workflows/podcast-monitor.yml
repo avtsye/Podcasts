@@ -23,6 +23,9 @@ on:
         required: false
         default: ""
         type: string
+  repository_dispatch:
+    types:
+      - podcast_manual
 
 permissions:
   contents: write
@@ -80,9 +83,9 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_API_URL: ${{ github.api_url }}
-          PODCAST_HISTORY_MODE: ${{ github.event_name == 'schedule' && 'false' || inputs.mode == 'all' }}
-          PODCAST_COUNT: ${{ github.event_name == 'schedule' && '0' || inputs.count }}
-          PODCAST_IDS: ${{ github.event_name == 'schedule' && '' || inputs.podcasts }}
+          PODCAST_HISTORY_MODE: ${{ github.event_name == 'schedule' && 'false' || github.event_name == 'workflow_dispatch' && inputs.mode == 'all' || github.event.client_payload.mode == 'all' }}
+          PODCAST_COUNT: ${{ github.event_name == 'schedule' && '0' || github.event_name == 'workflow_dispatch' && inputs.count || github.event.client_payload.count }}
+          PODCAST_IDS: ${{ github.event_name == 'schedule' && '' || github.event_name == 'workflow_dispatch' && inputs.podcasts || github.event.client_payload.podcasts }}
         run: python -m src.monitor
 
       - name: Save monitoring state
