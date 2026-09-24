@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Podcast Control Center</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="login" class="login"><div class="login-card"><h1>Podcast Control Center</h1><p>הזן סיסמת ניהול</p><input id="password" type="password" placeholder="סיסמה"><button id="loginBtn">כניסה</button><small id="loginError"></small></div></div>
+<div id="app" class="shell hidden">
+<aside><div class="brand">🎙️ <b>Podcast</b><span>Control Center</span></div>
+<nav><button class="nav active" data-view="overview">סקירה כללית</button><button class="nav" data-view="run">הרצה חדשה</button><button class="nav" data-view="podcasts">פודקאסטים</button><button class="nav" data-view="episodes">פרקים</button><button class="nav" data-view="runs">הרצות</button><button class="nav" data-view="errors">שגיאות</button></nav>
+<div class="side-bottom"><span id="apiDot" class="dot"></span><span id="apiText">מתחבר…</span><button id="logout">יציאה</button></div>
+</aside>
+<main><header><div><h1 id="title">סקירה כללית</h1><p id="subtitle">מצב מערכת הפודקאסטים</p></div><button id="refresh">↻ רענון</button></header>
+<section id="view"></section></main>
+</div>
+<script src="app.js"></script>
+</body></html>
