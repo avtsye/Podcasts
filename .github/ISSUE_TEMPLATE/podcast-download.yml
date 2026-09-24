@@ -1,7 +1,6 @@
 name: "הפעלת הורדת פודקאסטים"
 description: "בחירת פודקאסטים והפעלת הורדה ידנית"
 title: "[הורדה] "
-labels: ["podcast-download"]
 body:
   - type: markdown
     attributes:
