@@ -10,7 +10,11 @@ app = Flask(__name__)
 REPO = os.getenv("GITHUB_REPOSITORY", "avtsye/Podcasts")
 TOKEN = os.getenv("GITHUB_TOKEN", "").strip()
 PASSWORD = os.getenv("DASHBOARD_PASSWORD", "").strip()
-ALLOWED_ORIGIN = os.getenv("DASHBOARD_ORIGIN", "*").rstrip("/")
+ALLOWED_ORIGINS = {
+    origin.strip().rstrip("/")
+    for origin in os.getenv("DASHBOARD_ORIGINS", os.getenv("DASHBOARD_ORIGIN", "*")).split(",")
+    if origin.strip()
+}
 API = "https://api.github.com"
 RAW = "https://raw.githubusercontent.com"
 
@@ -25,7 +29,7 @@ def headers():
 @app.after_request
 def cors(response):
     origin = request.headers.get("Origin", "")
-    if ALLOWED_ORIGIN == "*" or origin == ALLOWED_ORIGIN:
+    if "*" in ALLOWED_ORIGINS or origin.rstrip("/") in ALLOWED_ORIGINS:
         response.headers["Access-Control-Allow-Origin"] = origin or "*"
     response.headers["Access-Control-Allow-Headers"] = "Content-Type, X-Dashboard-Password"
     response.headers["Access-Control-Allow-Methods"] = "GET, POST, PUT, OPTIONS"
