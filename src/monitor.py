@@ -106,9 +106,13 @@ def process_feed(podcast, config, state):
         raise RuntimeError(f"RSS parse failed: {feed.bozo_exception}")
 
     history_mode = os.getenv("PODCAST_HISTORY_MODE", "false").lower() in {"1", "true", "yes", "on"}
+    requested_count = int(os.getenv("PODCAST_COUNT", "0") or "0")
     if history_mode:
         entries = list(feed.entries)
         print(f"History mode: RSS exposes {len(entries)} episodes for this feed.")
+    elif requested_count > 0:
+        entries = list(feed.entries[:requested_count])
+        print(f"Latest mode: checking the newest {len(entries)} episodes for this feed.")
     else:
         entries = list(feed.entries[: int(settings.get("max_episodes_per_feed", 10))])
     seen = state.setdefault("episodes", {})
@@ -292,8 +296,18 @@ def main():
 
     total = 0
     failures = []
+    requested_ids = {
+        value.strip()
+        for value in os.getenv("PODCAST_IDS", "").split(",")
+        if value.strip()
+    }
 
-    for podcast in config.get("podcasts", []):
+    podcasts = config.get("podcasts", [])
+    if requested_ids:
+        podcasts = [p for p in podcasts if p.get("id") in requested_ids]
+        print(f"Manual selection: {len(podcasts)} podcast(s) selected.")
+
+    for podcast in podcasts:
         if not podcast.get("enabled", True):
             continue
 
@@ -327,8 +341,7 @@ def main():
     print(f"Finished. New episodes: {total}")
 
     if failures:
-            "One or more feeds failed: " + " | ".join(failures)
-        )
+        print("One or more feeds failed: " + " | ".join(failures))
 
 
 if __name__ == "__main__":
