@@ -296,6 +296,7 @@ def main():
 
     total = 0
     failures = []
+    notifications = config.get("notifications", {})
     requested_ids = {
         value.strip()
         for value in os.getenv("PODCAST_IDS", "").split(",")
