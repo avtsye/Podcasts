@@ -35,7 +35,19 @@ async function api(path,options={}){
       const state=stateR.ok?await stateR.json():{};
       const yemos=yemosR.ok?await yemosR.json():{};
       const podcasts=(config.podcasts||[]).map(p=>({...p,state:state[p.id]||{},yemos:yemos[p.id]||{}}));
-      return {podcasts,state,yemos,runs:[],source:"rawgithack"};
+      const feeds={};
+      let episodes=0,drive_uploaded=0,yemos_uploaded=0;
+      for(const p of podcasts){
+        const ps=state[p.id]||{};
+        feeds[p.id]={last_checked:ps.last_checked||ps.checked_at||null,last_error:ps.last_error||ps.error||null};
+        const eps=Array.isArray(ps.episodes)?ps.episodes:(ps.episodes&&typeof ps.episodes==="object"?Object.values(ps.episodes):[]);
+        episodes+=eps.length;
+        drive_uploaded+=eps.filter(x=>x&&((x.drive_uploaded===true)||x.drive_file_id||x.drive_id)).length;
+        const ys=yemos[p.id]||{};
+        if(Array.isArray(ys)) yemos_uploaded+=ys.length;
+        else if(ys&&typeof ys==="object") yemos_uploaded+=Object.keys(ys).length;
+      }
+      return {podcasts,state,yemos,feeds,runs:[],totals:{enabled:podcasts.filter(p=>p.enabled!==false).length,episodes,drive_uploaded,yemos_uploaded},source:"rawgithack"};
     }catch(err){
       throw Object.assign(new Error("RAW_DATA_FAILED: "+(err.message||err)),{stage:"raw-data",url:path});
     }
