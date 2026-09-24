@@ -48,11 +48,16 @@ def _safe_branch(value):
 
 def _build_destination(filename, branch):
     safe_branch = _safe_branch(branch)
-    base_name = _safe_path_part(Path(filename).stem)
-    base_name = base_name[:180].rstrip() or "episode"
+    base_name = Path(filename).stem
 
-    # Yemos examples use ivr2:/<branch>/<file>.
-    return f"ivr2:/{safe_branch}/{base_name}.wav"
+    if not re.fullmatch(r"\\d+", base_name):
+        raise YemosError(
+            f"Yemos filename must be numeric, got {filename!r}."
+        )
+
+    # All podcasts live under IVR branch 1. Each podcast gets a numeric
+    # sub-branch, and every audio file has a numeric filename.
+    return f"ivr2:/1/{safe_branch}/{base_name}.wav"
 
 
 def _parse_response(response, operation="UploadFile"):
@@ -207,10 +212,10 @@ def upload_audio(local_path, podcast_name, filename, branch="1"):
 
     The podcast uses its configured numeric Yemos branch directly:
 
-        ivr2:/<branch>/<episode>.wav
+        ivr2:/1/<branch>/<number>.wav
 
-    The existing monitor passes podcast_name for logging/compatibility;
-    the podcast name is intentionally not inserted into the Yemos path.
+    The existing monitor passes podcast_name for logging/compatibility.
+    The podcast name is never inserted into the Yemos path.
     """
 
     source = Path(local_path)
