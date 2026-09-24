@@ -1,0 +1,14 @@
+name: "📊 בדיקת מצב"
+description: "קבל תמונת מצב של המערכת בתוך ה-Issue"
+title: "[מצב] "
+labels: ["בקשה", "בדיקת-מצב"]
+body:
+  - type: markdown
+    attributes:
+      value: "פתח את הבקשה והמערכת תוסיף תגובה עם מצב הפידים, מספר הפרקים ושגיאות אחרונות."
+  - type: dropdown
+    id: scope
+    attributes:
+      label: היקף
+      options: ["כל המערכת", "רק שגיאות"]
+    validations: {required: true}
