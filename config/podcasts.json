@@ -244,6 +244,30 @@
       "enabled": true,
       "drive_folder": "יציאת אתיופיה",
       "yemos_branch": "38"
+    },
+    {
+      "id": "sogen_sodi",
+      "name": "סוכן סודי",
+      "rss": "https://anchor.fm/s/102544b30/podcast/rss",
+      "enabled": true,
+      "drive_folder": "סוכן סודי",
+      "yemos_branch": "39"
+    },
+    {
+      "id": "sipur_beerech",
+      "name": "סיפור בערך",
+      "rss": "https://feeds.hubhopper.com/da57f176d3d3487cce54e14616932d3a.rss",
+      "enabled": true,
+      "drive_folder": "סיפור בערך",
+      "yemos_branch": "40"
+    },
+    {
+      "id": "frontiers_youth",
+      "name": "פרונטירז – מדע לצעירים",
+      "rss": "https://feeds.hubhopper.com/e972f4ac-f6f8-51a4-9b79-559df4add3a5.rss",
+      "enabled": true,
+      "drive_folder": "פרונטירז – מדע לצעירים",
+      "yemos_branch": "41"
     }
   ]
 }
