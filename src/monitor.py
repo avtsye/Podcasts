@@ -15,7 +15,7 @@ from src.drive import upload_audio
 from src.yemos import upload_audio as upload_yemos_audio
 from src.github_notify import queue_notification, flush_notifications
 from src.state import load_state, save_state
-from src.yemos_state import load_yemos_state, save_yemos_state
+from src.yemos_state import load_yemos_state, save_yemos_state, next_yemos_number
 
 CONFIG_PATH = Path("config/podcasts.json")
 
@@ -182,6 +182,14 @@ def process_feed(podcast, config, state, yemos_state):
             and audio_url
         ):
             filename = safe_filename(title, audio_url)
+            branch = podcast.get("yemos_branch", "1")
+            yemos_number = yemos_record.get("filename_stem")
+            if not yemos_number:
+                yemos_number = str(next_yemos_number(yemos_state, branch))
+                yemos_record["filename_stem"] = yemos_number
+                save_yemos_state(yemos_state)
+            yemos_filename = f"{yemos_number}.wav"
+
             try:
                 with tempfile.TemporaryDirectory(prefix="yemos_retry_") as temp_dir:
                     local_path = os.path.join(temp_dir, filename)
@@ -196,8 +204,8 @@ def process_feed(podcast, config, state, yemos_state):
                     yemos_file = upload_yemos_audio(
                         local_path,
                         podcast["name"],
-                        filename,
-                        branch=podcast.get("yemos_branch", "1"),
+                        yemos_filename,
+                        branch=branch,
                     )
 
                 yemos_episodes[key] = {
@@ -205,6 +213,7 @@ def process_feed(podcast, config, state, yemos_state):
                     "title": title,
                     "status": "uploaded",
                     "path": yemos_file.get("path"),
+                    "filename_stem": yemos_number,
                     "uploaded_at": utc_now(),
                 }
                 save_yemos_state(yemos_state)
@@ -259,6 +268,9 @@ def process_feed(podcast, config, state, yemos_state):
             continue
 
         filename = safe_filename(title, audio_url)
+        branch = podcast.get("yemos_branch", "1")
+        yemos_number = str(next_yemos_number(yemos_state, branch))
+        yemos_filename = f"{yemos_number}.wav"
 
         try:
             with tempfile.TemporaryDirectory(prefix="podcast_") as temp_dir:
@@ -300,18 +312,19 @@ def process_feed(podcast, config, state, yemos_state):
 
                 if settings.get("yemos_enabled", True):
                     try:
-                        print(f"Uploading to Yemos: {title}")
+                        print(f"Uploading to Yemos: {title} as {yemos_filename}")
                         yemos_file = upload_yemos_audio(
                             local_path,
                             podcast["name"],
-                            filename,
-                            branch=podcast.get("yemos_branch", "1"),
+                            yemos_filename,
+                            branch=branch,
                         )
                         yemos_episodes[key] = {
                             "podcast_id": podcast_id,
                             "title": title,
                             "status": "uploaded",
                             "path": yemos_file.get("path"),
+                            "filename_stem": yemos_number,
                             "uploaded_at": utc_now(),
                         }
                         save_yemos_state(yemos_state)
