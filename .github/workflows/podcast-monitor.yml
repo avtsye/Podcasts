@@ -5,11 +5,24 @@ on:
     - cron: "17 * * * *"
   workflow_dispatch:
     inputs:
-      history:
-        description: "Download all episodes currently exposed by each RSS feed"
+      mode:
+        description: "What to download"
+        required: true
+        default: latest
+        type: choice
+        options:
+          - latest
+          - all
+      count:
+        description: "Number of newest episodes per selected podcast (used in latest mode)"
         required: false
-        default: false
-        type: boolean
+        default: "1"
+        type: string
+      podcasts:
+        description: "Podcast IDs separated by commas. Leave empty to process all enabled podcasts."
+        required: false
+        default: ""
+        type: string
 
 permissions:
   contents: write
@@ -57,7 +70,7 @@ jobs:
           if not config.get("podcasts"):
               raise SystemExit("No podcasts configured.")
 
-          print("Configuration validation passed.")
+          print(f"Configuration validation passed: {len(config['podcasts'])} podcasts configured.")
           PY
 
       - name: Monitor RSS feeds
@@ -67,7 +80,9 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_API_URL: ${{ github.api_url }}
-          PODCAST_HISTORY_MODE: ${{ inputs.history || false }}
+          PODCAST_HISTORY_MODE: ${{ github.event_name == 'schedule' && 'false' || inputs.mode == 'all' }}
+          PODCAST_COUNT: ${{ github.event_name == 'schedule' && '0' || inputs.count }}
+          PODCAST_IDS: ${{ github.event_name == 'schedule' && '' || inputs.podcasts }}
         run: python -m src.monitor
 
       - name: Save monitoring state
