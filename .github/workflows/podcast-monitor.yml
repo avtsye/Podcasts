@@ -192,6 +192,42 @@ jobs:
         if: github.event_name != 'issues' || steps.parse_request.outputs.kind == 'download' || steps.parse_request.outputs.kind == 'redownload'
         run: python -m src.monitor
 
+      - name: Log scheduled run in activity issue
+        if: always() && github.event_name == 'schedule'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: "20"
+          RUN_URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          JOB_STATUS: ${{ job.status }}
+        run: |
+          python - <<'PY' > /tmp/scheduled-run.md
+          import json, os
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          state_path = Path("data/state.json")
+          cfg_path = Path("config/podcasts.json")
+          state = json.loads(state_path.read_text(encoding="utf-8")) if state_path.exists() else {}
+          cfg = json.loads(cfg_path.read_text(encoding="utf-8")) if cfg_path.exists() else {"podcasts":[]}
+          feeds = state.get("feeds", {})
+          episodes = state.get("episodes", {})
+          active = [p for p in cfg.get("podcasts", []) if p.get("enabled", True)]
+          errors = [(p.get("name",p.get("id","")), feeds.get(p.get("id",""),{}).get("last_error")) for p in active]
+          errors = [(n,e) for n,e in errors if e]
+          now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+          status = "✅ הסתיימה בהצלחה" if os.environ.get("JOB_STATUS") == "success" else "❌ הסתיימה עם שגיאה"
+          print(f"### {status} — {now}\n")
+          print(f"- פודקאסטים פעילים: **{len(active)}**")
+          print(f"- פרקים במצב המעקב: **{len(episodes)}**")
+          print(f"- פידים עם שגיאה אחרונה: **{len(errors)}**")
+          if errors:
+              print("\n**שגיאות:**")
+              for name,error in errors[:10]:
+                  print(f"- {name}: {error}")
+          print(f"\n[פתיחת הריצה ב-Actions]({os.environ['RUN_URL']})")
+          PY
+          gh issue comment "$ISSUE_NUMBER" --body-file /tmp/scheduled-run.md
+
       - name: Log temporary run in dedicated issue
         if: always() && github.event_name != 'schedule'
         env:
