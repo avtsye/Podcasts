@@ -1,7 +1,7 @@
 {
   "feeds": {
     "ehad_beyom": {
-      "last_checked": "2026-09-24T10:47:33.921680+00:00",
+      "last_checked": "2026-09-24T11:50:46.744278+00:00",
       "last_error": null
     },
     "geekonomy": {
@@ -138,7 +138,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:52:38.929081+00:00",
-      "notification_sent_at": "2026-09-23T15:52:40.076288+00:00"
+      "notification_sent_at": "2026-09-23T15:52:40.076288+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/1/6.wav"
     },
     "d191a55b-8ce7-4981-847d-b4bc00c843bd": {
       "podcast_id": "ehad_beyom",
@@ -150,7 +152,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:52:44.010120+00:00",
-      "notification_sent_at": "2026-09-23T15:52:45.160431+00:00"
+      "notification_sent_at": "2026-09-23T15:52:45.160431+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/1/7.wav"
     },
     "993ba23a-87fa-40e2-80bb-b4bd01871654": {
       "podcast_id": "ehad_beyom",
@@ -162,7 +166,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:52:48.918022+00:00",
-      "notification_sent_at": "2026-09-23T15:52:50.060725+00:00"
+      "notification_sent_at": "2026-09-23T15:52:50.060725+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/1/8.wav"
     },
     "22b98c29-7c96-4d1f-84c3-b4be0119b76b": {
       "podcast_id": "ehad_beyom",
@@ -174,7 +180,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:52:54.279322+00:00",
-      "notification_sent_at": "2026-09-23T15:52:55.482682+00:00"
+      "notification_sent_at": "2026-09-23T15:52:55.482682+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/1/9.wav"
     },
     "dd8ff318-f45a-4a7f-871f-b4bf017bd62a": {
       "podcast_id": "ehad_beyom",
@@ -186,7 +194,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:52:59.320971+00:00",
-      "notification_sent_at": "2026-09-23T15:53:00.850206+00:00"
+      "notification_sent_at": "2026-09-23T15:53:00.850206+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/1/10.wav"
     },
     "00bafb61-6dba-42e5-a35a-b4c0015bd896": {
       "podcast_id": "ehad_beyom",

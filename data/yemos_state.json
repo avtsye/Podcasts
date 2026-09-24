@@ -1119,10 +1119,50 @@
       "path": "ivr2:/1/40/5.wav",
       "filename_stem": "5",
       "uploaded_at": "2026-09-24T11:48:00.550746+00:00"
+    },
+    "369ab163-fdb0-43c7-8b10-b4b901613561": {
+      "podcast_id": "ehad_beyom",
+      "title": "הקצב מבוסניה",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T11:49:55.363178+00:00"
+    },
+    "d191a55b-8ce7-4981-847d-b4bc00c843bd": {
+      "podcast_id": "ehad_beyom",
+      "title": "לאן נעלמה הממלכתיות?",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T11:50:09.710014+00:00"
+    },
+    "993ba23a-87fa-40e2-80bb-b4bd01871654": {
+      "podcast_id": "ehad_beyom",
+      "title": "האצות שסגרו את הברז",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T11:50:21.514686+00:00"
+    },
+    "22b98c29-7c96-4d1f-84c3-b4be0119b76b": {
+      "podcast_id": "ehad_beyom",
+      "title": "המלחמה על ה-WNBA",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-24T11:50:34.550301+00:00"
+    },
+    "dd8ff318-f45a-4a7f-871f-b4bf017bd62a": {
+      "podcast_id": "ehad_beyom",
+      "title": "מפת העולם החדשה",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-24T11:50:46.741368+00:00"
     }
   },
   "next_numbers": {
-    "1": 6,
+    "1": 11,
     "2": 6,
     "3": 6,
     "4": 6,
