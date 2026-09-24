@@ -134,6 +134,24 @@ def overview():
     )
 
 
+@app.post("/form/run")
+def form_run():
+    supplied = request.form.get("password", "")
+    if not PASSWORD or supplied != PASSWORD:
+        return ("Unauthorized", 401)
+    mode = request.form.get("mode", "latest")
+    try:
+        count = str(max(1, min(1000, int(request.form.get("count", "1")))))
+    except ValueError:
+        count = "1"
+    podcasts = request.form.get("podcasts", "")
+    if mode not in {"latest", "all"}:
+        return ("Invalid mode", 400)
+    inputs = {"mode": mode, "count": count, "podcasts": podcasts}
+    gh("POST", "/actions/workflows/podcast-monitor.yml/dispatches", json={"ref": "main", "inputs": inputs})
+    return ("OK", 200)
+
+
 @app.post("/api/run")
 @protected
 def run_monitor():
