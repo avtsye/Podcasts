@@ -119,6 +119,16 @@ def process_feed(podcast, config, state, yemos_state):
         entries = list(feed.entries[: int(settings.get("max_episodes_per_feed", 10))])
 
     seen = state.setdefault("episodes", {})
+    force_items = []
+    try:
+        force_items = json.loads(os.getenv("PODCAST_FORCE_EPISODES", "[]") or "[]")
+    except json.JSONDecodeError:
+        force_items = []
+    force_targets = os.getenv("PODCAST_FORCE_TARGETS", "")
+    force_match = lambda entry, key: any(
+        item == key or item.casefold() == (entry.get("title", "") or "").strip().casefold()
+        for item in force_items
+    )
     feeds = state.setdefault("feeds", {})
     yemos_episodes = yemos_state.setdefault("episodes", {})
     first_run = podcast_id not in feeds
@@ -150,6 +160,17 @@ def process_feed(podcast, config, state, yemos_state):
         key = episode_key(entry)
         current = seen.get(key)
         yemos_record = yemos_episodes.get(key, {})
+        forced = force_match(entry, key)
+        if forced:
+            if "Drive" in force_targets:
+                current = None
+                seen.pop(key, None)
+            if "Yemos" in force_targets:
+                yemos_episodes.pop(key, None)
+                if current:
+                    current["yemos_status"] = "pending"
+                    current.pop("yemos_path", None)
+                    current.pop("yemos_error", None)
         title = entry.get("title", "Untitled")
 
         # Migrate the Yemos status already stored in the main state file.
