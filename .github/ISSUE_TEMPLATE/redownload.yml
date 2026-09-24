@@ -3,12 +3,44 @@ description: "הורד והעלה מחדש פרק אחד או כמה פרקים"
 title: "[הורדה חוזרת] "
 labels: ["בקשה", "הורדה-חוזרת"]
 body:
-  - type: input
-    id: podcast
+  - type: checkboxes
+    id: podcasts
     attributes:
-      label: מזהה הפודקאסט
-      description: "לדוגמה: geekonomy"
-    validations: {required: true}
+      label: בחירת פודקאסטים
+      description: "סמן פודקאסט אחד או יותר."
+      options:
+        - label: "אחד ביום"
+        - label: "גיקונומי"
+        - label: "חיות כיס"
+        - label: "עושים טכנולוגיה"
+        - label: "התשובה"
+        - label: "Startup for Startup"
+        - label: "מנועי הכסף"
+        - label: "היסטוריה לילדים"
+        - label: "בָּדוּק"
+        - label: "המאה ה-20: שנה בשעה"
+        - label: "סקרנית"
+        - label: "Out of Memory"
+        - label: "ערך מוסף בשבילי"
+        - label: "TEAM לעצמאים"
+        - label: "מגזין מעריב"
+        - label: "The CX PODCAST"
+        - label: "חיים של אחרים"
+        - label: "עסק כלכלי"
+        - label: "קטע כלכלי"
+        - label: "בזמן שעבדתם"
+        - label: "האוניברסיטה הקטנה של המדעים"
+        - label: "פודקאסט על מוזיקה וטכנולוגיה"
+        - label: "הנוסע המתמיד עם נדב יעקבי"
+        - label: "Ear Catcher"
+        - label: "היסטוריה על הדרך"
+        - label: "היסטוריה עם יובל מלחי - קטעים"
+        - label: "עושים היסטוריה עם ערן ניצן"
+        - label: "ילדין"
+        - label: "יציאת אתיופיה"
+        - label: "סוכן סודי"
+        - label: "סיפור בערך"
+        - label: "פרונטירז – מדע לצעירים"
   - type: textarea
     id: episodes
     attributes:
