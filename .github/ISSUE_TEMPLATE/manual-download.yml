@@ -1,0 +1,26 @@
+name: "▶️ הפעלת הורדה"
+description: "הפעל הורדה ידנית של פרקים"
+title: "[הורדה] "
+labels: ["בקשה", "הרצה"]
+body:
+  - type: dropdown
+    id: mode
+    attributes:
+      label: מצב הורדה
+      options:
+        - פרקים אחרונים
+        - כל הפרקים הזמינים ב-RSS
+    validations: {required: true}
+  - type: input
+    id: count
+    attributes:
+      label: מספר פרקים אחרונים
+      description: "במצב פרקים אחרונים. ברירת מחדל: 1"
+      value: "1"
+  - type: textarea
+    id: podcasts
+    attributes:
+      label: פודקאסטים
+      description: "רשום מזהי פודקאסטים מופרדים בפסיקים, או ALL לכל הפעילים."
+      value: "ALL"
+    validations: {required: true}
