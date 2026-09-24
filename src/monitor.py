@@ -377,3 +377,71 @@ def process_feed(podcast, config, state, yemos_state):
     save_yemos_state(yemos_state)
     return new_count
 
+
+
+def main():
+    config = load_config()
+    state = load_state()
+    yemos_state = load_yemos_state()
+
+    podcasts = [p for p in config.get("podcasts", []) if p.get("enabled", True)]
+    requested_ids = {
+        item.strip()
+        for item in os.getenv("PODCAST_IDS", "").split(",")
+        if item.strip()
+    }
+
+    if requested_ids:
+        known_ids = {p.get("id") for p in podcasts}
+        unknown_ids = sorted(requested_ids - known_ids)
+        if unknown_ids:
+            raise SystemExit("Unknown or disabled podcast IDs: " + ", ".join(unknown_ids))
+        podcasts = [p for p in podcasts if p.get("id") in requested_ids]
+
+    if not podcasts:
+        raise SystemExit("No enabled podcasts selected.")
+
+    print(f"Starting podcast monitor for {len(podcasts)} podcast(s).")
+
+    total_processed = 0
+    failed_feeds = []
+
+    for podcast in podcasts:
+        try:
+            total_processed += process_feed(podcast, config, state, yemos_state)
+        except Exception as exc:
+            failed_feeds.append((podcast.get("id", "unknown"), str(exc)))
+            state.setdefault("feeds", {}).setdefault(podcast.get("id", "unknown"), {})["last_error"] = str(exc)
+            state["feeds"][podcast.get("id", "unknown")]["last_checked"] = utc_now()
+            save_state(state)
+            print(f"ERROR feed [{podcast.get('name', podcast.get('id', 'unknown'))}]: {exc}")
+
+    sent_records = []
+    try:
+        sent_records = flush_notifications()
+        for record in sent_records:
+            record["notification_status"] = "sent"
+            record["status"] = "notified"
+            record["notification_sent_at"] = utc_now()
+        if sent_records:
+            save_state(state)
+            print(f"Sent notifications for {len(sent_records)} episode(s).")
+    except Exception as exc:
+        save_state(state)
+        print(f"WARNING: failed to flush notifications: {exc}")
+
+    save_state(state)
+    save_yemos_state(yemos_state)
+
+    print(
+        f"Podcast monitor finished: {total_processed} episode(s) processed, "
+        f"{len(failed_feeds)} feed(s) failed."
+    )
+
+    if failed_feeds and len(failed_feeds) == len(podcasts):
+        details = "; ".join(f"{podcast_id}: {error}" for podcast_id, error in failed_feeds)
+        raise SystemExit("All selected podcast feeds failed: " + details)
+
+
+if __name__ == "__main__":
+    main()
