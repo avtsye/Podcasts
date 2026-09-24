@@ -15,6 +15,9 @@ ALLOWED_ORIGINS = {
     for origin in os.getenv("DASHBOARD_ORIGINS", os.getenv("DASHBOARD_ORIGIN", "*")).split(",")
     if origin.strip()
 }
+# RawGitHack is an approved dashboard host. Keep it explicitly allowed even
+# if a Render environment variable is accidentally changed later.
+ALLOWED_ORIGINS.update({"https://raw.githack.com", "https://avtsye.github.io"})
 API = "https://api.github.com"
 RAW = "https://raw.githubusercontent.com"
 
@@ -31,11 +34,11 @@ def apply_cors(response):
     allowed = "*" in ALLOWED_ORIGINS or origin in ALLOWED_ORIGINS
     if allowed:
         response.headers["Access-Control-Allow-Origin"] = origin or "*"
-        response.headers["Access-Control-Allow-Headers"] = request.headers.get(
-            "Access-Control-Request-Headers", "Content-Type, X-Dashboard-Password"
-        )
+        response.headers["Access-Control-Allow-Headers"] = "Content-Type, X-Dashboard-Password, Accept"
         response.headers["Access-Control-Allow-Methods"] = "GET, POST, PUT, OPTIONS"
         response.headers["Access-Control-Max-Age"] = "86400"
+        response.headers["Access-Control-Expose-Headers"] = "Content-Type"
+        response.headers["Cross-Origin-Resource-Policy"] = "cross-origin"
     response.headers["Vary"] = "Origin"
     return response
 
