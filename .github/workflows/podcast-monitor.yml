@@ -152,6 +152,30 @@ jobs:
           PY
           gh issue comment "$ISSUE_NUMBER" --body-file /tmp/status.md
 
+      - name: Report podcast and Yemos branch list
+        if: github.event_name == 'issues' && steps.parse_request.outputs.kind == 'podcast_list'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          SCOPE: ${{ steps.parse_request.outputs.scope }}
+        run: |
+          python - <<'PY' > /tmp/podcast-list.md
+          import json, os
+          from pathlib import Path
+          cfg=json.loads(Path("config/podcasts.json").read_text(encoding="utf-8"))
+          podcasts=cfg.get("podcasts",[])
+          if os.environ.get("SCOPE")=="פודקאסטים פעילים בלבד":
+              podcasts=[p for p in podcasts if p.get("enabled",True)]
+          print("## 📋 פודקאסטים ושלוחות Yemos\n")
+          print("| פודקאסט | שלוחת Yemos | מצב |")
+          print("|---|---:|---|")
+          for p in podcasts:
+              status="פעיל" if p.get("enabled",True) else "מושבת"
+              print(f"| {p.get('name','')} | {p.get('yemos_branch','—')} | {status} |")
+          print(f"\nסה״כ: **{len(podcasts)}** פודקאסטים.")
+          PY
+          gh issue comment "$ISSUE_NUMBER" --body-file /tmp/podcast-list.md
+
       - name: Monitor RSS feeds
         env:
           GOOGLE_TOKEN_JSON: ${{ secrets.GOOGLE_TOKEN_JSON }}
