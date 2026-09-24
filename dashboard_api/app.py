@@ -3,9 +3,10 @@ import os
 from functools import wraps
 
 import requests
-from flask import Flask, jsonify, request, make_response
+from flask import Flask, jsonify, request, make_response, send_from_directory
 
 app = Flask(__name__)
+DASHBOARD_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "dashboard"))
 
 REPO = os.getenv("GITHUB_REPOSITORY", "avtsye/Podcasts")
 TOKEN = os.getenv("GITHUB_TOKEN", "").strip()
@@ -78,6 +79,21 @@ def raw_json(path):
     response = requests.get(f"{RAW}/{REPO}/main/{path}", timeout=30, headers={"Cache-Control": "no-cache"})
     response.raise_for_status()
     return response.json()
+
+
+@app.get("/")
+def dashboard_index():
+    return send_from_directory(DASHBOARD_DIR, "index.html")
+
+
+@app.get("/styles.css")
+def dashboard_styles():
+    return send_from_directory(DASHBOARD_DIR, "styles.css")
+
+
+@app.get("/app.js")
+def dashboard_script():
+    return send_from_directory(DASHBOARD_DIR, "app.js")
 
 
 @app.get("/health")
