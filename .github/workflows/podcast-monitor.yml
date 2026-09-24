@@ -163,6 +163,7 @@ jobs:
           PODCAST_COUNT: ${{ github.event_name == 'schedule' && '0' || github.event_name == 'issues' && steps.parse_request.outputs.count || github.event_name == 'workflow_dispatch' && inputs.count || github.event.client_payload.count }}
           PODCAST_IDS: ${{ github.event_name == 'schedule' && '' || github.event_name == 'issues' && steps.parse_request.outputs.ids || github.event_name == 'workflow_dispatch' && inputs.podcasts || github.event.client_payload.podcasts }}
           PODCAST_FORCE_EPISODES: ${{ github.event_name == 'issues' && steps.parse_request.outputs.episodes || '[]' }}
+          PODCAST_FORCE_COUNT: ${{ github.event_name == 'issues' && steps.parse_request.outputs.force_count || '0' }}
           PODCAST_FORCE_TARGETS: ${{ github.event_name == 'issues' && steps.parse_request.outputs.targets || '' }}
         if: github.event_name != 'issues' || steps.parse_request.outputs.kind == 'download' || steps.parse_request.outputs.kind == 'redownload'
         run: python -m src.monitor
