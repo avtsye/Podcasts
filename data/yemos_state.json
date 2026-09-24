@@ -1167,37 +1167,1003 @@
       "path": "ivr2:/1/15/6.wav",
       "filename_stem": "6",
       "uploaded_at": "2026-09-24T13:52:49.504767+00:00"
+    },
+    "geekonomy.podbean.com/4f99d35b-c934-35e2-8a45-0553c4a400cf": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1244 - אור שאלתיאל ומים בישראל",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:07:38.745918+00:00"
+    },
+    "geekonomy.podbean.com/72a6d7c7-e5ba-36f0-a2ff-d42e5c5df5b1": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1245 - יקיר סודרי ובילדוטס",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T20:08:18.799304+00:00"
+    },
+    "geekonomy.podbean.com/2dd48f7f-fc21-3a4a-abbc-b54d5cb83a75": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1246 - רועי דהאן מכין אוכל טעים",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:09:06.660658+00:00"
+    },
+    "geekonomy.podbean.com/719427f3-253d-3590-b838-05537f330ef6": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1247 - מרדכי כהן והעשור המבוזבז",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-24T20:10:03.059892+00:00"
+    },
+    "geekonomy.podbean.com/fc7ce686-9d01-311a-829b-211b102690b4": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1248 - עדי חכמון ורשת החשמל",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-24T20:10:51.926052+00:00"
+    },
+    "9f4716d3-32fc-4731-8b9a-b47e00fcc2e3": {
+      "podcast_id": "hayot_kes",
+      "title": "פרק 357: הבינה המלאכותית לא תיקח לכם את העבודה. אז מי כן? פרק בונוס",
+      "status": "uploaded",
+      "path": "ivr2:/1/3/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:11:12.894371+00:00"
+    },
+    "e5e6b98c-495e-4aca-ba09-b480012d4e25": {
+      "podcast_id": "hayot_kes",
+      "title": "פרק 358: איפה כל היצרנים הקטנים?",
+      "status": "uploaded",
+      "path": "ivr2:/1/3/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T20:11:40.359068+00:00"
+    },
+    "7e5bc210-bdfe-4bc5-bc11-b48700dd2799": {
+      "podcast_id": "hayot_kes",
+      "title": "פרק 359: תשע הנשמות של רמת החייל",
+      "status": "uploaded",
+      "path": "ivr2:/1/3/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:11:58.695372+00:00"
+    },
+    "b3ce6cb5-7508-47d3-a3a6-b48d00c43776": {
+      "podcast_id": "hayot_kes",
+      "title": "גורי כיס, פרק 22: איך עוברים לגור לבד?",
+      "status": "uploaded",
+      "path": "ivr2:/1/3/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-24T20:12:10.468513+00:00"
+    },
+    "c7068117-da53-4214-b8c7-b495008a0aa8": {
+      "podcast_id": "hayot_kes",
+      "title": "גורי כיס, פרק 23: למה מתחרים פותחים סניפים אחד ליד השני?",
+      "status": "uploaded",
+      "path": "ivr2:/1/3/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-24T20:12:18.527553+00:00"
+    },
+    "https://api.spreaker.com/episode/70075326": {
+      "podcast_id": "osim_tech",
+      "title": "התחיל עם זריקה, ייגמר במקדונלד'ס [עושים טכנולוגיה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/4/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:13:14.653438+00:00"
+    },
+    "https://api.spreaker.com/episode/70382052": {
+      "podcast_id": "osim_tech",
+      "title": "התבניות האפלות שמפילות את כולנו [עושים טכנולוגיה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/4/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T20:14:08.374589+00:00"
+    },
+    "https://api.spreaker.com/episode/70539373": {
+      "podcast_id": "osim_tech",
+      "title": "סערה מושלמת: התמוטטות קוגניטיבית [עושים טכנולוגיה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/4/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:14:49.099810+00:00"
+    },
+    "https://api.spreaker.com/episode/70652109": {
+      "podcast_id": "osim_tech",
+      "title": "הלהיט הצרפתי שטלטל את תעשיית הגיימינג [עושים טכנולוגיה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/4/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-24T20:15:42.597618+00:00"
+    },
+    "https://api.spreaker.com/episode/70984998": {
+      "podcast_id": "osim_tech",
+      "title": "מה דעתך על מלחמה תרמו-גרעינית עולמית? [עושים טכנולוגיה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/4/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-24T20:16:42.075015+00:00"
+    },
+    "https://api.spreaker.com/episode/69241835": {
+      "podcast_id": "hatshuva",
+      "title": "מאיפה הגיעו החתולים? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:16:59.995389+00:00"
+    },
+    "https://api.spreaker.com/episode/69401998": {
+      "podcast_id": "hatshuva",
+      "title": "פרק השנה 2025 [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T20:17:11.201214+00:00"
+    },
+    "https://api.spreaker.com/episode/69760438": {
+      "podcast_id": "hatshuva",
+      "title": "הירו [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:18:11.413621+00:00"
+    },
+    "https://api.spreaker.com/episode/70249445": {
+      "podcast_id": "hatshuva",
+      "title": "איפה המקל של גבי ודבי? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-24T20:18:29.706904+00:00"
+    },
+    "https://api.spreaker.com/episode/71195396": {
+      "podcast_id": "hatshuva",
+      "title": "למה צפון מקדוניה? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-24T20:19:01.411841+00:00"
+    },
+    "849acc4c-606b-471e-90d0-b48d011c3b36": {
+      "podcast_id": "startup_for_startup",
+      "title": "359: איך מגדירים, מגייסים ומודדים מפתחים בעידן ה-AI",
+      "status": "uploaded",
+      "path": "ivr2:/1/6/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:19:36.052267+00:00"
+    },
+    "b93b8925-0d61-4f88-8d4d-b49400eb0eca": {
+      "podcast_id": "startup_for_startup",
+      "title": "360: מכירות לאנטרפרייז - איך הופכים מכרזים למנוע צמיחה מרכזי",
+      "status": "uploaded",
+      "path": "ivr2:/1/6/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T20:19:54.890436+00:00"
+    },
+    "9021c965-1b43-40dc-b1ee-b49b011b6c56": {
+      "podcast_id": "startup_for_startup",
+      "title": "361: על ניהול סושיאל לפאונדרים וסטארטאפים בתחילת הדרך",
+      "status": "uploaded",
+      "path": "ivr2:/1/6/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:20:15.103336+00:00"
+    },
+    "8d2a388e-4e3e-4eab-89c2-b4a2008756c9": {
+      "podcast_id": "startup_for_startup",
+      "title": "362: איך להתאים את מבנה האייג׳נט לבעיה שהוא צריך לפתור",
+      "status": "error",
+      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "updated_at": "2026-09-24T20:20:47.274915+00:00"
+    },
+    "affe404b-be0f-4d25-b7f9-b4a800f05bc3": {
+      "podcast_id": "startup_for_startup",
+      "title": "363: איך AI משנה את המודל העסקי והתמחור של חברות מוצר?",
+      "status": "uploaded",
+      "path": "ivr2:/1/6/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-24T20:21:06.189851+00:00"
+    },
+    "b73e5bc3-c64e-4e83-8a63-b48200e35f87": {
+      "podcast_id": "money_engines",
+      "title": "כשהמלחמה לא מסתיימת: איך להימנע מעשור אבוד לכלכלה",
+      "status": "uploaded",
+      "path": "ivr2:/1/7/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:21:29.431361+00:00"
+    },
+    "735d3d69-8a9d-4918-99d8-b48900baa00e": {
+      "podcast_id": "money_engines",
+      "title": "הירידה במחירי הדירות והדוח על השקל שכולם פספסו",
+      "status": "uploaded",
+      "path": "ivr2:/1/7/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T20:21:55.658377+00:00"
+    },
+    "129d34e2-8eaa-4683-a8e4-b49000c156bb": {
+      "podcast_id": "money_engines",
+      "title": "המשקיעים מורידים סיכון: לאן הכסף עובר עכשיו",
+      "status": "uploaded",
+      "path": "ivr2:/1/7/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:22:21.713421+00:00"
+    },
+    "c37fa60b-076b-4e09-912e-b49700dcabab": {
+      "podcast_id": "money_engines",
+      "title": "קוריאה ויפן: שני שווקים, שני שיעורים בכלכלה של 2026",
+      "status": "uploaded",
+      "path": "ivr2:/1/7/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-24T20:22:58.674738+00:00"
+    },
+    "b1d6202c-b9ed-47f5-a0d6-b49e00bdab6a": {
+      "podcast_id": "money_engines",
+      "title": "המירוץ הטכנולוגי בין ארה״ב לסין יקבע את העתיד של כולנו",
+      "status": "uploaded",
+      "path": "ivr2:/1/7/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-24T20:23:25.056347+00:00"
+    },
+    "8dd9a02a-6128-4b34-a217-b47b007da275": {
+      "podcast_id": "history_for_children",
+      "title": "הבהלה לזהב (ש.ח)",
+      "status": "uploaded",
+      "path": "ivr2:/1/8/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:23:39.128975+00:00"
+    },
+    "c95dabdb-ef28-4cce-81e8-b4860144deda": {
+      "podcast_id": "history_for_children",
+      "title": "שאלות ותשובות על היסטוריה לילדים (חלק א')",
+      "status": "uploaded",
+      "path": "ivr2:/1/8/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T20:23:52.917559+00:00"
+    },
+    "c75d95a5-e40d-4bd2-a00a-b48d0139afac": {
+      "podcast_id": "history_for_children",
+      "title": "שאלות ותשובות על היסטוריה לילדים (חלק ב')",
+      "status": "uploaded",
+      "path": "ivr2:/1/8/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:24:07.478368+00:00"
+    },
+    "7766148b-510a-4f63-89d7-b4a20146aafa": {
+      "podcast_id": "history_for_children",
+      "title": "ג'ונקו טביי מטפסת לאוורסט",
+      "status": "uploaded",
+      "path": "ivr2:/1/8/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-24T20:25:01.987992+00:00"
+    },
+    "579e6d9c-9715-4ed4-9b19-b4a300b4f7c9": {
+      "podcast_id": "history_for_children",
+      "title": "המסיבה ששינתה את העולם - מסיבת התה של בוסטון",
+      "status": "uploaded",
+      "path": "ivr2:/1/8/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-24T20:25:48.283944+00:00"
+    },
+    "878b2eac-faf4-4e79-b642-b4a400750021": {
+      "podcast_id": "baduk",
+      "title": "בדרך לירח | עונה 3: מסע בחלל, פרק 6",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:25:57.101765+00:00"
+    },
+    "43fad0da-a37c-4c62-bb2e-b4a400757cd8": {
+      "podcast_id": "baduk",
+      "title": "הנחיתה על הירח | עונה 3: מסע בחלל, פרק 7",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T20:26:15.253197+00:00"
+    },
+    "fb5d79bb-2d59-4f3e-b6c7-b4a400761682": {
+      "podcast_id": "baduk",
+      "title": "מערכת השמש | עונה 3: מסע בחלל, פרק 8",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:26:23.910385+00:00"
+    },
+    "da24fcc7-e936-452b-bfdd-b4b200a6feca": {
+      "podcast_id": "baduk",
+      "title": "הנחיתה במאדים | עונה 3: מסע בחלל, פרק 9",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-24T20:26:34.327592+00:00"
+    },
+    "7e30ae35-2c38-42ed-a452-b4b200a78edb": {
+      "podcast_id": "baduk",
+      "title": "אסטרואידים | עונה 3: מסע בחלל, פרק 10",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-24T20:26:53.588299+00:00"
+    },
+    "b8a0a13b-9ac6-43a6-9693-b479006d256b": {
+      "podcast_id": "20th_century",
+      "title": "פרק 10: שקיעתה של הזריחה",
+      "status": "uploaded",
+      "path": "ivr2:/1/10/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:27:04.159910+00:00"
+    },
+    "dd2662e1-501a-4ad5-aa79-b479006e8304": {
+      "podcast_id": "20th_century",
+      "title": "פרק 11: הניצחון האחרון?",
+      "status": "uploaded",
+      "path": "ivr2:/1/10/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T20:27:14.130509+00:00"
+    },
+    "7ea8ee50-e79a-4d7b-a92d-b479009a2b73": {
+      "podcast_id": "20th_century",
+      "title": "פרק 12: הגמוניה",
+      "status": "uploaded",
+      "path": "ivr2:/1/10/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:27:23.706588+00:00"
+    },
+    "c9727083-533e-47d4-8dcf-b479009ac027": {
+      "podcast_id": "20th_century",
+      "title": "פרק 13: אמריקה תחת מתקפה",
+      "status": "uploaded",
+      "path": "ivr2:/1/10/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-24T20:27:34.101591+00:00"
+    },
+    "a7fee9e6-e80c-43c6-8b2a-b479009bf990": {
+      "podcast_id": "20th_century",
+      "title": "פרק 14: אנחנו העם?",
+      "status": "uploaded",
+      "path": "ivr2:/1/10/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-24T20:27:44.233104+00:00"
+    },
+    "5d642755-5879-4a3c-b7fd-b43200bee375": {
+      "podcast_id": "sakranit",
+      "title": "רובוט ותסריטאי נכנסו לבר",
+      "status": "uploaded",
+      "path": "ivr2:/1/11/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:28:32.268048+00:00"
+    },
+    "d9afbe1e-bcd3-49df-b001-b43b0131180f": {
+      "podcast_id": "sakranit",
+      "title": "חברי האבוקדו",
+      "status": "uploaded",
+      "path": "ivr2:/1/11/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T20:28:51.989096+00:00"
+    },
+    "24fd251d-5f85-4f21-84d1-b44200771ae9": {
+      "podcast_id": "sakranit",
+      "title": "אינדי שמינדי",
+      "status": "uploaded",
+      "path": "ivr2:/1/11/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:29:06.232497+00:00"
+    },
+    "61602261-4dbc-4df8-87b9-b450013a8580": {
+      "podcast_id": "sakranit",
+      "title": "הזכות לתיקון",
+      "status": "uploaded",
+      "path": "ivr2:/1/11/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-24T20:29:22.557639+00:00"
+    },
+    "d02741e5-8960-48ff-b3e7-b45700b244a4": {
+      "podcast_id": "sakranit",
+      "title": "תקלה מופלאה",
+      "status": "uploaded",
+      "path": "ivr2:/1/11/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-24T20:29:45.369933+00:00"
+    },
+    "91ef3dbf-ebd7-47d6-8fbb-ab8600a88e1e": {
+      "podcast_id": "out_of_memory",
+      "title": "פרק 11 - קורונה, איכון סלולרי, דליפות מידע, פרצות אבטחה ושאר מרעין בישין",
+      "status": "uploaded",
+      "path": "ivr2:/1/12/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:30:06.359815+00:00"
+    },
+    "3427f537-7ce6-42ff-983f-abad0051e8af": {
+      "podcast_id": "out_of_memory",
+      "title": "פרק 12 - תיאוריות קונספירציה, בעיות בזום, הקלטת שיחות באנדרואיד, להיות מתכנת עיוור",
+      "status": "uploaded",
+      "path": "ivr2:/1/12/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T20:30:29.234947+00:00"
+    },
+    "dc514401-a61b-48a5-833b-abc500df4a00": {
+      "podcast_id": "out_of_memory",
+      "title": "פרק 13 - נסיון חבלת סייבר איראני, טעויות של מערכות פסילה אוטומטיות, וואווי חוטפת מכה נוספת מארה\"ב",
+      "status": "uploaded",
+      "path": "ivr2:/1/12/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:30:44.739987+00:00"
+    },
+    "5d1587fc-b443-460b-85df-abf40063b079": {
+      "podcast_id": "out_of_memory",
+      "title": "פרק 14: חידות המוסד ופתרונן",
+      "status": "uploaded",
+      "path": "ivr2:/1/12/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-24T20:31:20.530102+00:00"
+    },
+    "bbecb99e-b417-44a8-8c2c-ac2d010c4ab1": {
+      "podcast_id": "out_of_memory",
+      "title": "פרק 15 - חיפוש עבודה למתכנתים",
+      "status": "uploaded",
+      "path": "ivr2:/1/12/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-24T20:32:05.534321+00:00"
+    },
+    "bb6e82c0a28b2ca139a9b0c3511a3481": {
+      "podcast_id": "erech_musaf",
+      "title": "לימודים אקדמיים",
+      "status": "uploaded",
+      "path": "ivr2:/1/13/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:32:14.609838+00:00"
+    },
+    "1c4da548e9acdcc8f9c57e4ee016cb0e": {
+      "podcast_id": "erech_musaf",
+      "title": "מבוא לחיסכון והשקעות",
+      "status": "uploaded",
+      "path": "ivr2:/1/13/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T20:32:25.826360+00:00"
+    },
+    "d587978a94bbc694abb69312554bd6c2": {
+      "podcast_id": "erech_musaf",
+      "title": "השקעה בבורסה - חלק א'",
+      "status": "uploaded",
+      "path": "ivr2:/1/13/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:32:37.239846+00:00"
+    },
+    "07ca0293fcee0790860e06d2c89ad22c": {
+      "podcast_id": "erech_musaf",
+      "title": "השקעה בבורסה - חלק ב'",
+      "status": "uploaded",
+      "path": "ivr2:/1/13/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-24T20:32:48.271780+00:00"
+    },
+    "26ff74d0b39a9117e3d4fc96b3cbb9ff": {
+      "podcast_id": "erech_musaf",
+      "title": "אתרי P2P ומימון המונים",
+      "status": "uploaded",
+      "path": "ivr2:/1/13/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-24T20:32:58.197640+00:00"
+    },
+    "96380a58-2f35-4b8b-b895-b4b1009bb191": {
+      "podcast_id": "maariv_magazine",
+      "title": "קוניק: \"בעוד 20-30 שנה גבעתיים תיראה אחרת\"",
+      "status": "uploaded",
+      "path": "ivr2:/1/15/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T20:33:21.551499+00:00"
+    },
+    "37dd6b27-9134-4236-8227-b4be00833b34": {
+      "podcast_id": "maariv_magazine",
+      "title": "\"חלקם בוגדים ממש, חלקם אידיוטים שימושיים, כולם מחלישים אותנו מבפנים\"",
+      "status": "uploaded",
+      "path": "ivr2:/1/15/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:34:06.537540+00:00"
+    },
+    "8498434b-f7e4-4093-a7e0-b4c5008d7b50": {
+      "podcast_id": "maariv_magazine",
+      "title": "מהריסות קולומביה ועד למושבה על מאדים: הקרב של גיל דורון על הזכות של ילדי ישראל לחלום",
+      "status": "uploaded",
+      "path": "ivr2:/1/15/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-24T20:34:23.411329+00:00"
+    },
+    "a4bab936-9e9f-4ef3-99c7-b4c600de7ab8": {
+      "podcast_id": "maariv_magazine",
+      "title": "מעל הליגה - פרק 46 | הדרבי שוב צהוב",
+      "status": "uploaded",
+      "path": "ivr2:/1/15/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-24T20:35:06.177289+00:00"
+    },
+    "8a9e30da-7a4f-4a50-b10a-b15500cc467f": {
+      "podcast_id": "cx_podcast",
+      "title": "האזינו: \"הפכנו ממוקד שירות למוקד צבאי\"",
+      "status": "uploaded",
+      "path": "ivr2:/1/16/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:35:26.219823+00:00"
+    },
+    "e2eca500-98a7-4d04-b897-b15c00f98898": {
+      "podcast_id": "cx_podcast",
+      "title": "האם אנחנו יודעים להתנהל מול שכול?",
+      "status": "uploaded",
+      "path": "ivr2:/1/16/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T20:35:50.359982+00:00"
+    },
+    "a247905d-a44c-499b-a85a-b15d00b0cad2": {
+      "podcast_id": "cx_podcast",
+      "title": "האזינו: בינה מלאכותית, בינה אנושית ומה שביניהן",
+      "status": "uploaded",
+      "path": "ivr2:/1/16/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:36:08.018668+00:00"
+    },
+    "96a73b36-77fc-4f39-b6c4-b18500cac6f0": {
+      "podcast_id": "cx_podcast",
+      "title": "האזינו: \"כשהסיפור האישי הופך לחלק מהסיפור הגדול\"",
+      "status": "uploaded",
+      "path": "ivr2:/1/16/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-24T20:36:25.568087+00:00"
+    },
+    "08925684-e07d-4d19-acb3-b1a100c7c045": {
+      "podcast_id": "cx_podcast",
+      "title": "האזינו: \"ארגונים חייבים להתיישר עם הסטנדרט הקיים בשוק\"",
+      "status": "uploaded",
+      "path": "ivr2:/1/16/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-24T20:36:44.447560+00:00"
+    },
+    "308b0de7-2e15-468b-a8fe-b4b8014bd846": {
+      "podcast_id": "haim_aherim",
+      "title": "חיים של אחרים | 01.09.26",
+      "status": "uploaded",
+      "path": "ivr2:/1/17/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:37:22.923996+00:00"
+    },
+    "d05709c7-b6cc-4c4e-ad20-b4b9014b9127": {
+      "podcast_id": "haim_aherim",
+      "title": "חיים של אחרים | 02.09.26",
+      "status": "uploaded",
+      "path": "ivr2:/1/17/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T20:38:02.152918+00:00"
+    },
+    "2f45c02d-369d-4685-bded-b4bd014dc3ed": {
+      "podcast_id": "haim_aherim",
+      "title": "חיים של אחרים | 06.09.26",
+      "status": "uploaded",
+      "path": "ivr2:/1/17/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:38:42.506056+00:00"
+    },
+    "a7ab6b3d-a710-4476-8edf-b4be014b91f9": {
+      "podcast_id": "haim_aherim",
+      "title": "חיים של אחרים | 07.09.26",
+      "status": "uploaded",
+      "path": "ivr2:/1/17/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-24T20:39:29.637786+00:00"
+    },
+    "85110a66-67ef-439e-86df-b4c0014bd8a5": {
+      "podcast_id": "haim_aherim",
+      "title": "חיים של אחרים | 09.09.26",
+      "status": "uploaded",
+      "path": "ivr2:/1/17/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-24T20:40:07.070011+00:00"
+    },
+    "4185f61b-ef6f-463e-8bdc-b23500e6470e": {
+      "podcast_id": "esek_kalkali",
+      "title": "כללים ברורים לניהול עסק שמנצח בכל מצב",
+      "status": "uploaded",
+      "path": "ivr2:/1/18/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:40:25.060034+00:00"
+    },
+    "404fb11a-cb73-4a91-a038-b23500e53474": {
+      "podcast_id": "esek_kalkali",
+      "title": "איך לפתח קריירה ולהצליח בעולם העבודה",
+      "status": "uploaded",
+      "path": "ivr2:/1/18/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T20:40:39.438658+00:00"
+    },
+    "37422938-141f-4e12-b8a0-b23500e5d27d": {
+      "podcast_id": "esek_kalkali",
+      "title": "לבנות הצלחה יציבה בעולם החשבונאות",
+      "status": "uploaded",
+      "path": "ivr2:/1/18/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:40:53.856588+00:00"
+    },
+    "ace0f6bc-d305-4cbe-9e61-b23500d2bbc7": {
+      "podcast_id": "esek_kalkali",
+      "title": "איך להפוך לזכיין מצליח? כל מה שחשוב לדעת לפני שיוצאים לדרך",
+      "status": "uploaded",
+      "path": "ivr2:/1/18/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-24T20:41:06.319753+00:00"
+    },
+    "0c55aa67-337c-43a9-b8f7-b23500e4472d": {
+      "podcast_id": "esek_kalkali",
+      "title": "מהורה למאמן: כך מגדלים ילדים חזקים",
+      "status": "uploaded",
+      "path": "ivr2:/1/18/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-24T20:41:21.174820+00:00"
+    },
+    "48c531c6-1de4-4708-a082-adda00c94eac": {
+      "podcast_id": "keta_kalkali",
+      "title": "מה הקשר בין מערכת החיסון לאדם סמית",
+      "status": "uploaded",
+      "path": "ivr2:/1/19/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:41:33.329684+00:00"
+    },
+    "2bcfc7cd-041c-4e6b-b0ca-ade8014fb542": {
+      "podcast_id": "keta_kalkali",
+      "title": "על הקשר בין קן נמלים לשוק ההון",
+      "status": "uploaded",
+      "path": "ivr2:/1/19/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T20:41:44.463346+00:00"
+    },
+    "24730418-8938-4feb-be20-adf6013a6c5f": {
+      "podcast_id": "keta_kalkali",
+      "title": "גטו של שחורים, גטו של לבנים",
+      "status": "uploaded",
+      "path": "ivr2:/1/19/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:41:55.225295+00:00"
+    },
+    "6b16bd44-ee35-4087-abde-ae04014680da": {
+      "podcast_id": "keta_kalkali",
+      "title": "למה שוק ההון רוקד?",
+      "status": "uploaded",
+      "path": "ivr2:/1/19/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-24T20:42:09.941186+00:00"
+    },
+    "97712342-c8e5-4097-aeba-ae2001446c38": {
+      "podcast_id": "keta_kalkali",
+      "title": "קומוניזם קפיטליסטי",
+      "status": "uploaded",
+      "path": "ivr2:/1/19/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-24T20:42:15.651143+00:00"
+    },
+    "86559fb844ce93361ce630607f493e4b": {
+      "podcast_id": "little_university",
+      "title": "גילויים מדהימים בגנטיקה חלק ב- חווה מאפריקה",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:42:21.608850+00:00"
+    },
+    "5238e6027fe464250128097a18dc2c32": {
+      "podcast_id": "little_university",
+      "title": "בשר מלאכותי",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T20:42:26.223512+00:00"
+    },
+    "13d549618c1f4e691dbf2db0038dbef2": {
+      "podcast_id": "little_university",
+      "title": "ההיסטוריה של עזרי החישוב",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:42:32.986490+00:00"
+    },
+    "47360125dbc57c737daf570f8dbf2139": {
+      "podcast_id": "little_university",
+      "title": "מהם ה'קווארקים'?",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-24T20:42:37.967552+00:00"
+    },
+    "da476f7c24bf530234ac66d45fc0c2e3": {
+      "podcast_id": "little_university",
+      "title": "שלוש דרכים שבהן משפיעה נפילה חופשית על בני האדם",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-24T20:42:43.906355+00:00"
+    },
+    "c83f9f7a-70ec-48e6-8967-b1ee00e102ec": {
+      "podcast_id": "music_tech",
+      "title": "עונה 1 - פרק 14: אביעד רוזנבוים - מנהל פעילות התוכן של טיקטוק בישראל",
+      "status": "uploaded",
+      "path": "ivr2:/1/22/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:43:43.528931+00:00"
+    },
+    "01b2b108-076b-4dfd-8c8e-b1fa00c16f35": {
+      "podcast_id": "music_tech",
+      "title": "עונה 1 - פרק 15: נדב פורז - מייסד ומנכ״ל whosampled.com",
+      "status": "error",
+      "error": "UploadFile finalization failed: path is invalid (messageCode=110)",
+      "updated_at": "2026-09-24T20:44:06.344442+00:00"
+    },
+    "448ca1a7-018e-4f1a-a85e-b33f00d9bd1d": {
+      "podcast_id": "music_tech",
+      "title": "עונה 2 - פרק 1: יזהר אשדות ואיציק אליהו",
+      "status": "uploaded",
+      "path": "ivr2:/1/22/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:44:44.805591+00:00"
+    },
+    "ad8a486b-0d5b-4295-8244-b34d00b9cefa": {
+      "podcast_id": "music_tech",
+      "title": "עונה 2 - פרק 2: בלו דוברצקי",
+      "status": "uploaded",
+      "path": "ivr2:/1/22/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-24T20:45:35.849105+00:00"
+    },
+    "a61ed2ea-3817-4b3a-810f-b360008aeda6": {
+      "podcast_id": "music_tech",
+      "title": "עונה 2 - פרק 3: איתי רהט",
+      "status": "uploaded",
+      "path": "ivr2:/1/22/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-24T20:46:25.050495+00:00"
+    },
+    "ca4d4235-088b-457d-a063-b4620136c5c3": {
+      "podcast_id": "traveler",
+      "title": "תופסים אמריקה: שריקת הפתיחה מתקרבת",
+      "status": "uploaded",
+      "path": "ivr2:/1/23/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:47:13.816241+00:00"
+    },
+    "afa18d7b-23a6-40ee-97c7-b48d00a86aa2": {
+      "podcast_id": "traveler",
+      "title": "תופסים אמריקה: הגביע של ספרד",
+      "status": "uploaded",
+      "path": "ivr2:/1/23/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T20:48:10.380148+00:00"
+    },
+    "452e4e7a-191c-40a9-b2b7-b495011061b6": {
+      "podcast_id": "traveler",
+      "title": "ספרד וארגנטינה ביום שאחרי",
+      "status": "uploaded",
+      "path": "ivr2:/1/23/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:48:33.060421+00:00"
+    },
+    "22ade88b-f6a8-474b-ad70-b49701294ae3": {
+      "podcast_id": "traveler",
+      "title": "מלחמת פיפ\"א-אופ\"א",
+      "status": "uploaded",
+      "path": "ivr2:/1/23/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-24T20:48:57.300913+00:00"
+    },
+    "5afc639b-fb49-4b6a-88f9-b49d0122194a": {
+      "podcast_id": "traveler",
+      "title": "סערת אינפנטינו רחוקה מסיום",
+      "status": "uploaded",
+      "path": "ivr2:/1/23/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-24T20:49:38.435033+00:00"
+    },
+    "2e86038d-23e5-4194-b87b-b06400ac2d1c": {
+      "podcast_id": "historia_bederech",
+      "title": "סיפורם של עולי הגרדום",
+      "status": "uploaded",
+      "path": "ivr2:/1/25/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:49:56.409933+00:00"
+    },
+    "bda5795d-7bca-4718-8d6e-b06400af1998": {
+      "podcast_id": "historia_bederech",
+      "title": "'המלאך בלבן' - סיפורה של אסתר ארדיטי",
+      "status": "uploaded",
+      "path": "ivr2:/1/25/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T20:50:07.476858+00:00"
+    },
+    "d1b55209-8a5e-4ea7-bd07-b06d00629ff1": {
+      "podcast_id": "historia_bederech",
+      "title": "'צבא של איש אחד' - סיפורו של אוריאל חפץ",
+      "status": "uploaded",
+      "path": "ivr2:/1/25/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:50:17.575895+00:00"
+    },
+    "https://hubhopper.com/episode/591-mbz-ntbh-hlq-2": {
+      "podcast_id": "historia_ktaim",
+      "title": "591: מבצע אנטבה - חלק 2",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:50:36.221307+00:00"
+    },
+    "https://hubhopper.com/episode/592-mbz-ntbh-hlq-3": {
+      "podcast_id": "historia_ktaim",
+      "title": "592: מבצע אנטבה - חלק 3",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T20:51:13.442215+00:00"
+    },
+    "https://hubhopper.com/episode/593-mbz-ntbh-hlq-4": {
+      "podcast_id": "historia_ktaim",
+      "title": "593: מבצע אנטבה חלק 4",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:51:39.401719+00:00"
+    },
+    "https://hubhopper.com/episode/594-ntbh-hlq-5": {
+      "podcast_id": "historia_ktaim",
+      "title": "594: אנטבה- חלק 5",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-24T20:52:03.984855+00:00"
+    },
+    "https://hubhopper.com/episode/595-mbz-ntbh-hlq-6": {
+      "podcast_id": "historia_ktaim",
+      "title": "595: מבצע אנטבה - חלק 6",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-24T20:52:21.770500+00:00"
+    },
+    "https://api.spreaker.com/episode/70134180": {
+      "podcast_id": "osim_historia",
+      "title": "461: למידה עמוקה, Deep Learning, חלק ב' (ש.ח.) [עושים היסטוריה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/27/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:52:46.229864+00:00"
+    },
+    "https://api.spreaker.com/episode/70525340": {
+      "podcast_id": "osim_historia",
+      "title": "462: לוקה, האב הקדמון המשותף לכל החיים [עושים היסטוריה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/27/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T20:53:05.174779+00:00"
+    },
+    "https://api.spreaker.com/episode/70811068": {
+      "podcast_id": "osim_historia",
+      "title": "463: אל הגיהנום ובחזרה - טייסת העמק במלחמת יוה\"כ, חלק א', (ש.ח.) [עושים היסטוריה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/27/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:53:26.026572+00:00"
+    },
+    "https://api.spreaker.com/episode/71175253": {
+      "podcast_id": "osim_historia",
+      "title": "464: אל הגיהנום ובחזרה - טייסת העמק במלחמת יוה\"כ, חלק ב' (ש.ח.)",
+      "status": "uploaded",
+      "path": "ivr2:/1/27/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-24T20:54:03.575277+00:00"
+    },
+    "https://api.spreaker.com/episode/71649688": {
+      "podcast_id": "osim_historia",
+      "title": "465: ברוך שפינוזה [עושים היסטוריה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/27/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-24T20:54:24.041683+00:00"
+    },
+    "https://historia.co.il/?p=17482": {
+      "podcast_id": "yetziat_ethiopia",
+      "title": "פרק 21: אני מעדיף למות בדרך לירושלים – דוד אַבֶטָה",
+      "status": "uploaded",
+      "path": "ivr2:/1/38/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:54:54.417978+00:00"
+    },
+    "https://historia.co.il/?p=17564": {
+      "podcast_id": "yetziat_ethiopia",
+      "title": "פרק 22: \\\"ושם בדאכאו זה היכה בי\\\" – מיכה פלדמן מספר על מבצע שלמה",
+      "status": "uploaded",
+      "path": "ivr2:/1/38/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T20:56:03.947404+00:00"
+    },
+    "https://historia.co.il/?p=17683": {
+      "podcast_id": "yetziat_ethiopia",
+      "title": "פרק 23: הגדר הנמוכה וגאווה אתיופית – פרופ\\' חגי ארליך",
+      "status": "uploaded",
+      "path": "ivr2:/1/38/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:56:59.656942+00:00"
+    },
+    "https://historia.co.il/?p=17775": {
+      "podcast_id": "yetziat_ethiopia",
+      "title": "פרק 24: ארוכה הדרך הביתה – סיפורו המטלטל של אייסו מנטסנוט",
+      "status": "uploaded",
+      "path": "ivr2:/1/38/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-24T20:58:00.758616+00:00"
+    },
+    "https://historia.co.il/?p=18001": {
+      "podcast_id": "yetziat_ethiopia",
+      "title": "פרק 25: \\\"אם אני הייתי טייסת זה היה מוזר, אבל הבן שלי?\\\" רחל אמא שלי",
+      "status": "uploaded",
+      "path": "ivr2:/1/38/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-24T20:58:53.594337+00:00"
+    },
+    "21d065f6-33a4-4e2b-8d5f-9f5a9dda012c": {
+      "podcast_id": "sogen_sodi",
+      "title": "האם באמת היו פעם נינג'ות? (פרק 1, עונה 1)",
+      "status": "uploaded",
+      "path": "ivr2:/1/39/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:59:11.200497+00:00"
+    },
+    "98e55c58-d59a-464b-871b-73d60a9a174e": {
+      "podcast_id": "sogen_sodi",
+      "title": "ההיסטוריה של ההיגיינה או האם האדם הקדמון התקלח?! (פרק 2, עונה 1)",
+      "status": "uploaded",
+      "path": "ivr2:/1/39/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-24T20:59:24.498258+00:00"
+    },
+    "cf43be64-9c51-441d-aaca-a9101d6a01e9": {
+      "podcast_id": "sogen_sodi",
+      "title": "איך המציאו את הבתים? (פרק 3, עונה 1)",
+      "status": "uploaded",
+      "path": "ivr2:/1/39/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-24T20:59:42.202934+00:00"
+    },
+    "https://feeds.hubhopper.com/YeshLeZe.podbean.com/9258d383-199d-3368-9eb1-fd9beb5627cf": {
+      "podcast_id": "sipur_beerech",
+      "title": "פרק 1 - מחלת הריקודים, סינדרום פריז, הכריך הזול בעולם ועוד - עם רינת ספיבק",
+      "status": "uploaded",
+      "path": "ivr2:/1/40/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T21:00:08.625796+00:00"
     }
   },
   "next_numbers": {
     "1": 11,
-    "2": 6,
-    "3": 6,
-    "4": 6,
-    "5": 6,
-    "6": 6,
-    "7": 6,
-    "8": 6,
-    "9": 6,
-    "10": 6,
-    "11": 6,
-    "12": 6,
-    "13": 6,
+    "2": 11,
+    "3": 11,
+    "4": 11,
+    "5": 11,
+    "6": 11,
+    "7": 11,
+    "8": 11,
+    "9": 11,
+    "10": 11,
+    "11": 11,
+    "12": 11,
+    "13": 11,
     "14": 5,
-    "15": 7,
-    "16": 6,
-    "17": 6,
-    "18": 6,
-    "19": 6,
-    "21": 6,
-    "22": 6,
-    "23": 6,
-    "25": 6,
-    "26": 6,
-    "27": 6,
-    "37": 6,
-    "38": 6,
-    "39": 6,
-    "40": 6
+    "15": 11,
+    "16": 11,
+    "17": 11,
+    "18": 11,
+    "19": 11,
+    "21": 11,
+    "22": 11,
+    "23": 11,
+    "25": 9,
+    "26": 11,
+    "27": 11,
+    "37": 15,
+    "38": 11,
+    "39": 9,
+    "40": 7
   }
 }
