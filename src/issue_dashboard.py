@@ -37,6 +37,8 @@ def main():
         out={"kind":"manage","action":section(body,"פעולה"),"podcast_id":section(body,"מזהה הפודקאסט"),"name":section(body,"שם"),"rss":section(body,"RSS"),"drive_folder":section(body,"תיקיית Drive"),"yemos_branch":section(body,"שלוחת Yemos")}
     elif title.startswith("[מצב]"):
         out={"kind":"status","scope":section(body,"היקף")}
+    elif title.startswith("[רשימת פודקאסטים]"):
+        out={"kind":"podcast_list","scope":section(body,"מה להציג")}
     else:
         raise SystemExit("Issue לא מזוהה כבקשת ניהול")
 
