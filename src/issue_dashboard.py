@@ -16,10 +16,14 @@ def main():
         selected=section(body,"בחירת פודקאסטים")
         names={p["name"]:p["id"] for p in podcasts}
         ids=[pid for name,pid in names.items() if re.search(r"(?mi)^- \[x\] "+re.escape(name)+r"\s*$",selected)]
-        episodes=[x.strip() for x in section(body,"פרקים להורדה חוזרת").splitlines() if x.strip()]
+        episodes=[x.strip() for x in section(body,"פרקים מסוימים להורדה חוזרת").splitlines() if x.strip()]
+        count_text=section(body,"כמות פרקים אחרונים להורדה חוזרת")
+        digits=re.search(r"\d+",count_text)
+        count=str(max(1,min(1000,int(digits.group(0))))) if digits else ""
         target=section(body,"יעד ההורדה החוזרת")
         if not ids: raise SystemExit("לא נבחר אף פודקאסט")
-        out={"kind":"redownload","ids":",".join(ids),"episodes":json.dumps(episodes,ensure_ascii=False),"targets":target}
+        if not episodes and not count: raise SystemExit("יש להגדיר כמות פרקים אחרונים או לבחור פרקים מסוימים")
+        out={"kind":"redownload","ids":",".join(ids),"episodes":json.dumps(episodes,ensure_ascii=False),"force_count":count,"targets":target}
     elif title.startswith("[הורדה]"):
         selected=section(body,"בחירת פודקאסטים")
         names={p["name"]:p["id"] for p in podcasts}
