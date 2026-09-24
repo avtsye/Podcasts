@@ -3,7 +3,7 @@ import os
 from functools import wraps
 
 import requests
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, make_response
 
 app = Flask(__name__)
 
@@ -26,21 +26,29 @@ def headers():
     return h
 
 
-@app.after_request
-def cors(response):
+def apply_cors(response):
     origin = request.headers.get("Origin", "").rstrip("/")
-    if "*" in ALLOWED_ORIGINS or origin in ALLOWED_ORIGINS:
-        response.headers["Access-Control-Allow-Origin"] = origin if origin else "*"
-        response.headers["Access-Control-Allow-Headers"] = "Content-Type, X-Dashboard-Password"
+    allowed = "*" in ALLOWED_ORIGINS or origin in ALLOWED_ORIGINS
+    if allowed:
+        response.headers["Access-Control-Allow-Origin"] = origin or "*"
+        response.headers["Access-Control-Allow-Headers"] = request.headers.get(
+            "Access-Control-Request-Headers", "Content-Type, X-Dashboard-Password"
+        )
         response.headers["Access-Control-Allow-Methods"] = "GET, POST, PUT, OPTIONS"
         response.headers["Access-Control-Max-Age"] = "86400"
     response.headers["Vary"] = "Origin"
     return response
 
 
-@app.route("/api/<path:_>", methods=["OPTIONS"])
-def options(_):
-    return ("", 204)
+@app.before_request
+def handle_preflight():
+    if request.method == "OPTIONS" and request.path.startswith("/api/"):
+        return apply_cors(make_response("", 204))
+
+
+@app.after_request
+def cors(response):
+    return apply_cors(response)
 
 
 def protected(fn):
