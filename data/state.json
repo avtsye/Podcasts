@@ -1,130 +1,130 @@
 {
   "feeds": {
     "ehad_beyom": {
-      "last_checked": "2026-09-24T20:06:40.592376+00:00",
+      "last_checked": "2026-09-24T22:08:46.232576+00:00",
       "last_error": null
     },
     "geekonomy": {
-      "last_checked": "2026-09-24T20:10:51.930309+00:00",
+      "last_checked": "2026-09-24T22:09:43.136411+00:00",
       "last_error": null
     },
     "hayot_kes": {
-      "last_checked": "2026-09-24T20:12:18.531411+00:00",
+      "last_checked": "2026-09-24T22:09:43.982275+00:00",
       "last_error": null
     },
     "osim_tech": {
-      "last_checked": "2026-09-24T20:16:42.079027+00:00",
+      "last_checked": "2026-09-24T22:09:44.622843+00:00",
       "last_error": null
     },
     "hatshuva": {
-      "last_checked": "2026-09-24T20:19:01.415794+00:00",
+      "last_checked": "2026-09-24T22:09:45.669620+00:00",
       "last_error": null
     },
     "startup_for_startup": {
-      "last_checked": "2026-09-24T20:21:06.208577+00:00",
+      "last_checked": "2026-09-24T22:09:47.165602+00:00",
       "last_error": null
     },
     "money_engines": {
-      "last_checked": "2026-09-24T20:23:25.076739+00:00",
+      "last_checked": "2026-09-24T22:09:47.481437+00:00",
       "last_error": null
     },
     "history_for_children": {
-      "last_checked": "2026-09-24T20:25:48.304203+00:00",
+      "last_checked": "2026-09-24T22:09:48.174473+00:00",
       "last_error": null
     },
     "baduk": {
-      "last_checked": "2026-09-24T20:26:53.607761+00:00",
+      "last_checked": "2026-09-24T22:09:48.443991+00:00",
       "last_error": null
     },
     "20th_century": {
-      "last_checked": "2026-09-24T20:27:44.252544+00:00",
+      "last_checked": "2026-09-24T22:09:48.850810+00:00",
       "last_error": null
     },
     "sakranit": {
-      "last_checked": "2026-09-24T20:29:45.392019+00:00",
+      "last_checked": "2026-09-24T22:09:49.097373+00:00",
       "last_error": null
     },
     "out_of_memory": {
-      "last_checked": "2026-09-24T20:32:05.556839+00:00",
+      "last_checked": "2026-09-24T22:09:49.241623+00:00",
       "last_error": null
     },
     "erech_musaf": {
-      "last_checked": "2026-09-24T20:32:58.218268+00:00",
+      "last_checked": "2026-09-24T22:09:49.407090+00:00",
       "last_error": null
     },
     "team_atzmaim": {
-      "last_checked": "2026-09-24T20:32:58.489365+00:00",
+      "last_checked": "2026-09-24T22:09:49.631344+00:00",
       "last_error": null
     },
     "maariv_magazine": {
-      "last_checked": "2026-09-24T20:35:06.203604+00:00",
+      "last_checked": "2026-09-24T22:09:49.956348+00:00",
       "last_error": null
     },
     "cx_podcast": {
-      "last_checked": "2026-09-24T20:36:44.469900+00:00",
+      "last_checked": "2026-09-24T22:09:50.124906+00:00",
       "last_error": null
     },
     "haim_aherim": {
-      "last_checked": "2026-09-24T20:40:07.093252+00:00",
+      "last_checked": "2026-09-24T22:09:51.686859+00:00",
       "last_error": null
     },
     "esek_kalkali": {
-      "last_checked": "2026-09-24T20:41:21.197910+00:00",
+      "last_checked": "2026-09-24T22:09:51.892583+00:00",
       "last_error": null
     },
     "keta_kalkali": {
-      "last_checked": "2026-09-24T20:42:15.673751+00:00",
+      "last_checked": "2026-09-24T22:09:52.179608+00:00",
       "last_error": null
     },
     "zman_sheavodtem": {
       "last_error": "RSS parse failed: <unknown>:22:2: mismatched tag",
-      "last_checked": "2026-09-24T20:42:15.843945+00:00"
+      "last_checked": "2026-09-24T22:09:52.470211+00:00"
     },
     "little_university": {
-      "last_checked": "2026-09-24T20:42:43.937763+00:00",
+      "last_checked": "2026-09-24T22:09:52.772810+00:00",
       "last_error": null
     },
     "music_tech": {
-      "last_checked": "2026-09-24T20:46:25.077416+00:00",
+      "last_checked": "2026-09-24T22:09:52.960947+00:00",
       "last_error": null
     },
     "traveler": {
-      "last_checked": "2026-09-24T20:49:38.462302+00:00",
+      "last_checked": "2026-09-24T22:09:53.425030+00:00",
       "last_error": null
     },
     "ear_catcher": {
-      "last_checked": "2026-09-24T20:49:38.610579+00:00"
+      "last_checked": "2026-09-24T22:09:53.503412+00:00"
     },
     "historia_bederech": {
-      "last_checked": "2026-09-24T20:50:17.600386+00:00",
+      "last_checked": "2026-09-24T22:09:53.692813+00:00",
       "last_error": null
     },
     "historia_ktaim": {
-      "last_checked": "2026-09-24T20:52:21.795560+00:00",
+      "last_checked": "2026-09-24T22:09:54.128159+00:00",
       "last_error": null
     },
     "osim_historia": {
-      "last_checked": "2026-09-24T20:54:24.068054+00:00",
+      "last_checked": "2026-09-24T22:09:54.709385+00:00",
       "last_error": null
     },
     "yaldin": {
       "last_error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/33026741/wnh-hdsh-bpth-mthylym-m-lyyb.mp3?s=rss-feed&rd=1790208000",
-      "last_checked": "2026-09-24T20:54:36.091179+00:00"
+      "last_checked": "2026-09-24T22:10:01.258697+00:00"
     },
     "yetziat_ethiopia": {
-      "last_checked": "2026-09-24T20:58:53.622987+00:00",
+      "last_checked": "2026-09-24T22:10:01.887030+00:00",
       "last_error": null
     },
     "sogen_sodi": {
-      "last_checked": "2026-09-24T20:59:42.229089+00:00",
+      "last_checked": "2026-09-24T22:10:02.033455+00:00",
       "last_error": null
     },
     "sipur_beerech": {
-      "last_checked": "2026-09-24T21:00:08.652668+00:00",
+      "last_checked": "2026-09-24T22:10:02.387310+00:00",
       "last_error": null
     },
     "frontiers_youth": {
-      "last_checked": "2026-09-24T21:00:08.971889+00:00"
+      "last_checked": "2026-09-24T22:10:02.734776+00:00"
     }
   },
   "episodes": {
@@ -2122,7 +2122,7 @@
       "audio_url": "https://play.hubhopper.com/a64924e349e3c7e73f6b432108dff7e3.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32885696/htmwnh-btyqtwq-wnh-5-prq-5.mp3?s=rss-feed&rd=1790208000",
-      "updated_at": "2026-09-24T20:54:32.380653+00:00"
+      "updated_at": "2026-09-24T22:09:56.983786+00:00"
     },
     "https://hubhopper.com/episode/mdynt-hyldym-wnh-5-prq-6": {
       "podcast_id": "yaldin",
@@ -2131,7 +2131,7 @@
       "audio_url": "https://play.hubhopper.com/78b7d7d904648a59cd5b69ab4501393c.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32887761/mdynt-hyldym-wnh-5-prq-6.mp3?s=rss-feed&rd=1790208000",
-      "updated_at": "2026-09-24T20:54:33.901726+00:00"
+      "updated_at": "2026-09-24T22:09:58.597091+00:00"
     },
     "https://hubhopper.com/episode/hpwdqst-sl-twm-wmyh-wnh-5-prq-7": {
       "podcast_id": "yaldin",
@@ -2140,7 +2140,7 @@
       "audio_url": "https://play.hubhopper.com/804eb17d5ea317b10e840672662c9ede.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32893995/hpwdqst-sl-twm-wmyh-wnh-5-prq-7.mp3?s=rss-feed&rd=1790208000",
-      "updated_at": "2026-09-24T20:54:34.980522+00:00"
+      "updated_at": "2026-09-24T22:09:59.662848+00:00"
     },
     "https://hubhopper.com/episode/wnh-hdsh-bpth-mthylym-m-lyyb": {
       "podcast_id": "yaldin",
@@ -2149,7 +2149,7 @@
       "audio_url": "https://play.hubhopper.com/c2c4f85119f569ec5714f401ecbfa36f.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/33026741/wnh-hdsh-bpth-mthylym-m-lyyb.mp3?s=rss-feed&rd=1790208000",
-      "updated_at": "2026-09-24T20:54:36.082789+00:00"
+      "updated_at": "2026-09-24T22:10:01.250419+00:00"
     },
     "https://hubhopper.com/episode/hmtb-htyq-wnh-6-prq-1": {
       "podcast_id": "yaldin",
@@ -3729,6 +3729,19 @@
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:59:51.060336+00:00",
       "yemos_path": "ivr2:/1/40/6.wav"
+    },
+    "geekonomy.podbean.com/fd173d90-9154-370b-be37-23d7f9fc0930": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1254 - ד״ר אלעד מנטוביץ מחדש לאנבידיה",
+      "published": "Fri, 25 Sep 2026 00:18:16 +0300",
+      "audio_url": "https://mcdn.podbean.com/mf/web/bwjzwrtjn7ukdrz3/geekonomy1254_elad.mp3",
+      "drive_file_id": "1xa8q1sCFZnn8ROUJBo5BWyeCsNtQP1pM",
+      "drive_url": "https://drive.google.com/file/d/1xa8q1sCFZnn8ROUJBo5BWyeCsNtQP1pM/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T22:08:54.248095+00:00",
+      "yemos_path": "ivr2:/1/2/11.wav"
     }
   }
 }
