@@ -21,6 +21,15 @@ def load_yemos_state():
         return {"episodes": {}}
 
 
+def next_yemos_number(state, branch):
+    """Reserve the next numeric filename for a Yemos sub-branch."""
+    branch = str(branch or "1")
+    counters = state.setdefault("next_numbers", {})
+    number = int(counters.get(branch, 1))
+    counters[branch] = number + 1
+    return number
+
+
 def save_yemos_state(state):
     YEMOS_STATE_PATH.parent.mkdir(parents=True, exist_ok=True)
 
