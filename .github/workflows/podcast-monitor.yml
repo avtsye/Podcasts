@@ -80,6 +80,7 @@ jobs:
           PY
 
       - name: Parse podcast selector form
+        id: parse_request
         if: github.event_name == 'issues'
         env:
           ISSUE_BODY: \${{ github.event.issue.body }}
@@ -116,10 +117,10 @@ jobs:
           if not selected:
               raise SystemExit("לא נבחר אף פודקאסט. סמן לפחות פודקאסט אחד או את 'הורד את כל הפודקאסטים'.")
 
-          with open(os.environ["GITHUB_ENV"], "a", encoding="utf-8") as env:
-              env.write(f"PODCAST_FORM_IDS={','.join(selected)}\n")
-              env.write(f"PODCAST_FORM_MODE={'all' if mode_all else 'latest'}\n")
-              env.write(f"PODCAST_FORM_COUNT={count}\n")
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as out:
+              out.write(f"ids={','.join(selected)}\n")
+              out.write(f"mode={'all' if mode_all else 'latest'}\n")
+              out.write(f"count={count}\n")
           print(f"Selected {len(selected)} podcast(s), mode={'all' if mode_all else 'latest'}, count={count}")
           PY
 
@@ -130,9 +131,9 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_API_URL: ${{ github.api_url }}
-          PODCAST_HISTORY_MODE: ${{ github.event_name == 'schedule' && 'false' || github.event_name == 'issues' && env.PODCAST_FORM_MODE == 'all' || github.event_name == 'workflow_dispatch' && inputs.mode == 'all' || github.event.client_payload.mode == 'all' }}
-          PODCAST_COUNT: ${{ github.event_name == 'schedule' && '0' || github.event_name == 'issues' && env.PODCAST_FORM_COUNT || github.event_name == 'workflow_dispatch' && inputs.count || github.event.client_payload.count }}
-          PODCAST_IDS: ${{ github.event_name == 'schedule' && '' || github.event_name == 'issues' && env.PODCAST_FORM_IDS || github.event_name == 'workflow_dispatch' && inputs.podcasts || github.event.client_payload.podcasts }}
+          PODCAST_HISTORY_MODE: ${{ github.event_name == 'schedule' && 'false' || github.event_name == 'issues' && steps.parse_request.outputs.mode == 'all' || github.event_name == 'workflow_dispatch' && inputs.mode == 'all' || github.event.client_payload.mode == 'all' }}
+          PODCAST_COUNT: ${{ github.event_name == 'schedule' && '0' || github.event_name == 'issues' && steps.parse_request.outputs.count || github.event_name == 'workflow_dispatch' && inputs.count || github.event.client_payload.count }}
+          PODCAST_IDS: ${{ github.event_name == 'schedule' && '' || github.event_name == 'issues' && steps.parse_request.outputs.ids || github.event_name == 'workflow_dispatch' && inputs.podcasts || github.event.client_payload.podcasts }}
         run: python -m src.monitor
 
       - name: Comment on manual request
