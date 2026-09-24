@@ -13,14 +13,19 @@ def main():
     out={}
 
     if title.startswith("[הורדה חוזרת]"):
-        pid=section(body,"מזהה הפודקאסט")
+        selected=section(body,"בחירת פודקאסטים")
+        names={p["name"]:p["id"] for p in podcasts}
+        ids=[pid for name,pid in names.items() if re.search(r"(?mi)^- \[x\] "+re.escape(name)+r"\s*$",selected)]
         episodes=[x.strip() for x in section(body,"פרקים להורדה חוזרת").splitlines() if x.strip()]
         target=section(body,"יעד ההורדה החוזרת")
-        if pid not in {p["id"] for p in podcasts}: raise SystemExit("מזהה פודקאסט לא קיים")
-        out={"kind":"redownload","ids":pid,"episodes":json.dumps(episodes,ensure_ascii=False),"targets":target}
+        if not ids: raise SystemExit("לא נבחר אף פודקאסט")
+        out={"kind":"redownload","ids":",".join(ids),"episodes":json.dumps(episodes,ensure_ascii=False),"targets":target}
     elif title.startswith("[הורדה]"):
-        raw=section(body,"פודקאסטים")
-        ids="" if raw.upper()=="ALL" else ",".join(x.strip() for x in raw.split(",") if x.strip())
+        selected=section(body,"בחירת פודקאסטים")
+        names={p["name"]:p["id"] for p in podcasts}
+        all_selected=bool(re.search(r"(?mi)^- \[x\] כל הפודקאסטים הפעילים\s*$",selected))
+        ids="" if all_selected else ",".join(pid for name,pid in names.items() if re.search(r"(?mi)^- \[x\] "+re.escape(name)+r"\s*$",selected))
+        if not all_selected and not ids: raise SystemExit("לא נבחר אף פודקאסט")
         mode="all" if "כל הפרקים" in section(body,"מצב הורדה") else "latest"
         digits=re.search(r"\d+",section(body,"מספר פרקים אחרונים") or "1")
         out={"kind":"download","ids":ids,"mode":mode,"count":str(max(1,min(1000,int(digits.group(0)))) if digits else 1)}
