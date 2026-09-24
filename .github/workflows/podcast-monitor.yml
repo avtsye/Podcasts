@@ -40,6 +40,7 @@ concurrency:
 
 jobs:
   monitor:
+    if: github.event_name != 'issues' || github.event.issue.author_association == 'OWNER'
     runs-on: ubuntu-latest
 
     steps:
@@ -83,7 +84,7 @@ jobs:
         id: parse_request
         if: github.event_name == 'issues'
         env:
-          ISSUE_BODY: \${{ github.event.issue.body }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
         run: |
           python - <<'PY'
           import json
@@ -139,16 +140,16 @@ jobs:
       - name: Comment on manual request
         if: github.event_name == 'issues'
         env:
-          GH_TOKEN: \${{ github.token }}
-          ISSUE_NUMBER: \${{ github.event.issue.number }}
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
         run: |
           gh issue comment "$ISSUE_NUMBER" --body "הפעלת ההורדה הסתיימה. ניתן לראות את פרטי הריצה בלשונית Actions."
 
       - name: Close manual request
         if: github.event_name == 'issues'
         env:
-          GH_TOKEN: \${{ github.token }}
-          ISSUE_NUMBER: \${{ github.event.issue.number }}
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
         run: |
           gh issue close "$ISSUE_NUMBER"
 
