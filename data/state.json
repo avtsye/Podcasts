@@ -1,130 +1,130 @@
 {
   "feeds": {
     "ehad_beyom": {
-      "last_checked": "2026-09-24T22:08:46.232576+00:00",
+      "last_checked": "2026-09-24T22:28:25.667921+00:00",
       "last_error": null
     },
     "geekonomy": {
-      "last_checked": "2026-09-24T22:09:43.136411+00:00",
+      "last_checked": "2026-09-24T22:28:27.296742+00:00",
       "last_error": null
     },
     "hayot_kes": {
-      "last_checked": "2026-09-24T22:09:43.982275+00:00",
+      "last_checked": "2026-09-24T22:28:27.941709+00:00",
       "last_error": null
     },
     "osim_tech": {
-      "last_checked": "2026-09-24T22:09:44.622843+00:00",
+      "last_checked": "2026-09-24T22:28:28.450859+00:00",
       "last_error": null
     },
     "hatshuva": {
-      "last_checked": "2026-09-24T22:09:45.669620+00:00",
+      "last_checked": "2026-09-24T22:28:29.061348+00:00",
       "last_error": null
     },
     "startup_for_startup": {
-      "last_checked": "2026-09-24T22:09:47.165602+00:00",
+      "last_checked": "2026-09-24T22:28:48.114699+00:00",
       "last_error": null
     },
     "money_engines": {
-      "last_checked": "2026-09-24T22:09:47.481437+00:00",
+      "last_checked": "2026-09-24T22:28:48.421731+00:00",
       "last_error": null
     },
     "history_for_children": {
-      "last_checked": "2026-09-24T22:09:48.174473+00:00",
+      "last_checked": "2026-09-24T22:28:48.998970+00:00",
       "last_error": null
     },
     "baduk": {
-      "last_checked": "2026-09-24T22:09:48.443991+00:00",
+      "last_checked": "2026-09-24T22:28:49.362738+00:00",
       "last_error": null
     },
     "20th_century": {
-      "last_checked": "2026-09-24T22:09:48.850810+00:00",
+      "last_checked": "2026-09-24T22:28:49.761399+00:00",
       "last_error": null
     },
     "sakranit": {
-      "last_checked": "2026-09-24T22:09:49.097373+00:00",
+      "last_checked": "2026-09-24T22:28:50.145293+00:00",
       "last_error": null
     },
     "out_of_memory": {
-      "last_checked": "2026-09-24T22:09:49.241623+00:00",
+      "last_checked": "2026-09-24T22:28:50.503992+00:00",
       "last_error": null
     },
     "erech_musaf": {
-      "last_checked": "2026-09-24T22:09:49.407090+00:00",
+      "last_checked": "2026-09-24T22:28:50.775405+00:00",
       "last_error": null
     },
     "team_atzmaim": {
-      "last_checked": "2026-09-24T22:09:49.631344+00:00",
+      "last_checked": "2026-09-24T22:28:51.011145+00:00",
       "last_error": null
     },
     "maariv_magazine": {
-      "last_checked": "2026-09-24T22:09:49.956348+00:00",
+      "last_checked": "2026-09-24T22:28:51.373225+00:00",
       "last_error": null
     },
     "cx_podcast": {
-      "last_checked": "2026-09-24T22:09:50.124906+00:00",
+      "last_checked": "2026-09-24T22:28:51.605416+00:00",
       "last_error": null
     },
     "haim_aherim": {
-      "last_checked": "2026-09-24T22:09:51.686859+00:00",
+      "last_checked": "2026-09-24T22:28:52.640885+00:00",
       "last_error": null
     },
     "esek_kalkali": {
-      "last_checked": "2026-09-24T22:09:51.892583+00:00",
+      "last_checked": "2026-09-24T22:28:52.975130+00:00",
       "last_error": null
     },
     "keta_kalkali": {
-      "last_checked": "2026-09-24T22:09:52.179608+00:00",
+      "last_checked": "2026-09-24T22:28:53.338740+00:00",
       "last_error": null
     },
     "zman_sheavodtem": {
       "last_error": "RSS parse failed: <unknown>:22:2: mismatched tag",
-      "last_checked": "2026-09-24T22:09:52.470211+00:00"
+      "last_checked": "2026-09-24T22:28:53.848773+00:00"
     },
     "little_university": {
-      "last_checked": "2026-09-24T22:09:52.772810+00:00",
+      "last_checked": "2026-09-24T22:28:54.150943+00:00",
       "last_error": null
     },
     "music_tech": {
-      "last_checked": "2026-09-24T22:09:52.960947+00:00",
+      "last_checked": "2026-09-24T22:29:35.935878+00:00",
       "last_error": null
     },
     "traveler": {
-      "last_checked": "2026-09-24T22:09:53.425030+00:00",
+      "last_checked": "2026-09-24T22:29:36.368028+00:00",
       "last_error": null
     },
     "ear_catcher": {
-      "last_checked": "2026-09-24T22:09:53.503412+00:00"
+      "last_checked": "2026-09-24T22:29:36.501894+00:00"
     },
     "historia_bederech": {
-      "last_checked": "2026-09-24T22:09:53.692813+00:00",
+      "last_checked": "2026-09-24T22:29:36.712565+00:00",
       "last_error": null
     },
     "historia_ktaim": {
-      "last_checked": "2026-09-24T22:09:54.128159+00:00",
+      "last_checked": "2026-09-24T22:29:37.254571+00:00",
       "last_error": null
     },
     "osim_historia": {
-      "last_checked": "2026-09-24T22:09:54.709385+00:00",
+      "last_checked": "2026-09-24T22:29:37.946321+00:00",
       "last_error": null
     },
     "yaldin": {
       "last_error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/33026741/wnh-hdsh-bpth-mthylym-m-lyyb.mp3?s=rss-feed&rd=1790208000",
-      "last_checked": "2026-09-24T22:10:01.258697+00:00"
+      "last_checked": "2026-09-24T22:29:50.490742+00:00"
     },
     "yetziat_ethiopia": {
-      "last_checked": "2026-09-24T22:10:01.887030+00:00",
+      "last_checked": "2026-09-24T22:29:50.728199+00:00",
       "last_error": null
     },
     "sogen_sodi": {
-      "last_checked": "2026-09-24T22:10:02.033455+00:00",
+      "last_checked": "2026-09-24T22:29:51.434199+00:00",
       "last_error": null
     },
     "sipur_beerech": {
-      "last_checked": "2026-09-24T22:10:02.387310+00:00",
+      "last_checked": "2026-09-24T22:29:51.665549+00:00",
       "last_error": null
     },
     "frontiers_youth": {
-      "last_checked": "2026-09-24T22:10:02.734776+00:00"
+      "last_checked": "2026-09-24T22:29:52.072337+00:00"
     }
   },
   "episodes": {
@@ -2122,7 +2122,7 @@
       "audio_url": "https://play.hubhopper.com/a64924e349e3c7e73f6b432108dff7e3.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32885696/htmwnh-btyqtwq-wnh-5-prq-5.mp3?s=rss-feed&rd=1790208000",
-      "updated_at": "2026-09-24T22:09:56.983786+00:00"
+      "updated_at": "2026-09-24T22:29:46.482580+00:00"
     },
     "https://hubhopper.com/episode/mdynt-hyldym-wnh-5-prq-6": {
       "podcast_id": "yaldin",
@@ -2131,7 +2131,7 @@
       "audio_url": "https://play.hubhopper.com/78b7d7d904648a59cd5b69ab4501393c.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32887761/mdynt-hyldym-wnh-5-prq-6.mp3?s=rss-feed&rd=1790208000",
-      "updated_at": "2026-09-24T22:09:58.597091+00:00"
+      "updated_at": "2026-09-24T22:29:47.600798+00:00"
     },
     "https://hubhopper.com/episode/hpwdqst-sl-twm-wmyh-wnh-5-prq-7": {
       "podcast_id": "yaldin",
@@ -2140,7 +2140,7 @@
       "audio_url": "https://play.hubhopper.com/804eb17d5ea317b10e840672662c9ede.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32893995/hpwdqst-sl-twm-wmyh-wnh-5-prq-7.mp3?s=rss-feed&rd=1790208000",
-      "updated_at": "2026-09-24T22:09:59.662848+00:00"
+      "updated_at": "2026-09-24T22:29:48.844796+00:00"
     },
     "https://hubhopper.com/episode/wnh-hdsh-bpth-mthylym-m-lyyb": {
       "podcast_id": "yaldin",
@@ -2149,7 +2149,7 @@
       "audio_url": "https://play.hubhopper.com/c2c4f85119f569ec5714f401ecbfa36f.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/33026741/wnh-hdsh-bpth-mthylym-m-lyyb.mp3?s=rss-feed&rd=1790208000",
-      "updated_at": "2026-09-24T22:10:01.250419+00:00"
+      "updated_at": "2026-09-24T22:29:50.484011+00:00"
     },
     "https://hubhopper.com/episode/hmtb-htyq-wnh-6-prq-1": {
       "podcast_id": "yaldin",
@@ -2380,7 +2380,7 @@
       "drive_file_id": "16iinWk7Sjhq8w7Y9CFH1I6ita3Dht8Nl",
       "drive_url": "https://drive.google.com/file/d/16iinWk7Sjhq8w7Y9CFH1I6ita3Dht8Nl/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:19:04.904276+00:00",
       "yemos_path": "ivr2:/1/6/6.wav"
@@ -2393,7 +2393,7 @@
       "drive_file_id": "16vhL_EIGK2LQuTSJZ_gZWjHlMgHUsENv",
       "drive_url": "https://drive.google.com/file/d/16vhL_EIGK2LQuTSJZ_gZWjHlMgHUsENv/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:19:37.497960+00:00",
       "yemos_path": "ivr2:/1/6/7.wav"
@@ -2406,7 +2406,7 @@
       "drive_file_id": "1pxvT1U07i81zAR2B7pziywiOVcKhXnCa",
       "drive_url": "https://drive.google.com/file/d/1pxvT1U07i81zAR2B7pziywiOVcKhXnCa/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:19:57.516893+00:00",
       "yemos_path": "ivr2:/1/6/8.wav"
@@ -2420,9 +2420,9 @@
       "drive_url": "https://drive.google.com/file/d/18z_4HslImueytuMkUsuawu2HcC8PlRkP/view?usp=drivesdk",
       "status": "uploaded",
       "notification_status": "pending",
-      "yemos_status": "error",
+      "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:20:16.973531+00:00",
-      "yemos_error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))"
+      "yemos_path": "ivr2:/1/6/11.wav"
     },
     "affe404b-be0f-4d25-b7f9-b4a800f05bc3": {
       "podcast_id": "startup_for_startup",
@@ -2432,7 +2432,7 @@
       "drive_file_id": "15_0m1T_1NiB2aR1p-Ze10S-8Fz_r9kRu",
       "drive_url": "https://drive.google.com/file/d/15_0m1T_1NiB2aR1p-Ze10S-8Fz_r9kRu/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:20:48.532713+00:00",
       "yemos_path": "ivr2:/1/6/10.wav"
@@ -2445,7 +2445,7 @@
       "drive_file_id": "1tGA8vN-F_ka8C5q70dhqpmdandpeH5mc",
       "drive_url": "https://drive.google.com/file/d/1tGA8vN-F_ka8C5q70dhqpmdandpeH5mc/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:21:09.780470+00:00",
       "yemos_path": "ivr2:/1/7/6.wav"
@@ -2458,7 +2458,7 @@
       "drive_file_id": "1kG1PnNo-AJdgrs-RxsCiWhEBGZwLhH9T",
       "drive_url": "https://drive.google.com/file/d/1kG1PnNo-AJdgrs-RxsCiWhEBGZwLhH9T/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:21:32.661196+00:00",
       "yemos_path": "ivr2:/1/7/7.wav"
@@ -2471,7 +2471,7 @@
       "drive_file_id": "1vxrdVQtjHZzQXIkoeg8nSCOUK3VDwTb9",
       "drive_url": "https://drive.google.com/file/d/1vxrdVQtjHZzQXIkoeg8nSCOUK3VDwTb9/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:21:58.590523+00:00",
       "yemos_path": "ivr2:/1/7/8.wav"
@@ -2484,7 +2484,7 @@
       "drive_file_id": "1u8UfB9irKEevfezWED9PpH2HG7W0dfkk",
       "drive_url": "https://drive.google.com/file/d/1u8UfB9irKEevfezWED9PpH2HG7W0dfkk/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:22:24.927209+00:00",
       "yemos_path": "ivr2:/1/7/9.wav"
@@ -2497,7 +2497,7 @@
       "drive_file_id": "1zDdf54rSkhn7PrlxMn61exNl5h4BoEIF",
       "drive_url": "https://drive.google.com/file/d/1zDdf54rSkhn7PrlxMn61exNl5h4BoEIF/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:23:01.888285+00:00",
       "yemos_path": "ivr2:/1/7/10.wav"
@@ -2510,7 +2510,7 @@
       "drive_file_id": "1_-Dk1eAKB8Uyeg_aPIYampF1U4-rVN8Y",
       "drive_url": "https://drive.google.com/file/d/1_-Dk1eAKB8Uyeg_aPIYampF1U4-rVN8Y/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:23:27.564576+00:00",
       "yemos_path": "ivr2:/1/8/6.wav"
@@ -2523,7 +2523,7 @@
       "drive_file_id": "1q8Kr_C7IWyq8c_XDeuHR8TaWnOGNQPkc",
       "drive_url": "https://drive.google.com/file/d/1q8Kr_C7IWyq8c_XDeuHR8TaWnOGNQPkc/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:23:41.209925+00:00",
       "yemos_path": "ivr2:/1/8/7.wav"
@@ -2536,7 +2536,7 @@
       "drive_file_id": "17RVXe7AUTA02oIox5xpFaE4CQrqz4Kx5",
       "drive_url": "https://drive.google.com/file/d/17RVXe7AUTA02oIox5xpFaE4CQrqz4Kx5/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:23:54.571365+00:00",
       "yemos_path": "ivr2:/1/8/8.wav"
@@ -2549,7 +2549,7 @@
       "drive_file_id": "1mizdwRO6apumDmx_h8Izy3TzzfKWNwR-",
       "drive_url": "https://drive.google.com/file/d/1mizdwRO6apumDmx_h8Izy3TzzfKWNwR-/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:24:10.723537+00:00",
       "yemos_path": "ivr2:/1/8/9.wav"
@@ -2562,7 +2562,7 @@
       "drive_file_id": "1cAYDqI-OlrQ-PM8CcM-D5s6gTy53bCJT",
       "drive_url": "https://drive.google.com/file/d/1cAYDqI-OlrQ-PM8CcM-D5s6gTy53bCJT/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:25:03.495105+00:00",
       "yemos_path": "ivr2:/1/8/10.wav"
@@ -2575,7 +2575,7 @@
       "drive_file_id": "1eDv02ZbSD6407hmG9x21erZ1RdWcNcKb",
       "drive_url": "https://drive.google.com/file/d/1eDv02ZbSD6407hmG9x21erZ1RdWcNcKb/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:25:49.827437+00:00",
       "yemos_path": "ivr2:/1/9/6.wav"
@@ -2588,7 +2588,7 @@
       "drive_file_id": "1aBWKTkfROiZCzs_NlDRWwyKsruiNwCBq",
       "drive_url": "https://drive.google.com/file/d/1aBWKTkfROiZCzs_NlDRWwyKsruiNwCBq/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:25:58.065761+00:00",
       "yemos_path": "ivr2:/1/9/7.wav"
@@ -2601,7 +2601,7 @@
       "drive_file_id": "1fIwwyJ-EyGCxeq0X5lYtiYX4s-nX_4qY",
       "drive_url": "https://drive.google.com/file/d/1fIwwyJ-EyGCxeq0X5lYtiYX4s-nX_4qY/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:26:16.358940+00:00",
       "yemos_path": "ivr2:/1/9/8.wav"
@@ -2614,7 +2614,7 @@
       "drive_file_id": "1MDvlb0AQBv9wtg2k5yKDnyEYad5_g556",
       "drive_url": "https://drive.google.com/file/d/1MDvlb0AQBv9wtg2k5yKDnyEYad5_g556/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:26:24.786434+00:00",
       "yemos_path": "ivr2:/1/9/9.wav"
@@ -2627,7 +2627,7 @@
       "drive_file_id": "1To3G6hKKDIJj6ZvHfREfd3Mfkl7Bo-RE",
       "drive_url": "https://drive.google.com/file/d/1To3G6hKKDIJj6ZvHfREfd3Mfkl7Bo-RE/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:26:35.157447+00:00",
       "yemos_path": "ivr2:/1/9/10.wav"
@@ -2640,7 +2640,7 @@
       "drive_file_id": "1JVcpqjv3ViU83X-Nbu8HhOAN5MCiI4NP",
       "drive_url": "https://drive.google.com/file/d/1JVcpqjv3ViU83X-Nbu8HhOAN5MCiI4NP/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:26:55.589139+00:00",
       "yemos_path": "ivr2:/1/10/6.wav"
@@ -2653,7 +2653,7 @@
       "drive_file_id": "1Gwtpoux6QjBiuooUEb0PPKV-n3z6qIDV",
       "drive_url": "https://drive.google.com/file/d/1Gwtpoux6QjBiuooUEb0PPKV-n3z6qIDV/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:27:05.434196+00:00",
       "yemos_path": "ivr2:/1/10/7.wav"
@@ -2666,7 +2666,7 @@
       "drive_file_id": "1FQV-lKkrzXFnp7YPAos22s3yaQKWEZbb",
       "drive_url": "https://drive.google.com/file/d/1FQV-lKkrzXFnp7YPAos22s3yaQKWEZbb/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:27:15.268281+00:00",
       "yemos_path": "ivr2:/1/10/8.wav"
@@ -2679,7 +2679,7 @@
       "drive_file_id": "16UyoeXSnXWp9zBsXo_htha_8LLMm4D4X",
       "drive_url": "https://drive.google.com/file/d/16UyoeXSnXWp9zBsXo_htha_8LLMm4D4X/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:27:25.022231+00:00",
       "yemos_path": "ivr2:/1/10/9.wav"
@@ -2692,7 +2692,7 @@
       "drive_file_id": "1o6CkgdR_0OpZEZWl67wWBdWvI8DEEZ3J",
       "drive_url": "https://drive.google.com/file/d/1o6CkgdR_0OpZEZWl67wWBdWvI8DEEZ3J/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:27:35.799324+00:00",
       "yemos_path": "ivr2:/1/10/10.wav"
@@ -2705,7 +2705,7 @@
       "drive_file_id": "1GDIF3RncaX2IdMkBjJw1xslE0Gkz_V4Y",
       "drive_url": "https://drive.google.com/file/d/1GDIF3RncaX2IdMkBjJw1xslE0Gkz_V4Y/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:27:45.917871+00:00",
       "yemos_path": "ivr2:/1/11/6.wav"
@@ -2718,7 +2718,7 @@
       "drive_file_id": "1FQEUtuovf_incbMxlBiZI1MgMSo1-7xZ",
       "drive_url": "https://drive.google.com/file/d/1FQEUtuovf_incbMxlBiZI1MgMSo1-7xZ/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:28:33.494182+00:00",
       "yemos_path": "ivr2:/1/11/7.wav"
@@ -2731,7 +2731,7 @@
       "drive_file_id": "17WTbkHUT4COhWDWwX1ehrXdQ6NWZD7AN",
       "drive_url": "https://drive.google.com/file/d/17WTbkHUT4COhWDWwX1ehrXdQ6NWZD7AN/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:28:53.445143+00:00",
       "yemos_path": "ivr2:/1/11/8.wav"
@@ -2744,7 +2744,7 @@
       "drive_file_id": "1jpo3_D8Dw_hbaux8BNJNj2wPsCm6McW_",
       "drive_url": "https://drive.google.com/file/d/1jpo3_D8Dw_hbaux8BNJNj2wPsCm6McW_/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:29:07.887528+00:00",
       "yemos_path": "ivr2:/1/11/9.wav"
@@ -2757,7 +2757,7 @@
       "drive_file_id": "1tx6BzZJ1OaXU4A4Sv9rJUfKUClEhv2PA",
       "drive_url": "https://drive.google.com/file/d/1tx6BzZJ1OaXU4A4Sv9rJUfKUClEhv2PA/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:29:24.095464+00:00",
       "yemos_path": "ivr2:/1/11/10.wav"
@@ -2770,7 +2770,7 @@
       "drive_file_id": "1PIPqrFZVtr3E6HD78CU6RwMpvurrVZo8",
       "drive_url": "https://drive.google.com/file/d/1PIPqrFZVtr3E6HD78CU6RwMpvurrVZo8/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:29:46.941686+00:00",
       "yemos_path": "ivr2:/1/12/6.wav"
@@ -2783,7 +2783,7 @@
       "drive_file_id": "1KsSoyhbKgGDvnS44K9rGfe1FthA7oPFw",
       "drive_url": "https://drive.google.com/file/d/1KsSoyhbKgGDvnS44K9rGfe1FthA7oPFw/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:30:07.535031+00:00",
       "yemos_path": "ivr2:/1/12/7.wav"
@@ -2796,7 +2796,7 @@
       "drive_file_id": "1v5o7oDXipuduc3cSBR58V-u-m31ELDbR",
       "drive_url": "https://drive.google.com/file/d/1v5o7oDXipuduc3cSBR58V-u-m31ELDbR/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:30:30.222629+00:00",
       "yemos_path": "ivr2:/1/12/8.wav"
@@ -2809,7 +2809,7 @@
       "drive_file_id": "1eNVD5TeCNWCqB7IByJtyeWLUeBBsgHJ4",
       "drive_url": "https://drive.google.com/file/d/1eNVD5TeCNWCqB7IByJtyeWLUeBBsgHJ4/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:30:45.941725+00:00",
       "yemos_path": "ivr2:/1/12/9.wav"
@@ -2822,7 +2822,7 @@
       "drive_file_id": "1U98TdocQd1UKHppITc4Hk1EsxBlKtqFg",
       "drive_url": "https://drive.google.com/file/d/1U98TdocQd1UKHppITc4Hk1EsxBlKtqFg/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:31:21.848038+00:00",
       "yemos_path": "ivr2:/1/12/10.wav"
@@ -2835,7 +2835,7 @@
       "drive_file_id": "10yhbd9XDIcmzZQC9sw6s1TBSOFkpo0px",
       "drive_url": "https://drive.google.com/file/d/10yhbd9XDIcmzZQC9sw6s1TBSOFkpo0px/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:32:07.101256+00:00",
       "yemos_path": "ivr2:/1/13/6.wav"
@@ -2848,7 +2848,7 @@
       "drive_file_id": "14GFd9KpIVr1uIf8uZA43UbvR5QlVxkKC",
       "drive_url": "https://drive.google.com/file/d/14GFd9KpIVr1uIf8uZA43UbvR5QlVxkKC/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:32:16.128155+00:00",
       "yemos_path": "ivr2:/1/13/7.wav"
@@ -2861,7 +2861,7 @@
       "drive_file_id": "13wG_wsX5TW7FBMsp0e2XifWPeKEOwSQ7",
       "drive_url": "https://drive.google.com/file/d/13wG_wsX5TW7FBMsp0e2XifWPeKEOwSQ7/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:32:27.105096+00:00",
       "yemos_path": "ivr2:/1/13/8.wav"
@@ -2874,7 +2874,7 @@
       "drive_file_id": "16Q8h2lZzu46KG-lN92v7W2A_S-NWHMiE",
       "drive_url": "https://drive.google.com/file/d/16Q8h2lZzu46KG-lN92v7W2A_S-NWHMiE/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:32:38.828293+00:00",
       "yemos_path": "ivr2:/1/13/9.wav"
@@ -2887,7 +2887,7 @@
       "drive_file_id": "1PODM0JpszyAtMF6I7D2r0ATpC6lhziIh",
       "drive_url": "https://drive.google.com/file/d/1PODM0JpszyAtMF6I7D2r0ATpC6lhziIh/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:32:49.602028+00:00",
       "yemos_path": "ivr2:/1/13/10.wav"
@@ -2900,7 +2900,7 @@
       "drive_file_id": "1MF4qKRjrXImm2O_IxG_gRAeKNW5B-9OH",
       "drive_url": "https://drive.google.com/file/d/1MF4qKRjrXImm2O_IxG_gRAeKNW5B-9OH/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:33:02.065571+00:00",
       "yemos_path": "ivr2:/1/15/7.wav"
@@ -2913,7 +2913,7 @@
       "drive_file_id": "1ljFTxQALL6AJdSh1DeBa0kTvUf5wEQVj",
       "drive_url": "https://drive.google.com/file/d/1ljFTxQALL6AJdSh1DeBa0kTvUf5wEQVj/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:33:25.454661+00:00",
       "yemos_path": "ivr2:/1/15/8.wav"
@@ -2926,7 +2926,7 @@
       "drive_file_id": "1lJhRnYS3wFK5zHBDrDcBTmFbv4144HYK",
       "drive_url": "https://drive.google.com/file/d/1lJhRnYS3wFK5zHBDrDcBTmFbv4144HYK/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:34:09.358123+00:00",
       "yemos_path": "ivr2:/1/15/9.wav"
@@ -2939,7 +2939,7 @@
       "drive_file_id": "1g4jd-sE2VoYIxV55DYrXwInIZkBe5PC7",
       "drive_url": "https://drive.google.com/file/d/1g4jd-sE2VoYIxV55DYrXwInIZkBe5PC7/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:34:27.115380+00:00",
       "yemos_path": "ivr2:/1/15/10.wav"
@@ -2952,7 +2952,7 @@
       "drive_file_id": "1OJYXpXQhZ0L48V0TiAP22bXFrnxqNP5t",
       "drive_url": "https://drive.google.com/file/d/1OJYXpXQhZ0L48V0TiAP22bXFrnxqNP5t/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:35:12.153826+00:00",
       "yemos_path": "ivr2:/1/16/6.wav"
@@ -2965,7 +2965,7 @@
       "drive_file_id": "1st9N3Qmw-TefPZdlt93bYC9bF3ltxLV8",
       "drive_url": "https://drive.google.com/file/d/1st9N3Qmw-TefPZdlt93bYC9bF3ltxLV8/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:35:32.013408+00:00",
       "yemos_path": "ivr2:/1/16/7.wav"
@@ -2978,7 +2978,7 @@
       "drive_file_id": "1GS2s5VOxE8gr7AW28b-5NtVxIm1FOANW",
       "drive_url": "https://drive.google.com/file/d/1GS2s5VOxE8gr7AW28b-5NtVxIm1FOANW/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:35:53.875166+00:00",
       "yemos_path": "ivr2:/1/16/8.wav"
@@ -2991,7 +2991,7 @@
       "drive_file_id": "1zWLPD6iGuZubZgxIfZcw7obvS3WIjF-H",
       "drive_url": "https://drive.google.com/file/d/1zWLPD6iGuZubZgxIfZcw7obvS3WIjF-H/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:36:11.366272+00:00",
       "yemos_path": "ivr2:/1/16/9.wav"
@@ -3004,7 +3004,7 @@
       "drive_file_id": "1OFtCllCUJN9hepqp14r4xdBZFzer0IoM",
       "drive_url": "https://drive.google.com/file/d/1OFtCllCUJN9hepqp14r4xdBZFzer0IoM/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:36:28.953216+00:00",
       "yemos_path": "ivr2:/1/16/10.wav"
@@ -3017,7 +3017,7 @@
       "drive_file_id": "1uk5YxAeKDT5kaoQf_LKkKmafr_uUlEKp",
       "drive_url": "https://drive.google.com/file/d/1uk5YxAeKDT5kaoQf_LKkKmafr_uUlEKp/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:36:47.037858+00:00",
       "yemos_path": "ivr2:/1/17/6.wav"
@@ -3030,7 +3030,7 @@
       "drive_file_id": "1wjPb6TUP1FbDLxncR4F9egIrAFhClAxT",
       "drive_url": "https://drive.google.com/file/d/1wjPb6TUP1FbDLxncR4F9egIrAFhClAxT/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:37:24.100467+00:00",
       "yemos_path": "ivr2:/1/17/7.wav"
@@ -3043,7 +3043,7 @@
       "drive_file_id": "1zvflYqhbfe3f8cgd3nDHBio908QMH7RN",
       "drive_url": "https://drive.google.com/file/d/1zvflYqhbfe3f8cgd3nDHBio908QMH7RN/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:38:03.307130+00:00",
       "yemos_path": "ivr2:/1/17/8.wav"
@@ -3056,7 +3056,7 @@
       "drive_file_id": "1DqWPmRwMQSpdtcF016z7kYpIQPH7D41w",
       "drive_url": "https://drive.google.com/file/d/1DqWPmRwMQSpdtcF016z7kYpIQPH7D41w/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:38:43.494304+00:00",
       "yemos_path": "ivr2:/1/17/9.wav"
@@ -3069,7 +3069,7 @@
       "drive_file_id": "1yuLyOxR8T_CHp-zEjmK5xVvOQ3nDhI4M",
       "drive_url": "https://drive.google.com/file/d/1yuLyOxR8T_CHp-zEjmK5xVvOQ3nDhI4M/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:39:30.822500+00:00",
       "yemos_path": "ivr2:/1/17/10.wav"
@@ -3082,7 +3082,7 @@
       "drive_file_id": "15ZV9JF7SgkC4PmDU0TxEGHkm1Y5AhjMX",
       "drive_url": "https://drive.google.com/file/d/15ZV9JF7SgkC4PmDU0TxEGHkm1Y5AhjMX/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:40:08.933272+00:00",
       "yemos_path": "ivr2:/1/18/6.wav"
@@ -3095,7 +3095,7 @@
       "drive_file_id": "1vxg-PS4n5UGGW1JKRNxiQv70HnOGr2W5",
       "drive_url": "https://drive.google.com/file/d/1vxg-PS4n5UGGW1JKRNxiQv70HnOGr2W5/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:40:26.191508+00:00",
       "yemos_path": "ivr2:/1/18/7.wav"
@@ -3108,7 +3108,7 @@
       "drive_file_id": "1cXStfP7CeT2Xy1ZFUApgsCrg-_KOxp2i",
       "drive_url": "https://drive.google.com/file/d/1cXStfP7CeT2Xy1ZFUApgsCrg-_KOxp2i/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:40:40.491254+00:00",
       "yemos_path": "ivr2:/1/18/8.wav"
@@ -3121,7 +3121,7 @@
       "drive_file_id": "1P72Elvpw2BZDugbRnVl6W0qL24QBMnPK",
       "drive_url": "https://drive.google.com/file/d/1P72Elvpw2BZDugbRnVl6W0qL24QBMnPK/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:40:54.914420+00:00",
       "yemos_path": "ivr2:/1/18/9.wav"
@@ -3134,7 +3134,7 @@
       "drive_file_id": "1rKqyUHlrp2HMoyI3Rx42o_b4Luii1STZ",
       "drive_url": "https://drive.google.com/file/d/1rKqyUHlrp2HMoyI3Rx42o_b4Luii1STZ/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:41:07.539729+00:00",
       "yemos_path": "ivr2:/1/18/10.wav"
@@ -3147,7 +3147,7 @@
       "drive_file_id": "1C6SBG1Ggx1u5J3Ji5OiIRbNmRNhxA7-j",
       "drive_url": "https://drive.google.com/file/d/1C6SBG1Ggx1u5J3Ji5OiIRbNmRNhxA7-j/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:41:27.624322+00:00",
       "yemos_path": "ivr2:/1/19/6.wav"
@@ -3160,7 +3160,7 @@
       "drive_file_id": "1MkxzlBjcVZmVRULkSxFPNjPlJq25U4-t",
       "drive_url": "https://drive.google.com/file/d/1MkxzlBjcVZmVRULkSxFPNjPlJq25U4-t/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:41:39.669063+00:00",
       "yemos_path": "ivr2:/1/19/7.wav"
@@ -3173,7 +3173,7 @@
       "drive_file_id": "1cv0ddKPZ4xiSoSEpQpD_AzCkTUlIMQHD",
       "drive_url": "https://drive.google.com/file/d/1cv0ddKPZ4xiSoSEpQpD_AzCkTUlIMQHD/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:41:50.791755+00:00",
       "yemos_path": "ivr2:/1/19/8.wav"
@@ -3186,7 +3186,7 @@
       "drive_file_id": "1vgGQaQ3sLuGMjQ8gB46YX-SZMT-sfTO9",
       "drive_url": "https://drive.google.com/file/d/1vgGQaQ3sLuGMjQ8gB46YX-SZMT-sfTO9/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:41:57.050962+00:00",
       "yemos_path": "ivr2:/1/19/9.wav"
@@ -3199,7 +3199,7 @@
       "drive_file_id": "1KjCA5f9DH1FN87AhTv0ZblHwSMUqD1sb",
       "drive_url": "https://drive.google.com/file/d/1KjCA5f9DH1FN87AhTv0ZblHwSMUqD1sb/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:42:11.836781+00:00",
       "yemos_path": "ivr2:/1/19/10.wav"
@@ -3212,7 +3212,7 @@
       "drive_file_id": "1QNant-SotqdjdNjNzWtnmXt9EDj7CZJ-",
       "drive_url": "https://drive.google.com/file/d/1QNant-SotqdjdNjNzWtnmXt9EDj7CZJ-/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:42:17.873372+00:00",
       "yemos_path": "ivr2:/1/21/6.wav"
@@ -3225,7 +3225,7 @@
       "drive_file_id": "18qG6Mds_9lx6Sumpej8Mpzg368zTd1Bm",
       "drive_url": "https://drive.google.com/file/d/18qG6Mds_9lx6Sumpej8Mpzg368zTd1Bm/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:42:22.778113+00:00",
       "yemos_path": "ivr2:/1/21/7.wav"
@@ -3238,7 +3238,7 @@
       "drive_file_id": "1PnHHTWeQORPJeiARKaFuFXsXiuD4sEbJ",
       "drive_url": "https://drive.google.com/file/d/1PnHHTWeQORPJeiARKaFuFXsXiuD4sEbJ/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:42:27.700546+00:00",
       "yemos_path": "ivr2:/1/21/8.wav"
@@ -3251,7 +3251,7 @@
       "drive_file_id": "1gG7Xz8-KtyT6aFBURhEhamgim03jL4JT",
       "drive_url": "https://drive.google.com/file/d/1gG7Xz8-KtyT6aFBURhEhamgim03jL4JT/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:42:34.249357+00:00",
       "yemos_path": "ivr2:/1/21/9.wav"
@@ -3264,7 +3264,7 @@
       "drive_file_id": "1UpyoYcxseov5fZe9h8GOL9kho_Kht2fX",
       "drive_url": "https://drive.google.com/file/d/1UpyoYcxseov5fZe9h8GOL9kho_Kht2fX/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:42:39.172090+00:00",
       "yemos_path": "ivr2:/1/21/10.wav"
@@ -3277,7 +3277,7 @@
       "drive_file_id": "19LKchWah6lF1pzAmV8TBDP8q3iRlKHwL",
       "drive_url": "https://drive.google.com/file/d/19LKchWah6lF1pzAmV8TBDP8q3iRlKHwL/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:42:45.453417+00:00",
       "yemos_path": "ivr2:/1/22/6.wav"
@@ -3303,7 +3303,7 @@
       "drive_file_id": "1CZbparLdUelX-o5F5-07STpEKitukiOd",
       "drive_url": "https://drive.google.com/file/d/1CZbparLdUelX-o5F5-07STpEKitukiOd/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:44:07.491412+00:00",
       "yemos_path": "ivr2:/1/22/8.wav"
@@ -3316,7 +3316,7 @@
       "drive_file_id": "1TRCpR9qmSVIolzOMLt5DXhr8DAlVsAbb",
       "drive_url": "https://drive.google.com/file/d/1TRCpR9qmSVIolzOMLt5DXhr8DAlVsAbb/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:44:46.333262+00:00",
       "yemos_path": "ivr2:/1/22/9.wav"
@@ -3329,7 +3329,7 @@
       "drive_file_id": "1ml4JWlbJZkwVcYGugjdhCLHGL78ktx37",
       "drive_url": "https://drive.google.com/file/d/1ml4JWlbJZkwVcYGugjdhCLHGL78ktx37/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:45:37.059911+00:00",
       "yemos_path": "ivr2:/1/22/10.wav"
@@ -3342,7 +3342,7 @@
       "drive_file_id": "1qRotoZCm-7zE8uQB_HBpuoAarMO2S-zA",
       "drive_url": "https://drive.google.com/file/d/1qRotoZCm-7zE8uQB_HBpuoAarMO2S-zA/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:46:29.956558+00:00",
       "yemos_path": "ivr2:/1/23/6.wav"
@@ -3355,7 +3355,7 @@
       "drive_file_id": "12TfGB61aElhiLpMLtq7cfgaRI2KdjHwY",
       "drive_url": "https://drive.google.com/file/d/12TfGB61aElhiLpMLtq7cfgaRI2KdjHwY/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:47:18.496128+00:00",
       "yemos_path": "ivr2:/1/23/7.wav"
@@ -3368,7 +3368,7 @@
       "drive_file_id": "15YYmgcF_wFkQALG6gkpFdEcAY1E8VNnm",
       "drive_url": "https://drive.google.com/file/d/15YYmgcF_wFkQALG6gkpFdEcAY1E8VNnm/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:48:13.478383+00:00",
       "yemos_path": "ivr2:/1/23/8.wav"
@@ -3381,7 +3381,7 @@
       "drive_file_id": "1wtrhvxlqte2-P8VT0dmDprWbWiaExODl",
       "drive_url": "https://drive.google.com/file/d/1wtrhvxlqte2-P8VT0dmDprWbWiaExODl/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:48:36.201559+00:00",
       "yemos_path": "ivr2:/1/23/9.wav"
@@ -3394,7 +3394,7 @@
       "drive_file_id": "1v8CVvhx_KnSRrjERwseb8lCSHt4KC39t",
       "drive_url": "https://drive.google.com/file/d/1v8CVvhx_KnSRrjERwseb8lCSHt4KC39t/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:49:00.849797+00:00",
       "yemos_path": "ivr2:/1/23/10.wav"
@@ -3407,7 +3407,7 @@
       "drive_file_id": "1QIFZ7qWyZ-dX9RHl6s69As7IknN4Q9F7",
       "drive_url": "https://drive.google.com/file/d/1QIFZ7qWyZ-dX9RHl6s69As7IknN4Q9F7/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:49:40.302814+00:00",
       "yemos_path": "ivr2:/1/25/6.wav"
@@ -3420,7 +3420,7 @@
       "drive_file_id": "15KApqHJVMI0-OiQabR_QYCCKjjk26gSq",
       "drive_url": "https://drive.google.com/file/d/15KApqHJVMI0-OiQabR_QYCCKjjk26gSq/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:49:57.427729+00:00",
       "yemos_path": "ivr2:/1/25/7.wav"
@@ -3433,7 +3433,7 @@
       "drive_file_id": "1wjMqlFOEVFvrWsCaurKIPc90M_9c1zFh",
       "drive_url": "https://drive.google.com/file/d/1wjMqlFOEVFvrWsCaurKIPc90M_9c1zFh/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:50:08.394632+00:00",
       "yemos_path": "ivr2:/1/25/8.wav"
@@ -3446,7 +3446,7 @@
       "drive_file_id": "185wQUbc3dMgPi4XPJBrk946uf5RRejJM",
       "drive_url": "https://drive.google.com/file/d/185wQUbc3dMgPi4XPJBrk946uf5RRejJM/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:50:20.610213+00:00",
       "yemos_path": "ivr2:/1/26/6.wav"
@@ -3459,7 +3459,7 @@
       "drive_file_id": "1grR3egB2CiQNZTtqHHEEevyZHyQ0IXh8",
       "drive_url": "https://drive.google.com/file/d/1grR3egB2CiQNZTtqHHEEevyZHyQ0IXh8/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:50:41.790329+00:00",
       "yemos_path": "ivr2:/1/26/7.wav"
@@ -3472,7 +3472,7 @@
       "drive_file_id": "1VkTrWexHG-CT1JgYWtLhdFPmeqUSFBYf",
       "drive_url": "https://drive.google.com/file/d/1VkTrWexHG-CT1JgYWtLhdFPmeqUSFBYf/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:51:19.426059+00:00",
       "yemos_path": "ivr2:/1/26/8.wav"
@@ -3485,7 +3485,7 @@
       "drive_file_id": "1wzBRi3JplK3oxGDnEPFMPdVzRKeGtKxq",
       "drive_url": "https://drive.google.com/file/d/1wzBRi3JplK3oxGDnEPFMPdVzRKeGtKxq/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:51:45.331931+00:00",
       "yemos_path": "ivr2:/1/26/9.wav"
@@ -3498,7 +3498,7 @@
       "drive_file_id": "10JxQiq_vtoz-3sXkvD9UDRRm9w5kkrZi",
       "drive_url": "https://drive.google.com/file/d/10JxQiq_vtoz-3sXkvD9UDRRm9w5kkrZi/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:52:09.083533+00:00",
       "yemos_path": "ivr2:/1/26/10.wav"
@@ -3511,7 +3511,7 @@
       "drive_file_id": "1qiizrXcAtPuIDO1JSy18y94eY3SDHKIR",
       "drive_url": "https://drive.google.com/file/d/1qiizrXcAtPuIDO1JSy18y94eY3SDHKIR/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:52:24.392092+00:00",
       "yemos_path": "ivr2:/1/27/6.wav"
@@ -3524,7 +3524,7 @@
       "drive_file_id": "1RKIpEb9pZBqNVeM-C1yvt6ytMKd66UoR",
       "drive_url": "https://drive.google.com/file/d/1RKIpEb9pZBqNVeM-C1yvt6ytMKd66UoR/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:52:49.443848+00:00",
       "yemos_path": "ivr2:/1/27/7.wav"
@@ -3537,7 +3537,7 @@
       "drive_file_id": "1vey34ii5QjNsqWE7NydpcPnmzXa2IbKG",
       "drive_url": "https://drive.google.com/file/d/1vey34ii5QjNsqWE7NydpcPnmzXa2IbKG/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:53:06.553131+00:00",
       "yemos_path": "ivr2:/1/27/8.wav"
@@ -3550,7 +3550,7 @@
       "drive_file_id": "1vgZGXqCUoRmhuMZywbjqHp11BuYNJqQ3",
       "drive_url": "https://drive.google.com/file/d/1vgZGXqCUoRmhuMZywbjqHp11BuYNJqQ3/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:53:27.593519+00:00",
       "yemos_path": "ivr2:/1/27/9.wav"
@@ -3563,7 +3563,7 @@
       "drive_file_id": "1NVTAKUDekEzgtycfGZFDHG7zVdsT-zxD",
       "drive_url": "https://drive.google.com/file/d/1NVTAKUDekEzgtycfGZFDHG7zVdsT-zxD/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:54:05.123428+00:00",
       "yemos_path": "ivr2:/1/27/10.wav"
@@ -3575,7 +3575,7 @@
       "audio_url": "https://play.hubhopper.com/3219abdfcb811baf9c677e7d92ed55aa.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32866883/mwknym-lwnh-5.mp3?s=rss-feed&rd=1790208000",
-      "updated_at": "2026-09-24T20:54:25.931968+00:00"
+      "updated_at": "2026-09-24T22:29:39.764626+00:00"
     },
     "https://hubhopper.com/episode/qrqs-ytlynw-wnh-5-prq-1": {
       "podcast_id": "yaldin",
@@ -3584,7 +3584,7 @@
       "audio_url": "https://play.hubhopper.com/cc36f1b9337b5e0a6225bd1e6fe1349e.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32870692/qrqs-ytlynw-wnh-5-prq-1.mp3?s=rss-feed&rd=1790208000",
-      "updated_at": "2026-09-24T20:54:27.042214+00:00"
+      "updated_at": "2026-09-24T22:29:41.422830+00:00"
     },
     "https://hubhopper.com/episode/sws-trwyny-wnh-5-prq-2": {
       "podcast_id": "yaldin",
@@ -3593,7 +3593,7 @@
       "audio_url": "https://play.hubhopper.com/eae054ec6feb717d772a3f8340b6d2a1.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32872798/sws-trwyny-wnh-5-prq-2.mp3?s=rss-feed&rd=1790208000",
-      "updated_at": "2026-09-24T20:54:28.639372+00:00"
+      "updated_at": "2026-09-24T22:29:43.067529+00:00"
     },
     "https://hubhopper.com/episode/qwmyqs-hmhh-wnh-5-prq-3": {
       "podcast_id": "yaldin",
@@ -3602,7 +3602,7 @@
       "audio_url": "https://play.hubhopper.com/a1a9e95bebcdaf3cdcbe4ddef563e6e6.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32880299/qwmyqs-hmhh-wnh-5-prq-3.mp3?s=rss-feed&rd=1790208000",
-      "updated_at": "2026-09-24T20:54:30.138480+00:00"
+      "updated_at": "2026-09-24T22:29:44.211704+00:00"
     },
     "https://hubhopper.com/episode/dwkn-hwgywt-wnh-5-prq-4": {
       "podcast_id": "yaldin",
@@ -3611,7 +3611,7 @@
       "audio_url": "https://play.hubhopper.com/e340aa535b1507a8e582c1f5908bc3fe.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32881735/dwkn-hwgywt-wnh-5-prq-4.mp3?s=rss-feed&rd=1790208000",
-      "updated_at": "2026-09-24T20:54:31.221227+00:00"
+      "updated_at": "2026-09-24T22:29:45.363580+00:00"
     },
     "https://historia.co.il/?p=17482": {
       "podcast_id": "yetziat_ethiopia",
@@ -3621,7 +3621,7 @@
       "drive_file_id": "1PJxve_0y1nwBPkPOQDMvpKz0GzaaNm4s",
       "drive_url": "https://drive.google.com/file/d/1PJxve_0y1nwBPkPOQDMvpKz0GzaaNm4s/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:54:42.001036+00:00",
       "yemos_path": "ivr2:/1/38/6.wav"
@@ -3634,7 +3634,7 @@
       "drive_file_id": "1CYzs58I9ooThprRs44_fvP7hFbF3whk2",
       "drive_url": "https://drive.google.com/file/d/1CYzs58I9ooThprRs44_fvP7hFbF3whk2/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:55:08.555085+00:00",
       "yemos_path": "ivr2:/1/38/7.wav"
@@ -3647,7 +3647,7 @@
       "drive_file_id": "1OniOKm_o-pxzbMVGLGIdeUdPNQsFK9pX",
       "drive_url": "https://drive.google.com/file/d/1OniOKm_o-pxzbMVGLGIdeUdPNQsFK9pX/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:56:15.738182+00:00",
       "yemos_path": "ivr2:/1/38/8.wav"
@@ -3660,7 +3660,7 @@
       "drive_file_id": "13dQT0f1zQVzrIZj_gLLHuZQ5X_0jk3uP",
       "drive_url": "https://drive.google.com/file/d/13dQT0f1zQVzrIZj_gLLHuZQ5X_0jk3uP/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:57:12.644441+00:00",
       "yemos_path": "ivr2:/1/38/9.wav"
@@ -3673,7 +3673,7 @@
       "drive_file_id": "1Is3LM3Z7xGAPZyKxp7eAbCyFhlMEBgWI",
       "drive_url": "https://drive.google.com/file/d/1Is3LM3Z7xGAPZyKxp7eAbCyFhlMEBgWI/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:58:12.961689+00:00",
       "yemos_path": "ivr2:/1/38/10.wav"
@@ -3686,7 +3686,7 @@
       "drive_file_id": "1IaDjrrepVGQRmIPOnkNyvqFj5lWWsNWA",
       "drive_url": "https://drive.google.com/file/d/1IaDjrrepVGQRmIPOnkNyvqFj5lWWsNWA/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:58:58.052677+00:00",
       "yemos_path": "ivr2:/1/39/6.wav"
@@ -3699,7 +3699,7 @@
       "drive_file_id": "1RlQHO1ShozcAjp8gZYN5zSUtHBsq69sw",
       "drive_url": "https://drive.google.com/file/d/1RlQHO1ShozcAjp8gZYN5zSUtHBsq69sw/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:59:15.532078+00:00",
       "yemos_path": "ivr2:/1/39/7.wav"
@@ -3712,7 +3712,7 @@
       "drive_file_id": "1dAeH-Pt8WdjqNH7ADt-2aPHTfI1oorLk",
       "drive_url": "https://drive.google.com/file/d/1dAeH-Pt8WdjqNH7ADt-2aPHTfI1oorLk/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:59:28.676668+00:00",
       "yemos_path": "ivr2:/1/39/8.wav"
@@ -3725,7 +3725,7 @@
       "drive_file_id": "17SqGzZL4TykfBu352NZ6ls9S2PpJoV2C",
       "drive_url": "https://drive.google.com/file/d/17SqGzZL4TykfBu352NZ6ls9S2PpJoV2C/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:59:51.060336+00:00",
       "yemos_path": "ivr2:/1/40/6.wav"
@@ -3738,7 +3738,7 @@
       "drive_file_id": "1xa8q1sCFZnn8ROUJBo5BWyeCsNtQP1pM",
       "drive_url": "https://drive.google.com/file/d/1xa8q1sCFZnn8ROUJBo5BWyeCsNtQP1pM/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T22:08:54.248095+00:00",
       "yemos_path": "ivr2:/1/2/11.wav"

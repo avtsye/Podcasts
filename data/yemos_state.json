@@ -1355,9 +1355,10 @@
     "8d2a388e-4e3e-4eab-89c2-b4a2008756c9": {
       "podcast_id": "startup_for_startup",
       "title": "362: איך להתאים את מבנה האייג׳נט לבעיה שהוא צריך לפתור",
-      "status": "error",
-      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "updated_at": "2026-09-24T20:20:47.274915+00:00"
+      "status": "uploaded",
+      "path": "ivr2:/1/6/11.wav",
+      "filename_stem": "11",
+      "uploaded_at": "2026-09-24T22:28:48.076924+00:00"
     },
     "affe404b-be0f-4d25-b7f9-b4a800f05bc3": {
       "podcast_id": "startup_for_startup",
@@ -1892,7 +1893,7 @@
       "title": "עונה 1 - פרק 15: נדב פורז - מייסד ומנכ״ל whosampled.com",
       "status": "error",
       "error": "UploadFile finalization failed: path is invalid (messageCode=110)",
-      "updated_at": "2026-09-24T20:44:06.344442+00:00"
+      "updated_at": "2026-09-24T22:29:35.911868+00:00"
     },
     "448ca1a7-018e-4f1a-a85e-b33f00d9bd1d": {
       "podcast_id": "music_tech",
@@ -2149,7 +2150,7 @@
     "3": 11,
     "4": 11,
     "5": 11,
-    "6": 11,
+    "6": 12,
     "7": 11,
     "8": 11,
     "9": 11,
@@ -2164,12 +2165,12 @@
     "18": 11,
     "19": 11,
     "21": 11,
-    "22": 11,
+    "22": 12,
     "23": 11,
     "25": 9,
     "26": 11,
     "27": 11,
-    "37": 19,
+    "37": 28,
     "38": 11,
     "39": 9,
     "40": 7
