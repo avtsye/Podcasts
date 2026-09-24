@@ -17,6 +17,23 @@ function episodes(){const rows=Object.entries(data.episodes).sort((a,b)=>(b[1].p
 function runs(){view.innerHTML='<div class="panel"><div class="table-wrap"><table><thead><tr><th>#</th><th>אירוע</th><th>מצב</th><th>התחלה</th><th>GitHub</th></tr></thead><tbody>'+data.runs.map(r=>'<tr><td>'+r.number+'</td><td>'+r.event+'</td><td>'+badge(r.status==="completed"?r.conclusion:r.status)+'</td><td>'+date(r.created_at)+'</td><td><a target="_blank" href="'+r.html_url+'">פתח</a></td></tr>').join("")+'</tbody></table></div></div>'}
 function errors(){const rows=Object.values(data.episodes).filter(e=>e.status==="error"||e.yemos_status==="error"||e.error||e.yemos_error);view.innerHTML='<div class="panel"><h2>'+rows.length+' שגיאות בפרקים</h2><div class="table-wrap"><table><thead><tr><th>פרק</th><th>פודקאסט</th><th>שגיאה</th></tr></thead><tbody>'+rows.map(e=>'<tr><td>'+esc(e.title||"")+'</td><td>'+esc(e.podcast_id||"")+'</td><td>'+esc(e.error||e.yemos_error||"")+'</td></tr>').join("")+'</tbody></table></div></div>'}
 function esc(s){return String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}function attr(s){return esc(s)}
-async function login(){password=$("#password").value;sessionStorage.setItem("podcastDashboardPassword",password);try{await load();$("#login").classList.add("hidden");$("#app").classList.remove("hidden");render("overview")}catch(e){$("#loginError").textContent=e.message;sessionStorage.removeItem("podcastDashboardPassword")}}
+async function login(useStored=false){
+  const typed=$("#password").value;
+  if(!useStored || typed) password=typed;
+  if(!password){$("#loginError").textContent="יש להזין סיסמה";return}
+  try{
+    await load();
+    sessionStorage.setItem("podcastDashboardPassword",password);
+    $("#login").classList.add("hidden");
+    $("#app").classList.remove("hidden");
+    render("overview");
+  }catch(e){
+    $("#loginError").textContent=e.message;
+    if(e.message==="Unauthorized"){
+      sessionStorage.removeItem("podcastDashboardPassword");
+      password="";
+    }
+  }
+}
 $("#loginBtn").onclick=login;$("#password").onkeydown=e=>{if(e.key==="Enter")login()};$("#logout").onclick=()=>{sessionStorage.clear();location.reload()};$("#refresh").onclick=async()=>{await load();render(current)};document.querySelectorAll(".nav").forEach(b=>b.onclick=()=>render(b.dataset.view));
-if(password)login();
+if(password)login(true);
