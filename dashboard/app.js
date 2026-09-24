@@ -1,4 +1,4 @@
-const API="https://podcasts-dashboard-api.onrender.com";
+const API="";
 let password=sessionStorage.getItem("podcastDashboardPassword")||"";
 let data=null;
 const $=s=>document.querySelector(s), view=$("#view");
