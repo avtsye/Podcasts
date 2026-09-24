@@ -174,7 +174,16 @@ jobs:
               print(f"| {p.get('name','')} | {p.get('yemos_branch','—')} | {status} |")
           print(f"\nסה״כ: **{len(podcasts)}** פודקאסטים.")
           PY
-          gh issue comment "$ISSUE_NUMBER" --body-file /tmp/podcast-list.md
+          # Keep one permanent dashboard issue and replace its body on every refresh.
+          {
+            echo "# 📋 רשימת פודקאסטים ושלוחות Yemos"
+            echo
+            echo "עודכן אוטומטית מהריצה האחרונה."
+            echo
+            cat /tmp/podcast-list.md
+          } > /tmp/podcast-list-dashboard.md
+          gh issue edit 24 --body-file /tmp/podcast-list-dashboard.md
+          gh issue comment "$ISSUE_NUMBER" --body "✅ הרשימה עודכנה ב-Issue הקבוע: #24"
 
       - name: Monitor RSS feeds
         env:
