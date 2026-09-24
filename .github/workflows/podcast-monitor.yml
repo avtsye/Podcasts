@@ -26,6 +26,9 @@ on:
   repository_dispatch:
     types:
       - podcast_manual
+  issues:
+    types:
+      - opened
 
 permissions:
   contents: write
@@ -76,6 +79,50 @@ jobs:
           print(f"Configuration validation passed: {len(config['podcasts'])} podcasts configured.")
           PY
 
+      - name: Parse podcast selector form
+        if: github.event_name == 'issues'
+        env:
+          ISSUE_BODY: \${{ github.event.issue.body }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import re
+          from pathlib import Path
+
+          body = os.environ.get("ISSUE_BODY", "")
+          config = json.loads(Path("config/podcasts.json").read_text(encoding="utf-8"))
+          podcasts = config.get("podcasts", [])
+          names = {p["name"]: p["id"] for p in podcasts}
+
+          all_selected = bool(re.search(r"(?mi)^- \[x\] .*הורד את כל הפודקאסטים", body))
+          selected = []
+          if not all_selected:
+              for name, podcast_id in names.items():
+                  if re.search(r"(?mi)^- \[x\] " + re.escape(name) + r"\s*$", body):
+                      selected.append(podcast_id)
+
+          mode_all = bool(re.search(r"(?mi)^-?\s*כל הפרקים הזמינים ב-RSS\s*$", body))
+          count_match = re.search(r"(?mi)^### מספר פרקים אחרונים\s*\n+([^\n]+)", body)
+          count = "1"
+          if count_match:
+              digits = re.search(r"\d+", count_match.group(1))
+              if digits:
+                  count = str(max(1, min(1000, int(digits.group(0)))))
+
+          if all_selected:
+              selected = [p["id"] for p in podcasts if p.get("enabled", True)]
+
+          if not selected:
+              raise SystemExit("לא נבחר אף פודקאסט. סמן לפחות פודקאסט אחד או את 'הורד את כל הפודקאסטים'.")
+
+          with open(os.environ["GITHUB_ENV"], "a", encoding="utf-8") as env:
+              env.write(f"PODCAST_FORM_IDS={','.join(selected)}\n")
+              env.write(f"PODCAST_FORM_MODE={'all' if mode_all else 'latest'}\n")
+              env.write(f"PODCAST_FORM_COUNT={count}\n")
+          print(f"Selected {len(selected)} podcast(s), mode={'all' if mode_all else 'latest'}, count={count}")
+          PY
+
       - name: Monitor RSS feeds
         env:
           GOOGLE_TOKEN_JSON: ${{ secrets.GOOGLE_TOKEN_JSON }}
@@ -83,10 +130,26 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_API_URL: ${{ github.api_url }}
-          PODCAST_HISTORY_MODE: ${{ github.event_name == 'schedule' && 'false' || github.event_name == 'workflow_dispatch' && inputs.mode == 'all' || github.event.client_payload.mode == 'all' }}
-          PODCAST_COUNT: ${{ github.event_name == 'schedule' && '0' || github.event_name == 'workflow_dispatch' && inputs.count || github.event.client_payload.count }}
-          PODCAST_IDS: ${{ github.event_name == 'schedule' && '' || github.event_name == 'workflow_dispatch' && inputs.podcasts || github.event.client_payload.podcasts }}
+          PODCAST_HISTORY_MODE: ${{ github.event_name == 'schedule' && 'false' || github.event_name == 'issues' && env.PODCAST_FORM_MODE == 'all' || github.event_name == 'workflow_dispatch' && inputs.mode == 'all' || github.event.client_payload.mode == 'all' }}
+          PODCAST_COUNT: ${{ github.event_name == 'schedule' && '0' || github.event_name == 'issues' && env.PODCAST_FORM_COUNT || github.event_name == 'workflow_dispatch' && inputs.count || github.event.client_payload.count }}
+          PODCAST_IDS: ${{ github.event_name == 'schedule' && '' || github.event_name == 'issues' && env.PODCAST_FORM_IDS || github.event_name == 'workflow_dispatch' && inputs.podcasts || github.event.client_payload.podcasts }}
         run: python -m src.monitor
+
+      - name: Comment on manual request
+        if: github.event_name == 'issues'
+        env:
+          GH_TOKEN: \${{ github.token }}
+          ISSUE_NUMBER: \${{ github.event.issue.number }}
+        run: |
+          gh issue comment "$ISSUE_NUMBER" --body "הפעלת ההורדה הסתיימה. ניתן לראות את פרטי הריצה בלשונית Actions."
+
+      - name: Close manual request
+        if: github.event_name == 'issues'
+        env:
+          GH_TOKEN: \${{ github.token }}
+          ISSUE_NUMBER: \${{ github.event.issue.number }}
+        run: |
+          gh issue close "$ISSUE_NUMBER"
 
       - name: Save monitoring state
         run: |
