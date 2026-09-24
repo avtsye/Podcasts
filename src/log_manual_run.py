@@ -2,8 +2,8 @@ import os
 import requests
 
 API = os.getenv("GITHUB_API_URL", "https://api.github.com").rstrip("/")
-TOKEN = os.getenv("GITHUB_TOKEN", "")
-REPO = os.getenv("GITHUB_REPOSITORY", "")
+TOKEN = os.getenv("GH_TOKEN") or os.getenv("GITHUB_TOKEN", "")
+REPO = os.getenv("REPO") or os.getenv("GITHUB_REPOSITORY", "")
 TITLE = "Podcast Temporary Runs"
 
 if not TOKEN or not REPO:
