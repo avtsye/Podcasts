@@ -1,0 +1,71 @@
+name: "הפעלת הורדת פודקאסטים"
+description: "בחירת פודקאסטים והפעלת הורדה ידנית"
+title: "[הורדה] "
+labels: ["podcast-download"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## הורדת פודקאסטים
+        סמן את הפודקאסטים הרצויים ולחץ על **Submit new issue**.
+        אם מסמנים **הורד את כל הפודקאסטים**, הבחירה האישית מתעלמת וכל הפודקאסטים הפעילים יעובדו.
+
+  - type: checkboxes
+    id: all
+    attributes:
+      label: בחירה כללית
+      options:
+        - label: "הורד את כל הפודקאסטים"
+          required: false
+
+  - type: checkboxes
+    id: podcasts
+    attributes:
+      label: פודקאסטים
+      options:
+        - label: "אחד ביום"
+        - label: "גיקונומי"
+        - label: "חיות כיס"
+        - label: "עושים טכנולוגיה"
+        - label: "התשובה"
+        - label: "Startup for Startup"
+        - label: "מנועי הכסף"
+        - label: "היסטוריה לילדים"
+        - label: "בָּדוּק"
+        - label: "המאה ה-20: שנה בשעה"
+        - label: "סקרנית"
+        - label: "Out of Memory"
+        - label: "ערך מוסף בשבילי"
+        - label: "TEAM לעצמאים"
+        - label: "מגזין מעריב"
+        - label: "The CX PODCAST"
+        - label: "חיים של אחרים"
+        - label: "עסק כלכלי"
+        - label: "קטע כלכלי"
+        - label: "בזמן שעבדתם"
+        - label: "האוניברסיטה הקטנה של המדעים"
+        - label: "פודקאסט על מוזיקה וטכנולוגיה"
+        - label: "הנוסע המתמיד עם נדב יעקבי"
+        - label: "Ear Catcher"
+        - label: "היסטוריה על הדרך"
+
+  - type: dropdown
+    id: mode
+    attributes:
+      label: מצב הורדה
+      options:
+        - "הפרקים האחרונים"
+        - "כל הפרקים הזמינים ב-RSS"
+      default: 0
+    validations:
+      required: true
+
+  - type: input
+    id: count
+    attributes:
+      label: מספר פרקים אחרונים
+      description: "בשימוש רק במצב 'הפרקים האחרונים'. לדוגמה: 1, 3, 5 או 10."
+      placeholder: "1"
+      value: "1"
+    validations:
+      required: true
