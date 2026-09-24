@@ -1,130 +1,130 @@
 {
   "feeds": {
     "ehad_beyom": {
-      "last_checked": "2026-09-24T13:36:31.795500+00:00",
+      "last_checked": "2026-09-24T13:51:39.242286+00:00",
       "last_error": null
     },
     "geekonomy": {
-      "last_checked": "2026-09-24T10:52:04.194293+00:00",
+      "last_checked": "2026-09-24T13:51:41.675728+00:00",
       "last_error": null
     },
     "hayot_kes": {
-      "last_checked": "2026-09-24T10:52:58.131997+00:00",
+      "last_checked": "2026-09-24T13:51:42.600488+00:00",
       "last_error": null
     },
     "osim_tech": {
-      "last_checked": "2026-09-24T10:55:02.066648+00:00",
+      "last_checked": "2026-09-24T13:51:43.087221+00:00",
       "last_error": null
     },
     "hatshuva": {
-      "last_checked": "2026-09-24T10:56:27.406476+00:00",
+      "last_checked": "2026-09-24T13:51:43.751335+00:00",
       "last_error": null
     },
     "startup_for_startup": {
-      "last_checked": "2026-09-24T10:58:21.032143+00:00",
+      "last_checked": "2026-09-24T13:51:45.316909+00:00",
       "last_error": null
     },
     "money_engines": {
-      "last_checked": "2026-09-24T11:00:51.880871+00:00",
+      "last_checked": "2026-09-24T13:51:45.733617+00:00",
       "last_error": null
     },
     "history_for_children": {
-      "last_checked": "2026-09-24T11:04:02.600486+00:00",
+      "last_checked": "2026-09-24T13:51:46.493979+00:00",
       "last_error": null
     },
     "baduk": {
-      "last_checked": "2026-09-24T11:04:47.711136+00:00",
+      "last_checked": "2026-09-24T13:51:46.872450+00:00",
       "last_error": null
     },
     "20th_century": {
-      "last_checked": "2026-09-24T11:06:34.745691+00:00",
+      "last_checked": "2026-09-24T13:51:47.362110+00:00",
       "last_error": null
     },
     "sakranit": {
-      "last_checked": "2026-09-24T11:08:30.760607+00:00",
+      "last_checked": "2026-09-24T13:51:47.635441+00:00",
       "last_error": null
     },
     "out_of_memory": {
-      "last_checked": "2026-09-24T11:11:37.229515+00:00",
+      "last_checked": "2026-09-24T13:51:47.990199+00:00",
       "last_error": null
     },
     "erech_musaf": {
-      "last_checked": "2026-09-24T11:12:22.290511+00:00",
+      "last_checked": "2026-09-24T13:51:48.285976+00:00",
       "last_error": null
     },
     "team_atzmaim": {
-      "last_checked": "2026-09-24T11:13:15.006420+00:00",
+      "last_checked": "2026-09-24T13:51:48.562427+00:00",
       "last_error": null
     },
     "maariv_magazine": {
-      "last_checked": "2026-09-24T11:16:10.075686+00:00",
+      "last_checked": "2026-09-24T13:52:49.514697+00:00",
       "last_error": null
     },
     "cx_podcast": {
-      "last_checked": "2026-09-24T11:19:15.937696+00:00",
+      "last_checked": "2026-09-24T13:52:50.031524+00:00",
       "last_error": null
     },
     "haim_aherim": {
-      "last_checked": "2026-09-24T11:22:35.876112+00:00",
+      "last_checked": "2026-09-24T13:52:51.644408+00:00",
       "last_error": null
     },
     "esek_kalkali": {
-      "last_checked": "2026-09-24T11:23:35.267701+00:00",
+      "last_checked": "2026-09-24T13:52:51.913617+00:00",
       "last_error": null
     },
     "keta_kalkali": {
-      "last_checked": "2026-09-24T11:24:20.074610+00:00",
+      "last_checked": "2026-09-24T13:52:52.335208+00:00",
       "last_error": null
     },
     "zman_sheavodtem": {
       "last_error": "RSS parse failed: <unknown>:22:2: mismatched tag",
-      "last_checked": "2026-09-24T11:24:20.430162+00:00"
+      "last_checked": "2026-09-24T13:52:52.425472+00:00"
     },
     "little_university": {
-      "last_checked": "2026-09-24T11:24:49.238432+00:00",
+      "last_checked": "2026-09-24T13:52:52.871815+00:00",
       "last_error": null
     },
     "music_tech": {
-      "last_checked": "2026-09-24T11:28:42.146954+00:00",
+      "last_checked": "2026-09-24T13:52:53.175165+00:00",
       "last_error": null
     },
     "traveler": {
-      "last_checked": "2026-09-24T11:32:01.438055+00:00",
+      "last_checked": "2026-09-24T13:52:53.737974+00:00",
       "last_error": null
     },
     "ear_catcher": {
-      "last_checked": "2026-09-24T11:32:01.791164+00:00"
+      "last_checked": "2026-09-24T13:52:53.894815+00:00"
     },
     "historia_bederech": {
-      "last_checked": "2026-09-24T11:32:39.227960+00:00",
+      "last_checked": "2026-09-24T13:52:54.208241+00:00",
       "last_error": null
     },
     "historia_ktaim": {
-      "last_checked": "2026-09-24T11:35:56.294297+00:00",
+      "last_checked": "2026-09-24T13:52:54.691430+00:00",
       "last_error": null
     },
     "osim_historia": {
-      "last_checked": "2026-09-24T11:38:45.647476+00:00",
+      "last_checked": "2026-09-24T13:52:55.433644+00:00",
       "last_error": null
     },
     "yaldin": {
       "last_error": null,
-      "last_checked": "2026-09-24T11:39:11.727316+00:00"
+      "last_checked": "2026-09-24T13:52:55.568954+00:00"
     },
     "yetziat_ethiopia": {
-      "last_checked": "2026-09-24T11:43:34.808792+00:00",
+      "last_checked": "2026-09-24T13:52:55.660181+00:00",
       "last_error": null
     },
     "sogen_sodi": {
-      "last_checked": "2026-09-24T11:44:51.688332+00:00",
+      "last_checked": "2026-09-24T13:52:55.733766+00:00",
       "last_error": null
     },
     "sipur_beerech": {
-      "last_checked": "2026-09-24T11:48:00.559674+00:00",
+      "last_checked": "2026-09-24T13:52:56.024344+00:00",
       "last_error": null
     },
     "frontiers_youth": {
-      "last_checked": "2026-09-24T11:48:00.911455+00:00"
+      "last_checked": "2026-09-24T13:52:56.269095+00:00"
     }
   },
   "episodes": {
@@ -848,7 +848,7 @@
       "drive_file_id": "14-zpnEtA56vHtpVDo5wtovE6e9_q-gxV",
       "drive_url": "https://drive.google.com/file/d/14-zpnEtA56vHtpVDo5wtovE6e9_q-gxV/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T10:58:08.170932+00:00",
       "yemos_path": "ivr2:/1/6/5.wav"
@@ -913,7 +913,7 @@
       "drive_file_id": "1pcVHKi1cRAbzBE0vQYD6kxTmSytzr9dC",
       "drive_url": "https://drive.google.com/file/d/1pcVHKi1cRAbzBE0vQYD6kxTmSytzr9dC/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T11:00:32.077713+00:00",
       "yemos_path": "ivr2:/1/7/5.wav"
@@ -978,7 +978,7 @@
       "drive_file_id": "1dCQElS84qyIktc69vlYkqbvCu5MAHhYu",
       "drive_url": "https://drive.google.com/file/d/1dCQElS84qyIktc69vlYkqbvCu5MAHhYu/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T11:03:21.806993+00:00",
       "yemos_path": "ivr2:/1/8/5.wav"
@@ -1043,7 +1043,7 @@
       "drive_file_id": "15U0T2ubA3IFLYzR4sw2THXtScE1q-C6_",
       "drive_url": "https://drive.google.com/file/d/15U0T2ubA3IFLYzR4sw2THXtScE1q-C6_/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T11:04:39.959226+00:00",
       "yemos_path": "ivr2:/1/9/5.wav"
@@ -1108,7 +1108,7 @@
       "drive_file_id": "1awhDNzrkzt0-g1JxQCEYkV9aOog_-kts",
       "drive_url": "https://drive.google.com/file/d/1awhDNzrkzt0-g1JxQCEYkV9aOog_-kts/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T11:06:19.239365+00:00",
       "yemos_path": "ivr2:/1/10/5.wav"
@@ -1173,7 +1173,7 @@
       "drive_file_id": "1xLc-76nLQ2fX2Zg4ky5EfBnfeyXYZHGf",
       "drive_url": "https://drive.google.com/file/d/1xLc-76nLQ2fX2Zg4ky5EfBnfeyXYZHGf/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T11:08:09.895384+00:00",
       "yemos_path": "ivr2:/1/11/5.wav"
@@ -1238,7 +1238,7 @@
       "drive_file_id": "1wkgoIv--1pSTZ6bH9yxesbHkmUVolpld",
       "drive_url": "https://drive.google.com/file/d/1wkgoIv--1pSTZ6bH9yxesbHkmUVolpld/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T11:10:57.104859+00:00",
       "yemos_path": "ivr2:/1/12/5.wav"
@@ -1303,7 +1303,7 @@
       "drive_file_id": "137cPa1QkET6JId-3EKZptnqg0sru1sLq",
       "drive_url": "https://drive.google.com/file/d/137cPa1QkET6JId-3EKZptnqg0sru1sLq/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T11:12:16.369791+00:00",
       "yemos_path": "ivr2:/1/13/5.wav"
@@ -1355,7 +1355,7 @@
       "drive_file_id": "195GHUZmCAaa01evyTSWGK1VGqVyyZQF_",
       "drive_url": "https://drive.google.com/file/d/195GHUZmCAaa01evyTSWGK1VGqVyyZQF_/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T11:13:05.955457+00:00",
       "yemos_path": "ivr2:/1/14/4.wav"
@@ -1485,7 +1485,7 @@
       "drive_file_id": "1aYp4lGDOvy8EzdBSfsS_HEsZzKNVNifj",
       "drive_url": "https://drive.google.com/file/d/1aYp4lGDOvy8EzdBSfsS_HEsZzKNVNifj/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T11:19:02.385158+00:00",
       "yemos_path": "ivr2:/1/16/5.wav"
@@ -1550,7 +1550,7 @@
       "drive_file_id": "1UN3LyTvTvvnpJ5blVzAJny77rNWOucBU",
       "drive_url": "https://drive.google.com/file/d/1UN3LyTvTvvnpJ5blVzAJny77rNWOucBU/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T11:21:57.839969+00:00",
       "yemos_path": "ivr2:/1/17/5.wav"
@@ -1615,7 +1615,7 @@
       "drive_file_id": "1Jixfsy1hy4A-ehsd05g0h_yp55sZPEBD",
       "drive_url": "https://drive.google.com/file/d/1Jixfsy1hy4A-ehsd05g0h_yp55sZPEBD/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T11:23:24.356134+00:00",
       "yemos_path": "ivr2:/1/18/5.wav"
@@ -1680,7 +1680,7 @@
       "drive_file_id": "1blPfDoPB4XLKKgavdq_ZYL-0YbdKCY-J",
       "drive_url": "https://drive.google.com/file/d/1blPfDoPB4XLKKgavdq_ZYL-0YbdKCY-J/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T11:24:14.975130+00:00",
       "yemos_path": "ivr2:/1/19/5.wav"
@@ -1745,7 +1745,7 @@
       "drive_file_id": "1iHFewzhXRa6CD8pKt8MVk_M-5Qb8SRTq",
       "drive_url": "https://drive.google.com/file/d/1iHFewzhXRa6CD8pKt8MVk_M-5Qb8SRTq/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T11:24:45.885960+00:00",
       "yemos_path": "ivr2:/1/21/5.wav"
@@ -1810,7 +1810,7 @@
       "drive_file_id": "1y7xMZFgebXlfmWKQLDNquN-hAv0U70rC",
       "drive_url": "https://drive.google.com/file/d/1y7xMZFgebXlfmWKQLDNquN-hAv0U70rC/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T11:28:08.536330+00:00",
       "yemos_path": "ivr2:/1/22/5.wav"
@@ -1875,7 +1875,7 @@
       "drive_file_id": "1_Wdg2b44zwZTbXySr0z_B0YfZeyhoxAY",
       "drive_url": "https://drive.google.com/file/d/1_Wdg2b44zwZTbXySr0z_B0YfZeyhoxAY/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T11:31:25.292211+00:00",
       "yemos_path": "ivr2:/1/23/5.wav"
@@ -1940,7 +1940,7 @@
       "drive_file_id": "1dAQPgAhTDcF77hWJu-b7bV31HwvmFLI7",
       "drive_url": "https://drive.google.com/file/d/1dAQPgAhTDcF77hWJu-b7bV31HwvmFLI7/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T11:32:32.919128+00:00",
       "yemos_path": "ivr2:/1/25/5.wav"
@@ -2005,7 +2005,7 @@
       "drive_file_id": "1hTfNw4zRBaT-IvpXVUW29juC0mSqlVKk",
       "drive_url": "https://drive.google.com/file/d/1hTfNw4zRBaT-IvpXVUW29juC0mSqlVKk/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T11:35:10.717110+00:00",
       "yemos_path": "ivr2:/1/26/5.wav"
@@ -2070,7 +2070,7 @@
       "drive_file_id": "1MfV4U-M1rHPT1sfNigRLXG-QTCgadwI-",
       "drive_url": "https://drive.google.com/file/d/1MfV4U-M1rHPT1sfNigRLXG-QTCgadwI-/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T11:38:15.923027+00:00",
       "yemos_path": "ivr2:/1/27/5.wav"
@@ -2119,7 +2119,7 @@
       "drive_file_id": "1erUttcV4tC6IIeNB2ipcs0hFQCYkb0cx",
       "drive_url": "https://drive.google.com/file/d/1erUttcV4tC6IIeNB2ipcs0hFQCYkb0cx/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T11:38:52.839848+00:00",
       "yemos_path": "ivr2:/1/37/5.wav"
@@ -2184,7 +2184,7 @@
       "drive_file_id": "1Mi6iOIHAxbUel9nbTuLPVjJ_8J8oRSKs",
       "drive_url": "https://drive.google.com/file/d/1Mi6iOIHAxbUel9nbTuLPVjJ_8J8oRSKs/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T11:43:04.442999+00:00",
       "yemos_path": "ivr2:/1/38/5.wav"
@@ -2249,7 +2249,7 @@
       "drive_file_id": "1fnVF1Yitj-fY6xVKMKF27gzXVW55WM8o",
       "drive_url": "https://drive.google.com/file/d/1fnVF1Yitj-fY6xVKMKF27gzXVW55WM8o/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T11:44:42.974375+00:00",
       "yemos_path": "ivr2:/1/39/5.wav"
@@ -2314,10 +2314,23 @@
       "drive_file_id": "1PrLYvyY8tbq7IjA7WGhHUPdGsELsU9-w",
       "drive_url": "https://drive.google.com/file/d/1PrLYvyY8tbq7IjA7WGhHUPdGsELsU9-w/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T11:47:30.307076+00:00",
       "yemos_path": "ivr2:/1/40/5.wav"
+    },
+    "b93abd87-5702-4b44-b2ba-b4cf00c40f2f": {
+      "podcast_id": "maariv_magazine",
+      "title": "גילי ורמוט | מחצית בשכונה, פרק 62",
+      "published": "Thu, 24 Sep 2026 12:00:10 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/cf9dba57-c30f-4347-a55b-b226011276ad/b93abd87-5702-4b44-b2ba-b4cf00c40f2f/audio.mp3?utm_source=Podcast&in_playlist=187abdae-ae69-410e-b558-b2260112783a",
+      "drive_file_id": "1zNni_jCDw-3eu4dSj4bNdrfE5_sqKNt9",
+      "drive_url": "https://drive.google.com/file/d/1zNni_jCDw-3eu4dSj4bNdrfE5_sqKNt9/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T13:51:58.715222+00:00",
+      "yemos_path": "ivr2:/1/15/6.wav"
     }
   }
 }
