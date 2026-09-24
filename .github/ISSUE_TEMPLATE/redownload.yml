@@ -41,12 +41,17 @@ body:
         - label: "סוכן סודי"
         - label: "סיפור בערך"
         - label: "פרונטירז – מדע לצעירים"
+  - type: input
+    id: count
+    attributes:
+      label: כמות פרקים אחרונים להורדה חוזרת
+      description: "הזן מספר כדי להוריד מחדש את X הפרקים האחרונים מכל פודקאסט שסומן. השאר ריק אם אתה בוחר פרקים מסוימים למטה."
+      placeholder: "לדוגמה: 3"
   - type: textarea
     id: episodes
     attributes:
-      label: פרקים להורדה חוזרת
-      description: "שם פרק מדויק בכל שורה. אפשר גם להדביק GUID של פרק."
-    validations: {required: true}
+      label: פרקים מסוימים להורדה חוזרת
+      description: "אופציונלי: שם פרק מדויק בכל שורה או GUID. אם הוגדרה כמות למעלה, אין צורך למלא שדה זה."
   - type: dropdown
     id: targets
     attributes:
