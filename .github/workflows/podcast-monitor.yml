@@ -166,9 +166,23 @@ jobs:
           gh issue close "$ISSUE_NUMBER"
 
       - name: Save monitoring state
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # The Yemos state file may not exist when a run stops before the
+          # first Yemos state save. Keep the commit step robust in that case.
+          if [ ! -f data/state.json ]; then
+            mkdir -p data
+            printf '%s\n' '{"feeds": {}, "episodes": {}}' > data/state.json
+          fi
+
+          if [ ! -f data/yemos_state.json ]; then
+            mkdir -p data
+            printf '%s\n' '{"episodes": {}}' > data/yemos_state.json
+          fi
+
           git add data/state.json data/yemos_state.json
 
           if git diff --cached --quiet; then
