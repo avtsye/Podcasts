@@ -151,6 +151,24 @@ def process_feed(podcast, config, state, yemos_state):
         current = seen.get(key)
         yemos_record = yemos_episodes.get(key, {})
         title = entry.get("title", "Untitled")
+
+        # Migrate the Yemos status already stored in the main state file.
+        # This prevents re-uploading episodes that succeeded before the
+        # separate Yemos state file was introduced.
+        if (
+            current
+            and current.get("yemos_status") == "uploaded"
+            and yemos_record.get("status") != "uploaded"
+        ):
+            yemos_record = {
+                "podcast_id": podcast_id,
+                "title": title,
+                "status": "uploaded",
+                "path": current.get("yemos_path"),
+                "migrated_at": utc_now(),
+            }
+            yemos_episodes[key] = yemos_record
+            save_yemos_state(yemos_state)
         audio_url = enclosure_url(entry)
 
         # A Drive upload is independent from Yemos. If Drive already has the
