@@ -1,0 +1,27 @@
+name: "⚙️ ניהול פודקאסט"
+description: "הוספה, עריכה, הפעלה או השבתה של פודקאסט"
+title: "[ניהול פודקאסט] "
+labels: ["בקשה", "פודקאסט"]
+body:
+  - type: dropdown
+    id: action
+    attributes:
+      label: פעולה
+      options: ["הוספה", "עריכה", "הפעלה", "השבתה"]
+    validations: {required: true}
+  - type: input
+    id: podcast_id
+    attributes: {label: "מזהה הפודקאסט"}
+    validations: {required: true}
+  - type: input
+    id: name
+    attributes: {label: "שם", description: "חובה בהוספה; בעריכה השאר ריק כדי לא לשנות"}
+  - type: input
+    id: rss
+    attributes: {label: "RSS", description: "חובה בהוספה; בעריכה השאר ריק כדי לא לשנות"}
+  - type: input
+    id: drive_folder
+    attributes: {label: "תיקיית Drive"}
+  - type: input
+    id: yemos_branch
+    attributes: {label: "שלוחת Yemos"}
