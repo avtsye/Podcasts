@@ -2,7 +2,45 @@ const API="https://podcasts-dashboard-api.onrender.com";
 let password=sessionStorage.getItem("podcastDashboardPassword")||"";
 let data=null;
 const $=s=>document.querySelector(s), view=$("#view");
-async function api(path,options={}){const r=await fetch(API+path,{...options,headers:{"Content-Type":"application/json","X-Dashboard-Password":password,...(options.headers||{})}});const j=await r.json().catch(()=>({}));if(!r.ok)throw new Error(j.error||("HTTP "+r.status));return j}
+async function api(path,options={}){
+  const url=API+path;
+  let r;
+  try{
+    r=await fetch(url,{...options,cache:"no-store",headers:{"Content-Type":"application/json","X-Dashboard-Password":password,...(options.headers||{})}});
+  }catch(e){
+    const err=new Error("NETWORK_FETCH_FAILED: "+(e?.message||String(e)));
+    err.stage="fetch"; err.url=url; err.original=e;
+    throw err;
+  }
+  let text="";
+  try{text=await r.text()}catch(e){
+    const err=new Error("RESPONSE_READ_FAILED: "+(e?.message||String(e)));
+    err.stage="read"; err.url=url; err.status=r.status;
+    throw err;
+  }
+  let j={};
+  if(text){try{j=JSON.parse(text)}catch(e){
+    const err=new Error("INVALID_JSON: HTTP "+r.status+"; "+text.slice(0,180));
+    err.stage="json"; err.url=url; err.status=r.status;
+    throw err;
+  }}
+  if(!r.ok){
+    const err=new Error(j.error||("HTTP "+r.status));
+    err.stage="http"; err.url=url; err.status=r.status;
+    throw err;
+  }
+  return j;
+}
+function errorDetails(e){
+  return [
+    e?.message||String(e),
+    e?.stage?"שלב: "+e.stage:"",
+    e?.status?"HTTP: "+e.status:"",
+    e?.url?"API: "+e.url:"",
+    "עמוד: "+location.href,
+    "זמן: "+new Date().toLocaleString("he-IL")
+  ].filter(Boolean).join(" | ");
+}
 function badge(v){const c=v==="success"||v==="completed"||v==="uploaded"?"success":v==="failure"||v==="error"?"danger":v==="in_progress"||v==="queued"?"warning":"";return '<span class="badge '+c+'">'+(v||"—")+"</span>"}
 function date(v){return v?new Date(v).toLocaleString("he-IL"):"—"}
 async function load(){try{data=await api("/api/overview");$("#apiDot").className="dot ok";$("#apiText").textContent="API מחובר";render(current)}catch(e){$("#apiDot").className="dot bad";$("#apiText").textContent="שגיאת API";throw e}}
@@ -28,7 +66,7 @@ async function login(useStored=false){
     $("#app").classList.remove("hidden");
     render("overview");
   }catch(e){
-    $("#loginError").textContent=e.message;
+    $("#loginError").textContent=errorDetails(e);
     if(e.message==="Unauthorized"){
       sessionStorage.removeItem("podcastDashboardPassword");
       password="";
