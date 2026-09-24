@@ -1,0 +1,17 @@
+name: "📋 רשימת פודקאסטים"
+description: "הצג רשימה עדכנית של כל הפודקאסטים ושלוחות Yemos שלהם"
+title: "[רשימת פודקאסטים] "
+labels: ["בקשה", "רשימת-פודקאסטים"]
+body:
+  - type: markdown
+    attributes:
+      value: "פתח את הבקשה והמערכת תוסיף אוטומטית טבלה עדכנית מתוך config/podcasts.json."
+  - type: dropdown
+    id: scope
+    attributes:
+      label: מה להציג
+      options:
+        - כל הפודקאסטים
+        - פודקאסטים פעילים בלבד
+    validations:
+      required: true
