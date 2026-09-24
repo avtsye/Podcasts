@@ -1,22 +1,36 @@
 # Podcasts RSS Monitor
 
-GitHub Actions service for monitoring podcast RSS feeds, downloading new episodes, uploading them to Google Drive, and sending email notifications.
+מערכת אוטומטית לניטור פודקאסטים באמצעות GitHub Actions.
 
-Demo feed: https://www.nasa.gov/feeds/podcasts/houston-we-have-a-podcast
+## מה המערכת עושה
 
-The first run marks current episodes as already seen. Later runs process only new episodes.
+- בודקת את כל הפודקאסטים הפעילים אוטומטית בכל שעה, בדקה 17.
+- מורידה פרקים חדשים מ-RSS.
+- מעלה את קובצי האודיו ל-Google Drive ול-Yemos לפי ההגדרות.
+- שומרת מצב כדי למנוע הורדות כפולות.
+- מאפשרת ניהול ידני דרך GitHub Issues.
 
-Audio is never committed to Git; it is temporary on the Actions runner and uploaded to Drive.
+## לוח הניהול — GitHub Issues
 
-Main files:
-- src/monitor.py
-- src/drive.py
-- src/mailer.py
-- src/state.py
-- config/podcasts.json
-- dashboard/index.html
-- .github/workflows/podcast-monitor.yml
-- data/state.json
+פתח **Issues → New issue** ובחר פעולה:
 
-Required GitHub Secrets:
-GOOGLE_TOKEN_JSON, SMTP_HOST, SMTP_PORT, SMTP_USERNAME, SMTP_PASSWORD, MAIL_FROM, MAIL_TO, MAIL_SUBJECT_PREFIX.
+- **הפעלת הורדה** — בחירת פודקאסטים באמצעות תיבות סימון, מצב הורדה ומספר פרקים אחרונים.
+- **הורדה חוזרת של פרקים** — בחירת פודקאסטים בתיבות סימון, ציון הפרקים ובחירת יעד ההעלאה מחדש.
+- **ניהול פודקאסט** — הוספה, עריכה, הפעלה או השבתה.
+- **בדיקת מצב** — קבלת תמונת מצב ושגיאות בתוך ה-Issue.
+
+בקשות ניהול מסומנות כבתהליך, מקבלות עדכון אוטומטי ובסיום מסומנות כהושלמו.
+
+## קבצים מרכזיים
+
+- `src/monitor.py` — ניטור, הורדה והעלאה.
+- `src/issue_dashboard.py` — פירוש בקשות הניהול מ-Issues.
+- `config/podcasts.json` — רשימת הפודקאסטים וההגדרות.
+- `.github/ISSUE_TEMPLATE/` — טפסי לוח הניהול.
+- `.github/workflows/podcast-monitor.yml` — האוטומציה.
+- `data/state.json` — מצב הפרקים.
+- `data/yemos_state.json` — מצב ההעלאות ל-Yemos.
+
+## Secrets
+
+המערכת משתמשת ב-GitHub Secrets הנדרשים לחיבור ל-Google Drive ול-Yemos. אין לשמור מפתחות או סיסמאות בקוד.
