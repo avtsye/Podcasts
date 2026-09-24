@@ -1,24 +1,130 @@
 {
   "feeds": {
     "ehad_beyom": {
-      "last_checked": "2026-09-23T15:53:28.358857+00:00",
+      "last_checked": "2026-09-24T10:47:33.921680+00:00",
       "last_error": null
     },
     "geekonomy": {
-      "last_checked": "2026-09-23T15:54:50.918770+00:00",
+      "last_checked": "2026-09-24T10:52:04.194293+00:00",
       "last_error": null
     },
     "hayot_kes": {
-      "last_checked": "2026-09-23T15:55:44.998029+00:00",
+      "last_checked": "2026-09-24T10:52:58.131997+00:00",
       "last_error": null
     },
     "osim_tech": {
-      "last_checked": "2026-09-23T15:57:12.087374+00:00",
+      "last_checked": "2026-09-24T10:55:02.066648+00:00",
       "last_error": null
     },
     "hatshuva": {
-      "last_checked": "2026-09-23T15:58:19.275402+00:00",
+      "last_checked": "2026-09-24T10:56:27.406476+00:00",
       "last_error": null
+    },
+    "startup_for_startup": {
+      "last_checked": "2026-09-24T10:58:21.032143+00:00",
+      "last_error": null
+    },
+    "money_engines": {
+      "last_checked": "2026-09-24T11:00:51.880871+00:00",
+      "last_error": null
+    },
+    "history_for_children": {
+      "last_checked": "2026-09-24T11:04:02.600486+00:00",
+      "last_error": null
+    },
+    "baduk": {
+      "last_checked": "2026-09-24T11:04:47.711136+00:00",
+      "last_error": null
+    },
+    "20th_century": {
+      "last_checked": "2026-09-24T11:06:34.745691+00:00",
+      "last_error": null
+    },
+    "sakranit": {
+      "last_checked": "2026-09-24T11:08:30.760607+00:00",
+      "last_error": null
+    },
+    "out_of_memory": {
+      "last_checked": "2026-09-24T11:11:37.229515+00:00",
+      "last_error": null
+    },
+    "erech_musaf": {
+      "last_checked": "2026-09-24T11:12:22.290511+00:00",
+      "last_error": null
+    },
+    "team_atzmaim": {
+      "last_checked": "2026-09-24T11:13:15.006420+00:00",
+      "last_error": null
+    },
+    "maariv_magazine": {
+      "last_checked": "2026-09-24T11:16:10.075686+00:00",
+      "last_error": null
+    },
+    "cx_podcast": {
+      "last_checked": "2026-09-24T11:19:15.937696+00:00",
+      "last_error": null
+    },
+    "haim_aherim": {
+      "last_checked": "2026-09-24T11:22:35.876112+00:00",
+      "last_error": null
+    },
+    "esek_kalkali": {
+      "last_checked": "2026-09-24T11:23:35.267701+00:00",
+      "last_error": null
+    },
+    "keta_kalkali": {
+      "last_checked": "2026-09-24T11:24:20.074610+00:00",
+      "last_error": null
+    },
+    "zman_sheavodtem": {
+      "last_error": "RSS parse failed: <unknown>:22:2: mismatched tag",
+      "last_checked": "2026-09-24T11:24:20.430162+00:00"
+    },
+    "little_university": {
+      "last_checked": "2026-09-24T11:24:49.238432+00:00",
+      "last_error": null
+    },
+    "music_tech": {
+      "last_checked": "2026-09-24T11:28:42.146954+00:00",
+      "last_error": null
+    },
+    "traveler": {
+      "last_checked": "2026-09-24T11:32:01.438055+00:00",
+      "last_error": null
+    },
+    "ear_catcher": {
+      "last_checked": "2026-09-24T11:32:01.791164+00:00"
+    },
+    "historia_bederech": {
+      "last_checked": "2026-09-24T11:32:39.227960+00:00",
+      "last_error": null
+    },
+    "historia_ktaim": {
+      "last_checked": "2026-09-24T11:35:56.294297+00:00",
+      "last_error": null
+    },
+    "osim_historia": {
+      "last_checked": "2026-09-24T11:38:45.647476+00:00",
+      "last_error": null
+    },
+    "yaldin": {
+      "last_error": null,
+      "last_checked": "2026-09-24T11:39:11.727316+00:00"
+    },
+    "yetziat_ethiopia": {
+      "last_checked": "2026-09-24T11:43:34.808792+00:00",
+      "last_error": null
+    },
+    "sogen_sodi": {
+      "last_checked": "2026-09-24T11:44:51.688332+00:00",
+      "last_error": null
+    },
+    "sipur_beerech": {
+      "last_checked": "2026-09-24T11:48:00.559674+00:00",
+      "last_error": null
+    },
+    "frontiers_youth": {
+      "last_checked": "2026-09-24T11:48:00.911455+00:00"
     }
   },
   "episodes": {
@@ -92,7 +198,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:53:04.356429+00:00",
-      "notification_sent_at": "2026-09-23T15:53:05.334761+00:00"
+      "notification_sent_at": "2026-09-23T15:53:05.334761+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/1/1.wav"
     },
     "c4b89ed2-0427-4c1e-a34b-b4c400e51031": {
       "podcast_id": "ehad_beyom",
@@ -104,7 +212,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:53:10.350157+00:00",
-      "notification_sent_at": "2026-09-23T15:53:11.361671+00:00"
+      "notification_sent_at": "2026-09-23T15:53:11.361671+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/1/2.wav"
     },
     "a00b78fb-034c-4e26-bb57-b4c501241970": {
       "podcast_id": "ehad_beyom",
@@ -116,7 +226,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:53:17.110249+00:00",
-      "notification_sent_at": "2026-09-23T15:53:18.315665+00:00"
+      "notification_sent_at": "2026-09-23T15:53:18.315665+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/1/3.wav"
     },
     "3f615e56-0a86-4a7b-989c-b4c6016ccb71": {
       "podcast_id": "ehad_beyom",
@@ -128,7 +240,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:53:21.875946+00:00",
-      "notification_sent_at": "2026-09-23T15:53:23.081386+00:00"
+      "notification_sent_at": "2026-09-23T15:53:23.081386+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/1/4.wav"
     },
     "9b611e80-c836-41fc-b3c3-b4c70167bd16": {
       "podcast_id": "ehad_beyom",
@@ -140,7 +254,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:53:26.853142+00:00",
-      "notification_sent_at": "2026-09-23T15:53:28.358158+00:00"
+      "notification_sent_at": "2026-09-23T15:53:28.358158+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/1/5.wav"
     },
     "geekonomy.podbean.com/4f99d35b-c934-35e2-8a45-0553c4a400cf": {
       "podcast_id": "geekonomy",
@@ -212,7 +328,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:54:14.875423+00:00",
-      "notification_sent_at": "2026-09-23T15:54:16.066626+00:00"
+      "notification_sent_at": "2026-09-23T15:54:16.066626+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/2/1.wav"
     },
     "geekonomy.podbean.com/bb92ac80-bd94-302d-ae55-e1ea676bd1d1": {
       "podcast_id": "geekonomy",
@@ -224,7 +342,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:54:21.392416+00:00",
-      "notification_sent_at": "2026-09-23T15:54:22.894699+00:00"
+      "notification_sent_at": "2026-09-23T15:54:22.894699+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/2/2.wav"
     },
     "geekonomy.podbean.com/6d9fcc41-da87-3b26-95d7-1d79601b461b": {
       "podcast_id": "geekonomy",
@@ -236,7 +356,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:54:29.030557+00:00",
-      "notification_sent_at": "2026-09-23T15:54:30.401296+00:00"
+      "notification_sent_at": "2026-09-23T15:54:30.401296+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/2/3.wav"
     },
     "geekonomy.podbean.com/0031cfbc-73ff-37d7-a4b7-914c0dd1df35": {
       "podcast_id": "geekonomy",
@@ -248,7 +370,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:54:39.298440+00:00",
-      "notification_sent_at": "2026-09-23T15:54:40.341759+00:00"
+      "notification_sent_at": "2026-09-23T15:54:40.341759+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/2/4.wav"
     },
     "geekonomy.podbean.com/c6e614a6-34ce-3717-8c69-01c6d0817662": {
       "podcast_id": "geekonomy",
@@ -260,7 +384,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:54:49.784282+00:00",
-      "notification_sent_at": "2026-09-23T15:54:50.917975+00:00"
+      "notification_sent_at": "2026-09-23T15:54:50.917975+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/2/5.wav"
     },
     "9f4716d3-32fc-4731-8b9a-b47e00fcc2e3": {
       "podcast_id": "hayot_kes",
@@ -332,7 +458,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:55:24.449963+00:00",
-      "notification_sent_at": "2026-09-23T15:55:25.644381+00:00"
+      "notification_sent_at": "2026-09-23T15:55:25.644381+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/3/1.wav"
     },
     "604a2614-0321-497f-a518-b4a300d91d8f": {
       "podcast_id": "hayot_kes",
@@ -344,7 +472,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:55:28.761452+00:00",
-      "notification_sent_at": "2026-09-23T15:55:29.791630+00:00"
+      "notification_sent_at": "2026-09-23T15:55:29.791630+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/3/2.wav"
     },
     "da127c73-2501-4d18-8731-b4a90055ce37": {
       "podcast_id": "hayot_kes",
@@ -356,7 +486,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:55:33.251002+00:00",
-      "notification_sent_at": "2026-09-23T15:55:34.315545+00:00"
+      "notification_sent_at": "2026-09-23T15:55:34.315545+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/3/3.wav"
     },
     "d01da1bf-0f73-4b74-a4ee-b4a400c8e54f": {
       "podcast_id": "hayot_kes",
@@ -368,7 +500,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:55:37.665342+00:00",
-      "notification_sent_at": "2026-09-23T15:55:38.733585+00:00"
+      "notification_sent_at": "2026-09-23T15:55:38.733585+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/3/4.wav"
     },
     "3a74f347-8440-4073-8206-b4b8016b7e96": {
       "podcast_id": "hayot_kes",
@@ -380,7 +514,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:55:43.874175+00:00",
-      "notification_sent_at": "2026-09-23T15:55:44.997021+00:00"
+      "notification_sent_at": "2026-09-23T15:55:44.997021+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/3/5.wav"
     },
     "https://api.spreaker.com/episode/70075326": {
       "podcast_id": "osim_tech",
@@ -452,7 +588,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:56:46.174618+00:00",
-      "notification_sent_at": "2026-09-23T15:56:47.206569+00:00"
+      "notification_sent_at": "2026-09-23T15:56:47.206569+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/4/1.wav"
     },
     "https://api.spreaker.com/episode/73066011": {
       "podcast_id": "osim_tech",
@@ -464,7 +602,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:56:52.909243+00:00",
-      "notification_sent_at": "2026-09-23T15:56:54.227226+00:00"
+      "notification_sent_at": "2026-09-23T15:56:54.227226+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/4/2.wav"
     },
     "https://api.spreaker.com/episode/73066046": {
       "podcast_id": "osim_tech",
@@ -476,7 +616,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:56:59.773593+00:00",
-      "notification_sent_at": "2026-09-23T15:57:00.836956+00:00"
+      "notification_sent_at": "2026-09-23T15:57:00.836956+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/4/3.wav"
     },
     "https://api.spreaker.com/episode/74711665": {
       "podcast_id": "osim_tech",
@@ -488,7 +630,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:57:05.368487+00:00",
-      "notification_sent_at": "2026-09-23T15:57:06.485597+00:00"
+      "notification_sent_at": "2026-09-23T15:57:06.485597+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/4/4.wav"
     },
     "https://api.spreaker.com/episode/75283499": {
       "podcast_id": "osim_tech",
@@ -500,7 +644,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:57:10.981419+00:00",
-      "notification_sent_at": "2026-09-23T15:57:12.086281+00:00"
+      "notification_sent_at": "2026-09-23T15:57:12.086281+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/4/5.wav"
     },
     "https://api.spreaker.com/episode/69241835": {
       "podcast_id": "hatshuva",
@@ -572,7 +718,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:57:54.112359+00:00",
-      "notification_sent_at": "2026-09-23T15:57:55.408848+00:00"
+      "notification_sent_at": "2026-09-23T15:57:55.408848+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/5/1.wav"
     },
     "https://api.spreaker.com/episode/72175479": {
       "podcast_id": "hatshuva",
@@ -584,7 +732,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:57:58.993011+00:00",
-      "notification_sent_at": "2026-09-23T15:58:00.062356+00:00"
+      "notification_sent_at": "2026-09-23T15:58:00.062356+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/5/2.wav"
     },
     "https://api.spreaker.com/episode/72560973": {
       "podcast_id": "hatshuva",
@@ -596,7 +746,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:58:06.071019+00:00",
-      "notification_sent_at": "2026-09-23T15:58:07.410996+00:00"
+      "notification_sent_at": "2026-09-23T15:58:07.410996+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/5/3.wav"
     },
     "https://api.spreaker.com/episode/73190487": {
       "podcast_id": "hatshuva",
@@ -608,7 +760,9 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:58:12.807046+00:00",
-      "notification_sent_at": "2026-09-23T15:58:13.880623+00:00"
+      "notification_sent_at": "2026-09-23T15:58:13.880623+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/5/4.wav"
     },
     "https://api.spreaker.com/episode/74189234": {
       "podcast_id": "hatshuva",
@@ -620,7 +774,1540 @@
       "status": "notified",
       "notification_status": "sent",
       "processed_at": "2026-09-23T15:58:18.012230+00:00",
-      "notification_sent_at": "2026-09-23T15:58:19.274193+00:00"
+      "notification_sent_at": "2026-09-23T15:58:19.274193+00:00",
+      "yemos_status": "uploaded",
+      "yemos_path": "ivr2:/1/5/5.wav"
+    },
+    "3d591e71-294a-4eb2-bea0-b4b000909fc1": {
+      "podcast_id": "startup_for_startup",
+      "title": "הפרקים שהכי אהבתם: לנצח את הלופ - הפסיכולוגיה של הפאונדר.ית",
+      "published": "Tue, 25 Aug 2026 02:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/3d591e71-294a-4eb2-bea0-b4b000909fc1/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "drive_file_id": "1F1caUwnGJFrJbzh6n405HCK2gBpB0eML",
+      "drive_url": "https://drive.google.com/file/d/1F1caUwnGJFrJbzh6n405HCK2gBpB0eML/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T10:56:31.269017+00:00",
+      "yemos_path": "ivr2:/1/6/1.wav"
+    },
+    "3605cdf3-2009-47a9-9347-b4b7009a7de3": {
+      "podcast_id": "startup_for_startup",
+      "title": "365: דמוקרטיזציה של קוד - איך אנחנו מנגישים אייג׳נט פול-סטאק לכל עובד",
+      "published": "Tue, 01 Sep 2026 02:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/3605cdf3-2009-47a9-9347-b4b7009a7de3/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "drive_file_id": "1rNB1KGvNTnIdavq9an8RY2T6_f63QDg3",
+      "drive_url": "https://drive.google.com/file/d/1rNB1KGvNTnIdavq9an8RY2T6_f63QDg3/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T10:56:47.933973+00:00",
+      "yemos_path": "ivr2:/1/6/2.wav"
+    },
+    "e839454a-c999-4fe3-b012-b4be009acced": {
+      "podcast_id": "startup_for_startup",
+      "title": "366: איך עושים QA לאייג׳נטים שאנחנו בונים?",
+      "published": "Tue, 08 Sep 2026 02:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/e839454a-c999-4fe3-b012-b4be009acced/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "drive_file_id": "1NWhifJPwcs3U_ONhWr9tohNN6EApe4LI",
+      "drive_url": "https://drive.google.com/file/d/1NWhifJPwcs3U_ONhWr9tohNN6EApe4LI/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T10:57:07.336089+00:00",
+      "yemos_path": "ivr2:/1/6/3.wav"
+    },
+    "52b36147-ab31-4b2f-9283-b4c50116aeec": {
+      "podcast_id": "startup_for_startup",
+      "title": "367: כלכלת טוקנים - על אופטימיזציה של השימוש שלנו ב-AI",
+      "published": "Tue, 15 Sep 2026 02:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/52b36147-ab31-4b2f-9283-b4c50116aeec/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "drive_file_id": "1KQMU8oLe84-YedooZ3y4WxuwwsuyVJ0X",
+      "drive_url": "https://drive.google.com/file/d/1KQMU8oLe84-YedooZ3y4WxuwwsuyVJ0X/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T10:57:24.205871+00:00",
+      "yemos_path": "ivr2:/1/6/4.wav"
+    },
+    "fce2f130-a008-4409-82ed-b4c600540483": {
+      "podcast_id": "startup_for_startup",
+      "title": "368: איך יוצרים פריקשן שעוזר למשתמשים לאמץ את המוצר שלנו",
+      "published": "Tue, 22 Sep 2026 02:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/fce2f130-a008-4409-82ed-b4c600540483/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "drive_file_id": "14-zpnEtA56vHtpVDo5wtovE6e9_q-gxV",
+      "drive_url": "https://drive.google.com/file/d/14-zpnEtA56vHtpVDo5wtovE6e9_q-gxV/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T10:58:08.170932+00:00",
+      "yemos_path": "ivr2:/1/6/5.wav"
+    },
+    "cae6e5ac-21fe-4d11-a508-b4a500c6684e": {
+      "podcast_id": "money_engines",
+      "title": "פרויקט 500 המיליארדים של אנבידיה - והסכנה לפנסיה של כולנו",
+      "published": "Thu, 13 Aug 2026 13:30:39 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/c39a4cf6-7e84-43fa-bfa4-b31b00e05cfc/cae6e5ac-21fe-4d11-a508-b4a500c6684e/audio.mp3?utm_source=Podcast&in_playlist=8a5aa674-a749-43c7-86c3-b31b00e06274",
+      "drive_file_id": "1xTHrCXzWX59jkdVLGqqgI4stEUcbeCXh",
+      "drive_url": "https://drive.google.com/file/d/1xTHrCXzWX59jkdVLGqqgI4stEUcbeCXh/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T10:58:25.619545+00:00",
+      "yemos_path": "ivr2:/1/7/1.wav"
+    },
+    "be8fcc43-c8b6-4dbb-8738-b4b300d00a1b": {
+      "podcast_id": "money_engines",
+      "title": "התשואות בארה״ב משתגעות - וזה מגיע גם לריבית שלנו",
+      "published": "Thu, 27 Aug 2026 12:56:03 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/c39a4cf6-7e84-43fa-bfa4-b31b00e05cfc/be8fcc43-c8b6-4dbb-8738-b4b300d00a1b/audio.mp3?utm_source=Podcast&in_playlist=8a5aa674-a749-43c7-86c3-b31b00e06274",
+      "drive_file_id": "1CYS0W_xtPgJ7Xoi9mGVgWd_7Tswj-3Lk",
+      "drive_url": "https://drive.google.com/file/d/1CYS0W_xtPgJ7Xoi9mGVgWd_7Tswj-3Lk/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T10:59:01.063450+00:00",
+      "yemos_path": "ivr2:/1/7/2.wav"
+    },
+    "65591c58-acc6-4024-ba02-b4ba00c5e4cd": {
+      "podcast_id": "money_engines",
+      "title": "אצלנו מפחיתים ריבית, בעולם הכיוון הפוך לגמרי: מי צודק",
+      "published": "Thu, 03 Sep 2026 13:14:53 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/c39a4cf6-7e84-43fa-bfa4-b31b00e05cfc/65591c58-acc6-4024-ba02-b4ba00c5e4cd/audio.mp3?utm_source=Podcast&in_playlist=8a5aa674-a749-43c7-86c3-b31b00e06274",
+      "drive_file_id": "1GE2iZoKYaQzF_U2Ri3lBpz5xshykD732",
+      "drive_url": "https://drive.google.com/file/d/1GE2iZoKYaQzF_U2Ri3lBpz5xshykD732/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T10:59:50.738923+00:00",
+      "yemos_path": "ivr2:/1/7/3.wav"
+    },
+    "43564660-a290-4d5d-9799-b4c1008f299a": {
+      "podcast_id": "money_engines",
+      "title": "שנה של הכרעות: 5 השאלות הפתוחות שיכתיבו את כיוון הכלכלה",
+      "published": "Thu, 10 Sep 2026 09:04:24 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/c39a4cf6-7e84-43fa-bfa4-b31b00e05cfc/43564660-a290-4d5d-9799-b4c1008f299a/audio.mp3?utm_source=Podcast&in_playlist=8a5aa674-a749-43c7-86c3-b31b00e06274",
+      "drive_file_id": "1YRD-vbneSTpVJkCuZtyfycbaMFlMp1Cb",
+      "drive_url": "https://drive.google.com/file/d/1YRD-vbneSTpVJkCuZtyfycbaMFlMp1Cb/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:00:11.863677+00:00",
+      "yemos_path": "ivr2:/1/7/4.wav"
+    },
+    "8ed0024d-dc33-42bf-a05e-b4c800cbfe1c": {
+      "podcast_id": "money_engines",
+      "title": "ומה אם מאסק צודק ובעוד 10 שנים לכסף כבר לא תהיה משמעות",
+      "published": "Thu, 17 Sep 2026 13:02:15 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/c39a4cf6-7e84-43fa-bfa4-b31b00e05cfc/8ed0024d-dc33-42bf-a05e-b4c800cbfe1c/audio.mp3?utm_source=Podcast&in_playlist=8a5aa674-a749-43c7-86c3-b31b00e06274",
+      "drive_file_id": "1pcVHKi1cRAbzBE0vQYD6kxTmSytzr9dC",
+      "drive_url": "https://drive.google.com/file/d/1pcVHKi1cRAbzBE0vQYD6kxTmSytzr9dC/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:00:32.077713+00:00",
+      "yemos_path": "ivr2:/1/7/5.wav"
+    },
+    "9e20b5f2-df96-4c80-825d-b4aa00aeab7f": {
+      "podcast_id": "history_for_children",
+      "title": "איכס, פיפי! (מתוך ההסכת \"מדע איכס\")",
+      "published": "Wed, 19 Aug 2026 03:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/5d166961-3f93-4859-a8dd-a919008d592b/9e20b5f2-df96-4c80-825d-b4aa00aeab7f/audio.mp3?utm_source=Podcast&in_playlist=d7702e41-7c9d-4afe-bf80-a919008d592b",
+      "drive_file_id": "1XdU3lGYEsy-5ouyxkn-Fff8ZldQwaQ-_",
+      "drive_url": "https://drive.google.com/file/d/1XdU3lGYEsy-5ouyxkn-Fff8ZldQwaQ-_/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:00:54.256763+00:00",
+      "yemos_path": "ivr2:/1/8/1.wav"
+    },
+    "11722492-6bc4-4c88-9704-b4ac00b2984a": {
+      "podcast_id": "history_for_children",
+      "title": "ההיסטוריה של ירושלים ועיר דוד",
+      "published": "Tue, 25 Aug 2026 03:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/5d166961-3f93-4859-a8dd-a919008d592b/11722492-6bc4-4c88-9704-b4ac00b2984a/audio.mp3?utm_source=Podcast&in_playlist=d7702e41-7c9d-4afe-bf80-a919008d592b",
+      "drive_file_id": "1BsOzbUXSLI80FAoBouPss6lH4ooEQ6ow",
+      "drive_url": "https://drive.google.com/file/d/1BsOzbUXSLI80FAoBouPss6lH4ooEQ6ow/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:01:06.478394+00:00",
+      "yemos_path": "ivr2:/1/8/2.wav"
+    },
+    "0d53f717-54bc-4b62-be6b-b4b10094acb0": {
+      "podcast_id": "history_for_children",
+      "title": "הבלש ארכימדס ותעלומת כתר המלך",
+      "published": "Tue, 01 Sep 2026 03:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/5d166961-3f93-4859-a8dd-a919008d592b/0d53f717-54bc-4b62-be6b-b4b10094acb0/audio.mp3?utm_source=Podcast&in_playlist=d7702e41-7c9d-4afe-bf80-a919008d592b",
+      "drive_file_id": "1OZwtFSI_SyiV0QqqTDrEIhoiLLysKzIs",
+      "drive_url": "https://drive.google.com/file/d/1OZwtFSI_SyiV0QqqTDrEIhoiLLysKzIs/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:01:37.947948+00:00",
+      "yemos_path": "ivr2:/1/8/3.wav"
+    },
+    "4a8d6344-3655-4abf-97b9-b4b100bca557": {
+      "podcast_id": "history_for_children",
+      "title": "המסע המדהים של תרזה ופלורנס באפריקה",
+      "published": "Tue, 08 Sep 2026 02:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/5d166961-3f93-4859-a8dd-a919008d592b/4a8d6344-3655-4abf-97b9-b4b100bca557/audio.mp3?utm_source=Podcast&in_playlist=d7702e41-7c9d-4afe-bf80-a919008d592b",
+      "drive_file_id": "1tOgERWigHgO0JbtqTGwlAOy1wODInSFK",
+      "drive_url": "https://drive.google.com/file/d/1tOgERWigHgO0JbtqTGwlAOy1wODInSFK/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:02:28.724440+00:00",
+      "yemos_path": "ivr2:/1/8/4.wav"
+    },
+    "1cde7d62-2392-46f2-9dc3-b4c600ce3333": {
+      "podcast_id": "history_for_children",
+      "title": "רפסודת הקון-טיקי",
+      "published": "Wed, 16 Sep 2026 03:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/5d166961-3f93-4859-a8dd-a919008d592b/1cde7d62-2392-46f2-9dc3-b4c600ce3333/audio.mp3?utm_source=Podcast&in_playlist=d7702e41-7c9d-4afe-bf80-a919008d592b",
+      "drive_file_id": "1dCQElS84qyIktc69vlYkqbvCu5MAHhYu",
+      "drive_url": "https://drive.google.com/file/d/1dCQElS84qyIktc69vlYkqbvCu5MAHhYu/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:03:21.806993+00:00",
+      "yemos_path": "ivr2:/1/8/5.wav"
+    },
+    "3b2388b5-98fd-4b16-a633-b4b200a7a3dc": {
+      "podcast_id": "baduk",
+      "title": "אבודים בחלל | עונה 3: מסע בחלל, פרק 11",
+      "published": "Thu, 10 Sep 2026 02:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/794e489c-9861-4052-b3ba-b19100d59304/3b2388b5-98fd-4b16-a633-b4b200a7a3dc/audio.mp3?utm_source=Podcast&in_playlist=b88bd16d-fc76-4263-bdd6-b19100d62b35",
+      "drive_file_id": "1Emt9HJOi5lHZKkY1OZesfFQCIXu0bn17",
+      "drive_url": "https://drive.google.com/file/d/1Emt9HJOi5lHZKkY1OZesfFQCIXu0bn17/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:04:04.355041+00:00",
+      "yemos_path": "ivr2:/1/9/1.wav"
+    },
+    "71ab6431-35bf-4aaf-b29f-b4b200a7b3df": {
+      "podcast_id": "baduk",
+      "title": "חייזרים | עונה 3: מסע בחלל, פרק 12",
+      "published": "Tue, 15 Sep 2026 02:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/794e489c-9861-4052-b3ba-b19100d59304/71ab6431-35bf-4aaf-b29f-b4b200a7b3df/audio.mp3?utm_source=Podcast&in_playlist=b88bd16d-fc76-4263-bdd6-b19100d62b35",
+      "drive_file_id": "1RW5mDjnIghQTgDchicvF1LDuExrYOR_7",
+      "drive_url": "https://drive.google.com/file/d/1RW5mDjnIghQTgDchicvF1LDuExrYOR_7/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:04:13.581028+00:00",
+      "yemos_path": "ivr2:/1/9/2.wav"
+    },
+    "db90ccab-963b-406d-8375-b4b200a7bc40": {
+      "podcast_id": "baduk",
+      "title": "אבנים מהירח | עונה 3: מסע בחלל, פרק 13",
+      "published": "Thu, 17 Sep 2026 02:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/794e489c-9861-4052-b3ba-b19100d59304/db90ccab-963b-406d-8375-b4b200a7bc40/audio.mp3?utm_source=Podcast&in_playlist=b88bd16d-fc76-4263-bdd6-b19100d62b35",
+      "drive_file_id": "1lLzOX0k-ONm2RB4kKbK0EOrqPg2glpEO",
+      "drive_url": "https://drive.google.com/file/d/1lLzOX0k-ONm2RB4kKbK0EOrqPg2glpEO/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:04:22.995333+00:00",
+      "yemos_path": "ivr2:/1/9/3.wav"
+    },
+    "dbe9597f-0c66-4650-bcbe-b4b200a7c35e": {
+      "podcast_id": "baduk",
+      "title": "השמש | עונה 3: מסע בחלל, פרק 14",
+      "published": "Tue, 22 Sep 2026 02:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/794e489c-9861-4052-b3ba-b19100d59304/dbe9597f-0c66-4650-bcbe-b4b200a7c35e/audio.mp3?utm_source=Podcast&in_playlist=b88bd16d-fc76-4263-bdd6-b19100d62b35",
+      "drive_file_id": "115QN8zIBOazicdjfnpXZa7ZjliADQHDp",
+      "drive_url": "https://drive.google.com/file/d/115QN8zIBOazicdjfnpXZa7ZjliADQHDp/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:04:32.424668+00:00",
+      "yemos_path": "ivr2:/1/9/4.wav"
+    },
+    "79d01e9a-65d0-4b21-9900-b4b200a7c88d": {
+      "podcast_id": "baduk",
+      "title": "החזרה הביתה | עונה 3: מסע בחלל, פרק 15",
+      "published": "Thu, 24 Sep 2026 02:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/794e489c-9861-4052-b3ba-b19100d59304/79d01e9a-65d0-4b21-9900-b4b200a7c88d/audio.mp3?utm_source=Podcast&in_playlist=b88bd16d-fc76-4263-bdd6-b19100d62b35",
+      "drive_file_id": "15U0T2ubA3IFLYzR4sw2THXtScE1q-C6_",
+      "drive_url": "https://drive.google.com/file/d/15U0T2ubA3IFLYzR4sw2THXtScE1q-C6_/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:04:39.959226+00:00",
+      "yemos_path": "ivr2:/1/9/5.wav"
+    },
+    "064f1b1a-302c-4366-bcdf-b479009cce26": {
+      "podcast_id": "20th_century",
+      "title": "פרק 15: 250 שנה לארץ מובטחת",
+      "published": "Thu, 02 Jul 2026 03:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/a53f349e-2ee8-408a-8995-afe7008d8592/064f1b1a-302c-4366-bcdf-b479009cce26/audio.mp3?utm_source=Podcast&in_playlist=ef63cd7b-22b3-4a23-a9f5-afe700933399",
+      "drive_file_id": "149MI4s8v4jfRMbscGGbCd1Qf8L0Syn0V",
+      "drive_url": "https://drive.google.com/file/d/149MI4s8v4jfRMbscGGbCd1Qf8L0Syn0V/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:04:50.325848+00:00",
+      "yemos_path": "ivr2:/1/10/1.wav"
+    },
+    "4f27f0ac-8ddd-4212-afe0-b48c00d26b16": {
+      "podcast_id": "20th_century",
+      "title": "שנה בשעה | 1961 חלק א'",
+      "published": "Sun, 19 Jul 2026 12:51:17 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/a53f349e-2ee8-408a-8995-afe7008d8592/4f27f0ac-8ddd-4212-afe0-b48c00d26b16/audio.mp3?utm_source=Podcast&in_playlist=ef63cd7b-22b3-4a23-a9f5-afe700933399",
+      "drive_file_id": "1NAuAtvdmJuFm6_2OLCyGq6bp7zg1Txs_",
+      "drive_url": "https://drive.google.com/file/d/1NAuAtvdmJuFm6_2OLCyGq6bp7zg1Txs_/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:05:05.179382+00:00",
+      "yemos_path": "ivr2:/1/10/2.wav"
+    },
+    "ccae77b0-f7a7-401e-9e21-b49300bf04c6": {
+      "podcast_id": "20th_century",
+      "title": "שנה בשעה | 1961 חלק ב'",
+      "published": "Sun, 26 Jul 2026 11:48:12 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/a53f349e-2ee8-408a-8995-afe7008d8592/ccae77b0-f7a7-401e-9e21-b49300bf04c6/audio.mp3?utm_source=Podcast&in_playlist=ef63cd7b-22b3-4a23-a9f5-afe700933399",
+      "drive_file_id": "17Qb-y6zKP2F3CLgBsDpyKT3MqU6TpZ1Z",
+      "drive_url": "https://drive.google.com/file/d/17Qb-y6zKP2F3CLgBsDpyKT3MqU6TpZ1Z/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:05:40.327354+00:00",
+      "yemos_path": "ivr2:/1/10/3.wav"
+    },
+    "525eb9b0-2316-4842-a419-b49b00a9a1bb": {
+      "podcast_id": "20th_century",
+      "title": "שנה בשעה | 1961 חלק ג'",
+      "published": "Mon, 03 Aug 2026 10:28:43 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/a53f349e-2ee8-408a-8995-afe7008d8592/525eb9b0-2316-4842-a419-b49b00a9a1bb/audio.mp3?utm_source=Podcast&in_playlist=ef63cd7b-22b3-4a23-a9f5-afe700933399",
+      "drive_file_id": "1ySxYiLx-EvzLngOOs755dQmNy5jDTmZR",
+      "drive_url": "https://drive.google.com/file/d/1ySxYiLx-EvzLngOOs755dQmNy5jDTmZR/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:05:59.015144+00:00",
+      "yemos_path": "ivr2:/1/10/4.wav"
+    },
+    "eb6ba06c-38c5-4bd2-bcb2-b4a100bbbc84": {
+      "podcast_id": "20th_century",
+      "title": "שנה בשעה | 1961 חלק ד'",
+      "published": "Sun, 09 Aug 2026 11:39:33 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/a53f349e-2ee8-408a-8995-afe7008d8592/eb6ba06c-38c5-4bd2-bcb2-b4a100bbbc84/audio.mp3?utm_source=Podcast&in_playlist=ef63cd7b-22b3-4a23-a9f5-afe700933399",
+      "drive_file_id": "1awhDNzrkzt0-g1JxQCEYkV9aOog_-kts",
+      "drive_url": "https://drive.google.com/file/d/1awhDNzrkzt0-g1JxQCEYkV9aOog_-kts/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:06:19.239365+00:00",
+      "yemos_path": "ivr2:/1/10/5.wav"
+    },
+    "c845468b-e415-41f7-878e-b45e011b9dbd": {
+      "podcast_id": "sakranit",
+      "title": "גיים צ'יינג'ר",
+      "published": "Thu, 04 Jun 2026 02:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dece2afd-415b-4d9a-948a-b28800cfa825/c845468b-e415-41f7-878e-b45e011b9dbd/audio.mp3?utm_source=Podcast&in_playlist=60b40caa-7020-4bee-9928-b28800cfadd8",
+      "drive_file_id": "1nHkAfzkzrBXowVLj5l7Ka2wElf97Qjp6",
+      "drive_url": "https://drive.google.com/file/d/1nHkAfzkzrBXowVLj5l7Ka2wElf97Qjp6/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:06:38.255181+00:00",
+      "yemos_path": "ivr2:/1/11/1.wav"
+    },
+    "f9442f00-e3d9-4d76-bbf9-b46c00e8cdad": {
+      "podcast_id": "sakranit",
+      "title": "בחדרי חדרים",
+      "published": "Thu, 18 Jun 2026 02:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dece2afd-415b-4d9a-948a-b28800cfa825/f9442f00-e3d9-4d76-bbf9-b46c00e8cdad/audio.mp3?utm_source=Podcast&in_playlist=60b40caa-7020-4bee-9928-b28800cfadd8",
+      "drive_file_id": "1XdARTHlabIZEuYfgJCUScHQLcJ9V-9XW",
+      "drive_url": "https://drive.google.com/file/d/1XdARTHlabIZEuYfgJCUScHQLcJ9V-9XW/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:06:59.416064+00:00",
+      "yemos_path": "ivr2:/1/11/2.wav"
+    },
+    "b5790171-c8ca-4dcb-b5e4-b473008d8736": {
+      "podcast_id": "sakranit",
+      "title": "הקרב על הדמיון",
+      "published": "Thu, 25 Jun 2026 02:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dece2afd-415b-4d9a-948a-b28800cfa825/b5790171-c8ca-4dcb-b5e4-b473008d8736/audio.mp3?utm_source=Podcast&in_playlist=60b40caa-7020-4bee-9928-b28800cfadd8",
+      "drive_file_id": "1-Frgty0quL1ASeOjRjLHQ-U9FvBAz1my",
+      "drive_url": "https://drive.google.com/file/d/1-Frgty0quL1ASeOjRjLHQ-U9FvBAz1my/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:07:24.311114+00:00",
+      "yemos_path": "ivr2:/1/11/3.wav"
+    },
+    "134822e1-86fe-4b5b-a0d3-b47900b7d811": {
+      "podcast_id": "sakranit",
+      "title": "על חבל דק: כשהאימפריה מאבדת שיווי משקל",
+      "published": "Wed, 01 Jul 2026 02:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dece2afd-415b-4d9a-948a-b28800cfa825/134822e1-86fe-4b5b-a0d3-b47900b7d811/audio.mp3?utm_source=Podcast&in_playlist=60b40caa-7020-4bee-9928-b28800cfadd8",
+      "drive_file_id": "1tagBR1kEBh6s-3Eq342z6TZZhFUb48El",
+      "drive_url": "https://drive.google.com/file/d/1tagBR1kEBh6s-3Eq342z6TZZhFUb48El/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:07:44.717367+00:00",
+      "yemos_path": "ivr2:/1/11/4.wav"
+    },
+    "c7997428-578a-4d3c-aa06-b48000ac7af3": {
+      "podcast_id": "sakranit",
+      "title": "חוויה חוץ גופית",
+      "published": "Thu, 09 Jul 2026 02:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dece2afd-415b-4d9a-948a-b28800cfa825/c7997428-578a-4d3c-aa06-b48000ac7af3/audio.mp3?utm_source=Podcast&in_playlist=60b40caa-7020-4bee-9928-b28800cfadd8",
+      "drive_file_id": "1xLc-76nLQ2fX2Zg4ky5EfBnfeyXYZHGf",
+      "drive_url": "https://drive.google.com/file/d/1xLc-76nLQ2fX2Zg4ky5EfBnfeyXYZHGf/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:08:09.895384+00:00",
+      "yemos_path": "ivr2:/1/11/5.wav"
+    },
+    "6d94472b-8738-472a-804d-ac58002f26a3": {
+      "podcast_id": "out_of_memory",
+      "title": "פרק 16 - מיקור חוץ של המוצר או השירות שלכם - כן או לא?",
+      "published": "Sun, 18 Oct 2020 02:59:18 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/145b12fb-eadd-4a41-8a08-aa8d004426cf/d9fd5177-f069-4680-b36e-aa8d00496ec5/6d94472b-8738-472a-804d-ac58002f26a3/audio.mp3?utm_source=Podcast&in_playlist=18c503f9-f9c7-4b30-bd3e-aa8d004eebab&t=1602989958",
+      "drive_file_id": "16Eu-gkUpcsmQB7NVaxGJnu-uQNaqx2qc",
+      "drive_url": "https://drive.google.com/file/d/16Eu-gkUpcsmQB7NVaxGJnu-uQNaqx2qc/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:08:32.825887+00:00",
+      "yemos_path": "ivr2:/1/12/1.wav"
+    },
+    "64032b8b-7f20-4009-aa77-ac9f00033cf9": {
+      "podcast_id": "out_of_memory",
+      "title": "פרק 17 - SpaceX Starship",
+      "published": "Mon, 28 Dec 2020 00:16:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/145b12fb-eadd-4a41-8a08-aa8d004426cf/d9fd5177-f069-4680-b36e-aa8d00496ec5/64032b8b-7f20-4009-aa77-ac9f00033cf9/audio.mp3?utm_source=Podcast&in_playlist=18c503f9-f9c7-4b30-bd3e-aa8d004eebab&t=1609120460",
+      "drive_file_id": "1P7LtTtUcdL1LF08XbpCPbrHHL4ldUW-S",
+      "drive_url": "https://drive.google.com/file/d/1P7LtTtUcdL1LF08XbpCPbrHHL4ldUW-S/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:09:12.571946+00:00",
+      "yemos_path": "ivr2:/1/12/2.wav"
+    },
+    "2c05dcfe-a205-4fa7-98a6-ad0d00ee548b": {
+      "podcast_id": "out_of_memory",
+      "title": "פרק 18 - טסלה",
+      "published": "Sat, 17 Apr 2021 14:28:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/145b12fb-eadd-4a41-8a08-aa8d004426cf/d9fd5177-f069-4680-b36e-aa8d00496ec5/2c05dcfe-a205-4fa7-98a6-ad0d00ee548b/audio.mp3?utm_source=Podcast&in_playlist=18c503f9-f9c7-4b30-bd3e-aa8d004eebab",
+      "drive_file_id": "1lBlB1ZWsXsbEqBKWbZTzaJA_AyjHKzCj",
+      "drive_url": "https://drive.google.com/file/d/1lBlB1ZWsXsbEqBKWbZTzaJA_AyjHKzCj/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:09:53.960665+00:00",
+      "yemos_path": "ivr2:/1/12/3.wav"
+    },
+    "c571c64e-f14b-4120-a3cd-ad6900b83af6": {
+      "podcast_id": "out_of_memory",
+      "title": "פרק 19 - OWASP Top Ten",
+      "published": "Sun, 18 Jul 2021 22:22:29 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/145b12fb-eadd-4a41-8a08-aa8d004426cf/d9fd5177-f069-4680-b36e-aa8d00496ec5/c571c64e-f14b-4120-a3cd-ad6900b83af6/audio.mp3?utm_source=Podcast&in_playlist=18c503f9-f9c7-4b30-bd3e-aa8d004eebab",
+      "drive_file_id": "1dqfGwqREQ7b6qOpTBhYfNpT-7oNJjdx0",
+      "drive_url": "https://drive.google.com/file/d/1dqfGwqREQ7b6qOpTBhYfNpT-7oNJjdx0/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:10:39.241258+00:00",
+      "yemos_path": "ivr2:/1/12/4.wav"
+    },
+    "fb2a1ae3-1301-4182-88ab-adae00ff5430": {
+      "podcast_id": "out_of_memory",
+      "title": "פרק 20 - Flutter",
+      "published": "Sat, 25 Sep 2021 15:37:10 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/145b12fb-eadd-4a41-8a08-aa8d004426cf/d9fd5177-f069-4680-b36e-aa8d00496ec5/fb2a1ae3-1301-4182-88ab-adae00ff5430/audio.mp3?utm_source=Podcast&in_playlist=18c503f9-f9c7-4b30-bd3e-aa8d004eebab",
+      "drive_file_id": "1wkgoIv--1pSTZ6bH9yxesbHkmUVolpld",
+      "drive_url": "https://drive.google.com/file/d/1wkgoIv--1pSTZ6bH9yxesbHkmUVolpld/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:10:57.104859+00:00",
+      "yemos_path": "ivr2:/1/12/5.wav"
+    },
+    "dfdce904bbc372ef953536f098ce8d9b": {
+      "podcast_id": "erech_musaf",
+      "title": "תכניות חיסכון עם תמריץ מהמדינה",
+      "published": "Mon, 16 Jul 2018 06:43:20 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/90500138-9f9b-4703-9016-a92f009305bd/36502557-ff52-47d7-a4d6-a92f0093254c/audio.mp3?utm_source=Podcast&in_playlist=2798d8d4-3347-40f6-b519-a92f009305bd&t=1533114034",
+      "drive_file_id": "1J9gjsnHtTMEFPjlh7l6IrN-F6VWXL6G4",
+      "drive_url": "https://drive.google.com/file/d/1J9gjsnHtTMEFPjlh7l6IrN-F6VWXL6G4/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:11:39.202577+00:00",
+      "yemos_path": "ivr2:/1/13/1.wav"
+    },
+    "87eb9677d82b4b02527005e51850218a": {
+      "podcast_id": "erech_musaf",
+      "title": "הלוואות",
+      "published": "Thu, 05 Jul 2018 09:42:25 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/90500138-9f9b-4703-9016-a92f009305bd/6196b32c-99c3-467b-93ac-a92f0093467a/audio.mp3?utm_source=Podcast&in_playlist=2798d8d4-3347-40f6-b519-a92f009305bd&t=1533114516",
+      "drive_file_id": "1vTZnNxO_wslGF20EKR1MrO_2XqBQnn02",
+      "drive_url": "https://drive.google.com/file/d/1vTZnNxO_wslGF20EKR1MrO_2XqBQnn02/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:11:47.278189+00:00",
+      "yemos_path": "ivr2:/1/13/2.wav"
+    },
+    "e405a2be5fa8eb6d86bcebd051e8df84": {
+      "podcast_id": "erech_musaf",
+      "title": "מה זהביטקויין?",
+      "published": "Sun, 15 Jul 2018 06:47:35 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/90500138-9f9b-4703-9016-a92f009305bd/f3174596-7a41-4935-9856-a92f0093251d/audio.mp3?utm_source=Podcast&in_playlist=2798d8d4-3347-40f6-b519-a92f009305bd&t=1533114183",
+      "drive_file_id": "1i33d518D8GdU_Bt-sLHPvkp32EVN1shV",
+      "drive_url": "https://drive.google.com/file/d/1i33d518D8GdU_Bt-sLHPvkp32EVN1shV/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:11:56.061191+00:00",
+      "yemos_path": "ivr2:/1/13/3.wav"
+    },
+    "436456665e579a0ebb19d235709d679d": {
+      "podcast_id": "erech_musaf",
+      "title": "צמיחה כלכלית ורמת חיים",
+      "published": "Wed, 18 Jul 2018 07:12:39 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/90500138-9f9b-4703-9016-a92f009305bd/ba0be8ec-089d-44b2-932a-a92f00932422/audio.mp3?utm_source=Podcast&in_playlist=2798d8d4-3347-40f6-b519-a92f009305bd&t=1533113872",
+      "drive_file_id": "1l0PL-kMhLZzjA2hUyD_81EZPnt-vJhf-",
+      "drive_url": "https://drive.google.com/file/d/1l0PL-kMhLZzjA2hUyD_81EZPnt-vJhf-/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:12:06.132291+00:00",
+      "yemos_path": "ivr2:/1/13/4.wav"
+    },
+    "99b059060eebd243a0c4141cd19c585d": {
+      "podcast_id": "erech_musaf",
+      "title": "כלכלה התנהגותית",
+      "published": "Wed, 11 Jul 2018 06:53:15 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/90500138-9f9b-4703-9016-a92f009305bd/503c0756-4593-4e8c-97a7-a92f00934457/audio.mp3?utm_source=Podcast&in_playlist=2798d8d4-3347-40f6-b519-a92f009305bd&t=1533114493",
+      "drive_file_id": "137cPa1QkET6JId-3EKZptnqg0sru1sLq",
+      "drive_url": "https://drive.google.com/file/d/137cPa1QkET6JId-3EKZptnqg0sru1sLq/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:12:16.369791+00:00",
+      "yemos_path": "ivr2:/1/13/5.wav"
+    },
+    "9acd33c1-c215-4f2a-9273-b25001043aa1": {
+      "podcast_id": "team_atzmaim",
+      "title": "שעת סיפור: איך ליצור בידול בעסק שלי?",
+      "published": "Tue, 24 Dec 2024 15:53:41 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/d6d0b349-ed39-44d2-b6fd-b250008c41c0/9acd33c1-c215-4f2a-9273-b25001043aa1/audio.mp3?utm_source=Podcast&in_playlist=f8396d12-18da-48e6-8015-b250008c42d2",
+      "drive_file_id": "15tKJ47Ubtev1mYyGgihMDt9l-ksVCAVl",
+      "drive_url": "https://drive.google.com/file/d/15tKJ47Ubtev1mYyGgihMDt9l-ksVCAVl/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:12:25.686710+00:00",
+      "yemos_path": "ivr2:/1/14/1.wav"
+    },
+    "64f6f190-da20-459a-bf5b-b25800aa178d": {
+      "podcast_id": "team_atzmaim",
+      "title": "שאלה של \"איך\": לקוחות ואסטרטגיה לעצמאים",
+      "published": "Wed, 01 Jan 2025 10:25:17 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/d6d0b349-ed39-44d2-b6fd-b250008c41c0/64f6f190-da20-459a-bf5b-b25800aa178d/audio.mp3?utm_source=Podcast&in_playlist=f8396d12-18da-48e6-8015-b250008c42d2",
+      "drive_file_id": "1Ww4arPTBL9uoprWYilRCTW6beuu1AV4K",
+      "drive_url": "https://drive.google.com/file/d/1Ww4arPTBL9uoprWYilRCTW6beuu1AV4K/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:12:41.017114+00:00",
+      "yemos_path": "ivr2:/1/14/2.wav"
+    },
+    "e060c085-b270-45c5-bfe7-b2670079bf56": {
+      "podcast_id": "team_atzmaim",
+      "title": "להיות ויראליים: איך לקדם את העסק בסושיאל?",
+      "published": "Thu, 16 Jan 2025 07:28:13 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/d6d0b349-ed39-44d2-b6fd-b250008c41c0/e060c085-b270-45c5-bfe7-b2670079bf56/audio.mp3?utm_source=Podcast&in_playlist=f8396d12-18da-48e6-8015-b250008c42d2",
+      "drive_file_id": "1HSqd5p5geh0ja0zDS94apZt4EPB8TjJR",
+      "drive_url": "https://drive.google.com/file/d/1HSqd5p5geh0ja0zDS94apZt4EPB8TjJR/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:12:53.123620+00:00",
+      "yemos_path": "ivr2:/1/14/3.wav"
+    },
+    "dd6bb41f-cdb6-4409-98b7-b26d00a7e87f": {
+      "podcast_id": "team_atzmaim",
+      "title": "בואו נדבר על כסף: איך להיות עסק רווחי?",
+      "published": "Wed, 22 Jan 2025 10:14:21 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/d6d0b349-ed39-44d2-b6fd-b250008c41c0/dd6bb41f-cdb6-4409-98b7-b26d00a7e87f/audio.mp3?utm_source=Podcast&in_playlist=f8396d12-18da-48e6-8015-b250008c42d2",
+      "drive_file_id": "195GHUZmCAaa01evyTSWGK1VGqVyyZQF_",
+      "drive_url": "https://drive.google.com/file/d/195GHUZmCAaa01evyTSWGK1VGqVyyZQF_/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:13:05.955457+00:00",
+      "yemos_path": "ivr2:/1/14/4.wav"
+    },
+    "8771b98f-e598-421e-8433-b4c600bd40ab": {
+      "podcast_id": "maariv_magazine",
+      "title": "שאמה הכהן: \"סביר יותר שזה לא יקרה\"",
+      "published": "Thu, 17 Sep 2026 08:44:16 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/cf9dba57-c30f-4347-a55b-b226011276ad/8771b98f-e598-421e-8433-b4c600bd40ab/audio.mp3?utm_source=Podcast&in_playlist=187abdae-ae69-410e-b558-b2260112783a",
+      "drive_file_id": "1KRiNAHLAPTHLbXCkI92S88xJYqG9jukH",
+      "drive_url": "https://drive.google.com/file/d/1KRiNAHLAPTHLbXCkI92S88xJYqG9jukH/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:13:18.870052+00:00",
+      "yemos_path": "ivr2:/1/15/1.wav"
+    },
+    "e105b746-2a3e-4ae6-8099-b49700c02aa4": {
+      "podcast_id": "maariv_magazine",
+      "title": "מ-30% ליותר מ-50% חשיפה למניות: הזינוק החשאי ברמת הסיכון של 90% מהחוסכים בישראל",
+      "published": "Thu, 17 Sep 2026 08:51:37 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/cf9dba57-c30f-4347-a55b-b226011276ad/e105b746-2a3e-4ae6-8099-b49700c02aa4/audio.mp3?utm_source=Podcast&in_playlist=187abdae-ae69-410e-b558-b2260112783a",
+      "drive_file_id": "1oQ_0viAYnI8f8zU1whcvExdsJ0nqcHle",
+      "drive_url": "https://drive.google.com/file/d/1oQ_0viAYnI8f8zU1whcvExdsJ0nqcHle/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:13:40.854156+00:00",
+      "yemos_path": "ivr2:/1/15/2.wav"
+    },
+    "bba3cd0e-19c3-46c8-86fe-b4c800d3f04e": {
+      "podcast_id": "maariv_magazine",
+      "title": "ניסים בכר | מחצית בשכונה, פרק 61",
+      "published": "Thu, 17 Sep 2026 16:44:06 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/cf9dba57-c30f-4347-a55b-b226011276ad/bba3cd0e-19c3-46c8-86fe-b4c800d3f04e/audio.mp3?utm_source=Podcast&in_playlist=187abdae-ae69-410e-b558-b2260112783a",
+      "drive_file_id": "1jpTsdtcBMpixl0NAHxp4CAthDfmR7ZK3",
+      "drive_url": "https://drive.google.com/file/d/1jpTsdtcBMpixl0NAHxp4CAthDfmR7ZK3/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:13:53.232885+00:00",
+      "yemos_path": "ivr2:/1/15/3.wav"
+    },
+    "92104b8d-bcd4-495f-89b9-b4cd00c7e7e9": {
+      "podcast_id": "maariv_magazine",
+      "title": "מעל הליגה - פרק 47 | סיכום המחזור החמישי, החלון ולקראת הנבחרת",
+      "published": "Tue, 22 Sep 2026 12:13:15 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/cf9dba57-c30f-4347-a55b-b226011276ad/92104b8d-bcd4-495f-89b9-b4cd00c7e7e9/audio.mp3?utm_source=Podcast&in_playlist=187abdae-ae69-410e-b558-b2260112783a",
+      "drive_file_id": "1gI515I-E2BosiTc6y7Evr-2mjL5UWHue",
+      "drive_url": "https://drive.google.com/file/d/1gI515I-E2BosiTc6y7Evr-2mjL5UWHue/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:14:51.531760+00:00",
+      "yemos_path": "ivr2:/1/15/4.wav"
+    },
+    "f32c8678-ea0a-4790-b075-b4c800d3be61": {
+      "podcast_id": "maariv_magazine",
+      "title": "\"הוא התחיל להתווכח איתי\": הכתובת בבית הכנסת שהכשילה את הבינה המלאכותית",
+      "published": "Thu, 24 Sep 2026 08:38:25 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/cf9dba57-c30f-4347-a55b-b226011276ad/f32c8678-ea0a-4790-b075-b4c800d3be61/audio.mp3?utm_source=Podcast&in_playlist=187abdae-ae69-410e-b558-b2260112783a",
+      "drive_file_id": "1H4RQRPWACZRxET7q9LWXAJ8LrTBqKUFC",
+      "drive_url": "https://drive.google.com/file/d/1H4RQRPWACZRxET7q9LWXAJ8LrTBqKUFC/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:15:34.574466+00:00",
+      "yemos_path": "ivr2:/1/15/5.wav"
+    },
+    "f95f8234-85f2-4c8b-a423-b1a700fcba3d": {
+      "podcast_id": "cx_podcast",
+      "title": "האזינו: להצטיין ברפואה ואנושיות",
+      "published": "Mon, 08 Jul 2024 15:21:40 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/397b9456-4f75-4509-acff-ac0600b4a6a4/6e0ff3a9-2797-4f72-b795-b14400772189/f95f8234-85f2-4c8b-a423-b1a700fcba3d/audio.mp3?utm_source=Podcast&in_playlist=57d0a7a0-1b16-481c-b10e-b144007a0c67",
+      "drive_file_id": "1qQIzpvBqV_4wddOFPYvp9HNgqgGlXAFA",
+      "drive_url": "https://drive.google.com/file/d/1qQIzpvBqV_4wddOFPYvp9HNgqgGlXAFA/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:17:01.231458+00:00",
+      "yemos_path": "ivr2:/1/16/1.wav"
+    },
+    "0e58443d-593a-477b-9aef-b2e100bc9f69": {
+      "podcast_id": "cx_podcast",
+      "title": "האזינו: כיצד חוויית העובדים המשפיעה על חוויית המטופלים?",
+      "published": "Sun, 18 May 2025 11:27:47 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/397b9456-4f75-4509-acff-ac0600b4a6a4/6e0ff3a9-2797-4f72-b795-b14400772189/0e58443d-593a-477b-9aef-b2e100bc9f69/audio.mp3?utm_source=Podcast&in_playlist=57d0a7a0-1b16-481c-b10e-b144007a0c67",
+      "drive_file_id": "1TJg8RcbTa7JNdHCSgPzkiWIvZDrKWCkt",
+      "drive_url": "https://drive.google.com/file/d/1TJg8RcbTa7JNdHCSgPzkiWIvZDrKWCkt/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:18:13.502634+00:00",
+      "yemos_path": "ivr2:/1/16/2.wav"
+    },
+    "87fd8806-542f-4992-b1d4-b2e100d1147b": {
+      "podcast_id": "cx_podcast",
+      "title": "האזינו: מה קודם למה – המיתוג או חוויית הלקוח?",
+      "published": "Sun, 18 May 2025 12:42:14 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/397b9456-4f75-4509-acff-ac0600b4a6a4/6e0ff3a9-2797-4f72-b795-b14400772189/87fd8806-542f-4992-b1d4-b2e100d1147b/audio.mp3?utm_source=Podcast&in_playlist=57d0a7a0-1b16-481c-b10e-b144007a0c67",
+      "drive_file_id": "1kk05IYy-sKC6Dm-UiicwT66EB3TGQId7",
+      "drive_url": "https://drive.google.com/file/d/1kk05IYy-sKC6Dm-UiicwT66EB3TGQId7/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:18:29.509521+00:00",
+      "yemos_path": "ivr2:/1/16/3.wav"
+    },
+    "fe7b295d-a97e-4172-b397-b37e00af2f01": {
+      "podcast_id": "cx_podcast",
+      "title": "האזינו: כיצד \"בנק יוזם\" מגביר את נאמנות הלקוחות?",
+      "published": "Wed, 22 Oct 2025 10:43:55 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/397b9456-4f75-4509-acff-ac0600b4a6a4/6e0ff3a9-2797-4f72-b795-b14400772189/fe7b295d-a97e-4172-b397-b37e00af2f01/audio.mp3?utm_source=Podcast&in_playlist=57d0a7a0-1b16-481c-b10e-b144007a0c67",
+      "drive_file_id": "1Hv5TBtKWjZfRuOqwPayY5QB3YTfIRiXr",
+      "drive_url": "https://drive.google.com/file/d/1Hv5TBtKWjZfRuOqwPayY5QB3YTfIRiXr/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:18:46.913266+00:00",
+      "yemos_path": "ivr2:/1/16/4.wav"
+    },
+    "d58d9e76-9ad9-4a4b-8372-b383009b96e8": {
+      "podcast_id": "cx_podcast",
+      "title": "ד\"ר דנה טבת מסבירה: מהו \"הרוצח השקט\" שפוגע בחוויית הלקוחות",
+      "published": "Mon, 27 Oct 2025 09:27:55 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/397b9456-4f75-4509-acff-ac0600b4a6a4/6e0ff3a9-2797-4f72-b795-b14400772189/d58d9e76-9ad9-4a4b-8372-b383009b96e8/audio.mp3?utm_source=Podcast&in_playlist=57d0a7a0-1b16-481c-b10e-b144007a0c67",
+      "drive_file_id": "1aYp4lGDOvy8EzdBSfsS_HEsZzKNVNifj",
+      "drive_url": "https://drive.google.com/file/d/1aYp4lGDOvy8EzdBSfsS_HEsZzKNVNifj/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:19:02.385158+00:00",
+      "yemos_path": "ivr2:/1/16/5.wav"
+    },
+    "27579970-987f-44fa-b51f-b4c5014b91a4": {
+      "podcast_id": "haim_aherim",
+      "title": "חיים של אחרים | 14.09.26",
+      "published": "Mon, 14 Sep 2026 20:07:12 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/18165081-89c2-4c67-beaa-ade9007eff95/27579970-987f-44fa-b51f-b4c5014b91a4/audio.mp3?utm_source=Podcast&in_playlist=69e63bd8-5f53-4674-bdbf-ade900800459",
+      "drive_file_id": "1mVRMN0oQG66v_JrBLHGdJ7JdKLtCYvNg",
+      "drive_url": "https://drive.google.com/file/d/1mVRMN0oQG66v_JrBLHGdJ7JdKLtCYvNg/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:19:19.465578+00:00",
+      "yemos_path": "ivr2:/1/17/1.wav"
+    },
+    "3a7d7dab-22ce-4320-a1ae-b4c6014c1e44": {
+      "podcast_id": "haim_aherim",
+      "title": "חיים של אחרים | 15.09.26",
+      "published": "Tue, 15 Sep 2026 20:09:12 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/18165081-89c2-4c67-beaa-ade9007eff95/3a7d7dab-22ce-4320-a1ae-b4c6014c1e44/audio.mp3?utm_source=Podcast&in_playlist=69e63bd8-5f53-4674-bdbf-ade900800459",
+      "drive_file_id": "1hdysHcZE7qM-ttkhPCJ7Gtk36l79wOTx",
+      "drive_url": "https://drive.google.com/file/d/1hdysHcZE7qM-ttkhPCJ7Gtk36l79wOTx/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:20:03.160524+00:00",
+      "yemos_path": "ivr2:/1/17/2.wav"
+    },
+    "ef08fc5f-2d8e-4ef1-b919-b4c7014b924e": {
+      "podcast_id": "haim_aherim",
+      "title": "חיים של אחרים | 16.09.26",
+      "published": "Wed, 16 Sep 2026 20:07:12 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/18165081-89c2-4c67-beaa-ade9007eff95/ef08fc5f-2d8e-4ef1-b919-b4c7014b924e/audio.mp3?utm_source=Podcast&in_playlist=69e63bd8-5f53-4674-bdbf-ade900800459",
+      "drive_file_id": "1CDPWl6qdzUBn_X-BYfwYhhE9OnC88CRu",
+      "drive_url": "https://drive.google.com/file/d/1CDPWl6qdzUBn_X-BYfwYhhE9OnC88CRu/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:20:46.909718+00:00",
+      "yemos_path": "ivr2:/1/17/3.wav"
+    },
+    "bc408b43-4ee2-49fd-9f0f-b4cd014bd8ba": {
+      "podcast_id": "haim_aherim",
+      "title": "חיים של אחרים | 22.09.26",
+      "published": "Tue, 22 Sep 2026 20:08:12 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/18165081-89c2-4c67-beaa-ade9007eff95/bc408b43-4ee2-49fd-9f0f-b4cd014bd8ba/audio.mp3?utm_source=Podcast&in_playlist=69e63bd8-5f53-4674-bdbf-ade900800459",
+      "drive_file_id": "1xnJXMKico-4n-gi8FoeQkxB_kwf3PMTW",
+      "drive_url": "https://drive.google.com/file/d/1xnJXMKico-4n-gi8FoeQkxB_kwf3PMTW/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:21:22.354696+00:00",
+      "yemos_path": "ivr2:/1/17/4.wav"
+    },
+    "242b14a7-8185-4011-9322-b4ce014b920c": {
+      "podcast_id": "haim_aherim",
+      "title": "חיים של אחרים | 23.09.26",
+      "published": "Wed, 23 Sep 2026 20:07:12 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/18165081-89c2-4c67-beaa-ade9007eff95/242b14a7-8185-4011-9322-b4ce014b920c/audio.mp3?utm_source=Podcast&in_playlist=69e63bd8-5f53-4674-bdbf-ade900800459",
+      "drive_file_id": "1UN3LyTvTvvnpJ5blVzAJny77rNWOucBU",
+      "drive_url": "https://drive.google.com/file/d/1UN3LyTvTvvnpJ5blVzAJny77rNWOucBU/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:21:57.839969+00:00",
+      "yemos_path": "ivr2:/1/17/5.wav"
+    },
+    "bea5f3f3-b772-41a8-b0a5-b26a00e0b812": {
+      "podcast_id": "esek_kalkali",
+      "title": "רוקדות את החלום: העצמה דרך ריקוד",
+      "published": "Tue, 21 Jan 2025 08:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/6242b49a-c208-4614-9914-b2260112cd16/bea5f3f3-b772-41a8-b0a5-b26a00e0b812/audio.mp3?utm_source=Podcast&in_playlist=dc46c62e-dfbc-45fa-b686-b2260112ce57",
+      "drive_file_id": "1ftT7kL8fhph3kpqqwD2r1qjoSvUW_84c",
+      "drive_url": "https://drive.google.com/file/d/1ftT7kL8fhph3kpqqwD2r1qjoSvUW_84c/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:22:37.455051+00:00",
+      "yemos_path": "ivr2:/1/18/1.wav"
+    },
+    "0a101496-7e86-48ba-a700-b26a00e20b2d": {
+      "podcast_id": "esek_kalkali",
+      "title": "המהפכה הניידת: משנים את חוקי המשחק בבנייה",
+      "published": "Tue, 21 Jan 2025 08:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/6242b49a-c208-4614-9914-b2260112cd16/0a101496-7e86-48ba-a700-b26a00e20b2d/audio.mp3?utm_source=Podcast&in_playlist=dc46c62e-dfbc-45fa-b686-b2260112ce57",
+      "drive_file_id": "1-TIuUQM7mjizqY8q9s5_cly2F0XUiUsR",
+      "drive_url": "https://drive.google.com/file/d/1-TIuUQM7mjizqY8q9s5_cly2F0XUiUsR/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:22:50.501962+00:00",
+      "yemos_path": "ivr2:/1/18/2.wav"
+    },
+    "51d89124-3a00-43de-a9a6-b26a00e3af28": {
+      "podcast_id": "esek_kalkali",
+      "title": "מחשמל את העתיד: מהפכה בעמדות הטעינה לרכבים חשמליים",
+      "published": "Tue, 21 Jan 2025 08:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/6242b49a-c208-4614-9914-b2260112cd16/51d89124-3a00-43de-a9a6-b26a00e3af28/audio.mp3?utm_source=Podcast&in_playlist=dc46c62e-dfbc-45fa-b686-b2260112ce57",
+      "drive_file_id": "1A9FycJT3mAATzrX5sqaMPx80t7OLv2Gk",
+      "drive_url": "https://drive.google.com/file/d/1A9FycJT3mAATzrX5sqaMPx80t7OLv2Gk/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:22:58.626375+00:00",
+      "yemos_path": "ivr2:/1/18/3.wav"
+    },
+    "2ff29e17-85ed-4140-bd6e-b26a00e48ac4": {
+      "podcast_id": "esek_kalkali",
+      "title": "לפרוץ גבולות: מהחיים הבטוחים לעולם העצמאות",
+      "published": "Tue, 21 Jan 2025 08:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/6242b49a-c208-4614-9914-b2260112cd16/2ff29e17-85ed-4140-bd6e-b26a00e48ac4/audio.mp3?utm_source=Podcast&in_playlist=dc46c62e-dfbc-45fa-b686-b2260112ce57",
+      "drive_file_id": "1cK7bXDJJvjmy4x2gE16x7Q25HcB_Z_10",
+      "drive_url": "https://drive.google.com/file/d/1cK7bXDJJvjmy4x2gE16x7Q25HcB_Z_10/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:23:09.106657+00:00",
+      "yemos_path": "ivr2:/1/18/4.wav"
+    },
+    "107a2279-4b17-43ff-86c9-b26a00e56967": {
+      "podcast_id": "esek_kalkali",
+      "title": "להפוך משבר להזדמנות: המסע לעור חדש",
+      "published": "Tue, 21 Jan 2025 08:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/6242b49a-c208-4614-9914-b2260112cd16/107a2279-4b17-43ff-86c9-b26a00e56967/audio.mp3?utm_source=Podcast&in_playlist=dc46c62e-dfbc-45fa-b686-b2260112ce57",
+      "drive_file_id": "1Jixfsy1hy4A-ehsd05g0h_yp55sZPEBD",
+      "drive_url": "https://drive.google.com/file/d/1Jixfsy1hy4A-ehsd05g0h_yp55sZPEBD/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:23:24.356134+00:00",
+      "yemos_path": "ivr2:/1/18/5.wav"
+    },
+    "4b7f33b5-8464-4ab9-b7f2-ae4b0073f8f9": {
+      "podcast_id": "keta_kalkali",
+      "title": "האם איבדנו שליטה על העולם?",
+      "published": "Tue, 01 Mar 2022 07:04:46 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/2b205f04-5ead-4e7a-9f30-a8d9007aa8c1/d26c5ef0-5f51-4ea2-bf88-a9cb010a1da9/4b7f33b5-8464-4ab9-b7f2-ae4b0073f8f9/audio.mp3?utm_source=Podcast&in_playlist=fc9f942b-1ef5-4097-8038-a9cb010a1db2",
+      "drive_file_id": "1lvuKSTaY13SNfOnktrjlsw8GpOkWuVtv",
+      "drive_url": "https://drive.google.com/file/d/1lvuKSTaY13SNfOnktrjlsw8GpOkWuVtv/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:23:40.632272+00:00",
+      "yemos_path": "ivr2:/1/19/1.wav"
+    },
+    "bfabca04-d147-4eb9-9300-ae5800fa8023": {
+      "podcast_id": "keta_kalkali",
+      "title": "למה אי אפשר לחזות את נפילת הבורסה",
+      "published": "Tue, 15 Mar 2022 03:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/2b205f04-5ead-4e7a-9f30-a8d9007aa8c1/d26c5ef0-5f51-4ea2-bf88-a9cb010a1da9/bfabca04-d147-4eb9-9300-ae5800fa8023/audio.mp3?utm_source=Podcast&in_playlist=fc9f942b-1ef5-4097-8038-a9cb010a1db2",
+      "drive_file_id": "10LWhyT2V5mmLIHWuNByF02eUOZ8JqUOq",
+      "drive_url": "https://drive.google.com/file/d/10LWhyT2V5mmLIHWuNByF02eUOZ8JqUOq/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:23:50.009785+00:00",
+      "yemos_path": "ivr2:/1/19/2.wav"
+    },
+    "220a4f21-5740-41ab-b305-ae6601338a59": {
+      "podcast_id": "keta_kalkali",
+      "title": "הקשר בין מניות לשיפוט בתחרות יופי",
+      "published": "Tue, 29 Mar 2022 02:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/2b205f04-5ead-4e7a-9f30-a8d9007aa8c1/d26c5ef0-5f51-4ea2-bf88-a9cb010a1da9/220a4f21-5740-41ab-b305-ae6601338a59/audio.mp3?utm_source=Podcast&in_playlist=fc9f942b-1ef5-4097-8038-a9cb010a1db2",
+      "drive_file_id": "1LLnLs0Y4tZzqAhET8fohofDi63qgvFAy",
+      "drive_url": "https://drive.google.com/file/d/1LLnLs0Y4tZzqAhET8fohofDi63qgvFAy/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:23:57.507078+00:00",
+      "yemos_path": "ivr2:/1/19/3.wav"
+    },
+    "6216e953-1259-4391-883e-ae74013ac8bf": {
+      "podcast_id": "keta_kalkali",
+      "title": "האם אפשר לסמוך על האנליסטים?",
+      "published": "Tue, 12 Apr 2022 02:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/2b205f04-5ead-4e7a-9f30-a8d9007aa8c1/d26c5ef0-5f51-4ea2-bf88-a9cb010a1da9/6216e953-1259-4391-883e-ae74013ac8bf/audio.mp3?utm_source=Podcast&in_playlist=fc9f942b-1ef5-4097-8038-a9cb010a1db2",
+      "drive_file_id": "1C3o_fRTU8cIFfDv-qi43guBnxyz8nQtA",
+      "drive_url": "https://drive.google.com/file/d/1C3o_fRTU8cIFfDv-qi43guBnxyz8nQtA/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:24:08.510767+00:00",
+      "yemos_path": "ivr2:/1/19/4.wav"
+    },
+    "1120fac9-69c4-45fc-bdc4-ae89012f18c9": {
+      "podcast_id": "keta_kalkali",
+      "title": "היזם שחולל שינוי חברתי: הכירו את רוברט אואן",
+      "published": "Tue, 03 May 2022 02:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/2b205f04-5ead-4e7a-9f30-a8d9007aa8c1/d26c5ef0-5f51-4ea2-bf88-a9cb010a1da9/1120fac9-69c4-45fc-bdc4-ae89012f18c9/audio.mp3?utm_source=Podcast&in_playlist=fc9f942b-1ef5-4097-8038-a9cb010a1db2",
+      "drive_file_id": "1blPfDoPB4XLKKgavdq_ZYL-0YbdKCY-J",
+      "drive_url": "https://drive.google.com/file/d/1blPfDoPB4XLKKgavdq_ZYL-0YbdKCY-J/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:24:14.975130+00:00",
+      "yemos_path": "ivr2:/1/19/5.wav"
+    },
+    "13c4ee10345db4c78c6f5c9dd28a11bc": {
+      "podcast_id": "little_university",
+      "title": "שלושה עקרונות חשובים של הפסיכואנליזה",
+      "published": "Wed, 23 May 2018 06:47:58 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/d5def522-7ca5-4ba1-9730-a92f009305b4/e22edb98-6537-4e67-a379-a92f00934ebc/audio.mp3?utm_source=Podcast&in_playlist=61d0a060-8f09-495d-a278-a92f009305b4&t=1533114514",
+      "drive_file_id": "1bywDLxAGySpv5Tte_qZa7ckLnchDc6su",
+      "drive_url": "https://drive.google.com/file/d/1bywDLxAGySpv5Tte_qZa7ckLnchDc6su/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:24:22.372380+00:00",
+      "yemos_path": "ivr2:/1/21/1.wav"
+    },
+    "3e1dc9829455273fb60cb62ac8662abe": {
+      "podcast_id": "little_university",
+      "title": "איך התחילו בני האדם ללכת על שתיים?",
+      "published": "Thu, 24 May 2018 06:37:02 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/d5def522-7ca5-4ba1-9730-a92f009305b4/4c050843-d7ff-4ecd-a334-a92f0093462e/audio.mp3?utm_source=Podcast&in_playlist=61d0a060-8f09-495d-a278-a92f009305b4&t=1533114485",
+      "drive_file_id": "12zlFDoLFcwOFzry5VhQ1FbdEdOucFgXL",
+      "drive_url": "https://drive.google.com/file/d/12zlFDoLFcwOFzry5VhQ1FbdEdOucFgXL/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:24:28.529601+00:00",
+      "yemos_path": "ivr2:/1/21/2.wav"
+    },
+    "64d3ebbd9c407b59357bee52d10cc773": {
+      "podcast_id": "little_university",
+      "title": "אירועים חשובים בקורותיה של תחנת החלל מיר- חלק א",
+      "published": "Sun, 27 May 2018 06:58:12 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/d5def522-7ca5-4ba1-9730-a92f009305b4/73797a95-d0f7-4156-9b96-a92f0093342d/audio.mp3?utm_source=Podcast&in_playlist=61d0a060-8f09-495d-a278-a92f009305b4&t=1533114255",
+      "drive_file_id": "1zILc2MnnHjKKeZEGhKlEnkCzjRwPufjh",
+      "drive_url": "https://drive.google.com/file/d/1zILc2MnnHjKKeZEGhKlEnkCzjRwPufjh/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:24:33.561484+00:00",
+      "yemos_path": "ivr2:/1/21/3.wav"
+    },
+    "101d4312807124a680f40fc865ffc59d": {
+      "podcast_id": "little_university",
+      "title": "אירועים חשובים בקורותיה של תחנת החלל מיר- חלק ב",
+      "published": "Tue, 29 May 2018 06:49:08 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/d5def522-7ca5-4ba1-9730-a92f009305b4/2e470aa9-f84f-4e1a-8030-a92f009332f4/audio.mp3?utm_source=Podcast&in_playlist=61d0a060-8f09-495d-a278-a92f009305b4&t=1533114187",
+      "drive_file_id": "1PTt8dh_s_Rb1VkETRPUsGqPB_X2RtcAy",
+      "drive_url": "https://drive.google.com/file/d/1PTt8dh_s_Rb1VkETRPUsGqPB_X2RtcAy/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:24:40.698047+00:00",
+      "yemos_path": "ivr2:/1/21/4.wav"
+    },
+    "df56057a2019807c37c0de5ee0cc815c": {
+      "podcast_id": "little_university",
+      "title": "ארבעה דברים שלא ידעתם על מאיצי חלקיקים",
+      "published": "Thu, 14 Jun 2018 10:33:35 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/d5def522-7ca5-4ba1-9730-a92f009305b4/e42863fb-69a4-4589-ae3c-a92f00933223/audio.mp3?utm_source=Podcast&in_playlist=61d0a060-8f09-495d-a278-a92f009305b4&t=1533137050",
+      "drive_file_id": "1iHFewzhXRa6CD8pKt8MVk_M-5Qb8SRTq",
+      "drive_url": "https://drive.google.com/file/d/1iHFewzhXRa6CD8pKt8MVk_M-5Qb8SRTq/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:24:45.885960+00:00",
+      "yemos_path": "ivr2:/1/21/5.wav"
+    },
+    "76af4fd6-5f0f-4bda-990f-b370014c176d": {
+      "podcast_id": "music_tech",
+      "title": "עונה 2 - פרק 4: נעם לוינברג",
+      "published": "Thu, 09 Oct 2025 07:00:49 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/262a9100-43bc-45d6-a5a1-b12f00c9ed43/76af4fd6-5f0f-4bda-990f-b370014c176d/audio.mp3?utm_source=Podcast&in_playlist=3d167dfe-a555-43bf-8359-b12f00cbbec3",
+      "drive_file_id": "1UB-XQLC5g0XYqgQagooxZ6R9pfl9vwZm",
+      "drive_url": "https://drive.google.com/file/d/1UB-XQLC5g0XYqgQagooxZ6R9pfl9vwZm/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:24:51.531612+00:00",
+      "yemos_path": "ivr2:/1/22/1.wav"
+    },
+    "c2a5341b-9c83-420d-9e04-b37e01055dd8": {
+      "podcast_id": "music_tech",
+      "title": "עונה 2 - פרק 5:  גיא מזיג",
+      "published": "Wed, 22 Oct 2025 16:02:15 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/262a9100-43bc-45d6-a5a1-b12f00c9ed43/c2a5341b-9c83-420d-9e04-b37e01055dd8/audio.mp3?utm_source=Podcast&in_playlist=3d167dfe-a555-43bf-8359-b12f00cbbec3",
+      "drive_file_id": "1n3cBiigjPMZu8QqUxQVCOD500shqEMnU",
+      "drive_url": "https://drive.google.com/file/d/1n3cBiigjPMZu8QqUxQVCOD500shqEMnU/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:25:38.302274+00:00",
+      "yemos_path": "ivr2:/1/22/2.wav"
+    },
+    "433f5218-53ec-4abf-8c2c-b3a50081fc22": {
+      "podcast_id": "music_tech",
+      "title": "עונה 2 - פרק 6: אשר ביטנסקי",
+      "published": "Sun, 30 Nov 2025 08:22:41 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/262a9100-43bc-45d6-a5a1-b12f00c9ed43/433f5218-53ec-4abf-8c2c-b3a50081fc22/audio.mp3?utm_source=Podcast&in_playlist=3d167dfe-a555-43bf-8359-b12f00cbbec3",
+      "drive_file_id": "109tqE_GLrhoUe7X7T4KW8XHUqZX4WrFN",
+      "drive_url": "https://drive.google.com/file/d/109tqE_GLrhoUe7X7T4KW8XHUqZX4WrFN/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:26:23.735779+00:00",
+      "yemos_path": "ivr2:/1/22/3.wav"
+    },
+    "2d268b1e-d7c5-493b-b257-b3b000df17a8": {
+      "podcast_id": "music_tech",
+      "title": "עונה 2 - פרק 7: נועה יפה",
+      "published": "Thu, 11 Dec 2025 13:39:26 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/262a9100-43bc-45d6-a5a1-b12f00c9ed43/2d268b1e-d7c5-493b-b257-b3b000df17a8/audio.mp3?utm_source=Podcast&in_playlist=3d167dfe-a555-43bf-8359-b12f00cbbec3",
+      "drive_file_id": "1bqIUxu8eANuTjPsYmLVVJS3_xe1FH7OP",
+      "drive_url": "https://drive.google.com/file/d/1bqIUxu8eANuTjPsYmLVVJS3_xe1FH7OP/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:27:05.818575+00:00",
+      "yemos_path": "ivr2:/1/22/4.wav"
+    },
+    "2a4a7b17-ebc7-4b1a-9788-b3bf00ac96dd": {
+      "podcast_id": "music_tech",
+      "title": "עונה 2 - פרק 8: רותם ואחניש",
+      "published": "Fri, 26 Dec 2025 10:32:35 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/262a9100-43bc-45d6-a5a1-b12f00c9ed43/2a4a7b17-ebc7-4b1a-9788-b3bf00ac96dd/audio.mp3?utm_source=Podcast&in_playlist=3d167dfe-a555-43bf-8359-b12f00cbbec3",
+      "drive_file_id": "1y7xMZFgebXlfmWKQLDNquN-hAv0U70rC",
+      "drive_url": "https://drive.google.com/file/d/1y7xMZFgebXlfmWKQLDNquN-hAv0U70rC/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:28:08.536330+00:00",
+      "yemos_path": "ivr2:/1/22/5.wav"
+    },
+    "d544d1cc-3e0a-43c3-95cb-b4a4010e21ee": {
+      "podcast_id": "traveler",
+      "title": "הליגות בספרד וטורקיה מתחילות",
+      "published": "Wed, 12 Aug 2026 16:27:30 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/518cf380-e1a2-4884-abe0-ae83012c52c3/d544d1cc-3e0a-43c3-95cb-b4a4010e21ee/audio.mp3?utm_source=Podcast&in_playlist=f10cd213-d9cc-42c7-a7a8-ae83012ca131",
+      "drive_file_id": "1MoYbv9pQrSUfOsNI42Y8eDrhZxTJ9T-N",
+      "drive_url": "https://drive.google.com/file/d/1MoYbv9pQrSUfOsNI42Y8eDrhZxTJ9T-N/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:28:46.079986+00:00",
+      "yemos_path": "ivr2:/1/23/1.wav"
+    },
+    "bb4418f2-6f09-4252-8c74-b4aa01449296": {
+      "podcast_id": "traveler",
+      "title": "עונה חדשה בפרמייר ליג",
+      "published": "Tue, 18 Aug 2026 19:52:07 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/518cf380-e1a2-4884-abe0-ae83012c52c3/bb4418f2-6f09-4252-8c74-b4aa01449296/audio.mp3?utm_source=Podcast&in_playlist=f10cd213-d9cc-42c7-a7a8-ae83012ca131",
+      "drive_file_id": "1Fem_ThuPepqRUi8nllPOIfC5kWkWVmH8",
+      "drive_url": "https://drive.google.com/file/d/1Fem_ThuPepqRUi8nllPOIfC5kWkWVmH8/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:29:23.842921+00:00",
+      "yemos_path": "ivr2:/1/23/2.wav"
+    },
+    "707c080a-3e07-469d-8bc9-b4b901275b38": {
+      "podcast_id": "traveler",
+      "title": "סיכום חלון העברות קיץ 2026",
+      "published": "Wed, 02 Sep 2026 18:01:43 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/518cf380-e1a2-4884-abe0-ae83012c52c3/707c080a-3e07-469d-8bc9-b4b901275b38/audio.mp3?utm_source=Podcast&in_playlist=f10cd213-d9cc-42c7-a7a8-ae83012ca131",
+      "drive_file_id": "1LUxaLF8r4pGBI8DzRVw_ByYhfmtqR3wV",
+      "drive_url": "https://drive.google.com/file/d/1LUxaLF8r4pGBI8DzRVw_ByYhfmtqR3wV/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:30:07.759577+00:00",
+      "yemos_path": "ivr2:/1/23/3.wav"
+    },
+    "e9c32e5c-e253-472c-8584-b4c200340cb6": {
+      "podcast_id": "traveler",
+      "title": "ליגת האלופות חזרה ובגדול",
+      "published": "Fri, 11 Sep 2026 03:15:38 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/518cf380-e1a2-4884-abe0-ae83012c52c3/e9c32e5c-e253-472c-8584-b4c200340cb6/audio.mp3?utm_source=Podcast&in_playlist=f10cd213-d9cc-42c7-a7a8-ae83012ca131",
+      "drive_file_id": "18k8G6G1uGLVvfEVNlqkqVSDzWDAK5ISS",
+      "drive_url": "https://drive.google.com/file/d/18k8G6G1uGLVvfEVNlqkqVSDzWDAK5ISS/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:30:40.880451+00:00",
+      "yemos_path": "ivr2:/1/23/4.wav"
+    },
+    "c7046079-c3da-4797-9d6e-b4cf009c3e52": {
+      "podcast_id": "traveler",
+      "title": "מתכוננים לליגת האומות",
+      "published": "Thu, 24 Sep 2026 10:04:19 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/518cf380-e1a2-4884-abe0-ae83012c52c3/c7046079-c3da-4797-9d6e-b4cf009c3e52/audio.mp3?utm_source=Podcast&in_playlist=f10cd213-d9cc-42c7-a7a8-ae83012ca131",
+      "drive_file_id": "1_Wdg2b44zwZTbXySr0z_B0YfZeyhoxAY",
+      "drive_url": "https://drive.google.com/file/d/1_Wdg2b44zwZTbXySr0z_B0YfZeyhoxAY/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:31:25.292211+00:00",
+      "yemos_path": "ivr2:/1/23/5.wav"
+    },
+    "b08ad124-53e2-42c2-a911-b07900502e08": {
+      "podcast_id": "historia_bederech",
+      "title": "ראש השנה תרפ\"ד - תשפ\"ד: 100 שנה לתחילת לימוד הדף היומי",
+      "published": "Sun, 10 Sep 2023 05:12:33 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/baccee87-477c-4d8c-85ed-ae0e00c51041/ae09e00c-5e09-4229-9502-ae0e00c53e59/b08ad124-53e2-42c2-a911-b07900502e08/audio.mp3?utm_source=Podcast&in_playlist=20fed1e2-cd59-4ec5-b7e0-b06400abc235",
+      "drive_file_id": "1kMQtyd-MCF6Y5KN2VN98ReRsywvZZPTC",
+      "drive_url": "https://drive.google.com/file/d/1kMQtyd-MCF6Y5KN2VN98ReRsywvZZPTC/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:32:03.412276+00:00",
+      "yemos_path": "ivr2:/1/25/1.wav"
+    },
+    "8d6f9be5-f1d5-4117-a011-b079008513e1": {
+      "podcast_id": "historia_bederech",
+      "title": "50 שנה למלחמת יום הכיפורים - סיפורו של משה לוי",
+      "published": "Mon, 18 Sep 2023 04:57:47 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/baccee87-477c-4d8c-85ed-ae0e00c51041/ae09e00c-5e09-4229-9502-ae0e00c53e59/8d6f9be5-f1d5-4117-a011-b079008513e1/audio.mp3?utm_source=Podcast&in_playlist=20fed1e2-cd59-4ec5-b7e0-b06400abc235",
+      "drive_file_id": "11f1NLBKKPvnDzCEhMSt2zJEqgeORUGr6",
+      "drive_url": "https://drive.google.com/file/d/11f1NLBKKPvnDzCEhMSt2zJEqgeORUGr6/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:32:10.454549+00:00",
+      "yemos_path": "ivr2:/1/25/2.wav"
+    },
+    "71024df8-88e8-44c5-9af1-b0840091fae2": {
+      "podcast_id": "historia_bederech",
+      "title": "סיפורו של אל\"מ במיל' מיקי  זייפה  - נקישות של תקווה",
+      "published": "Thu, 21 Sep 2023 09:20:58 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/baccee87-477c-4d8c-85ed-ae0e00c51041/ae09e00c-5e09-4229-9502-ae0e00c53e59/71024df8-88e8-44c5-9af1-b0840091fae2/audio.mp3?utm_source=Podcast&in_playlist=20fed1e2-cd59-4ec5-b7e0-b06400abc235",
+      "drive_file_id": "1eSJDVapIQ3aa3sCL1C4AV05xrRYpCDma",
+      "drive_url": "https://drive.google.com/file/d/1eSJDVapIQ3aa3sCL1C4AV05xrRYpCDma/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:32:17.954291+00:00",
+      "yemos_path": "ivr2:/1/25/3.wav"
+    },
+    "1fcc9ead-f9d4-4c89-bff5-b0890057c208": {
+      "podcast_id": "historia_bederech",
+      "title": "גווילים שרופים, אותיות פורחות ועם ישראל חי - תוכנית מיוחדת לשמחת תורה",
+      "published": "Thu, 05 Oct 2023 04:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/baccee87-477c-4d8c-85ed-ae0e00c51041/ae09e00c-5e09-4229-9502-ae0e00c53e59/1fcc9ead-f9d4-4c89-bff5-b0890057c208/audio.mp3?utm_source=Podcast&in_playlist=20fed1e2-cd59-4ec5-b7e0-b06400abc235",
+      "drive_file_id": "1_jbFF1Cf6taWJAKVIjA-N9lIzI9SUcAT",
+      "drive_url": "https://drive.google.com/file/d/1_jbFF1Cf6taWJAKVIjA-N9lIzI9SUcAT/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:32:25.685632+00:00",
+      "yemos_path": "ivr2:/1/25/4.wav"
+    },
+    "b118b8ce-9fdd-4bbf-af2a-b08900672adf": {
+      "podcast_id": "historia_bederech",
+      "title": "תוכנית מיוחדת ליום פטירת רחל אמנו",
+      "published": "Wed, 25 Oct 2023 17:50:47 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/baccee87-477c-4d8c-85ed-ae0e00c51041/ae09e00c-5e09-4229-9502-ae0e00c53e59/b118b8ce-9fdd-4bbf-af2a-b08900672adf/audio.mp3?utm_source=Podcast&in_playlist=20fed1e2-cd59-4ec5-b7e0-b06400abc235",
+      "drive_file_id": "1dAQPgAhTDcF77hWJu-b7bV31HwvmFLI7",
+      "drive_url": "https://drive.google.com/file/d/1dAQPgAhTDcF77hWJu-b7bV31HwvmFLI7/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:32:32.919128+00:00",
+      "yemos_path": "ivr2:/1/25/5.wav"
+    },
+    "https://hubhopper.com/episode/596-ntbh-hlq-7-htysh-lntbh": {
+      "podcast_id": "historia_ktaim",
+      "title": "596: אנטבה חלק 7 - הטיסה לאנטבה",
+      "published": "Sun, 21 Jun 2026 10:51:29 +0000",
+      "audio_url": "https://play.hubhopper.com/8a1e986535d8d7f1d58058e0b4a4f0db.mp3?s=rss-feed&v=c2b0c1a11f7a",
+      "drive_file_id": "1_NcEFd4L091UeWZ5HQWQMHq8qXLjDHF-",
+      "drive_url": "https://drive.google.com/file/d/1_NcEFd4L091UeWZ5HQWQMHq8qXLjDHF-/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:32:45.129822+00:00",
+      "yemos_path": "ivr2:/1/26/1.wav"
+    },
+    "https://hubhopper.com/episode/597-ntbh-hlq-8-l-hqrq": {
+      "podcast_id": "historia_ktaim",
+      "title": "597: אנטבה חלק 8 - על הקרקע",
+      "published": "Sun, 28 Jun 2026 01:33:08 +0000",
+      "audio_url": "https://play.hubhopper.com/c59bb0f2309f6cef738220d169d5b399.mp3?s=rss-feed&v=ddea9731b6d2",
+      "drive_file_id": "154oxDPyym9gfqpdGSYkdBqXzl41WPKa3",
+      "drive_url": "https://drive.google.com/file/d/154oxDPyym9gfqpdGSYkdBqXzl41WPKa3/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:33:27.010694+00:00",
+      "yemos_path": "ivr2:/1/26/2.wav"
+    },
+    "https://hubhopper.com/episode/598-ntbh-hlq-9-hbyth": {
+      "podcast_id": "historia_ktaim",
+      "title": "598: אנטבה - חלק 9 - הביתה",
+      "published": "Mon, 06 Jul 2026 18:12:00 +0000",
+      "audio_url": "https://play.hubhopper.com/60f1bee6b07677793d08f4fe333bd9d9.mp3?s=rss-feed&v=c5cdf4f96db6",
+      "drive_file_id": "1EZfZ3xK7CkcWN4l1hAlodYzMcnrLFgT-",
+      "drive_url": "https://drive.google.com/file/d/1EZfZ3xK7CkcWN4l1hAlodYzMcnrLFgT-/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:33:53.603739+00:00",
+      "yemos_path": "ivr2:/1/26/3.wav"
+    },
+    "https://hubhopper.com/episode/599-htwpym-ntbh-hlq-10": {
+      "podcast_id": "historia_ktaim",
+      "title": "599: חטופים - אנטבה חלק 10",
+      "published": "Mon, 27 Jul 2026 03:13:33 +0000",
+      "audio_url": "https://play.hubhopper.com/16fdb51dff339bf5aabab0135b2dbc2e.mp3?s=rss-feed&v=0acdbb4ab251",
+      "drive_file_id": "1OZ3_geuRyEHkaX_I9Ctx9BszNGlvz6yJ",
+      "drive_url": "https://drive.google.com/file/d/1OZ3_geuRyEHkaX_I9Ctx9BszNGlvz6yJ/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:34:16.641645+00:00",
+      "yemos_path": "ivr2:/1/26/4.wav"
+    },
+    "https://hubhopper.com/episode/600-the-history-of-chutzpah": {
+      "podcast_id": "historia_ktaim",
+      "title": "600 - The History of Chutzpah",
+      "published": "Tue, 01 Sep 2026 00:53:29 +0000",
+      "audio_url": "https://play.hubhopper.com/847a147d36c75ee75a9b01dbbb457185.mp3?s=rss-feed&v=b9c9de5a83bb",
+      "drive_file_id": "1hTfNw4zRBaT-IvpXVUW29juC0mSqlVKk",
+      "drive_url": "https://drive.google.com/file/d/1hTfNw4zRBaT-IvpXVUW29juC0mSqlVKk/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:35:10.717110+00:00",
+      "yemos_path": "ivr2:/1/26/5.wav"
+    },
+    "https://api.spreaker.com/episode/74533496": {
+      "podcast_id": "osim_historia",
+      "title": "עושים היסטוריה הדור הבא - רן לוי וערן ניצן [עושים היסטוריה]",
+      "published": "Sun, 23 Aug 2026 03:00:02 +0000",
+      "audio_url": "https://api.spreaker.com/download/episode/74533496/osim_historia_passing_the_baton_draft_3.mp3",
+      "drive_file_id": "1LkM9_i0OAVifD2NZDXiV2wCY_oauLHnF",
+      "drive_url": "https://drive.google.com/file/d/1LkM9_i0OAVifD2NZDXiV2wCY_oauLHnF/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:35:58.750467+00:00",
+      "yemos_path": "ivr2:/1/27/1.wav"
+    },
+    "https://api.spreaker.com/episode/74535224": {
+      "podcast_id": "osim_historia",
+      "title": "קצין במדי אויב - מי אתה גבריאל זיסמן? [עושים היסטוריה]",
+      "published": "Mon, 24 Aug 2026 03:00:02 +0000",
+      "audio_url": "https://api.spreaker.com/download/episode/74535224/osim_historia_gabriel_zisman_draft_3.mp3",
+      "drive_file_id": "1EQd8wqMXlrzjUyKYBLTf8m13gEJ3vYMl",
+      "drive_url": "https://drive.google.com/file/d/1EQd8wqMXlrzjUyKYBLTf8m13gEJ3vYMl/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:36:14.277492+00:00",
+      "yemos_path": "ivr2:/1/27/2.wav"
+    },
+    "https://api.spreaker.com/episode/74760455": {
+      "podcast_id": "osim_historia",
+      "title": "האלטלנה - באש ובמים [עושים היסטוריה]",
+      "published": "Mon, 31 Aug 2026 03:00:02 +0000",
+      "audio_url": "https://api.spreaker.com/download/episode/74760455/osim_historia_altalena_v3.mp3",
+      "drive_file_id": "1PvT7PcJvS6_PVOa5Zie0DrROQHYv2NsS",
+      "drive_url": "https://drive.google.com/file/d/1PvT7PcJvS6_PVOa5Zie0DrROQHYv2NsS/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:36:59.401703+00:00",
+      "yemos_path": "ivr2:/1/27/3.wav"
+    },
+    "https://api.spreaker.com/episode/74949498": {
+      "podcast_id": "osim_historia",
+      "title": "שוד השעונים הגדול בירושלים [עושים היסטוריה]",
+      "published": "Mon, 07 Sep 2026 03:00:02 +0000",
+      "audio_url": "https://api.spreaker.com/download/episode/74949498/osim_historia_the_queens_watch_rr_v2.mp3",
+      "drive_file_id": "19JXOtvgYuDX5sr24O6LbELe8waS0D4jY",
+      "drive_url": "https://drive.google.com/file/d/19JXOtvgYuDX5sr24O6LbELe8waS0D4jY/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:37:35.550046+00:00",
+      "yemos_path": "ivr2:/1/27/4.wav"
+    },
+    "https://api.spreaker.com/episode/75286788": {
+      "podcast_id": "osim_historia",
+      "title": "טיסה 114 - בין שמיים לארץ [עושים היסטוריה]",
+      "published": "Tue, 22 Sep 2026 03:00:02 +0000",
+      "audio_url": "https://api.spreaker.com/download/episode/75286788/osim_historia_flight_114_draft_2.mp3",
+      "drive_file_id": "1MfV4U-M1rHPT1sfNigRLXG-QTCgadwI-",
+      "drive_url": "https://drive.google.com/file/d/1MfV4U-M1rHPT1sfNigRLXG-QTCgadwI-/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:38:15.923027+00:00",
+      "yemos_path": "ivr2:/1/27/5.wav"
+    },
+    "https://hubhopper.com/episode/htmwnh-btyqtwq-wnh-5-prq-5": {
+      "podcast_id": "yaldin",
+      "title": "התמונה בטיקטוק (עונה 5 ,פרק 5)",
+      "published": "Tue, 20 May 2025 13:26:01 +0000",
+      "audio_url": "https://play.hubhopper.com/a64924e349e3c7e73f6b432108dff7e3.mp3?s=rss-feed&v=a44071056d50",
+      "status": "error",
+      "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32885696/htmwnh-btyqtwq-wnh-5-prq-5.mp3?s=rss-feed&rd=1790208000",
+      "updated_at": "2026-09-24T11:38:47.262815+00:00"
+    },
+    "https://hubhopper.com/episode/mdynt-hyldym-wnh-5-prq-6": {
+      "podcast_id": "yaldin",
+      "title": "מדינת הילדים (עונה 5, פרק 6)",
+      "published": "Tue, 27 May 2025 09:13:10 +0000",
+      "audio_url": "https://play.hubhopper.com/78b7d7d904648a59cd5b69ab4501393c.mp3?s=rss-feed&v=a44071056d50",
+      "status": "error",
+      "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32887761/mdynt-hyldym-wnh-5-prq-6.mp3?s=rss-feed&rd=1790208000",
+      "updated_at": "2026-09-24T11:38:48.651601+00:00"
+    },
+    "https://hubhopper.com/episode/hpwdqst-sl-twm-wmyh-wnh-5-prq-7": {
+      "podcast_id": "yaldin",
+      "title": "הפודקאסט של תום ומאיה (עונה 5, פרק 7)",
+      "published": "Wed, 11 Jun 2025 03:20:23 +0000",
+      "audio_url": "https://play.hubhopper.com/804eb17d5ea317b10e840672662c9ede.mp3?s=rss-feed&v=a44071056d50",
+      "status": "error",
+      "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32893995/hpwdqst-sl-twm-wmyh-wnh-5-prq-7.mp3?s=rss-feed&rd=1790208000",
+      "updated_at": "2026-09-24T11:38:49.999947+00:00"
+    },
+    "https://hubhopper.com/episode/wnh-hdsh-bpth-mthylym-m-lyyb": {
+      "podcast_id": "yaldin",
+      "title": "עונה חדשה בפתח - מתחילים עם לייב",
+      "published": "Tue, 11 Aug 2026 08:04:17 +0000",
+      "audio_url": "https://play.hubhopper.com/c2c4f85119f569ec5714f401ecbfa36f.mp3?s=rss-feed&v=a44071056d50",
+      "status": "error",
+      "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/33026741/wnh-hdsh-bpth-mthylym-m-lyyb.mp3?s=rss-feed&rd=1790208000",
+      "updated_at": "2026-09-24T11:38:50.993417+00:00"
+    },
+    "https://hubhopper.com/episode/hmtb-htyq-wnh-6-prq-1": {
+      "podcast_id": "yaldin",
+      "title": "המטבע העתיק (עונה 6, פרק 1)",
+      "published": "Wed, 23 Sep 2026 03:06:08 +0000",
+      "audio_url": "https://play.hubhopper.com/540a1297ff711162a24c4b5cd466d511.mp3?s=rss-feed&v=9d2322a55187",
+      "drive_file_id": "1erUttcV4tC6IIeNB2ipcs0hFQCYkb0cx",
+      "drive_url": "https://drive.google.com/file/d/1erUttcV4tC6IIeNB2ipcs0hFQCYkb0cx/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:38:52.839848+00:00",
+      "yemos_path": "ivr2:/1/37/5.wav"
+    },
+    "https://historia.co.il/?p=18148": {
+      "podcast_id": "yetziat_ethiopia",
+      "title": "פרק 26: \\\"חמש שנים כמעט לא ישנתי\\\" – אפרים הלוי ראש המוסד לשעבר מספר",
+      "published": "Sun, 14 Mar 2021 09:11:49 +0000",
+      "audio_url": "https://play.hubhopper.com/8fefb67dce5c927c53b20509d34d1dc6.mp3?s=rss-feed",
+      "drive_file_id": "1eqtvpa0JtHGV-7BEP_Wl1gg9my1amTjx",
+      "drive_url": "https://drive.google.com/file/d/1eqtvpa0JtHGV-7BEP_Wl1gg9my1amTjx/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:39:22.724730+00:00",
+      "yemos_path": "ivr2:/1/38/1.wav"
+    },
+    "https://historia.co.il/?p=18389": {
+      "podcast_id": "yetziat_ethiopia",
+      "title": "פרק 27: טקלה מקונן מהמחנות להייטק",
+      "published": "Thu, 15 Apr 2021 14:50:09 +0000",
+      "audio_url": "https://play.hubhopper.com/16b5fa110cbbd6e46e5d91f8488cc9ff.mp3?s=rss-feed",
+      "drive_file_id": "1N6pjgnWFN0KrQEq-rVT5VSTzmf84DhnL",
+      "drive_url": "https://drive.google.com/file/d/1N6pjgnWFN0KrQEq-rVT5VSTzmf84DhnL/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:40:15.987758+00:00",
+      "yemos_path": "ivr2:/1/38/2.wav"
+    },
+    "https://api.spreaker.com/episode/48105818": {
+      "podcast_id": "yetziat_ethiopia",
+      "title": "פרק 28: זאב קאסו לא מאמין בגזענות",
+      "published": "Thu, 30 Dec 2021 06:36:26 +0000",
+      "audio_url": "https://play.hubhopper.com/52f9c85270b182820c8733ef820c11e4.mp3?s=rss-feed",
+      "drive_file_id": "1_o65VS8wpixv1g5VD_rkkt81gNCmXrYv",
+      "drive_url": "https://drive.google.com/file/d/1_o65VS8wpixv1g5VD_rkkt81gNCmXrYv/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:41:17.020069+00:00",
+      "yemos_path": "ivr2:/1/38/3.wav"
+    },
+    "https://api.spreaker.com/episode/48105878": {
+      "podcast_id": "yetziat_ethiopia",
+      "title": "פרק 29: זימנה ברהני - הרצל השחור- חלק א",
+      "published": "Thu, 30 Dec 2021 06:41:43 +0000",
+      "audio_url": "https://play.hubhopper.com/286435015c704e42bc1f9400827ed145.mp3?s=rss-feed",
+      "drive_file_id": "1VxnxuQUqOiNiTlwgt1ouyrIGbT9p2afl",
+      "drive_url": "https://drive.google.com/file/d/1VxnxuQUqOiNiTlwgt1ouyrIGbT9p2afl/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:42:16.281473+00:00",
+      "yemos_path": "ivr2:/1/38/4.wav"
+    },
+    "https://api.spreaker.com/episode/48105898": {
+      "podcast_id": "yetziat_ethiopia",
+      "title": "פרק 30: זימנה ברהני - הרצל השחור - חלק ב - פרק סיום הסדרה",
+      "published": "Thu, 30 Dec 2021 06:44:57 +0000",
+      "audio_url": "https://play.hubhopper.com/19b1d677821ff08f1f5a3dc86afcd81e.mp3?s=rss-feed",
+      "drive_file_id": "1Mi6iOIHAxbUel9nbTuLPVjJ_8J8oRSKs",
+      "drive_url": "https://drive.google.com/file/d/1Mi6iOIHAxbUel9nbTuLPVjJ_8J8oRSKs/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:43:04.442999+00:00",
+      "yemos_path": "ivr2:/1/38/5.wav"
+    },
+    "12ab4ab2-b404-4418-848d-06815f7f105c": {
+      "podcast_id": "sogen_sodi",
+      "title": "למה בכלל הומצאה האזעקה? (פרק 4, עונה 1)",
+      "published": "Thu, 13 Mar 2025 14:42:12 GMT",
+      "audio_url": "https://anchor.fm/s/102544b30/podcast/play/99803163/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-13%2Fb5f5bf10-2f6e-4e90-1bab-dd20e3a2b046.mp3",
+      "drive_file_id": "1rszG3NHQVLDg-XxqNUL7b9opRN7U06DZ",
+      "drive_url": "https://drive.google.com/file/d/1rszG3NHQVLDg-XxqNUL7b9opRN7U06DZ/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:43:40.925135+00:00",
+      "yemos_path": "ivr2:/1/39/1.wav"
+    },
+    "c851bf1f-e6b7-4499-9816-d14536c2d953": {
+      "podcast_id": "sogen_sodi",
+      "title": "איך הומצא הסכו\"ם ולמה אין כפית בראשי התיבות?! (פרק 5, עונה 1)",
+      "published": "Thu, 20 Mar 2025 07:09:46 GMT",
+      "audio_url": "https://anchor.fm/s/102544b30/podcast/play/99789153/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-13%2Facd7107f-d362-1fda-e915-06fc0b363b02.mp3",
+      "drive_file_id": "1_w23USN-ZXmGJN6407bMqs4cGPpH4QUm",
+      "drive_url": "https://drive.google.com/file/d/1_w23USN-ZXmGJN6407bMqs4cGPpH4QUm/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:43:56.152829+00:00",
+      "yemos_path": "ivr2:/1/39/2.wav"
+    },
+    "3fedc7d5-6a6d-4a9b-8375-9359cb6a5f4b": {
+      "podcast_id": "sogen_sodi",
+      "title": "מה אכלו בימי הביניים? (פרק 6, עונה 1)",
+      "published": "Thu, 27 Mar 2025 07:00:00 GMT",
+      "audio_url": "https://anchor.fm/s/102544b30/podcast/play/100442974/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-27%2F5480082f-d156-ee76-dbb1-b988310566c9.mp3",
+      "drive_file_id": "10EiQ1RnY4H2IMuDzUf7UPrrE47GCI1fi",
+      "drive_url": "https://drive.google.com/file/d/10EiQ1RnY4H2IMuDzUf7UPrrE47GCI1fi/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:44:09.652158+00:00",
+      "yemos_path": "ivr2:/1/39/3.wav"
+    },
+    "d904c175-41f0-498b-a5b1-de195eaa5d51": {
+      "podcast_id": "sogen_sodi",
+      "title": "למה כולם רוצים זהב?! (פרק 7, עונה 1)",
+      "published": "Thu, 03 Apr 2025 06:00:00 GMT",
+      "audio_url": "https://anchor.fm/s/102544b30/podcast/play/100723990/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-2%2F88c55405-65e2-3783-c3e5-58edfaee0761.mp3",
+      "drive_file_id": "1vZ42peCKqEj6vLjLqzD6y3tGGIOwuQfH",
+      "drive_url": "https://drive.google.com/file/d/1vZ42peCKqEj6vLjLqzD6y3tGGIOwuQfH/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:44:23.501960+00:00",
+      "yemos_path": "ivr2:/1/39/4.wav"
+    },
+    "a6193bf6-29b0-41dd-b9b2-9e632edb4f0b": {
+      "podcast_id": "sogen_sodi",
+      "title": "האם יש גשם של יהלומים בחלל?! (פרק 8, עונה 1)",
+      "published": "Mon, 14 Apr 2025 14:59:05 GMT",
+      "audio_url": "https://anchor.fm/s/102544b30/podcast/play/101276051/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-14%2F2c3a20b0-757f-18bd-05c6-eb8536855070.mp3",
+      "drive_file_id": "1fnVF1Yitj-fY6xVKMKF27gzXVW55WM8o",
+      "drive_url": "https://drive.google.com/file/d/1fnVF1Yitj-fY6xVKMKF27gzXVW55WM8o/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:44:42.974375+00:00",
+      "yemos_path": "ivr2:/1/39/5.wav"
+    },
+    "https://feeds.hubhopper.com/YeshLeZe.podbean.com/6638982b-dffc-3374-ad7b-d675dfd710b4": {
+      "podcast_id": "sipur_beerech",
+      "title": "פרק 2: -סינדרום מאריקו אאוקי, ריח של גשם, דרבי החסידות, תפיסות שגויות ועוד - עם נתן פוזניאק",
+      "published": "Thu, 06 Aug 2020 18:18:57 +0000",
+      "audio_url": "https://play.hubhopper.com/21945ae87da31ea13c38b9874e34d8d7.mp3?s=rss-feed",
+      "drive_file_id": "14zgu4ui0NU4pad2oCqLzSTVvoIVG79VR",
+      "drive_url": "https://drive.google.com/file/d/14zgu4ui0NU4pad2oCqLzSTVvoIVG79VR/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:45:07.953337+00:00",
+      "yemos_path": "ivr2:/1/40/1.wav"
+    },
+    "https://feeds.hubhopper.com/YeshLeZe.podbean.com/970f03e6-424f-311d-ae8c-0a9179dc0508": {
+      "podcast_id": "sipur_beerech",
+      "title": "פרק 3 - מוזיאון הסקס של קוריאה, שחקני הבייסבול שהחליפו משפחות ועוד - עם צביקה בינדר (נייעס)",
+      "published": "Sat, 08 Aug 2020 05:48:20 +0000",
+      "audio_url": "https://play.hubhopper.com/07b587f468e80ed282eaf093f47a53f9.mp3?s=rss-feed",
+      "drive_file_id": "1Gloftf-ZogGy5lsgwNK-oa8q87a_vdTK",
+      "drive_url": "https://drive.google.com/file/d/1Gloftf-ZogGy5lsgwNK-oa8q87a_vdTK/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:45:31.752526+00:00",
+      "yemos_path": "ivr2:/1/40/2.wav"
+    },
+    "https://feeds.hubhopper.com/YeshLeZe.podbean.com/90f4370c-8ffc-30dc-af5a-efa232bd2e92": {
+      "podcast_id": "sipur_beerech",
+      "title": "פרק 4 - הלוויתן הבודד בעולם, נס השמש הגדול, עיירות הרפאים ועוד - עם נתן פוזניאק",
+      "published": "Sat, 08 Aug 2020 05:52:18 +0000",
+      "audio_url": "https://play.hubhopper.com/9bdfa686ef65718bc1ce85a533d5ec55.mp3?s=rss-feed",
+      "drive_file_id": "1UxEga6i3zL8wJuWqJuesN-jdzwVIYdE-",
+      "drive_url": "https://drive.google.com/file/d/1UxEga6i3zL8wJuWqJuesN-jdzwVIYdE-/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:46:13.392583+00:00",
+      "yemos_path": "ivr2:/1/40/3.wav"
+    },
+    "https://feeds.hubhopper.com/SipurBeerech.podbean.com/9d73d3d5-4a76-3664-a43d-f0e0b1e3c809": {
+      "podcast_id": "sipur_beerech",
+      "title": "פרק 5: האיש שאכל מטוס והרכבות שיצאו משליטה - עם איציק גור",
+      "published": "Thu, 29 Oct 2020 22:12:49 +0000",
+      "audio_url": "https://play.hubhopper.com/36f071f19fece45e6f29b3764a3ce33a.mp3?s=rss-feed",
+      "drive_file_id": "1_GFRdNLesgWZRCrH_3LC3po3wIM7_rIB",
+      "drive_url": "https://drive.google.com/file/d/1_GFRdNLesgWZRCrH_3LC3po3wIM7_rIB/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:46:43.002086+00:00",
+      "yemos_path": "ivr2:/1/40/4.wav"
+    },
+    "https://feeds.hubhopper.com/SipurBeerech.podbean.com/9dbcb71c-9d4a-3b0a-8044-9af0f5a9407f": {
+      "podcast_id": "sipur_beerech",
+      "title": "פרק 6: ד\\\"ר רעב, משבר החמאה הנורווגי, והצפת הבירה של לונדון",
+      "published": "Wed, 25 Nov 2020 21:48:12 +0000",
+      "audio_url": "https://play.hubhopper.com/b91875ab81062a2f632e191ee169913b.mp3?s=rss-feed",
+      "drive_file_id": "1PrLYvyY8tbq7IjA7WGhHUPdGsELsU9-w",
+      "drive_url": "https://drive.google.com/file/d/1PrLYvyY8tbq7IjA7WGhHUPdGsELsU9-w/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-24T11:47:30.307076+00:00",
+      "yemos_path": "ivr2:/1/40/5.wav"
     }
   }
 }
