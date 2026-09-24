@@ -50,7 +50,7 @@ def _build_destination(filename, branch):
     safe_branch = _safe_branch(branch)
     base_name = Path(filename).stem
 
-    if not re.fullmatch(r"\\d+", base_name):
+    if not re.fullmatch(r"\d+", base_name):
         raise YemosError(
             f"Yemos filename must be numeric, got {filename!r}."
         )
