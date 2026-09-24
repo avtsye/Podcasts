@@ -230,76 +230,20 @@
       "yemos_branch": "27"
     },
     {
-      "id": "rest_is_history",
-      "name": "The Rest Is History",
-      "rss": "https://feeds.megaphone.fm/GLT4787413333",
+      "id": "yaldin",
+      "name": "ילדין",
+      "rss": "https://feeds.hubhopper.com/1ed49d71ffd6affdcfb8f5c56a8f7ac8.rss",
       "enabled": true,
-      "drive_folder": "The Rest Is History",
-      "yemos_branch": "28"
+      "drive_folder": "ילדין",
+      "yemos_branch": "37"
     },
     {
-      "id": "throughline",
-      "name": "Throughline",
-      "rss": "https://feeds.npr.org/510333/podcast.xml",
+      "id": "yetziat_ethiopia",
+      "name": "יציאת אתיופיה",
+      "rss": "https://feeds.hubhopper.com/892a24ddd76ce427bb89e2e9bd45f76a.rss",
       "enabled": true,
-      "drive_folder": "Throughline",
-      "yemos_branch": "29"
-    },
-    {
-      "id": "stuff_missed_history",
-      "name": "Stuff You Missed in History Class",
-      "rss": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/fb626e1f-112c-4246-a40d-ae2701747e7d/podcast.rss",
-      "enabled": true,
-      "drive_folder": "Stuff You Missed in History Class",
-      "yemos_branch": "30"
-    },
-    {
-      "id": "history_this_week",
-      "name": "HISTORY This Week",
-      "rss": "https://feeds.acast.com/public/shows/d9768fa0-a79a-4ead-9102-f965e8a470bc",
-      "enabled": true,
-      "drive_folder": "HISTORY This Week",
-      "yemos_branch": "31"
-    },
-    {
-      "id": "thirty_for_thirty",
-      "name": "30 for 30 Podcasts",
-      "rss": "https://feeds.megaphone.fm/ESP5765452710",
-      "enabled": true,
-      "drive_folder": "30 for 30 Podcasts",
-      "yemos_branch": "32"
-    },
-    {
-      "id": "hardcore_history",
-      "name": "Dan Carlin's Hardcore History",
-      "rss": "https://feeds.feedburner.com/dancarlin/history?format=xml",
-      "enabled": true,
-      "drive_folder": "Dan Carlin's Hardcore History",
-      "yemos_branch": "33"
-    },
-    {
-      "id": "revisionist_history",
-      "name": "Revisionist History",
-      "rss": "https://feeds.megaphone.fm/revisionisthistory",
-      "enabled": true,
-      "drive_folder": "Revisionist History",
-      "yemos_branch": "34"
-    },
-    {
-      "id": "lore_history",
-      "name": "Lore",
-      "rss": "https://feeds.megaphone.fm/lore",
-      "enabled": true,
-      "drive_folder": "Lore",
-      "yemos_branch": "35"
-    },
-    {
-      "id": "ancients",
-      "name": "The Ancients",
-      "rss": "https://access.acast.com/rss/f2925f7a-eb08-471a-9958-387cb5ee6353",
-      "enabled": true,
-      "drive_folder": "The Ancients",
-      "yemos_branch": "36"
+      "drive_folder": "יציאת אתיופיה",
+      "yemos_branch": "38"
     }
   ]
 }
