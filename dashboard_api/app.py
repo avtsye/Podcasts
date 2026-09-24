@@ -28,11 +28,12 @@ def headers():
 
 @app.after_request
 def cors(response):
-    origin = request.headers.get("Origin", "")
-    if "*" in ALLOWED_ORIGINS or origin.rstrip("/") in ALLOWED_ORIGINS:
-        response.headers["Access-Control-Allow-Origin"] = origin or "*"
-    response.headers["Access-Control-Allow-Headers"] = "Content-Type, X-Dashboard-Password"
-    response.headers["Access-Control-Allow-Methods"] = "GET, POST, PUT, OPTIONS"
+    origin = request.headers.get("Origin", "").rstrip("/")
+    if "*" in ALLOWED_ORIGINS or origin in ALLOWED_ORIGINS:
+        response.headers["Access-Control-Allow-Origin"] = origin if origin else "*"
+        response.headers["Access-Control-Allow-Headers"] = "Content-Type, X-Dashboard-Password"
+        response.headers["Access-Control-Allow-Methods"] = "GET, POST, PUT, OPTIONS"
+        response.headers["Access-Control-Max-Age"] = "86400"
     response.headers["Vary"] = "Origin"
     return response
 
