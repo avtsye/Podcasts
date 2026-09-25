@@ -1893,7 +1893,7 @@
       "title": "עונה 1 - פרק 15: נדב פורז - מייסד ומנכ״ל whosampled.com",
       "status": "error",
       "error": "UploadFile finalization failed: path is invalid (messageCode=110)",
-      "updated_at": "2026-09-25T07:54:13.802081+00:00"
+      "updated_at": "2026-09-25T13:53:06.389208+00:00"
     },
     "448ca1a7-018e-4f1a-a85e-b33f00d9bd1d": {
       "podcast_id": "music_tech",
@@ -2148,11 +2148,11 @@
       "title": "מצב האזנה עם עמית סגל: אהוד אולמרט והסודות מאחורי תקיפת הכור הסורי",
       "status": "error",
       "error": "UploadFile finalization failed: Unknown Yemos API error",
-      "updated_at": "2026-09-25T07:53:36.322239+00:00"
+      "updated_at": "2026-09-25T13:52:21.153920+00:00"
     }
   },
   "next_numbers": {
-    "1": 12,
+    "1": 13,
     "2": 12,
     "3": 11,
     "4": 11,
@@ -2172,12 +2172,12 @@
     "18": 11,
     "19": 11,
     "21": 11,
-    "22": 14,
+    "22": 15,
     "23": 11,
     "25": 9,
     "26": 11,
     "27": 11,
-    "37": 46,
+    "37": 55,
     "38": 11,
     "39": 9,
     "40": 7
