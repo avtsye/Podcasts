@@ -1893,7 +1893,7 @@
       "title": "עונה 1 - פרק 15: נדב פורז - מייסד ומנכ״ל whosampled.com",
       "status": "error",
       "error": "UploadFile finalization failed: path is invalid (messageCode=110)",
-      "updated_at": "2026-09-24T22:29:35.911868+00:00"
+      "updated_at": "2026-09-25T01:34:38.705979+00:00"
     },
     "448ca1a7-018e-4f1a-a85e-b33f00d9bd1d": {
       "podcast_id": "music_tech",
@@ -2165,12 +2165,12 @@
     "18": 11,
     "19": 11,
     "21": 11,
-    "22": 12,
+    "22": 13,
     "23": 11,
     "25": 9,
     "26": 11,
     "27": 11,
-    "37": 28,
+    "37": 37,
     "38": 11,
     "39": 9,
     "40": 7
