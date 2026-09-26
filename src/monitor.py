@@ -473,7 +473,7 @@ def main():
     failed_feeds = []
     run_uploads = []
     manifest_path = Path("data/run_uploads.json")
-    manifest_path.write_text("[]\\n", encoding="utf-8")
+    manifest_path.write_text("[]\n", encoding="utf-8")
 
     for podcast in podcasts:
         try:
@@ -481,7 +481,7 @@ def main():
                 podcast, config, state, yemos_state, run_uploads
             )
             manifest_path.write_text(
-                json.dumps(run_uploads, ensure_ascii=False, indent=2) + "\\n",
+                json.dumps(run_uploads, ensure_ascii=False, indent=2) + "\n",
                 encoding="utf-8",
             )
         except Exception as exc:
