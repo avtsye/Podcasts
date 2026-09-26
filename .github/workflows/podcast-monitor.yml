@@ -207,7 +207,7 @@ jobs:
           active = [p for p in cfg.get("podcasts", []) if p.get("enabled", True)]
           errors = [(p.get("name",p.get("id","")), feeds.get(p.get("id",""),{}).get("last_error")) for p in active]
           errors = [(n,e) for n,e in errors if e]
-          now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+          now = datetime.now(timezone.utc).astimezone(ZoneInfo("Asia/Jerusalem")).strftime("%d/%m/%Y %H:%M")
           status = "✅ הסתיימה בהצלחה" if os.environ.get("JOB_STATUS") == "success" else "❌ הסתיימה עם שגיאה"
           print(f"### {status} — {now}\n")
           print(f"- פודקאסטים פעילים: **{len(active)}**")
