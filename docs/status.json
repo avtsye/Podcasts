@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T19:07:31.870517+00:00",
+  "updated_at": "2026-09-26T19:40:43.024604+00:00",
   "podcasts": [
     {
       "id": "ehad_beyom",
@@ -175,11 +175,11 @@
     {
       "id": "zman_sheavodtem",
       "name": "בזמן שעבדתם",
-      "rss": "https://makopod.podbean.com/feed.xml",
+      "rss": "https://www.omnycontent.com/d/playlist/2ee97a4e-8795-4260-9648-accf00a38c6a/a5d4b51f-5b9e-43db-84da-ace100c04108/0ab18f83-1327-4f4e-9d7a-ace100c0411f/podcast.rss",
       "enabled": true,
       "yemos_branch": "20",
-      "feed_error": "<unknown>:22:2: mismatched tag",
-      "episode_count": 0
+      "feed_error": "RSS parse failed: <unknown>:22:2: mismatched tag",
+      "episode_count": 309
     },
     {
       "id": "little_university",
@@ -211,11 +211,11 @@
     {
       "id": "ear_catcher",
       "name": "Ear Catcher",
-      "rss": "https://omny.fm/shows/ear-catcher/playlists/podcast.rss",
+      "rss": "https://omny.fm/shows/ear-catcher/playlists/ear-catcher.rss",
       "enabled": true,
       "yemos_branch": "24",
       "feed_error": "",
-      "episode_count": 0
+      "episode_count": 429
     },
     {
       "id": "historia_bederech",
@@ -241,7 +241,7 @@
       "rss": "https://www.ranlevi.com/feed/podcast",
       "enabled": true,
       "yemos_branch": "27",
-      "feed_error": "",
+      "feed_error": "RSS parse failed: <urlopen error [Errno 110] Connection timed out>",
       "episode_count": 283
     },
     {
@@ -250,7 +250,7 @@
       "rss": "https://feeds.hubhopper.com/1ed49d71ffd6affdcfb8f5c56a8f7ac8.rss",
       "enabled": true,
       "yemos_branch": "37",
-      "feed_error": "",
+      "feed_error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/33026741/wnh-hdsh-bpth-mthylym-m-lyyb.mp3?s=rss-feed&rd=1790380800",
       "episode_count": 36
     },
     {
@@ -283,17 +283,17 @@
     {
       "id": "frontiers_youth",
       "name": "פרונטירז – מדע לצעירים",
-      "rss": "https://feeds.hubhopper.com/e972f4ac-f6f8-51a4-9b79-559df4add3a5.rss",
+      "rss": "https://feeds.hubhopper.com/6d6b11ce21a31aa5f81e71912adaf51a.rss",
       "enabled": true,
       "yemos_branch": "41",
       "feed_error": "",
-      "episode_count": 0
+      "episode_count": 18
     }
   ],
   "totals": {
     "configured": 32,
     "active": 32,
-    "episodes": 6763,
-    "feed_errors": 1
+    "episodes": 7519,
+    "feed_errors": 3
   }
 }
