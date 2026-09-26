@@ -1080,46 +1080,6 @@
       "filename_stem": "5",
       "uploaded_at": "2026-09-24T11:44:51.681319+00:00"
     },
-    "https://feeds.hubhopper.com/YeshLeZe.podbean.com/6638982b-dffc-3374-ad7b-d675dfd710b4": {
-      "podcast_id": "sipur_beerech",
-      "title": "פרק 2: -סינדרום מאריקו אאוקי, ריח של גשם, דרבי החסידות, תפיסות שגויות ועוד - עם נתן פוזניאק",
-      "status": "uploaded",
-      "path": "ivr2:/1/40/1.wav",
-      "filename_stem": "1",
-      "uploaded_at": "2026-09-24T11:45:23.256030+00:00"
-    },
-    "https://feeds.hubhopper.com/YeshLeZe.podbean.com/970f03e6-424f-311d-ae8c-0a9179dc0508": {
-      "podcast_id": "sipur_beerech",
-      "title": "פרק 3 - מוזיאון הסקס של קוריאה, שחקני הבייסבול שהחליפו משפחות ועוד - עם צביקה בינדר (נייעס)",
-      "status": "uploaded",
-      "path": "ivr2:/1/40/2.wav",
-      "filename_stem": "2",
-      "uploaded_at": "2026-09-24T11:46:03.244647+00:00"
-    },
-    "https://feeds.hubhopper.com/YeshLeZe.podbean.com/90f4370c-8ffc-30dc-af5a-efa232bd2e92": {
-      "podcast_id": "sipur_beerech",
-      "title": "פרק 4 - הלוויתן הבודד בעולם, נס השמש הגדול, עיירות הרפאים ועוד - עם נתן פוזניאק",
-      "status": "uploaded",
-      "path": "ivr2:/1/40/3.wav",
-      "filename_stem": "3",
-      "uploaded_at": "2026-09-24T11:46:34.505435+00:00"
-    },
-    "https://feeds.hubhopper.com/SipurBeerech.podbean.com/9d73d3d5-4a76-3664-a43d-f0e0b1e3c809": {
-      "podcast_id": "sipur_beerech",
-      "title": "פרק 5: האיש שאכל מטוס והרכבות שיצאו משליטה - עם איציק גור",
-      "status": "uploaded",
-      "path": "ivr2:/1/40/4.wav",
-      "filename_stem": "4",
-      "uploaded_at": "2026-09-24T11:47:20.312860+00:00"
-    },
-    "https://feeds.hubhopper.com/SipurBeerech.podbean.com/9dbcb71c-9d4a-3b0a-8044-9af0f5a9407f": {
-      "podcast_id": "sipur_beerech",
-      "title": "פרק 6: ד\\\"ר רעב, משבר החמאה הנורווגי, והצפת הבירה של לונדון",
-      "status": "uploaded",
-      "path": "ivr2:/1/40/5.wav",
-      "filename_stem": "5",
-      "uploaded_at": "2026-09-24T11:48:00.550746+00:00"
-    },
     "369ab163-fdb0-43c7-8b10-b4b901613561": {
       "podcast_id": "ehad_beyom",
       "title": "הקצב מבוסניה",
@@ -2126,14 +2086,6 @@
       "path": "ivr2:/1/39/8.wav",
       "filename_stem": "8",
       "uploaded_at": "2026-09-24T20:59:42.202934+00:00"
-    },
-    "https://feeds.hubhopper.com/YeshLeZe.podbean.com/9258d383-199d-3368-9eb1-fd9beb5627cf": {
-      "podcast_id": "sipur_beerech",
-      "title": "פרק 1 - מחלת הריקודים, סינדרום פריז, הכריך הזול בעולם ועוד - עם רינת ספיבק",
-      "status": "uploaded",
-      "path": "ivr2:/1/40/6.wav",
-      "filename_stem": "6",
-      "uploaded_at": "2026-09-24T21:00:08.625796+00:00"
     },
     "geekonomy.podbean.com/fd173d90-9154-370b-be37-23d7f9fc0930": {
       "podcast_id": "geekonomy",
@@ -12443,6 +12395,54 @@
       "path": "ivr2:/1/1/1300.wav",
       "filename_stem": "1300",
       "uploaded_at": "2026-09-25T20:49:24.613547+00:00"
+    },
+    "https://feeds.hubhopper.com/YeshLeZe.podbean.com/9258d383-199d-3368-9eb1-fd9beb5627cf": {
+      "podcast_id": "sipur_beerech",
+      "title": "פרק 1 - מחלת הריקודים, סינדרום פריז, הכריך הזול בעולם ועוד - עם רינת ספיבק",
+      "status": "uploaded",
+      "path": "ivr2:/1/40/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-26T19:57:03.636245+00:00"
+    },
+    "https://feeds.hubhopper.com/YeshLeZe.podbean.com/6638982b-dffc-3374-ad7b-d675dfd710b4": {
+      "podcast_id": "sipur_beerech",
+      "title": "פרק 2: -סינדרום מאריקו אאוקי, ריח של גשם, דרבי החסידות, תפיסות שגויות ועוד - עם נתן פוזניאק",
+      "status": "uploaded",
+      "path": "ivr2:/1/40/1.wav",
+      "filename_stem": "1",
+      "uploaded_at": "2026-09-26T19:57:23.184859+00:00"
+    },
+    "https://feeds.hubhopper.com/YeshLeZe.podbean.com/970f03e6-424f-311d-ae8c-0a9179dc0508": {
+      "podcast_id": "sipur_beerech",
+      "title": "פרק 3 - מוזיאון הסקס של קוריאה, שחקני הבייסבול שהחליפו משפחות ועוד - עם צביקה בינדר (נייעס)",
+      "status": "uploaded",
+      "path": "ivr2:/1/40/2.wav",
+      "filename_stem": "2",
+      "uploaded_at": "2026-09-26T19:57:41.539191+00:00"
+    },
+    "https://feeds.hubhopper.com/YeshLeZe.podbean.com/90f4370c-8ffc-30dc-af5a-efa232bd2e92": {
+      "podcast_id": "sipur_beerech",
+      "title": "פרק 4 - הלוויתן הבודד בעולם, נס השמש הגדול, עיירות הרפאים ועוד - עם נתן פוזניאק",
+      "status": "uploaded",
+      "path": "ivr2:/1/40/3.wav",
+      "filename_stem": "3",
+      "uploaded_at": "2026-09-26T19:58:01.517253+00:00"
+    },
+    "https://feeds.hubhopper.com/SipurBeerech.podbean.com/9d73d3d5-4a76-3664-a43d-f0e0b1e3c809": {
+      "podcast_id": "sipur_beerech",
+      "title": "פרק 5: האיש שאכל מטוס והרכבות שיצאו משליטה - עם איציק גור",
+      "status": "uploaded",
+      "path": "ivr2:/1/40/4.wav",
+      "filename_stem": "4",
+      "uploaded_at": "2026-09-26T19:58:39.590373+00:00"
+    },
+    "https://feeds.hubhopper.com/SipurBeerech.podbean.com/9dbcb71c-9d4a-3b0a-8044-9af0f5a9407f": {
+      "podcast_id": "sipur_beerech",
+      "title": "פרק 6: ד\\\"ר רעב, משבר החמאה הנורווגי, והצפת הבירה של לונדון",
+      "status": "uploaded",
+      "path": "ivr2:/1/40/5.wav",
+      "filename_stem": "5",
+      "uploaded_at": "2026-09-26T19:59:23.341991+00:00"
     }
   },
   "next_numbers": {
