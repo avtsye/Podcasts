@@ -52,13 +52,16 @@ def main():
         if feed_error:
             status["totals"]["feed_errors"] += 1
 
+        feed_state = feeds.get(podcast.get("id", ""), {})
         item_status = {
             "id": podcast.get("id"),
             "name": podcast.get("name"),
             "rss": podcast.get("rss"),
             "enabled": podcast.get("enabled", True),
             "yemos_branch": podcast.get("yemos_branch", ""),
+            "category": podcast.get("category", "ללא קטגוריה"),
             "feed_error": feed_error or "",
+            "last_checked": feed_state.get("last_checked", ""),
             "episode_count": 0,
         }
 
@@ -79,15 +82,27 @@ def main():
                 yrec.get("status") == "uploaded"
                 or srec.get("yemos_status") == "uploaded"
             )
+            enclosure = (entry.get("enclosures") or [{}])[0]
+            raw_size = enclosure.get("length") or enclosure.get("filesize") or 0
+            try:
+                size_bytes = int(raw_size or 0)
+            except (TypeError, ValueError):
+                size_bytes = 0
             episodes.append({
                 "key": key,
                 "title": (entry.get("title") or "ללא כותרת").strip(),
                 "published": (entry.get("published") or entry.get("updated") or "").strip(),
                 "link": (entry.get("link") or "").strip(),
+                "audio_url": (enclosure.get("href") or enclosure.get("url") or "").strip(),
+                "size_bytes": size_bytes,
                 "drive_uploaded": drive_uploaded,
                 "drive_url": srec.get("drive_url", ""),
                 "yemos_uploaded": yemos_uploaded,
                 "yemos_path": yrec.get("path") or srec.get("yemos_path", ""),
+                "status": srec.get("status", ""),
+                "yemos_status": yrec.get("status") or srec.get("yemos_status", ""),
+                "last_error": srec.get("error") or srec.get("yemos_error") or yrec.get("error", ""),
+                "processed_at": srec.get("processed_at") or srec.get("updated_at") or yrec.get("uploaded_at", ""),
             })
 
         item_status["episode_count"] = len(episodes)
@@ -97,6 +112,9 @@ def main():
             "name": podcast["name"],
             "rss": podcast["rss"],
             "yemos_branch": podcast.get("yemos_branch", ""),
+            "category": podcast.get("category", "ללא קטגוריה"),
+            "last_checked": feed_state.get("last_checked", ""),
+            "feed_error": feed_error or "",
             "episodes": episodes,
             "error": str(getattr(feed, "bozo_exception", "")) if getattr(feed, "bozo", False) and not episodes else "",
         })
