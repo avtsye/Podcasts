@@ -34,7 +34,7 @@
   <section id="tab-search">
     <div class="card">
       <div class="controls controls-main">
-        <input id="search" placeholder="חיפוש כותרת, פודקאסט, GUID או קישור" autocomplete="off">
+        <input id="search" list="searchSuggestions" placeholder="חיפוש כותרת, פודקאסט, GUID או קישור" autocomplete="off"><datalist id="searchSuggestions"></datalist>
         <select id="podcast" multiple size="4" aria-label="בחירת פודקאסטים" title="אפשר לבחור כמה פודקאסטים יחד"></select>
         <select id="category"><option value="all">כל הקטגוריות</option></select>
         <select id="sort">
@@ -105,6 +105,7 @@
         </div>
         <div class="actions">
           <button id="openCartBtn" class="secondary">פתח סל</button>
+          <button id="shareCartBtn" class="secondary">שתף סל</button>
           <button id="previewBtn" disabled>תצוגה מקדימה</button>
         </div>
       </div>
