@@ -63,7 +63,13 @@ def main():
         if any(p.get("name") == name for p in items):
             raise SystemExit("פודקאסט בשם הזה כבר קיים")
         pid = make_id(name, {p.get("id") for p in items})
-        branch = branch or next_branch(items)
+        if branch:
+            if not branch.isdigit():
+                raise SystemExit("שלוחת Yemos חייבת להיות מספרית")
+            if any(str(p.get("yemos_branch", "")) == branch for p in items):
+                raise SystemExit("שלוחת Yemos כבר בשימוש")
+        else:
+            branch = next_branch(items)
         items.append({
             "id": pid,
             "name": name,
