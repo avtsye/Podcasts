@@ -12,6 +12,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: refresh-episode-index
+  cancel-in-progress: true
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
