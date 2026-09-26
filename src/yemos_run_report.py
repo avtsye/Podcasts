@@ -41,27 +41,34 @@ def main():
     lines.append(f"בסך הכל עלו {len(items)} פרקים חדשים. סוף הדוח.")
     report = " ".join(lines)
 
-    listing = api_call("GetIVR2Dir", {"token": token, "path": branch})
-    numbers = []
-    for item in listing.get("files", []):
-        filename = str(item.get("name", ""))
-        stem = filename.split(".", 1)[0]
-        if stem.isdigit():
-            numbers.append(int(stem))
-    next_number = max(numbers) + 1 if numbers else 0
-    filename = f"{next_number:03d}.tts"
-
-    api_call("UploadTextFile", {
-        "token": token,
-        "what": f"ivr2:/{branch}/{filename}",
-        "contents": report,
-    })
+    # Send the tzintuk independently of the report branch. A missing report
+    # extension must never prevent the phone notification itself.
     api_call("RunTzintuk", {
         "token": token,
         "phones": "tzl:" + list_id,
         "TzintukTimeOut": "5",
     })
-    print(f"Uploaded run report {filename} to {branch} and sent tzintuk list {list_id}.")
+    print(f"Sent tzintuk list {list_id}.")
+
+    try:
+        listing = api_call("GetIVR2Dir", {"token": token, "path": branch})
+        numbers = []
+        for item in listing.get("files", []):
+            filename = str(item.get("name", ""))
+            stem = filename.split(".", 1)[0]
+            if stem.isdigit():
+                numbers.append(int(stem))
+        next_number = max(numbers) + 1 if numbers else 0
+        filename = f"{next_number:03d}.tts"
+
+        api_call("UploadTextFile", {
+            "token": token,
+            "what": f"ivr2:/{branch}/{filename}",
+            "contents": report,
+        })
+        print(f"Uploaded run report {filename} to {branch}.")
+    except Exception as exc:
+        print(f"WARNING: tzintuk sent, but run report could not be written to {branch}: {exc}")
 
 
 if __name__ == "__main__":
