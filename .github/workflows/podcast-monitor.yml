@@ -94,38 +94,18 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
         run: |
-          gh issue edit "$ISSUE_NUMBER" --add-label "בתהליך" || true
           gh issue comment "$ISSUE_NUMBER" --body "⏳ הבקשה התקבלה והטיפול התחיל."
 
       - name: Manage podcast configuration
         if: github.event_name == 'issues' && steps.parse_request.outputs.kind == 'manage'
         env:
           ACTION: ${{ steps.parse_request.outputs.action }}
-          PODCAST_ID: ${{ steps.parse_request.outputs.podcast_id }}
+          CURRENT_NAME: ${{ steps.parse_request.outputs.current_name }}
           NAME: ${{ steps.parse_request.outputs.name }}
           RSS: ${{ steps.parse_request.outputs.rss }}
           DRIVE_FOLDER: ${{ steps.parse_request.outputs.drive_folder }}
           YEMOS_BRANCH: ${{ steps.parse_request.outputs.yemos_branch }}
-        run: |
-          python - <<'PY'
-          import json, os
-          from pathlib import Path
-          p=Path("config/podcasts.json"); cfg=json.loads(p.read_text(encoding="utf-8")); items=cfg["podcasts"]
-          pid=os.environ["PODCAST_ID"].strip(); action=os.environ["ACTION"]
-          item=next((x for x in items if x["id"]==pid),None)
-          if action=="הוספה":
-              if item: raise SystemExit("הפודקאסט כבר קיים")
-              if not os.environ["NAME"].strip() or not os.environ["RSS"].strip(): raise SystemExit("בהוספה חובה שם ו-RSS")
-              item={"id":pid,"name":os.environ["NAME"].strip(),"rss":os.environ["RSS"].strip(),"enabled":True,"drive_folder":os.environ["DRIVE_FOLDER"].strip() or os.environ["NAME"].strip(),"yemos_branch":os.environ["YEMOS_BRANCH"].strip() or "1"}; items.append(item)
-          else:
-              if not item: raise SystemExit("הפודקאסט לא נמצא")
-              if action=="הפעלה": item["enabled"]=True
-              elif action=="השבתה": item["enabled"]=False
-              elif action=="עריכה":
-                  for env,key in [("NAME","name"),("RSS","rss"),("DRIVE_FOLDER","drive_folder"),("YEMOS_BRANCH","yemos_branch")]:
-                      if os.environ[env].strip(): item[key]=os.environ[env].strip()
-          p.write_text(json.dumps(cfg,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
-          PY
+        run: python -m src.manage_podcast
 
       - name: Report system status
         if: github.event_name == 'issues' && steps.parse_request.outputs.kind == 'status'
@@ -207,6 +187,20 @@ jobs:
           YEMOS_TOKEN: ${{ secrets.YEMOS_TOKEN }}
         run: python -m src.yemos_run_report
 
+      - name: Record run history
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_API_URL: ${{ github.api_url }}
+          RUN_ID: ${{ github.run_id }}
+          RUN_NUMBER: ${{ github.run_number }}
+          RUN_URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          RUN_STATUS: ${{ job.status }}
+          EVENT_NAME: ${{ github.event_name }}
+        run: python -m src.run_history
+
       - name: Log scheduled run in activity issue
         if: always() && github.event_name == 'schedule'
         env:
@@ -261,7 +255,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
         run: |
-          gh issue edit "$ISSUE_NUMBER" --remove-label "בתהליך" --add-label "הושלם" || true
+          gh issue edit "$ISSUE_NUMBER" --add-label "הושלם" || true
           gh issue comment "$ISSUE_NUMBER" --body "✅ הטיפול בבקשה הסתיים. ניתן לראות את פרטי הריצה בלשונית Actions."
 
       - name: Close manual request
@@ -290,7 +284,7 @@ jobs:
             printf '%s\n' '{"episodes": {}}' > data/yemos_state.json
           fi
 
-          git add data/state.json data/yemos_state.json
+          git add data/state.json data/yemos_state.json config/podcasts.json data/run_history.json docs/run-history.json
 
           if git diff --cached --quiet; then
             echo "No state changes."
