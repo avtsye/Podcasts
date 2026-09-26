@@ -172,7 +172,7 @@ jobs:
         run: python -m src.yemos_run_report
 
       - name: Record run history
-        if: always()
+        if: always() && (github.event_name != 'issues' || steps.parse_request.outputs.kind == 'download' || steps.parse_request.outputs.kind == 'redownload' || steps.parse_request.outputs.kind == 'manage')
         env:
           GH_TOKEN: ${{ github.token }}
           GITHUB_TOKEN: ${{ github.token }}
@@ -259,7 +259,7 @@ jobs:
           gh issue close "$ISSUE_NUMBER"
 
       - name: Save monitoring state
-        if: always()
+        if: always() && (github.event_name != 'issues' || steps.parse_request.outputs.kind == 'download' || steps.parse_request.outputs.kind == 'redownload' || steps.parse_request.outputs.kind == 'manage')
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
