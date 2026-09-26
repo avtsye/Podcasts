@@ -6,7 +6,7 @@
   <meta name="theme-color" content="#111111">
   <title>מרכז הפודקאסטים</title>
   <link rel="manifest" href="./manifest.webmanifest">
-  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./styles.css?v=4">
 </head>
 <body>
 <main>
@@ -35,7 +35,7 @@
     <div class="card">
       <div class="controls controls-main">
         <input id="search" list="searchSuggestions" placeholder="חיפוש כותרת, פודקאסט, GUID או קישור" autocomplete="off"><datalist id="searchSuggestions"></datalist>
-        <select id="podcast" multiple size="4" aria-label="בחירת פודקאסטים" title="אפשר לבחור כמה פודקאסטים יחד"></select>
+        <select id="podcast" aria-label="בחירת פודקאסט"><option value="all">🌐 כל הפודקאסטים — כל ה-RSSים</option></select>
         <select id="category"><option value="all">כל הקטגוריות</option></select>
         <select id="sort">
           <option value="newest">חדש → ישן</option>
@@ -167,6 +167,6 @@
 </dialog>
 
 <div id="toast" class="toast hidden" role="status" aria-live="polite"></div>
-<script src="./app.js" defer></script>
+<script src="./app.js?v=4" defer></script>
 </body>
 </html>
