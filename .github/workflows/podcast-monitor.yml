@@ -201,6 +201,12 @@ jobs:
         if: github.event_name != 'issues' || steps.parse_request.outputs.kind == 'download' || steps.parse_request.outputs.kind == 'redownload'
         run: python -m src.monitor
 
+      - name: Notify Yemos about new podcast uploads
+        if: success() && (github.event_name != 'issues' || steps.parse_request.outputs.kind == 'download' || steps.parse_request.outputs.kind == 'redownload')
+        env:
+          YEMOS_TOKEN: ${{ secrets.YEMOS_TOKEN }}
+        run: python -m src.yemos_run_report
+
       - name: Log scheduled run in activity issue
         if: always() && github.event_name == 'schedule'
         env:
