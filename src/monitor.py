@@ -139,10 +139,17 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None):
         episode_key(entry)
         for entry in list(feed.entries)[:force_count]
     } if force_count > 0 else set()
-    force_match = lambda entry, key: key in force_keys or any(
-        item == key or item.casefold() == (entry.get("title", "") or "").strip().casefold()
-        for item in force_items
-    )
+    def force_match(entry, key):
+        title = (entry.get("title", "") or "").strip()
+        link = (entry.get("link", "") or "").strip()
+        audio = (enclosure_url(entry) or "").strip()
+        candidates = {key, title, link, audio}
+        folded = {value.casefold() for value in candidates if value}
+        return key in force_keys or any(
+            item.strip() in candidates or item.strip().casefold() in folded
+            for item in force_items
+            if item and item.strip()
+        )
     feeds = state.setdefault("feeds", {})
     yemos_episodes = yemos_state.setdefault("episodes", {})
     first_run = podcast_id not in feeds
@@ -177,6 +184,9 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None):
         yemos_record = yemos_episodes.get(key, {})
         previous_yemos_record = dict(yemos_record) if yemos_record else {}
         forced = force_match(entry, key)
+        explicit_force_request = bool(force_items or force_count > 0)
+        if explicit_force_request and not forced:
+            continue
         force_drive = forced and "Drive" in force_targets
         force_yemos = forced and "Yemos" in force_targets
         force_drive_only = force_drive and not force_yemos
@@ -217,7 +227,6 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None):
         # A Drive upload is independent from Yemos. If Drive already has the
         # episode but Yemos does not, retry only Yemos instead of uploading
         # the episode to Drive again.
-        explicit_force_request = bool(force_items or force_count > 0)
         if (
             current
             and current.get("drive_file_id")
