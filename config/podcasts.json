@@ -168,7 +168,7 @@
     {
       "id": "zman_sheavodtem",
       "name": "בזמן שעבדתם",
-      "rss": "https://makopod.podbean.com/feed.xml",
+      "rss": "https://www.omnycontent.com/d/playlist/2ee97a4e-8795-4260-9648-accf00a38c6a/a5d4b51f-5b9e-43db-84da-ace100c04108/0ab18f83-1327-4f4e-9d7a-ace100c0411f/podcast.rss",
       "enabled": true,
       "drive_folder": "בזמן שעבדתם",
       "yemos_branch": "20"
@@ -200,7 +200,7 @@
     {
       "id": "ear_catcher",
       "name": "Ear Catcher",
-      "rss": "https://omny.fm/shows/ear-catcher/playlists/podcast.rss",
+      "rss": "https://omny.fm/shows/ear-catcher/playlists/ear-catcher.rss",
       "enabled": true,
       "drive_folder": "Ear Catcher",
       "yemos_branch": "24"
@@ -264,7 +264,7 @@
     {
       "id": "frontiers_youth",
       "name": "פרונטירז – מדע לצעירים",
-      "rss": "https://feeds.hubhopper.com/e972f4ac-f6f8-51a4-9b79-559df4add3a5.rss",
+      "rss": "https://feeds.hubhopper.com/6d6b11ce21a31aa5f81e71912adaf51a.rss",
       "enabled": true,
       "drive_folder": "פרונטירז – מדע לצעירים",
       "yemos_branch": "41"
