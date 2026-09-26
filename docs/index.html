@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>חיפוש פרקי פודקאסטים</title>
+<style>
+body{font-family:Arial,sans-serif;margin:0;background:#f6f7f9;color:#111}
+main{max-width:1000px;margin:auto;padding:24px}
+h1{margin-top:0}
+.card{background:#fff;border:1px solid #ddd;border-radius:14px;padding:18px;margin-bottom:16px}
+.controls{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+input,select,button{font:inherit;padding:10px;border-radius:10px;border:1px solid #bbb}
+button{cursor:pointer;background:#111;color:#fff}
+.episode{padding:12px 0;border-bottom:1px solid #eee;display:grid;grid-template-columns:1fr auto;gap:12px;align-items:center}
+.meta{color:#666;font-size:.9rem;margin-top:4px}
+.small{font-size:.9rem;color:#666}
+@media(max-width:700px){.controls{grid-template-columns:1fr}.episode{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<main>
+<h1>🔎 חיפוש והורדת פרק</h1>
+<div class="card">
+<div class="controls">
+<select id="podcast"></select>
+<input id="search" placeholder="חיפוש לפי שם הפרק">
+</div>
+<p class="small" id="status">טוען אינדקס...</p>
+</div>
+<div class="card" id="results"></div>
+</main>
+<script>
+const repo='avtsye/Podcasts';
+let data=null,current=null;
+
+async function load(){
+  const r=await fetch('./episode-index.json',{cache:'no-store'});
+  if(!r.ok) throw new Error('לא ניתן לטעון את אינדקס הפרקים');
+  data=await r.json();
+  const sel=document.getElementById('podcast');
+  sel.innerHTML=data.podcasts.map(p=>'<option value="'+esc(p.id)+'">'+esc(p.name)+'</option>').join('');
+  sel.onchange=render;
+  document.getElementById('search').oninput=render;
+  document.getElementById('status').textContent='עודכן: '+new Date(data.updated_at).toLocaleString('he-IL');
+  render();
+}
+function esc(s){return String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]))}
+function render(){
+  const pid=document.getElementById('podcast').value;
+  const q=document.getElementById('search').value.trim().toLowerCase();
+  current=data.podcasts.find(p=>p.id===pid);
+  if(!current)return;
+  const eps=current.episodes.filter(e=>!q||e.title.toLowerCase().includes(q));
+  document.getElementById('results').innerHTML=
+    '<p><b>'+eps.length+'</b> פרקים נמצאו</p>'+
+    eps.map(e=>'<div class="episode"><div><b>'+esc(e.title)+'</b><div class="meta">'+esc(e.published)+'</div></div><button onclick="downloadEpisode(this)" data-key="'+encodeURIComponent(e.key)+'" data-title="'+encodeURIComponent(e.title)+'">הורד פרק</button></div>').join('');
+}
+function downloadEpisode(btn){
+  const key=decodeURIComponent(btn.dataset.key);
+  const title=decodeURIComponent(btn.dataset.title);
+  const issueTitle='[הורדה חוזרת] '+current.name+' - '+title;
+  const body=[
+    '### בחירת פודקאסטים',
+    '- [x] '+current.name,
+    '',
+    '### פרקים מסוימים להורדה חוזרת',
+    key,
+    '',
+    '### כמות פרקים אחרונים להורדה חוזרת',
+    '',
+    '### יעד ההורדה החוזרת',
+    'Drive וגם Yemos'
+  ].join('\n');
+  const url='https://github.com/'+repo+'/issues/new?title='+encodeURIComponent(issueTitle)+'&body='+encodeURIComponent(body);
+  window.open(url,'_blank');
+}
+load().catch(e=>document.getElementById('status').textContent=e.message);
+</script>
+</body>
+</html>
