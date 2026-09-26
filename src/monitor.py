@@ -431,10 +431,30 @@ def main():
 
     total_processed = 0
     failed_feeds = []
+    run_uploads = []
+    manifest_path = Path("data/run_uploads.json")
+    manifest_path.write_text("[]\\n", encoding="utf-8")
 
     for podcast in podcasts:
         try:
+            before_keys = set(state.get("episodes", {}).keys())
             total_processed += process_feed(podcast, config, state, yemos_state)
+            for key in set(state.get("episodes", {}).keys()) - before_keys:
+                record = state["episodes"].get(key, {})
+                if not record.get("drive_file_id"):
+                    continue
+                destinations = ["Google Drive"]
+                if record.get("yemos_status") == "uploaded":
+                    destinations.append("ימות המשיח " + str(record.get("yemos_path", "")))
+                run_uploads.append({
+                    "podcast": podcast.get("name", ""),
+                    "title": record.get("title", ""),
+                    "destinations": destinations,
+                })
+            manifest_path.write_text(
+                json.dumps(run_uploads, ensure_ascii=False, indent=2) + "\\n",
+                encoding="utf-8",
+            )
         except Exception as exc:
             failed_feeds.append((podcast.get("id", "unknown"), str(exc)))
             state.setdefault("feeds", {}).setdefault(podcast.get("id", "unknown"), {})["last_error"] = str(exc)
