@@ -92,6 +92,68 @@ for path, markers in required_markers.items():
         if marker not in text:
             fail(f"{path}: missing integration marker {marker!r}")
 
+print("== Podcast management sandbox ==")
+try:
+    import tempfile
+    import src.manage_podcast as manage
+
+    original_config_path = manage.CONFIG
+    saved_env = {name: os.environ.get(name) for name in (
+        "ACTION", "CURRENT_NAME", "NAME", "RSS", "DRIVE_FOLDER", "YEMOS_BRANCH"
+    )}
+    with tempfile.TemporaryDirectory(prefix="podcast_manage_audit_") as temp_dir:
+        temp_config = Path(temp_dir) / "podcasts.json"
+        temp_config.write_text(json.dumps(cfg, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        manage.CONFIG = temp_config
+
+        first = podcasts[0]
+        os.environ.update({
+            "ACTION": "הפעלה",
+            "CURRENT_NAME": first["name"],
+            "NAME": "",
+            "RSS": "",
+            "DRIVE_FOLDER": "",
+            "YEMOS_BRANCH": "",
+        })
+        manage.main()
+        managed = json.loads(temp_config.read_text(encoding="utf-8"))
+        activated = next(p for p in managed["podcasts"] if p["name"] == first["name"])
+        if activated.get("enabled") is not True:
+            fail("Management activation sandbox did not enable selected podcast")
+
+        os.environ.update({
+            "ACTION": "הוספה",
+            "CURRENT_NAME": "",
+            "NAME": "Audit Test Podcast",
+            "RSS": "https://example.com/audit-test.rss",
+            "DRIVE_FOLDER": "",
+            "YEMOS_BRANCH": "",
+        })
+        manage.main()
+        managed = json.loads(temp_config.read_text(encoding="utf-8"))
+        added = next((p for p in managed["podcasts"] if p["name"] == "Audit Test Podcast"), None)
+        if not added or not added.get("id") or not str(added.get("yemos_branch", "")).isdigit():
+            fail("Management add sandbox did not auto-generate ID/Yemos branch")
+
+        duplicate_blocked = False
+        os.environ["NAME"] = "Audit Duplicate Podcast"
+        try:
+            manage.main()
+        except SystemExit:
+            duplicate_blocked = True
+        if not duplicate_blocked:
+            fail("Management sandbox did not block duplicate RSS")
+
+    manage.CONFIG = original_config_path
+    for name, value in saved_env.items():
+        if value is None:
+            os.environ.pop(name, None)
+        else:
+            os.environ[name] = value
+    print("Podcast management sandbox OK")
+except Exception as exc:
+    fail(f"Podcast management sandbox failed: {exc}")
+
 print("== RSS feeds ==")
 rss_counts = {}
 for p in podcasts:
