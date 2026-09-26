@@ -25,14 +25,22 @@ button{cursor:pointer;background:#111;color:#fff}
 <div class="controls">
 <select id="podcast"></select>
 <input id="search" placeholder="חיפוש לפי שם הפרק">
+<input id="dateFrom" type="date" aria-label="מתאריך">
+<input id="dateTo" type="date" aria-label="עד תאריך">
 </div>
 <p class="small" id="status">טוען אינדקס...</p>
+<div style="display:flex;gap:10px;flex-wrap:wrap">
+<button id="downloadSelected" type="button" onclick="downloadSelected()" disabled>הורד את המסומנים</button>
+<button id="selectVisible" type="button" onclick="selectVisible()">בחר את כל המוצגים</button>
+<button id="clearSelected" type="button" onclick="clearSelected()">נקה בחירה</button>
+</div>
 </div>
 <div class="card" id="results"></div>
 </main>
 <script>
 const repo='avtsye/Podcasts';
 let data=null,current=null;
+const selected=new Map();
 
 async function load(){
   const r=await fetch('./episode-index.json',{cache:'no-store'});
@@ -42,6 +50,8 @@ async function load(){
   sel.innerHTML=data.podcasts.map(p=>'<option value="'+esc(p.id)+'">'+esc(p.name)+'</option>').join('');
   sel.onchange=render;
   document.getElementById('search').oninput=render;
+  document.getElementById('dateFrom').onchange=render;
+  document.getElementById('dateTo').onchange=render;
   document.getElementById('status').textContent='עודכן: '+new Date(data.updated_at).toLocaleString('he-IL');
   render();
 }
@@ -49,23 +59,74 @@ function esc(s){return String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&l
 function render(){
   const pid=document.getElementById('podcast').value;
   const q=document.getElementById('search').value.trim().toLowerCase();
+  const from=document.getElementById('dateFrom').value;
+  const to=document.getElementById('dateTo').value;
   current=data.podcasts.find(p=>p.id===pid);
   if(!current)return;
-  const eps=current.episodes.filter(e=>!q||e.title.toLowerCase().includes(q));
+  const eps=current.episodes.filter(e=>{
+    if(q && !e.title.toLowerCase().includes(q)) return false;
+    if(from || to){
+      const d=parseEpisodeDate(e.published);
+      if(!d) return false;
+      const iso=d.toISOString().slice(0,10);
+      if(from && iso<from) return false;
+      if(to && iso>to) return false;
+    }
+    return true;
+  });
   document.getElementById('results').innerHTML=
     '<p><b>'+eps.length+'</b> פרקים נמצאו</p>'+
-    eps.map(e=>'<div class="episode"><div><b>'+esc(e.title)+'</b><div class="meta">'+esc(e.published)+'</div></div><button onclick="downloadEpisode(this)" data-key="'+encodeURIComponent(e.key)+'" data-title="'+encodeURIComponent(e.title)+'">הורד פרק</button></div>').join('');
+    eps.map(e=>{
+      const token=current.id+'::'+e.key;
+      const checked=selected.has(token)?' checked':'';
+      return '<div class="episode"><div><label><input class="episode-check" type="checkbox" data-token="'+encodeURIComponent(token)+'" data-key="'+encodeURIComponent(e.key)+'" data-title="'+encodeURIComponent(e.title)+'" onchange="toggleEpisode(this)"'+checked+'> <b>'+esc(e.title)+'</b></label><div class="meta">'+esc(e.published)+'</div></div><button onclick="downloadEpisode(this)" data-key="'+encodeURIComponent(e.key)+'" data-title="'+encodeURIComponent(e.title)+'">הורד פרק</button></div>';
+    }).join('');
+  updateSelectedButton();
+}
+function parseEpisodeDate(value){
+  const d=new Date(value);
+  return Number.isNaN(d.getTime())?null:d;
+}
+function toggleEpisode(box){
+  const token=decodeURIComponent(box.dataset.token);
+  if(box.checked){
+    selected.set(token,{key:decodeURIComponent(box.dataset.key),title:decodeURIComponent(box.dataset.title),podcastId:current.id,podcastName:current.name});
+  }else{
+    selected.delete(token);
+  }
+  updateSelectedButton();
+}
+function updateSelectedButton(){
+  const btn=document.getElementById('downloadSelected');
+  btn.disabled=selected.size===0;
+  btn.textContent=selected.size?('הורד את המסומנים ('+selected.size+')'):'הורד את המסומנים';
+}
+function selectVisible(){
+  document.querySelectorAll('.episode-check').forEach(box=>{
+    if(!box.checked){box.checked=true;toggleEpisode(box);}
+  });
+}
+function clearSelected(){
+  selected.clear();
+  document.querySelectorAll('.episode-check').forEach(box=>box.checked=false);
+  updateSelectedButton();
+}
+function downloadSelected(){
+  const items=[...selected.values()].filter(x=>x.podcastId===current.id);
+  if(!items.length)return;
+  openDownloadIssue(items);
 }
 function downloadEpisode(btn){
-  const key=decodeURIComponent(btn.dataset.key);
-  const title=decodeURIComponent(btn.dataset.title);
-  const issueTitle='[הורדה חוזרת] '+current.name+' - '+title;
+  openDownloadIssue([{key:decodeURIComponent(btn.dataset.key),title:decodeURIComponent(btn.dataset.title),podcastId:current.id,podcastName:current.name}]);
+}
+function openDownloadIssue(items){
+  const issueTitle='[הורדה חוזרת] '+current.name+(items.length===1?' - '+items[0].title:' - '+items.length+' פרקים');
   const body=[
     '### בחירת פודקאסטים',
     '- [x] '+current.name,
     '',
     '### פרקים מסוימים להורדה חוזרת',
-    key,
+    ...items.map(x=>x.key),
     '',
     '### כמות פרקים אחרונים להורדה חוזרת',
     '',
