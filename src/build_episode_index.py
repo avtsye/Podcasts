@@ -3,6 +3,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 import feedparser
+import requests
 
 # Dashboard index refresh.
 CONFIG = Path("config/podcasts.json")
@@ -17,6 +18,19 @@ def read_json(path, default):
         return json.loads(path.read_text(encoding="utf-8"))
     except Exception:
         return default
+
+
+def fetch_feed(url):
+    try:
+        response = requests.get(
+            url,
+            timeout=(15, 45),
+            headers={"User-Agent": "Podcasts-Index-Builder/1.0"},
+        )
+        response.raise_for_status()
+        return feedparser.parse(response.content), ""
+    except Exception as exc:
+        return feedparser.FeedParserDict(entries=[]), str(exc)
 
 
 def episode_key(entry):
@@ -67,8 +81,10 @@ def main():
             status["podcasts"].append(item_status)
             continue
 
-        feed = feedparser.parse(podcast["rss"])
-        if getattr(feed, "bozo", False) and not feed.entries:
+        feed, fetch_error = fetch_feed(podcast["rss"])
+        if fetch_error:
+            feed_error = fetch_error
+        elif getattr(feed, "bozo", False) and not feed.entries:
             feed_error = str(getattr(feed, "bozo_exception", "RSS parse error"))
             status["totals"]["feed_errors"] += 1
             item_status["feed_error"] = feed_error
