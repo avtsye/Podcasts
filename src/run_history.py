@@ -114,7 +114,7 @@ def main():
     text = json.dumps(history, ensure_ascii=False, indent=2) + "\n"
     HISTORY.write_text(text, encoding="utf-8")
     PUBLIC_HISTORY.write_text(text, encoding="utf-8")
-    update_issue(history["runs"])
+    try:\n        update_issue(history["runs"])\n    except Exception as exc:\n        print(f"WARNING: could not update permanent run-history issue: {exc}")
     print(f"Recorded run {entry['run_id']} at {entry['israel_time']} Israel time.")
 
 
