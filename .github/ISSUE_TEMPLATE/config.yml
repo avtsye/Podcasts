@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
   - name: "🔎 חיפוש והורדת פרק"
-    url: "https://avtsye.github.io/Podcasts/"
+    url: "https://raw.githack.com/avtsye/Podcasts/main/docs/index.html"
     about: "חיפוש בפרקי כל הפודקאסטים ובחירת פרק ספציפי להורדה"
