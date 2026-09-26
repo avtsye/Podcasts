@@ -189,5 +189,6 @@ async function loadRuns(){try{const r=await fetch('./run-history.json',{cache:'n
 
 load().then(()=>{const tab=new URLSearchParams(location.search).get('tab');if(['status','runs'].includes(tab))showTab(tab)}).catch(e=>document.getElementById('indexStatus').textContent=e.message);
 </script>
+<!-- pages-deploy-trigger -->
 </body>
 </html>
