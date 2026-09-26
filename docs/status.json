@@ -1,0 +1,299 @@
+{
+  "updated_at": "2026-09-26T19:07:31.870517+00:00",
+  "podcasts": [
+    {
+      "id": "ehad_beyom",
+      "name": "אחד ביום",
+      "rss": "https://www.omnycontent.com/d/playlist/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/409bad89-c4c2-46cb-b69b-accf01152781/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "1",
+      "feed_error": "",
+      "episode_count": 1334
+    },
+    {
+      "id": "geekonomy",
+      "name": "גיקונומי",
+      "rss": "https://feed.podbean.com/geekonomy/feed.xml",
+      "enabled": true,
+      "yemos_branch": "2",
+      "feed_error": "",
+      "episode_count": 999
+    },
+    {
+      "id": "hayot_kes",
+      "name": "חיות כיס",
+      "rss": "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/1ea69f94-8d46-4ff2-aaca-a919008d58b8/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "3",
+      "feed_error": "",
+      "episode_count": 497
+    },
+    {
+      "id": "osim_tech",
+      "name": "עושים טכנולוגיה",
+      "rss": "https://www.spreaker.com/show/4231127/episodes/feed",
+      "enabled": true,
+      "yemos_branch": "4",
+      "feed_error": "",
+      "episode_count": 182
+    },
+    {
+      "id": "hatshuva",
+      "name": "התשובה",
+      "rss": "https://www.spreaker.com/show/4228834/episodes/feed",
+      "enabled": true,
+      "yemos_branch": "5",
+      "feed_error": "",
+      "episode_count": 174
+    },
+    {
+      "id": "startup_for_startup",
+      "name": "Startup for Startup",
+      "rss": "https://omny.fm/shows/startupforstartup/playlists/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "6",
+      "feed_error": "",
+      "episode_count": 427
+    },
+    {
+      "id": "money_engines",
+      "name": "מנועי הכסף",
+      "rss": "https://omny.fm/shows/calcalistpodsmenoeyhakesef/playlists/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "7",
+      "feed_error": "",
+      "episode_count": 100
+    },
+    {
+      "id": "history_for_children",
+      "name": "היסטוריה לילדים",
+      "rss": "https://omny.fm/shows/history-for-children/playlists/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "8",
+      "feed_error": "",
+      "episode_count": 297
+    },
+    {
+      "id": "baduk",
+      "name": "בָּדוּק",
+      "rss": "https://omny.fm/shows/baduk/playlists/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "9",
+      "feed_error": "",
+      "episode_count": 48
+    },
+    {
+      "id": "20th_century",
+      "name": "המאה ה-20: שנה בשעה",
+      "rss": "https://omny.fm/shows/a-year-in-an-hour/playlists/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "10",
+      "feed_error": "",
+      "episode_count": 151
+    },
+    {
+      "id": "sakranit",
+      "name": "סקרנית",
+      "rss": "https://omny.fm/shows/curious/playlists/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "11",
+      "feed_error": "",
+      "episode_count": 58
+    },
+    {
+      "id": "out_of_memory",
+      "name": "Out of Memory",
+      "rss": "https://omny.fm/shows/out-of-memory/playlists/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "12",
+      "feed_error": "",
+      "episode_count": 20
+    },
+    {
+      "id": "erech_musaf",
+      "name": "ערך מוסף בשבילי",
+      "rss": "https://omny.fm/shows/valueadded/playlists/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "13",
+      "feed_error": "",
+      "episode_count": 20
+    },
+    {
+      "id": "team_atzmaim",
+      "name": "TEAM לעצמאים",
+      "rss": "https://omny.fm/shows/team-isracard/playlists/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "14",
+      "feed_error": "",
+      "episode_count": 4
+    },
+    {
+      "id": "maariv_magazine",
+      "name": "מגזין מעריב",
+      "rss": "https://omny.fm/shows/magazinemaariv/playlists/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "15",
+      "feed_error": "",
+      "episode_count": 100
+    },
+    {
+      "id": "cx_podcast",
+      "name": "The CX PODCAST",
+      "rss": "https://omny.fm/shows/cx2024/playlists/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "16",
+      "feed_error": "",
+      "episode_count": 10
+    },
+    {
+      "id": "haim_aherim",
+      "name": "חיים של אחרים",
+      "rss": "https://omny.fm/shows/haimaherim/playlists/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "17",
+      "feed_error": "",
+      "episode_count": 1174
+    },
+    {
+      "id": "esek_kalkali",
+      "name": "עסק כלכלי",
+      "rss": "https://omny.fm/shows/israelhayom-business/playlists/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "18",
+      "feed_error": "",
+      "episode_count": 11
+    },
+    {
+      "id": "keta_kalkali",
+      "name": "קטע כלכלי",
+      "rss": "https://omny.fm/shows/ushi/playlists/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "19",
+      "feed_error": "",
+      "episode_count": 81
+    },
+    {
+      "id": "zman_sheavodtem",
+      "name": "בזמן שעבדתם",
+      "rss": "https://makopod.podbean.com/feed.xml",
+      "enabled": true,
+      "yemos_branch": "20",
+      "feed_error": "<unknown>:22:2: mismatched tag",
+      "episode_count": 0
+    },
+    {
+      "id": "little_university",
+      "name": "האוניברסיטה הקטנה של המדעים",
+      "rss": "https://omny.fm/shows/littleuniversity/playlists/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "21",
+      "feed_error": "",
+      "episode_count": 119
+    },
+    {
+      "id": "music_tech",
+      "name": "פודקאסט על מוזיקה וטכנולוגיה",
+      "rss": "https://omny.fm/shows/musictech/playlists/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "22",
+      "feed_error": "",
+      "episode_count": 23
+    },
+    {
+      "id": "traveler",
+      "name": "הנוסע המתמיד עם נדב יעקבי",
+      "rss": "https://omny.fm/shows/hanoseahamatmid/playlists/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "23",
+      "feed_error": "",
+      "episode_count": 263
+    },
+    {
+      "id": "ear_catcher",
+      "name": "Ear Catcher",
+      "rss": "https://omny.fm/shows/ear-catcher/playlists/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "24",
+      "feed_error": "",
+      "episode_count": 0
+    },
+    {
+      "id": "historia_bederech",
+      "name": "היסטוריה על הדרך",
+      "rss": "https://omny.fm/shows/naftalihen/playlists/playlist-2.rss",
+      "enabled": true,
+      "yemos_branch": "25",
+      "feed_error": "",
+      "episode_count": 8
+    },
+    {
+      "id": "historia_ktaim",
+      "name": "היסטוריה עם יובל מלחי - קטעים",
+      "rss": "https://feeds.hubhopper.com/b70358a3f81f6a07e65dc5d7976b5c91.rss",
+      "enabled": true,
+      "yemos_branch": "26",
+      "feed_error": "",
+      "episode_count": 299
+    },
+    {
+      "id": "osim_historia",
+      "name": "עושים היסטוריה עם ערן ניצן",
+      "rss": "https://www.ranlevi.com/feed/podcast",
+      "enabled": true,
+      "yemos_branch": "27",
+      "feed_error": "",
+      "episode_count": 283
+    },
+    {
+      "id": "yaldin",
+      "name": "ילדין",
+      "rss": "https://feeds.hubhopper.com/1ed49d71ffd6affdcfb8f5c56a8f7ac8.rss",
+      "enabled": true,
+      "yemos_branch": "37",
+      "feed_error": "",
+      "episode_count": 36
+    },
+    {
+      "id": "yetziat_ethiopia",
+      "name": "יציאת אתיופיה",
+      "rss": "https://feeds.hubhopper.com/892a24ddd76ce427bb89e2e9bd45f76a.rss",
+      "enabled": true,
+      "yemos_branch": "38",
+      "feed_error": "",
+      "episode_count": 31
+    },
+    {
+      "id": "sogen_sodi",
+      "name": "סוכן סודי",
+      "rss": "https://anchor.fm/s/102544b30/podcast/rss",
+      "enabled": true,
+      "yemos_branch": "39",
+      "feed_error": "",
+      "episode_count": 8
+    },
+    {
+      "id": "sipur_beerech",
+      "name": "סיפור בערך",
+      "rss": "https://feeds.hubhopper.com/da57f176d3d3487cce54e14616932d3a.rss",
+      "enabled": true,
+      "yemos_branch": "40",
+      "feed_error": "",
+      "episode_count": 6
+    },
+    {
+      "id": "frontiers_youth",
+      "name": "פרונטירז – מדע לצעירים",
+      "rss": "https://feeds.hubhopper.com/e972f4ac-f6f8-51a4-9b79-559df4add3a5.rss",
+      "enabled": true,
+      "yemos_branch": "41",
+      "feed_error": "",
+      "episode_count": 0
+    }
+  ],
+  "totals": {
+    "configured": 32,
+    "active": 32,
+    "episodes": 6763,
+    "feed_errors": 1
+  }
+}
