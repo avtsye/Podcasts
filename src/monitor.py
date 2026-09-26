@@ -4,6 +4,7 @@ import mimetypes
 import os
 import re
 import tempfile
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlparse
@@ -59,15 +60,21 @@ def safe_filename(title, url):
 
 
 def download(url, target, timeout):
+    started = time.monotonic()
+    read_timeout = min(max(int(timeout), 30), 120)
     with requests.get(
         url,
         stream=True,
-        timeout=(30, timeout),
+        timeout=(30, read_timeout),
         headers={"User-Agent": "Podcasts-RSS-Monitor/1.0"},
     ) as response:
         response.raise_for_status()
         with open(target, "wb") as output:
             for chunk in response.iter_content(chunk_size=1024 * 1024):
+                if time.monotonic() - started > timeout:
+                    raise TimeoutError(
+                        f"Episode download exceeded {timeout} seconds."
+                    )
                 if chunk:
                     output.write(chunk)
 
