@@ -4,6 +4,7 @@ from pathlib import Path
 
 import feedparser
 
+# Dashboard index refresh.
 CONFIG = Path("config/podcasts.json")
 STATE = Path("data/state.json")
 YEMOS_STATE = Path("data/yemos_state.json")
