@@ -1,130 +1,130 @@
 {
   "feeds": {
     "ehad_beyom": {
-      "last_checked": "2026-09-26T01:37:51.065113+00:00",
+      "last_checked": "2026-09-26T07:46:31.422557+00:00",
       "last_error": null
     },
     "geekonomy": {
-      "last_checked": "2026-09-26T01:37:52.556907+00:00",
+      "last_checked": "2026-09-26T07:46:33.852891+00:00",
       "last_error": null
     },
     "hayot_kes": {
-      "last_checked": "2026-09-26T01:37:53.249411+00:00",
+      "last_checked": "2026-09-26T07:46:34.876417+00:00",
       "last_error": null
     },
     "osim_tech": {
-      "last_checked": "2026-09-26T01:37:53.717163+00:00",
+      "last_checked": "2026-09-26T07:46:35.545210+00:00",
       "last_error": null
     },
     "hatshuva": {
-      "last_checked": "2026-09-26T01:37:54.282761+00:00",
+      "last_checked": "2026-09-26T07:46:37.035776+00:00",
       "last_error": null
     },
     "startup_for_startup": {
-      "last_checked": "2026-09-26T01:37:55.812187+00:00",
+      "last_checked": "2026-09-26T07:46:39.387009+00:00",
       "last_error": null
     },
     "money_engines": {
-      "last_checked": "2026-09-26T01:37:56.275739+00:00",
+      "last_checked": "2026-09-26T07:46:39.924775+00:00",
       "last_error": null
     },
     "history_for_children": {
-      "last_checked": "2026-09-26T01:37:56.989981+00:00",
+      "last_checked": "2026-09-26T07:46:40.774480+00:00",
       "last_error": null
     },
     "baduk": {
-      "last_checked": "2026-09-26T01:37:57.454264+00:00",
+      "last_checked": "2026-09-26T07:46:41.233061+00:00",
       "last_error": null
     },
     "20th_century": {
-      "last_checked": "2026-09-26T01:37:58.011228+00:00",
+      "last_checked": "2026-09-26T07:46:41.813811+00:00",
       "last_error": null
     },
     "sakranit": {
-      "last_checked": "2026-09-26T01:37:58.550187+00:00",
+      "last_checked": "2026-09-26T07:46:42.292734+00:00",
       "last_error": null
     },
     "out_of_memory": {
-      "last_checked": "2026-09-26T01:37:59.087335+00:00",
+      "last_checked": "2026-09-26T07:46:42.680703+00:00",
       "last_error": null
     },
     "erech_musaf": {
-      "last_checked": "2026-09-26T01:37:59.501646+00:00",
+      "last_checked": "2026-09-26T07:46:43.055286+00:00",
       "last_error": null
     },
     "team_atzmaim": {
-      "last_checked": "2026-09-26T01:37:59.872282+00:00",
+      "last_checked": "2026-09-26T07:46:43.362839+00:00",
       "last_error": null
     },
     "maariv_magazine": {
-      "last_checked": "2026-09-26T01:38:00.582317+00:00",
+      "last_checked": "2026-09-26T07:46:44.217144+00:00",
       "last_error": null
     },
     "cx_podcast": {
-      "last_checked": "2026-09-26T01:38:00.976597+00:00",
+      "last_checked": "2026-09-26T07:46:44.624368+00:00",
       "last_error": null
     },
     "haim_aherim": {
-      "last_checked": "2026-09-26T01:38:02.405756+00:00",
+      "last_checked": "2026-09-26T07:46:46.343591+00:00",
       "last_error": null
     },
     "esek_kalkali": {
-      "last_checked": "2026-09-26T01:38:03.207784+00:00",
+      "last_checked": "2026-09-26T07:46:46.743423+00:00",
       "last_error": null
     },
     "keta_kalkali": {
-      "last_checked": "2026-09-26T01:38:03.686404+00:00",
+      "last_checked": "2026-09-26T07:46:47.231890+00:00",
       "last_error": null
     },
     "zman_sheavodtem": {
       "last_error": "RSS parse failed: <unknown>:22:2: mismatched tag",
-      "last_checked": "2026-09-26T01:38:03.926718+00:00"
+      "last_checked": "2026-09-26T07:46:47.569237+00:00"
     },
     "little_university": {
-      "last_checked": "2026-09-26T01:38:04.427306+00:00",
+      "last_checked": "2026-09-26T07:46:48.086135+00:00",
       "last_error": null
     },
     "music_tech": {
-      "last_checked": "2026-09-26T01:38:39.329353+00:00",
+      "last_checked": "2026-09-26T07:47:26.961636+00:00",
       "last_error": null
     },
     "traveler": {
-      "last_checked": "2026-09-26T01:38:40.014851+00:00",
+      "last_checked": "2026-09-26T07:47:27.641536+00:00",
       "last_error": null
     },
     "ear_catcher": {
-      "last_checked": "2026-09-26T01:38:40.197565+00:00"
+      "last_checked": "2026-09-26T07:47:27.769997+00:00"
     },
     "historia_bederech": {
-      "last_checked": "2026-09-26T01:38:40.599975+00:00",
+      "last_checked": "2026-09-26T07:47:28.180482+00:00",
       "last_error": null
     },
     "historia_ktaim": {
-      "last_checked": "2026-09-26T01:38:41.530297+00:00",
+      "last_checked": "2026-09-26T07:47:28.877657+00:00",
       "last_error": null
     },
     "osim_historia": {
-      "last_checked": "2026-09-26T01:38:42.228992+00:00",
+      "last_checked": "2026-09-26T07:47:30.379951+00:00",
       "last_error": null
     },
     "yaldin": {
       "last_error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/33026741/wnh-hdsh-bpth-mthylym-m-lyyb.mp3?s=rss-feed&rd=1790380800",
-      "last_checked": "2026-09-26T01:38:53.401613+00:00"
+      "last_checked": "2026-09-26T07:47:42.141926+00:00"
     },
     "yetziat_ethiopia": {
-      "last_checked": "2026-09-26T01:38:53.991780+00:00",
+      "last_checked": "2026-09-26T07:47:42.706912+00:00",
       "last_error": null
     },
     "sogen_sodi": {
-      "last_checked": "2026-09-26T01:38:54.182648+00:00",
+      "last_checked": "2026-09-26T07:47:42.963410+00:00",
       "last_error": null
     },
     "sipur_beerech": {
-      "last_checked": "2026-09-26T01:38:54.377257+00:00",
+      "last_checked": "2026-09-26T07:47:43.174827+00:00",
       "last_error": null
     },
     "frontiers_youth": {
-      "last_checked": "2026-09-26T01:38:54.784526+00:00"
+      "last_checked": "2026-09-26T07:47:43.515143+00:00"
     }
   },
   "episodes": {
@@ -2122,7 +2122,7 @@
       "audio_url": "https://play.hubhopper.com/a64924e349e3c7e73f6b432108dff7e3.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32885696/htmwnh-btyqtwq-wnh-5-prq-5.mp3?s=rss-feed&rd=1790380800",
-      "updated_at": "2026-09-26T01:38:50.073640+00:00"
+      "updated_at": "2026-09-26T07:47:38.667857+00:00"
     },
     "https://hubhopper.com/episode/mdynt-hyldym-wnh-5-prq-6": {
       "podcast_id": "yaldin",
@@ -2131,7 +2131,7 @@
       "audio_url": "https://play.hubhopper.com/78b7d7d904648a59cd5b69ab4501393c.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32887761/mdynt-hyldym-wnh-5-prq-6.mp3?s=rss-feed&rd=1790380800",
-      "updated_at": "2026-09-26T01:38:51.214960+00:00"
+      "updated_at": "2026-09-26T07:47:39.795978+00:00"
     },
     "https://hubhopper.com/episode/hpwdqst-sl-twm-wmyh-wnh-5-prq-7": {
       "podcast_id": "yaldin",
@@ -2140,7 +2140,7 @@
       "audio_url": "https://play.hubhopper.com/804eb17d5ea317b10e840672662c9ede.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32893995/hpwdqst-sl-twm-wmyh-wnh-5-prq-7.mp3?s=rss-feed&rd=1790380800",
-      "updated_at": "2026-09-26T01:38:52.297028+00:00"
+      "updated_at": "2026-09-26T07:47:40.947351+00:00"
     },
     "https://hubhopper.com/episode/wnh-hdsh-bpth-mthylym-m-lyyb": {
       "podcast_id": "yaldin",
@@ -2149,7 +2149,7 @@
       "audio_url": "https://play.hubhopper.com/c2c4f85119f569ec5714f401ecbfa36f.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/33026741/wnh-hdsh-bpth-mthylym-m-lyyb.mp3?s=rss-feed&rd=1790380800",
-      "updated_at": "2026-09-26T01:38:53.381341+00:00"
+      "updated_at": "2026-09-26T07:47:42.108057+00:00"
     },
     "https://hubhopper.com/episode/hmtb-htyq-wnh-6-prq-1": {
       "podcast_id": "yaldin",
@@ -3575,7 +3575,7 @@
       "audio_url": "https://play.hubhopper.com/3219abdfcb811baf9c677e7d92ed55aa.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32866883/mwknym-lwnh-5.mp3?s=rss-feed&rd=1790380800",
-      "updated_at": "2026-09-26T01:38:43.868861+00:00"
+      "updated_at": "2026-09-26T07:47:31.760621+00:00"
     },
     "https://hubhopper.com/episode/qrqs-ytlynw-wnh-5-prq-1": {
       "podcast_id": "yaldin",
@@ -3584,7 +3584,7 @@
       "audio_url": "https://play.hubhopper.com/cc36f1b9337b5e0a6225bd1e6fe1349e.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32870692/qrqs-ytlynw-wnh-5-prq-1.mp3?s=rss-feed&rd=1790380800",
-      "updated_at": "2026-09-26T01:38:45.339165+00:00"
+      "updated_at": "2026-09-26T07:47:33.425197+00:00"
     },
     "https://hubhopper.com/episode/sws-trwyny-wnh-5-prq-2": {
       "podcast_id": "yaldin",
@@ -3593,7 +3593,7 @@
       "audio_url": "https://play.hubhopper.com/eae054ec6feb717d772a3f8340b6d2a1.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32872798/sws-trwyny-wnh-5-prq-2.mp3?s=rss-feed&rd=1790380800",
-      "updated_at": "2026-09-26T01:38:46.413154+00:00"
+      "updated_at": "2026-09-26T07:47:34.643349+00:00"
     },
     "https://hubhopper.com/episode/qwmyqs-hmhh-wnh-5-prq-3": {
       "podcast_id": "yaldin",
@@ -3602,7 +3602,7 @@
       "audio_url": "https://play.hubhopper.com/a1a9e95bebcdaf3cdcbe4ddef563e6e6.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32880299/qwmyqs-hmhh-wnh-5-prq-3.mp3?s=rss-feed&rd=1790380800",
-      "updated_at": "2026-09-26T01:38:47.811055+00:00"
+      "updated_at": "2026-09-26T07:47:35.860025+00:00"
     },
     "https://hubhopper.com/episode/dwkn-hwgywt-wnh-5-prq-4": {
       "podcast_id": "yaldin",
@@ -3611,7 +3611,7 @@
       "audio_url": "https://play.hubhopper.com/e340aa535b1507a8e582c1f5908bc3fe.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32881735/dwkn-hwgywt-wnh-5-prq-4.mp3?s=rss-feed&rd=1790380800",
-      "updated_at": "2026-09-26T01:38:49.002475+00:00"
+      "updated_at": "2026-09-26T07:47:37.032541+00:00"
     },
     "https://historia.co.il/?p=17482": {
       "podcast_id": "yetziat_ethiopia",
@@ -3751,7 +3751,7 @@
       "drive_file_id": "1Jc0TOLAfRZDsT-oJfIFfnOoIz2Din-MM",
       "drive_url": "https://drive.google.com/file/d/1Jc0TOLAfRZDsT-oJfIFfnOoIz2Din-MM/view?usp=drivesdk",
       "status": "uploaded",
-      "notification_status": "pending",
+      "notification_status": "queued",
       "yemos_status": "uploaded",
       "processed_at": "2026-09-25T07:53:18.659915+00:00",
       "yemos_path": "ivr2:/1/1/1302.wav"
