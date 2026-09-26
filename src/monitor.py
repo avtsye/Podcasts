@@ -217,12 +217,14 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None):
         # A Drive upload is independent from Yemos. If Drive already has the
         # episode but Yemos does not, retry only Yemos instead of uploading
         # the episode to Drive again.
+        explicit_force_request = bool(force_items or force_count > 0)
         if (
             current
             and current.get("drive_file_id")
             and settings.get("yemos_enabled", True)
             and yemos_record.get("status") != "uploaded"
             and audio_url
+            and (force_yemos or not explicit_force_request)
         ):
             filename = safe_filename(title, audio_url)
             branch = podcast.get("yemos_branch", "1")
