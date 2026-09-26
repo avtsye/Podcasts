@@ -95,7 +95,7 @@ def notify_existing_uploaded(podcast, record, notifications):
         return False
 
 
-def process_feed(podcast, config, state, yemos_state):
+def process_feed(podcast, config, state, yemos_state, run_uploads=None):\n    if run_uploads is None:\n        run_uploads = []
     settings = config.get("settings", {})
     notifications = config.get("notifications", {})
     podcast_id = podcast["id"]
@@ -332,6 +332,12 @@ def process_feed(podcast, config, state, yemos_state):
                     "processed_at": utc_now(),
                 }
                 seen[key] = record
+                run_item = {
+                    "podcast": podcast.get("name", ""),
+                    "title": title,
+                    "destinations": ["Google Drive"],
+                }
+                run_uploads.append(run_item)
                 feeds.setdefault(podcast_id, {})["last_checked"] = utc_now()
                 feeds[podcast_id]["last_error"] = None
                 save_state(state)
@@ -358,6 +364,9 @@ def process_feed(podcast, config, state, yemos_state):
                         record["yemos_status"] = "uploaded"
                         record["yemos_path"] = yemos_file.get("path")
                         record.pop("yemos_error", None)
+                        run_item["destinations"].append(
+                            "ימות המשיח " + str(yemos_file.get("path", ""))
+                        )
                         print(f"Yemos upload complete: {yemos_file.get('path')}")
                     except Exception as exc:
                         yemos_episodes[key] = {
@@ -437,20 +446,9 @@ def main():
 
     for podcast in podcasts:
         try:
-            before_keys = set(state.get("episodes", {}).keys())
-            total_processed += process_feed(podcast, config, state, yemos_state)
-            for key in set(state.get("episodes", {}).keys()) - before_keys:
-                record = state["episodes"].get(key, {})
-                if not record.get("drive_file_id"):
-                    continue
-                destinations = ["Google Drive"]
-                if record.get("yemos_status") == "uploaded":
-                    destinations.append("ימות המשיח " + str(record.get("yemos_path", "")))
-                run_uploads.append({
-                    "podcast": podcast.get("name", ""),
-                    "title": record.get("title", ""),
-                    "destinations": destinations,
-                })
+            total_processed += process_feed(
+                podcast, config, state, yemos_state, run_uploads
+            )
             manifest_path.write_text(
                 json.dumps(run_uploads, ensure_ascii=False, indent=2) + "\\n",
                 encoding="utf-8",
