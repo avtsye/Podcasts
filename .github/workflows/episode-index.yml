@@ -36,5 +36,6 @@ jobs:
             echo "No episode index changes."
           else
             git commit -m "chore: refresh episode index"
+            git pull --rebase origin main
             git push
           fi
