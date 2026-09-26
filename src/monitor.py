@@ -95,7 +95,9 @@ def notify_existing_uploaded(podcast, record, notifications):
         return False
 
 
-def process_feed(podcast, config, state, yemos_state, run_uploads=None):\n    if run_uploads is None:\n        run_uploads = []
+def process_feed(podcast, config, state, yemos_state, run_uploads=None):
+    if run_uploads is None:
+        run_uploads = []
     settings = config.get("settings", {})
     notifications = config.get("notifications", {})
     podcast_id = podcast["id"]
