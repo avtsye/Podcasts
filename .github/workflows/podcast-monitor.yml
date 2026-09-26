@@ -137,26 +137,10 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
-          SCOPE: ${{ steps.parse_request.outputs.scope }}
         run: |
-          python - <<'PY' > /tmp/podcast-list.md
-          import json, os
-          from pathlib import Path
-          cfg=json.loads(Path("config/podcasts.json").read_text(encoding="utf-8"))
-          podcasts=cfg.get("podcasts",[])
-          if os.environ.get("SCOPE")=="פודקאסטים פעילים בלבד":
-              podcasts=[p for p in podcasts if p.get("enabled",True)]
-          print("## 📋 פודקאסטים ושלוחות Yemos\n")
-          print("| פודקאסט | שלוחת Yemos | מצב |")
-          print("|---|---:|---|")
-          for p in podcasts:
-              status="פעיל" if p.get("enabled",True) else "מושבת"
-              print(f"| {p.get('name','')} | {p.get('yemos_branch','—')} | {status} |")
-          print(f"\nסה״כ: **{len(podcasts)}** פודקאסטים.")
-          PY
-          # Keep one permanent dashboard issue and replace its body on every refresh.
+          python -m src.podcast_list_report > /tmp/podcast-list.md
           {
-            echo "# 📋 רשימת פודקאסטים ושלוחות Yemos"
+            echo "# 📋 רשימת פודקאסטים, RSS ושלוחות Yemos"
             echo
             echo "עודכן אוטומטית מהריצה האחרונה."
             echo
