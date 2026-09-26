@@ -12443,6 +12443,221 @@
       "path": "ivr2:/1/40/5.wav",
       "filename_stem": "5",
       "uploaded_at": "2026-09-26T21:30:34.599970+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/0d538f17-05c7-3868-88d0-9a881ad8e8e8": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 3: הישרדות-המסע המופלא של לואיס וקלארק",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/13.wav",
+      "filename_stem": "13",
+      "uploaded_at": "2026-09-26T21:33:29.177650+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-4-%d7%9e%d7%a1%d7%a2%d7%95%d7%aa-%d7%94%d7%a6%d7%9c%d7%91/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 4: מסעות הצלב",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/14.wav",
+      "filename_stem": "14",
+      "uploaded_at": "2026-09-26T21:34:44.077959+00:00"
+    },
+    "http://yuval.podbean.com/e/episode-125-rightout-among-the-nations/": {
+      "podcast_id": "historia_ktaim",
+      "title": "Episode 126 - Righteous Among the Nations",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/29.wav",
+      "filename_stem": "29",
+      "uploaded_at": "2026-09-26T21:36:30.481104+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-335-36857e0dc883152241e51a0c79101aa6": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 335 - קרב כראמה ומלחמת ההתשה",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/125.wav",
+      "filename_stem": "125",
+      "uploaded_at": "2026-09-26T21:52:15.321410+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/b90ddb1c-d61b-5268-be06-bc47fdc4e2ee": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 348: הכישלונות הגדולים של לאונרדו דה וינצ\\'י - עם יהודית כץ",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/137.wav",
+      "filename_stem": "137",
+      "uploaded_at": "2026-09-26T21:54:17.902903+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/7992769f-e1b0-5d4a-8058-189fd4daf8e0": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 349: נשלחנו כך - חלק 3 - היהודי הנודד",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/138.wav",
+      "filename_stem": "138",
+      "uploaded_at": "2026-09-26T21:54:44.295840+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/642654ee-56d3-5381-90b7-2ca078a6c019": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 350: מפגשים עם הגיל השלישי - עם יעל חביב (פיילוט)",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/139.wav",
+      "filename_stem": "139",
+      "uploaded_at": "2026-09-26T21:55:38.971619+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/94afcf0f-3276-5e06-8693-a5a56e81c772": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 351: נשלחנו כך - חלק 4 - ראיון עם שלי קידר",
+      "status": "error",
+      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "updated_at": "2026-09-26T21:56:18.762797+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/32fe174d-85ba-53d0-b6c4-747974d00810": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 352: חידה ושמה לורנס איש ערב",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/141.wav",
+      "filename_stem": "141",
+      "uploaded_at": "2026-09-26T21:57:04.130126+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/951586d1-84d3-5a65-8442-6d88c971d2b3": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 353: נשלחנו כך - חלק 5 - בין חזון למציאות",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/142.wav",
+      "filename_stem": "142",
+      "uploaded_at": "2026-09-26T21:57:32.248245+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/f858ede9-8555-51b9-b805-26250b816250": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 354: לכודים בטהרן",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/143.wav",
+      "filename_stem": "143",
+      "uploaded_at": "2026-09-26T21:58:19.164153+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/1d1b1848-0655-553a-ae93-ac03044ad382": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 356: נשלחנו כך - חלק 6 - ראיון עם לירון פינקלשטיין",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/144.wav",
+      "filename_stem": "144",
+      "uploaded_at": "2026-09-26T21:58:32.394663+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/cbb091e0-aac3-5736-a5e7-89ee51f45a34": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 358: נשלחנו כך - חלק 7 - על ציונות, גזענות, BDS ומה שביניהם",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/145.wav",
+      "filename_stem": "145",
+      "uploaded_at": "2026-09-26T21:58:57.492529+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/705cf599-8325-54d7-a106-bcac7a9f9dc1": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 361 - ההיסטוריה שלי ובלאק פריידי על טוגות",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/146.wav",
+      "filename_stem": "146",
+      "uploaded_at": "2026-09-26T21:59:48.819578+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/9550b24c-14af-5132-aa05-e2da6e0d446f": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 362 - יציאת אתיופיה - קדימון",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/147.wav",
+      "filename_stem": "147",
+      "uploaded_at": "2026-09-26T21:59:57.108465+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/dbd7fe23-5dae-5cd0-8c43-59a01b18a599": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 364: יחסי ישראל והקהילה היהודית בארצות הברית - נשלחנו כך - חלק 8",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/148.wav",
+      "filename_stem": "148",
+      "uploaded_at": "2026-09-26T22:00:24.683449+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/2850365c-ce9b-546b-b084-e4f2ca8c0e0f": {
+      "podcast_id": "historia_ktaim",
+      "title": "אל תשפכו את השעועית - על מטבעות לשון באנגלית",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/149.wav",
+      "filename_stem": "149",
+      "uploaded_at": "2026-09-26T22:00:52.386727+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/878fca72-b6c5-504d-b9c3-055c610da716": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 367 - יציאת אתיופיה - חלק 1",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/150.wav",
+      "filename_stem": "150",
+      "uploaded_at": "2026-09-26T22:01:12.865755+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/ef3cff51-742b-5651-b6ef-6011d1ebdf99": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 369: נשלחנו כך - הזמנה לריקוד - עם מנכ\\\"לית הסוכנות היהודית אמירה אהרונוביץ - חלק 9",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/151.wav",
+      "filename_stem": "151",
+      "uploaded_at": "2026-09-26T22:01:36.072685+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/0db3daf5-079d-530a-952b-29c8698b6115": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 370 - יציאת אתיופיה - חלק 2 - ממלכת בית ישראל ועד הזמן הרע",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/152.wav",
+      "filename_stem": "152",
+      "uploaded_at": "2026-09-26T22:01:58.088142+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/b45360e3-9586-53f6-8af9-e7ced7cc72f9": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 379: יציאת אתיופיה חלק 3",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/153.wav",
+      "filename_stem": "153",
+      "uploaded_at": "2026-09-26T22:02:21.730251+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/cca88ca1-87ae-50bb-90dc-768a24e3b729": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 381: יציאת אתיופיה - חלק 4 - פורצי הדרך",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/154.wav",
+      "filename_stem": "154",
+      "uploaded_at": "2026-09-26T22:02:53.210927+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/d002ff7c-520b-5c01-a996-e5c2d67c0a8b": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 384: יציאת אתיופיה - חלק 5 - מבצע סבתא ובית הסוהר הסודאני",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/155.wav",
+      "filename_stem": "155",
+      "uploaded_at": "2026-09-26T22:03:25.014471+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/3919ea1d-9feb-5aaa-9dea-289de1e40bab": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 385: יציאת אתיופיה - חלק 6 - פרדה לוחם מוסד והפרידה",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/156.wav",
+      "filename_stem": "156",
+      "uploaded_at": "2026-09-26T22:03:56.580800+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/c54f6f5e-3ccb-573f-badc-9b7e684ac563": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 387: וינסטון צ\\'רצ\\'יל - מחרחר המלחמה שהציל את העולם (הרצאה)",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/157.wav",
+      "filename_stem": "157",
+      "uploaded_at": "2026-09-26T22:05:08.729748+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/3da8a586-a10f-5236-98aa-5e38388d7194": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 390 - דפיקה בדלת - פרק אורח של הפודקאסט מוזה סטוריז",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/159.wav",
+      "filename_stem": "159",
+      "uploaded_at": "2026-09-26T22:06:07.605932+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/79c03022-b772-5c34-a9fd-719ecd153621": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 391 - יציאת אתיופיה פרק 7 - כפר הנופש חלק 1",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/160.wav",
+      "filename_stem": "160",
+      "uploaded_at": "2026-09-26T22:07:04.585056+00:00"
     }
   },
   "next_numbers": {
@@ -12469,7 +12684,7 @@
     "22": 20,
     "23": 11,
     "25": 9,
-    "26": 11,
+    "26": 161,
     "27": 11,
     "37": 100,
     "38": 11,

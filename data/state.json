@@ -100,7 +100,7 @@
       "last_error": null
     },
     "historia_ktaim": {
-      "last_checked": "2026-09-26T17:13:59.168298+00:00",
+      "last_checked": "2026-09-26T22:07:14.447355+00:00",
       "last_error": null
     },
     "osim_historia": {
@@ -20511,6 +20511,1476 @@
       "notification_status": "pending",
       "yemos_status": "pending",
       "processed_at": "2026-09-25T20:49:29.432300+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-1-%d7%99%d7%a9%d7%95-%e2%80%93-%d7%97%d7%99%d7%99%d7%95-%d7%95%d7%9e%d7%95%d7%aa%d7%95/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 1: ישו – חייו ומותו",
+      "published": "Fri, 14 Mar 2008 16:41:00 +0000",
+      "audio_url": "https://play.hubhopper.com/f051735073947e151845c995da6880c8.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:32:48.870177+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-2-%d7%9c%d7%95%d7%a8%d7%a0%d7%a1-%d7%90%d7%99%d7%a9-%d7%a2%d7%a8%d7%91/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 2: לורנס איש ערב",
+      "published": "Mon, 24 Mar 2008 17:15:00 +0000",
+      "audio_url": "https://play.hubhopper.com/ea6b93b257d67b9c1edd03f5f8593cf2.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:32:57.506837+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/0d538f17-05c7-3868-88d0-9a881ad8e8e8": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 3: הישרדות-המסע המופלא של לואיס וקלארק",
+      "published": "Tue, 25 Mar 2008 08:12:00 +0000",
+      "audio_url": "https://play.hubhopper.com/7fc02fdf3f48a41fc0a5bd9fe6f6cbf0.mp3?s=rss-feed",
+      "drive_file_id": "17nqyOeewc-0ADGoXG98JyayD-ATACxnj",
+      "drive_url": "https://drive.google.com/file/d/17nqyOeewc-0ADGoXG98JyayD-ATACxnj/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T21:33:07.731472+00:00",
+      "yemos_path": "ivr2:/1/26/13.wav"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-4-%d7%9e%d7%a1%d7%a2%d7%95%d7%aa-%d7%94%d7%a6%d7%9c%d7%91/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 4: מסעות הצלב",
+      "published": "Thu, 16 Oct 2008 09:59:00 +0000",
+      "audio_url": "https://play.hubhopper.com/7c1acce319c4b573d6684a15289fdeb9.mp3?s=rss-feed",
+      "drive_file_id": "1SWI7BGkYnG_TfDgcyhrPdfcffrAqmBiB",
+      "drive_url": "https://drive.google.com/file/d/1SWI7BGkYnG_TfDgcyhrPdfcffrAqmBiB/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T21:33:43.169836+00:00",
+      "yemos_path": "ivr2:/1/26/14.wav"
+    },
+    "http://yuval.podbean.com/e/%d7%9e%d7%9c%d7%97%d7%9e%d7%aa-%d7%94%d7%a2%d7%a6%d7%9e%d7%90%d7%95%d7%aa-%d7%a9%d7%9c-%d7%90%d7%a8%d7%94%d7%91-%d7%97%d7%9c%d7%a7-1-%d7%a4%d7%a8%d7%a7-5/": {
+      "podcast_id": "historia_ktaim",
+      "title": "מלחמת העצמאות של ארה\\\"ב - חלק 1 - פרק 5",
+      "published": "Wed, 25 Feb 2009 14:33:00 +0000",
+      "audio_url": "https://play.hubhopper.com/9a182375741a04025bc5273e49292553.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:34:52.691972+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%9e%d7%9c%d7%97%d7%9e%d7%aa-%d7%94%d7%a2%d7%a6%d7%9e%d7%90%d7%95%d7%aa-%d7%a9%d7%9c-%d7%90%d7%a8%d7%94%d7%91-%d7%97%d7%9c%d7%a7-2-%d7%a4%d7%a8%d7%a7-6/": {
+      "podcast_id": "historia_ktaim",
+      "title": "מלחמת העצמאות של ארה\\\"ב - חלק 2 - פרק 6",
+      "published": "Tue, 14 Apr 2009 14:09:00 +0000",
+      "audio_url": "https://play.hubhopper.com/1ad0ef0848e1a76460d323fde7b12b57.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:34:56.558433+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%94%d7%a6%d7%91-%d7%a9%d7%9c-%d7%93%d7%95%d7%93-%d7%94%d7%a6%d7%95%d7%9c%d7%9c%d7%aa-%d7%94%d7%a8%d7%90%d7%a9%d7%95%d7%a0%d7%94-%d7%a4%d7%a8%d7%a7-7/": {
+      "podcast_id": "historia_ktaim",
+      "title": "הצב של דוד - הצוללת הראשונה - פרק 7",
+      "published": "Sun, 28 Jun 2009 14:02:00 +0000",
+      "audio_url": "https://play.hubhopper.com/e5811f9ef1eb31ea817589c517592d6f.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:35:02.786136+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%98%d7%95%d7%9c%d7%99%d7%a4%d7%9e%d7%90%d7%a0%d7%99%d7%94-%d7%94%d7%9e%d7%a9%d7%91%d7%a8-%d7%94%d7%a4%d7%99%d7%a0%d7%a0%d7%a1%d7%99-%d7%94%d7%92%d7%93%d7%95%d7%9c-%d7%a4%d7%a8%d7%a7-8/": {
+      "podcast_id": "historia_ktaim",
+      "title": "טוליפמאניה - המשבר הפיננסי הגדול - פרק 8",
+      "published": "Tue, 18 Aug 2009 14:02:00 +0000",
+      "audio_url": "https://play.hubhopper.com/d8c983641d54782edd86ee02d5076f76.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:35:08.701669+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%94%d7%98%d7%a2%d7%95%d7%99%d7%95%d7%aa-%d7%94%d7%a2%d7%a1%d7%a7%d7%99%d7%95%d7%aa-%d7%94%d7%92%d7%93%d7%95%d7%9c%d7%95%d7%aa-%d7%91%d7%94%d7%99%d7%a1%d7%98%d7%95%d7%a8%d7%99%d7%94-%d7%a4%d7%a8%d7/": {
+      "podcast_id": "historia_ktaim",
+      "title": "הטעויות העסקיות הגדולות בהיסטוריה - חלק 1 -פרק 9",
+      "published": "Thu, 10 Sep 2009 09:06:00 +0000",
+      "audio_url": "https://play.hubhopper.com/8633508798ba3a7e822de34d177d093d.mp3?s=rss-feed&v=2e2b1cf83991",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:35:14.537545+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%94%d7%98%d7%a2%d7%95%d7%99%d7%95%d7%aa-%d7%94%d7%a2%d7%a1%d7%a7%d7%99%d7%95%d7%aa-%d7%94%d7%92%d7%93%d7%95%d7%9c%d7%95%d7%aa-%d7%91%d7%94%d7%99%d7%a1%d7%98%d7%95%d7%a8%d7%99%d7%94-%d7%97%d7%9c%d7/": {
+      "podcast_id": "historia_ktaim",
+      "title": "הטעויות העסקיות הגדולות בהיסטוריה - חלק 2 - פרק 10",
+      "published": "Thu, 10 Sep 2009 14:07:00 +0000",
+      "audio_url": "https://play.hubhopper.com/46bc61213a76df9d2418339c47e0c11d.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:35:20.946572+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-17-%d7%a0%d7%a4%d7%95%d7%9c%d7%99%d7%90%d7%95%d7%9f-%d7%97%d7%9c%d7%a7-%d7%90-%d7%94%d7%a2%d7%9c%d7%99%d7%99%d7%94/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק: 17 - נפוליאון חלק א\\' - העלייה",
+      "published": "Thu, 21 Oct 2010 10:18:00 +0000",
+      "audio_url": "https://play.hubhopper.com/7184fa69348e98bb727db22f5eb4a186.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:35:31.343898+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a0%d7%a4%d7%95%d7%9c%d7%99%d7%90%d7%95%d7%9f-%d7%97%d7%9c%d7%a7-2-%d7%a4%d7%a8%d7%a7-18/": {
+      "podcast_id": "historia_ktaim",
+      "title": "נפוליאון חלק 2 - פרק 18",
+      "published": "Fri, 17 Dec 2010 13:45:00 +0000",
+      "audio_url": "https://play.hubhopper.com/2bcdc4ab44cc9c2c04de6b93799e35bb.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:35:39.141855+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a0%d7%a4%d7%95%d7%9c%d7%99%d7%90%d7%95%d7%9f-%d7%97%d7%9c%d7%a7-3-%d7%a4%d7%a8%d7%a7-19/": {
+      "podcast_id": "historia_ktaim",
+      "title": "נפוליאון חלק 3 - פרק 19",
+      "published": "Mon, 20 Dec 2010 13:50:00 +0000",
+      "audio_url": "https://play.hubhopper.com/96ed7f4f6cb71b846973cadc7e495fd2.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:35:47.517626+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a0%d7%a4%d7%95%d7%9c%d7%99%d7%90%d7%95%d7%9f-%d7%97%d7%9c%d7%a7-4-%d7%a4%d7%a8%d7%a7-20/": {
+      "podcast_id": "historia_ktaim",
+      "title": "נפוליאון חלק 4 - פרק 20",
+      "published": "Tue, 21 Dec 2010 13:53:00 +0000",
+      "audio_url": "https://play.hubhopper.com/44ced8f8fe246d56f2d35e898ebe2669.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:35:55.878602+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a0%d7%a4%d7%95%d7%9c%d7%99%d7%90%d7%95%d7%9f-%d7%97%d7%9c%d7%a7-5-%d7%a4%d7%a8%d7%a7-21/": {
+      "podcast_id": "historia_ktaim",
+      "title": "נפוליאון חלק 5 - פרק 21",
+      "published": "Sat, 25 Dec 2010 13:42:00 +0000",
+      "audio_url": "https://play.hubhopper.com/fc1e316fcc79759e971fe6632a94b246.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:36:03.071288+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-120-%d7%a9%d7%9c%d7%9e%d7%94-%d7%90%d7%94%d7%a8%d7%95%d7%a0%d7%a1%d7%95%d7%9f-%d7%a2%d7%9c-%d7%a1%d7%95%d7%a4%d7%94-%d7%a9%d7%9c-%d7%9e%d7%9c%d7%97%d7%9e%d7%aa-%d7%94%d7%a2%d7%95%d7/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 120: שלמה אהרונסון על סופה של מלחמת העולם הראשונה ועלייתו של היטלר",
+      "published": "Sat, 29 Nov 2014 20:44:49 +0000",
+      "audio_url": "https://play.hubhopper.com/c9e0ef26eb5faa7103403d659966c74f.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:36:11.267993+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a8%d7%90%d7%99%d7%95%d7%9f-%d7%a7%d7%a6%d7%a8-%d7%91%d7%a9%d7%a2%d7%94-%d7%94%d7%91%d7%99%d7%a0%d7%9c%d7%90%d7%95%d7%9e%d7%99%d7%aa-%d7%a2%d7%9d-%d7%90%d7%95%d7%a8%d7%9f-%d7%a0%d7%94%d7%a8%d7%99/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 122: הפסקת האש של חג המולד 1914 ברשת ב\\' עם אורן נהרי",
+      "published": "Sun, 28 Dec 2014 20:05:21 +0000",
+      "audio_url": "https://play.hubhopper.com/e6484a88bea83d750c2140cc1a45a0bd.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:36:16.149392+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%94%d7%9e%d7%a6%d7%95%d7%a8-%d7%a2%d7%9c-%d7%a8%d7%97%d7%95%d7%91-%d7%a1%d7%99%d7%93%d7%a0%d7%99-%d7%91%d7%a9%d7%a0%d7%aa-1911-%d7%95%d7%94%d7%94%d7%a7%d7%a9%d7%a8-%d7%94%d7%99%d7%94%d7%95%d7%93%d7/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 125: המצור על רחוב סידני בשנת 1911 וההקשר היהודי",
+      "published": "Thu, 26 Feb 2015 05:05:00 +0000",
+      "audio_url": "https://play.hubhopper.com/fcdacad18e9b7a3f8067c89044caabc7.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:36:20.958739+00:00"
+    },
+    "http://yuval.podbean.com/e/episode-125-rightout-among-the-nations/": {
+      "podcast_id": "historia_ktaim",
+      "title": "Episode 126 - Righteous Among the Nations",
+      "published": "Thu, 26 Feb 2015 05:10:00 +0000",
+      "audio_url": "https://play.hubhopper.com/15218da2bff4878b7fcfd1b3f390c477.mp3?s=rss-feed",
+      "drive_file_id": "14Cq1WajettSDRfXEc1BDYB8vx-MHYTxJ",
+      "drive_url": "https://drive.google.com/file/d/14Cq1WajettSDRfXEc1BDYB8vx-MHYTxJ/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T21:36:26.374428+00:00",
+      "yemos_path": "ivr2:/1/26/29.wav"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-144-%d7%94%d7%9e%d7%9c%d7%9b%d7%94%d7%a9%d7%91%d7%99%d7%a7%d7%a8%d7%94-%d7%91%d7%90%d7%a8%d7%a5-%d7%99%d7%a9%d7%a8%d7%90%d7%9c/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 553: המלכה שביקרה בארץ ישראל - ונרצחה (ש.ח 144)",
+      "published": "Thu, 17 Dec 2015 10:51:17 +0000",
+      "audio_url": "https://play.hubhopper.com/454c6198323f74a207e392a296a272ba.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:36:38.568474+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-145-%d7%94%d7%a6%d7%99%d7%95%d7%a0%d7%99-%d7%94%d7%a8%d7%90%d7%a9%d7%95%d7%9f-%d7%9e%d7%a8%d7%93%d7%9b%d7%99-%d7%a0%d7%97/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 145: \\'הגיבורים הנשכחים\\' - חוזה המדינה הראשון - נח מרדכי - חלק 1",
+      "published": "Mon, 11 Jan 2016 21:29:12 +0000",
+      "audio_url": "https://play.hubhopper.com/3bc551b902c607e245c52b7d3837a8c1.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:36:49.584507+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-147-%d7%a8%d7%97%d7%95%d7%91%d7%95%d7%aa%d7%91%d7%99%d7%a9%d7%a8%d7%90%d7%9c%d7%94%d7%95%d7%a4%d7%a2%d7%aa%d7%90%d7%95%d7%a8%d7%97/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 147: רחובות בישראל - הופעת אורח בתכנית גלילאו",
+      "published": "Wed, 03 Feb 2016 14:49:21 +0000",
+      "audio_url": "https://play.hubhopper.com/562f516bbe622f1aa46168469422f529.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:36:55.474821+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-150-%d7%97%d7%91%d7%99%d7%91%d7%94%d7%a8%d7%99%d7%99%d7%a7%d7%92%d7%99%d7%91%d7%95%d7%a8%d7%99%d7%9d%d7%a0%d7%a9%d7%9b%d7%97%d7%99/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 150: \\'הגיבורים הנשכחים\\' - הטלנובלה של חביבה רייק - חלק 2",
+      "published": "Wed, 24 Feb 2016 09:29:08 +0000",
+      "audio_url": "https://play.hubhopper.com/a672cd4be34c913e0d18296909b48338.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:37:10.413665+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-151-%d7%94%d7%90%d7%9c%d7%95%d7%a3%d7%a9%d7%94%d7%a4%d7%9a%d7%9c%d7%98%d7%95%d7%a8%d7%90%d7%99-%d7%a4%d7%a2%d7%9e%d7%99%d7%99%d7%9d/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 151: \\'הגיבורים הנשכחים\\' - האלוף שהפך לטוראי פעמיים - אליהו בן חור כהן - חלק 3",
+      "published": "Mon, 07 Mar 2016 18:28:21 +0000",
+      "audio_url": "https://play.hubhopper.com/29d65b9f98f88952d234ffed16444910.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:37:25.117523+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-152-%d7%94%d7%9e%d7%a4%d7%a7%d7%93%d7%94%d7%a6%d7%a2%d7%99%d7%a8%d7%a9%d7%a1%d7%99%d7%a8%d7%91-%d7%9c%d7%a2%d7%96%d7%95%d7%91/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 152: \\'הגיבורים הנשכחים\\' - המפקד שהציל אלפים - משה רוסנק - חלק 4",
+      "published": "Tue, 22 Mar 2016 11:52:19 +0000",
+      "audio_url": "https://play.hubhopper.com/9b9ca272ffcb37eeea9b66b80220b8e6.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:37:40.876400+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-153-%d7%94%d7%a1%d7%95%d7%a4%d7%a8%d7%a1%d7%98%d7%90%d7%a8%d7%99%d7%9d%d7%a9%d7%94%d7%a4%d7%9b%d7%95-%d7%9c%d7%9e%d7%95/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 153: \\'הגיבורים הנשכחים\\' - הסופרסטארים שהפכו למוכרי ביצים - האחים אל-כווייתי - חלק 5",
+      "published": "Wed, 06 Apr 2016 15:45:25 +0000",
+      "audio_url": "https://play.hubhopper.com/db0317cbbde2cc820bb4967a92ed046e.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:37:51.712703+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%9e%d7%9c%d7%9b%d7%aa%d7%91%d7%95%d7%9e%d7%91%d7%99%d7%99-%d7%94%d7%99%d7%94%d7%95%d7%93%d7%99%d7%99%d7%94%d7%a9%d7%a2%d7%91%d7%a8/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 154: \\'הגיבורים הנשכחים\\' - מלכת בומביי היהודייה שעברה כל גבול - חלק 6",
+      "published": "Wed, 20 Apr 2016 11:59:08 +0000",
+      "audio_url": "https://play.hubhopper.com/dcedb826b7a6158f2b6df7c9fcd3c8b0.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:38:04.015202+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-160-%d7%97%d7%99%d7%99%d7%9c-%d7%91%d7%9e%d7%9c%d7%97%d7%9e%d7%aa%d7%94%d7%a2%d7%95%d7%9c%d7%9d-%d7%94%d7%a9%d7%a0/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 160: חייל במלחמת העולם השנייה – סיפורו של משה לגין",
+      "published": "Sun, 26 Jun 2016 16:00:40 +0000",
+      "audio_url": "https://play.hubhopper.com/21d1892326928c6b9ad03ac4684f8683.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:38:13.395421+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7161%d7%97%d7%99%d7%99%d7%9c%d7%91%d7%9e%d7%9c%d7%97%d7%9e%d7%aa-%d7%94%d7%a2%d7%95%d7%9c%d7%9d-%d7%94%d7%a9%d7%a0%d7%99%d7%99%d7%94/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 161: חייל במלחמת העולם השנייה – סיפורו של משה לגין – חלק שני – אנחנו נראה להם!",
+      "published": "Thu, 14 Jul 2016 11:45:12 +0000",
+      "audio_url": "https://play.hubhopper.com/a6a8496f88184d7709c5a17d8bf3ab81.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:38:22.902705+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-162%d7%92%d7%99%d7%94%d7%99%d7%a0%d7%95%d7%9d%d7%97%d7%9c%d7%a7%d7%a9%d7%9c%d7%99%d7%a9%d7%99%d7%95%d7%90%d7%97%d7%a8%d7%95%d7%9f/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 162: \\\"גיהינום\\\" - חלק שלישי ואחרון - סיפורו של משה לגין במלחמת העולם השנייה",
+      "published": "Thu, 28 Jul 2016 09:25:34 +0000",
+      "audio_url": "https://play.hubhopper.com/68ac9707e2916726324e18b32d20d693.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:38:31.961621+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a1%d7%90%d7%9c%d7%90%d7%97%d7%98%d7%99%d7%9f-%d7%90%d7%95%d7%9c%d7%a7%d7%95%d7%9e%d7%9f-%e2%80%93-%d7%97%d7%a1%d7%99%d7%93-%d7%90/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 165: \\'סיפור אחר\\' - חלק 1 - חסיד אומות העולם הטורקי - סאלאחטין אולקומן",
+      "published": "Sun, 28 Aug 2016 08:15:40 +0000",
+      "audio_url": "https://play.hubhopper.com/a420b717b93f6963de984d9079040bdd.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:38:37.761006+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-166-%d7%a8%d7%90%d7%99%d7%95%d7%9f-%d7%a2%d7%9d-%d7%97%d7%99%d7%99%d7%9c-ss/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 166: סיפורו של איש אס אס",
+      "published": "Wed, 21 Sep 2016 07:06:52 +0000",
+      "audio_url": "https://play.hubhopper.com/ced2841cd954b01abd8ed797faa5b65b.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:38:49.505806+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-167-%d7%a1%d7%99%d7%a4%d7%95%d7%a8%d7%94%d7%a9%d7%9c-%d7%a0%d7%98%d7%9c%d7%99%d7%a4%d7%9c%d7%99%d7%98%d7%94-%d7%91%d7%9e%d7%9c/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 167: סיפורה של נטלי וחידת קאיפה",
+      "published": "Tue, 04 Oct 2016 17:00:00 +0000",
+      "audio_url": "https://play.hubhopper.com/28f77aae0fdc8c164cfe9bafca15b6c5.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:39:00.132583+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-169-%d7%a1%d7%90%d7%9c%d7%99-%d7%91%d7%a7%d7%a8-%d7%94%d7%9e%d7%9c%d7%90%d7%9a-%d7%9e%d7%9e%d7%95%d7%a1%d7%98%d7%a8/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 169: \\'סיפור אחר\\' - חלק 2 - המלאך ממוסטאר - סאלי בקר",
+      "published": "Mon, 31 Oct 2016 20:24:35 +0000",
+      "audio_url": "https://play.hubhopper.com/d91828260668a71f6892199769cf52e3.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:39:07.510421+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-171-%d7%94%d7%92%d7%99%d7%91%d7%95%d7%a8%d7%94%d7%99%d7%94%d7%95%d7%93%d7%99-%d7%a9%d7%9c%d7%94%d7%9e%d7%a8%d7%93/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 171: הגיבור היהודי של המרד הפולני",
+      "published": "Thu, 15 Dec 2016 06:03:18 +0000",
+      "audio_url": "https://play.hubhopper.com/d310b40c76aef666c202d3a92689d946.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:39:19.240361+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-178-%d7%94%d7%a1%d7%99%d7%a4%d7%95%d7%a8%d7%99%d7%9d-%d7%94%d7%98%d7%95%d7%91%d7%99%d7%9d%d7%91%d7%94%d7%99%d7%a1%d7%98/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 178: הסיפורים הטובים בהיסטוריה 1",
+      "published": "Wed, 01 Mar 2017 07:46:33 +0000",
+      "audio_url": "https://play.hubhopper.com/5cbfe097effc1922825b1b43ee6c08b6.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:39:25.330565+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-180%d7%a1%d7%99%d7%a4%d7%95%d7%a8%d7%90%d7%97%d7%a8%d7%9c%d7%96%d7%9b%d7%a8%d7%a9%d7%99%d7%a8%d7%94%d7%91%d7%a0%d7%a7%d7%99/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 180: \\'סיפור אחר\\' - חלק 3 - הצנצנות של אירנה סנדלר",
+      "published": "Thu, 16 Mar 2017 13:45:18 +0000",
+      "audio_url": "https://play.hubhopper.com/1a9027c43c367a45bd292442d3900b4d.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:39:33.568736+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-183%d7%a1%d7%99%d7%a4%d7%95%d7%a8%d7%90%d7%97%d7%a8%d7%9c%d7%96%d7%9b%d7%a8%d7%a9%d7%99%d7%a8%d7%94%d7%91%d7%a0%d7%a7%d7%99-1490858808/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 183: \\'סיפור אחר\\' - חלק 4 - בחייהם ובמותם - הרב והרבנית אורנשטיין",
+      "published": "Thu, 30 Mar 2017 07:26:48 +0000",
+      "audio_url": "https://play.hubhopper.com/89d061ad029dd13e93ea3c4c6dcb8a8a.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:39:41.648552+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-184-100-%d7%a9%d7%a0%d7%94-%d7%9c%d7%92%d7%99%d7%a8%d7%95%d7%a9-%d7%aa%d7%9c-%d7%90%d7%91%d7%99%d7%91-%d7%97%d7%9c%d7%a7-%d7%91/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 184: 100 שנה לגירוש תל אביב - חלק ב\\' ואחרון",
+      "published": "Sun, 02 Apr 2017 16:58:32 +0000",
+      "audio_url": "https://play.hubhopper.com/7149f03d4b9963ac7f3295eaab61c8ed.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:39:51.774306+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-186-%d7%90%d7%9c%d7%99-%d7%90%d7%9c%d7%99%d7%a2%d7%96%d7%a8%d7%99%d7%9e%d7%aa%d7%a7%d7%9f-%d7%94%d7%a2/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 186: \\'סיפור אחר\\' - חלק 5 - מתקן העולמות - אלי אליעזרי",
+      "published": "Wed, 19 Apr 2017 08:11:05 +0000",
+      "audio_url": "https://play.hubhopper.com/74e3437c9d0bbd087c4f1c6510dc6f36.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:39:59.283816+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-188-%d7%9c%d7%95%d7%97%d7%9e%d7%aa%d7%94%d7%a6%d7%93%d7%a7%d7%90%d7%9e%d7%9c%d7%99%d7%9f%d7%a4%d7%a0%d7%a7%d7%94%d7%a8%d7%a1%d7%98/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 188: \\'סיפור אחר\\' - חלק 6 - לוחמת הצדק אמלין פנקהרסט",
+      "published": "Wed, 03 May 2017 09:55:38 +0000",
+      "audio_url": "https://play.hubhopper.com/ee92eb8487c645a4cc6501f3d57055cd.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:40:07.127632+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-189-%d7%99%d7%a2%d7%9c%d7%99%d7%9c%d7%95%d7%97%d7%9e%d7%aa-%d7%94%d7%9e%d7%95%d7%a1%d7%93-%d7%90%d7%95%d7%94%d7%9e%d7%a8%d7%92/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 189: יעלי - לוחמת המוסד או המרגלת שהתאהבתי בה",
+      "published": "Tue, 09 May 2017 06:12:00 +0000",
+      "audio_url": "https://play.hubhopper.com/33bf1b9115cbea50c948d3fb75d43b79.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:40:17.960429+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-190-%d7%9e%d7%a6%d7%99%d7%9c-%d7%94%d7%99%d7%94%d7%95%d7%93%d7%99%d7%9d-%d7%9e%d7%98%d7%95%d7%a0%d7%99%d7%a1%d7%99%d7%94/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 190: \\'סיפור אחר\\' - חלק 7 - מציל היהודים מטוניסיה - חאלד עבדול ווהאב",
+      "published": "Wed, 17 May 2017 11:57:10 +0000",
+      "audio_url": "https://play.hubhopper.com/97fad1fb1441be117cd2bf953683f029.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:40:24.995543+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-192-%d7%90%d7%a8%d7%91%d7%a2%d7%aa%d7%a7%d7%a6%d7%99%d7%a0%d7%99%d7%94%d7%93%d7%aa%d7%a1%d7%99%d7%a4%d7%95%d7%a8-%d7%90%d7%97/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 192:\\'סיפור אחר\\' - חלק 8 - \\\"קחו את חליפות ההצלה שלנו\\\"",
+      "published": "Thu, 01 Jun 2017 12:55:05 +0000",
+      "audio_url": "https://play.hubhopper.com/13704cdce730f26abacbdbad871db5f0.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:40:33.278453+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-193-%d7%94%d7%9e%d7%9c%d7%97%d7%9e%d7%95%d7%aa-%d7%94%d7%a7%d7%a6%d7%a8%d7%95%d7%aa-%d7%95%d7%94%d7%90%d7%a8%d7%95%d7%9b/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 193: המלחמות הקצרות והארוכות בהיסטוריה- ראיון",
+      "published": "Tue, 06 Jun 2017 09:58:32 +0000",
+      "audio_url": "https://play.hubhopper.com/15b68a8b6f9d3576cae060e4d6bee8d2.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:40:39.316251+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-194-%d7%91%d7%99%d7%a7%d7%95%d7%a8%d7%99%d7%9d-%d7%9e%d7%a4%d7%95%d7%a8%d7%a1%d7%9e%d7%99%d7%9d%d7%91%d7%90%d7%a8%d7%a5/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 194: ביקורים מפורסמים בארץ ישראל - ראיון",
+      "published": "Tue, 06 Jun 2017 11:37:47 +0000",
+      "audio_url": "https://play.hubhopper.com/a110cdc3c6eb972a19db68de3b8b6888.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:40:45.510745+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-196-%d7%90%d7%97%d7%99-%d7%90%d7%97%d7%95%d7%aa%d7%99%d7%a4%d7%a8%d7%a7-7%d7%a1%d7%99%d7%a4%d7%95%d7%a8-%d7%90%d7%97/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 196: \\'סיפור אחר\\' - חלק 9 - אחי! אחותי!",
+      "published": "Mon, 19 Jun 2017 20:51:42 +0000",
+      "audio_url": "https://play.hubhopper.com/5d07cd1b9db0105e61174f1f65ec4d02.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:40:53.249397+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-201%d7%9e%d7%9c%d7%95%d7%9f%d7%a8%d7%95%d7%90%d7%a0%d7%93%d7%94%d7%a1%d7%99%d7%a4%d7%95%d7%a8-%d7%90%d7%97%d7%a8%d7%9c%d7%96%d7%9b/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 201: \\'סיפור אחר\\' - חלק 10 - מלון רואנדה",
+      "published": "Wed, 05 Jul 2017 13:27:00 +0000",
+      "audio_url": "https://play.hubhopper.com/47aebc2aa8f66b0ca8813f714fea82eb.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:41:00.611663+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-205-%d7%94%d7%a0%d7%a2%d7%a8%d7%94%d7%a9%d7%a9%d7%99%d7%97%d7%a7%d7%94-%d7%91%d7%90%d7%a9%d7%a1%d7%99%d7%a4%d7%95%d7%a8-1500532041/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 205: \\'סיפור אחר\\' - חלק 11 - הנערה ששיחקה באש - מלאלה יוספזאי",
+      "published": "Thu, 20 Jul 2017 06:27:21 +0000",
+      "audio_url": "https://play.hubhopper.com/37b9f0c8a12f5952dae9be562d2d15f0.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:41:07.690730+00:00"
+    },
+    "http://yuval.podbean.com/e/%d7%a4%d7%a8%d7%a7-208-%d7%91%d7%a7%d7%95-%d7%94%d7%90%d7%a9%d7%a1%d7%99%d7%a4%d7%95%d7%a8%d7%90%d7%97%d7%a8%d7%9c%d7%96%d7%9b%d7%a8/": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 208: \\'סיפור אחר\\' - בקו האש - סאלי בקר",
+      "published": "Thu, 03 Aug 2017 09:32:05 +0000",
+      "audio_url": "https://play.hubhopper.com/60cfba0d55f2fb19fee13f870b82d89f.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:41:15.369002+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%94%d7%a7%d7%a1%d7%93%d7%95%d7%aa-%d7%94%d7%9c%d7%91%d7%a0%d7%95%d7%aa%d7%a1%d7%99%d7%a4%d7%95%d7%a8-%d7%90%d7%97%d7%-24b00f90dd1700f333f1ee8f1a4eedd1": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 228: \\'סיפור אחר\\' - חלק 12 - הקסדות הלבנות",
+      "published": "Wed, 01 Nov 2017 12:31:41 +0000",
+      "audio_url": "https://play.hubhopper.com/e081588f207af16dceaadd1fae0c25b9.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:41:22.760332+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-231-%d7%96%d7%90%d7%9f-%d7%93%d7%90%d7%a8%d7%a7-%d7%a9%d7%9c-%d7%9e%d7%a6%d7%a8%d7%99%d7%99%d7%9d%d7%-24b00f90dd1700f333f1ee8f1a4eedd1": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 231: \\'סיפור אחר\\' - חלק 13 - ז\\'אן דארק של מצרים - דוריה שאפיק",
+      "published": "Sun, 19 Nov 2017 15:06:32 +0000",
+      "audio_url": "https://play.hubhopper.com/9cc7319002948a271877a891cacc80e8.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:41:30.189704+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-232-%d7%91%d7%99%d7%a7%d7%95%d7%a8-%d7%a1%d7%90%d7%93%d7%90%d7%aa-%d7%91%d7%99%d7%a9%d7%a8%d7%90%d7%9-24b00f90dd1700f333f1ee8f1a4eedd1": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 232: ביקור סאדאת בישראל 1977",
+      "published": "Tue, 21 Nov 2017 09:19:02 +0000",
+      "audio_url": "https://play.hubhopper.com/74ef5a8ea53b38960036f2710fd3a482.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:41:37.120652+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-235-%d7%94%d7%98%d7%a8%d7%a7-%d7%94%d7%90%d7%97%d7%a8%d7%95%d7%9f%d7%97%d7%98%d7%95%d7%a4%d7%99%d7%9d-24b00f90dd1700f333f1ee8f1a4eedd1": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 235: הטרק האחרון - חטופים בקולומביה",
+      "published": "Sat, 16 Dec 2017 20:36:29 +0000",
+      "audio_url": "https://play.hubhopper.com/394fa70f27612772b5ecca87c557017f.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:41:54.957631+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-237-%d7%9e%d7%a6%d7%99%d7%9c%d7%991929%d7%a1%d7%99%d7%a4%d7%95%d7%a8-%d7%90%d7%97%d7%a8-%d7%9c%d7%96%-24b00f90dd1700f333f1ee8f1a4eedd1": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 238: \\'סיפור אחר\\' - חלק 14 - מצילי 1929",
+      "published": "Sat, 30 Dec 2017 10:00:00 +0000",
+      "audio_url": "https://play.hubhopper.com/2b4deba34f55dfb6a2e1bee5af89bc19.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:42:02.366452+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-240-%d7%94%d7%90%d7%a7%d7%a8%d7%99%d7%9d%d7%a8%d7%95%d7%a1%d7%99%d7%99%d7%9d-%d7%9e%d7%a0%d7%a1%d7%99-24b00f90dd1700f333f1ee8f1a4eedd1": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 240: האקרים רוסיים מנסים לשנות את העולם - שיחה עם אופיר בראל",
+      "published": "Sat, 06 Jan 2018 18:21:43 +0000",
+      "audio_url": "https://play.hubhopper.com/562299a0c306db4545029088ed4e2d50.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:42:13.842481+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-242-%d7%94%d7%a0%d7%90%d7%95%d7%9d-%d7%a9%d7%9c-%d7%a1%d7%98%d7%99%d7%91-%d7%92%d7%95%d7%91%d7%a1-24b00f90dd1700f333f1ee8f1a4eedd1": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 242: הנאום של סטיב ג\\'ובס",
+      "published": "Tue, 23 Jan 2018 12:39:18 +0000",
+      "audio_url": "https://play.hubhopper.com/5e2edd725aa0b7233e17e3078f129391.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:42:21.695880+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-243-%d7%99%d7%94%d7%95%d7%93%d7%99%d7%9d-%d7%a2%d7%95%d7%a9%d7%99%d7%9d-%d7%9e%d7%94%d7%a4%d7%9b%d7%9-24b00f90dd1700f333f1ee8f1a4eedd1": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 243: יהודים עושים מהפכות",
+      "published": "Wed, 31 Jan 2018 11:28:56 +0000",
+      "audio_url": "https://play.hubhopper.com/89fed26e37deae3c0d7bd71ff000a521.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:42:33.757954+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-245-%d7%97%d7%99%d7%99%d7%9d-%d7%92%d7%95%d7%a8%d7%99-%d7%9e%d7%aa%d7%a2%d7%a7%d7%a9%d7%9c%d7%94%d7%a-24b00f90dd1700f333f1ee8f1a4eedd1": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 245: חיים גורי מתעקש להקריא שירה לחיילים (קצר)",
+      "published": "Sun, 11 Feb 2018 16:09:06 +0000",
+      "audio_url": "https://play.hubhopper.com/11c7c6877187b7253a88478ba4d88af4.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:42:39.052592+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-246-%d7%94%d7%9b%d7%a4%d7%a8-%d7%a9%d7%91%d7%97%d7%a8%d7%a1%d7%99%d7%a4%d7%95%d7%a8-%d7%90%d7%97%d7%a-24b00f90dd1700f333f1ee8f1a4eedd1": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 246: \\'סיפור אחר\\' - חלק 15 - הכפר שבחר לשתוק",
+      "published": "Sun, 18 Feb 2018 09:51:34 +0000",
+      "audio_url": "https://play.hubhopper.com/56a0548b19cfddff2c7fce586fc9db47.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:42:45.534198+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-249-%d7%94%d7%a4%d7%92%d7%99%d7%a9%d7%94-24b00f90dd1700f333f1ee8f1a4eedd1": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 249: הפגישה",
+      "published": "Mon, 12 Mar 2018 15:54:19 +0000",
+      "audio_url": "https://play.hubhopper.com/7886f03ef00114c4fdd4bba6dc3545d7.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:42:57.531682+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-250-%d7%9e%d7%9c%d7%97%d7%9e%d7%aa%d7%94%d7%a6%d7%93%d7%a7%d7%a9%d7%9c-%d7%a4%d7%a8%d7%95%d7%a4-%d7%9-24b00f90dd1700f333f1ee8f1a4eedd1": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 250: \\'סיפור אחר\\' - חלק 16 - מלחמת הצדק של פרופ\\' יאיר אורון",
+      "published": "Thu, 22 Mar 2018 16:06:38 +0000",
+      "audio_url": "https://play.hubhopper.com/e8613865b093ae6b0a2c2f1ac03ffba9.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:43:06.504627+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-251-%d7%94%d7%90%d7%97%d7%93-%d7%91%d7%90%d7%a4%d7%a8%d7%99%d7%9c%d7%94%d7%9e%d7%aa%d7%99%d7%97%d7%95-24b00f90dd1700f333f1ee8f1a4eedd1": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 251: האחד באפריל - המתיחות הגדולות בהיסטוריה",
+      "published": "Wed, 28 Mar 2018 21:39:54 +0000",
+      "audio_url": "https://play.hubhopper.com/57041dcdcd06d8903a6babc58f2feca6.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:43:17.122740+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-252%d7%a9%d7%91%d7%99%d7%9c%d7%94%d7%a2%d7%a6%d7%9e%d7%90%d7%95%d7%aa-%d7%a2%d7%9d%d7%aa%d7%95%d7%9e%-24b00f90dd1700f333f1ee8f1a4eedd1": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 252 - שביל העצמאות עם תומר שלוש",
+      "published": "Sun, 15 Apr 2018 05:43:10 +0000",
+      "audio_url": "https://play.hubhopper.com/6e96018472d98a676d571be77fbbd2ad.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:43:28.655732+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-253-%d7%9e%d7%9b%d7%aa%d7%91-%d7%9c%d7%a2%d7%95%d7%96-24b00f90dd1700f333f1ee8f1a4eedd1": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 253 - מכתב לעוז",
+      "published": "Wed, 18 Apr 2018 04:06:35 +0000",
+      "audio_url": "https://play.hubhopper.com/a5c1bfa308357d756b1f080ff0372855.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:43:34.556170+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-257%d7%90%d7%a0%d7%95%d7%9e%d7%9b%d7%a8%d7%99%d7%96%d7%99%d7%9d-%d7%91%d7%96%d7%90%d7%aa%d7%94%d7%9e%-24b00f90dd1700f333f1ee8f1a4eedd1": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 257 - \\'אנו מכריזים בזאת\\' - המסע של דוד בן גוריון - פרק 1",
+      "published": "Mon, 14 May 2018 15:33:25 +0000",
+      "audio_url": "https://play.hubhopper.com/c585625154603cb823f7297dfee2a238.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:43:45.610160+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-258%d7%90%d7%a0%d7%95-%d7%9e%d7%9b%d7%a8%d7%99%d7%96%d7%99%d7%9d-%d7%91%d7%96%d7%90%d7%aa%d7%97%d7%99-24b00f90dd1700f333f1ee8f1a4eedd1": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 258: \\'אנו מכריזים בזאת\\' - חייו המופלאים של דוד בן-גוריון - פרק 2",
+      "published": "Thu, 24 May 2018 14:50:41 +0000",
+      "audio_url": "https://play.hubhopper.com/b28880f08c55094f44ba8dc804f3f205.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:43:55.678257+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-259%d7%90%d7%a0%d7%95-%d7%9e%d7%9b%d7%a8%d7%99%d7%96%d7%99%d7%9d-%d7%91%d7%96%d7%90%d7%aa-%e2%80%93%d-38bda65af6164d1f3a3330e801f14bf4": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 259: \\'אנו מכריזים בזאת\\' – המסע המופלא של דוד בן-גוריון – חלק 3",
+      "published": "Sun, 03 Jun 2018 12:08:41 +0000",
+      "audio_url": "https://play.hubhopper.com/e3c538a9c82bd4e31b592e0fea0f9031.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:44:04.197971+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-260-%e2%80%98%d7%90%d7%a0%d7%95-%d7%9e%d7%9b%d7%a8%d7%99%d7%96%d7%99%d7%9d-%d7%91%d7%96%d7%90%d7%aa%e-3cdebdfca69b7d11ed3f22dbc548bd1b": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 260: ‘אנו מכריזים בזאת’ - המסע של דוד בן גוריון - פרק 4",
+      "published": "Sun, 10 Jun 2018 20:27:22 +0000",
+      "audio_url": "https://play.hubhopper.com/ae27b8c0582c55543500c22d2e9d000a.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:44:13.664877+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-261%d7%90%d7%a0%d7%95-%d7%9e%d7%9b%d7%a8%d7%99%d7%96%d7%99%d7%9d-%d7%91%d7%96%d7%90%d7%aa%d7%97%d7%99-6cd99b5c89b57ac5ba97881062e3deca": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 261: \\'אנו מכריזים בזאת\\' - חייו המופלאים של דוד בן-גוריון - חלק 5",
+      "published": "Sat, 16 Jun 2018 17:12:19 +0000",
+      "audio_url": "https://play.hubhopper.com/163be2961964db95c6e36b97150b24ff.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:44:21.241751+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-262-%d7%90%d7%95%d7%aa%d7%a0%d7%95%d7%9c%d7%90-%d7%99%d7%97%d7%98%d7%a4%d7%95%d7%a1%d7%99%d7%a4%d7%95-e7bc6a3907c250bd02e05a2bba175e78": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 262: אותנו לא יחטפו! - סיפורו של הטייס היחיד בעולם שמנע חטיפה אווירית",
+      "published": "Tue, 19 Jun 2018 18:17:58 +0000",
+      "audio_url": "https://play.hubhopper.com/213df8970480e8940acff9a85cd85c72.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:44:30.457631+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-265-%d7%a1%d7%99%d7%95%d7%a8-%d7%91%d7%99%d7%a4%d7%95-%d7%94%d7%a2%d7%aa%d7%99%d7%a7%d7%94%d7%a2%d7%9-187f7fab8c76e17a560ee5a0839f88ca": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 265: סיור ביפו העתיקה עם מיכל ששון",
+      "published": "Mon, 09 Jul 2018 13:58:06 +0000",
+      "audio_url": "https://play.hubhopper.com/6070612d4e00fbfc4c45704fd28aad40.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:44:43.401904+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-266-%d7%9e%d7%94%d7%a4%d7%9b%d7%95%d7%aa%d7%94%d7%98%d7%91%d7%a7%d7%a2%d7%9d-%d7%aa%d7%9e%d7%a8-%d7%a-06fdcfee2f06984635246beaaf852f33": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 266: מהפכות הטבק עם תמר עילם גינדין ופודקאסטיקו",
+      "published": "Mon, 23 Jul 2018 12:31:19 +0000",
+      "audio_url": "https://play.hubhopper.com/10a3f4621d278742b19ebfc565ec8e8b.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:44:55.046505+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-267-%d7%94%d7%9e%d7%a1%d7%a2-%d7%94%d7%9e%d7%95%d7%a4%d7%9c%d7%90%d7%a9%d7%9c-%d7%93%d7%95%d7%93-%d7%-9ae02dea28f4b7b90ad146b75bdc4df6": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 267: המסע המופלא של דוד בן-גוריון - סוף דבר",
+      "published": "Thu, 26 Jul 2018 14:56:08 +0000",
+      "audio_url": "https://play.hubhopper.com/dc6414a3cfad665993e87299df681798.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:45:05.952309+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-268-%d7%9e%d7%a9%d7%a8%d7%95%d7%aa%d7%a9%d7%a0%d7%a2%d7%9c%d7%9e%d7%95-%d7%95%d7%9e%d7%a9%d7%a8%d7%95-44c9a359b8f520425b80491ce6566d47": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 268: משרות שנעלמו ומשרות שעומדות להעלם - עם ליאור פרנקל (פופקורן)",
+      "published": "Sun, 29 Jul 2018 19:00:00 +0000",
+      "audio_url": "https://play.hubhopper.com/e6db8af5c00ae2a9e6343fd645f7eb68.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:45:17.609240+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-269%d7%9c%d7%9e%d7%94-%d7%94%d7%93%d7%a8%d7%95%d7%96%d7%99%d7%9d-%d7%9b%d7%95%d7%a2%d7%a1%d7%99%d7%9d-7212eb12e2dfbb75cac7155a72a19a39": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 269 - למה הדרוזים כועסים? ראיון עם חבר הכנסת לשעבר אמל נסר אלדין",
+      "published": "Fri, 03 Aug 2018 08:27:22 +0000",
+      "audio_url": "https://play.hubhopper.com/1be2228f2909e7ad0e3a4863d945e019.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:45:28.121782+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-270-%d7%a9%d7%95%d7%93-%d7%94%d7%a9%d7%a2%d7%95%d7%a0%d7%99%d7%9d-%d7%94%d7%92%d7%93%d7%95%d7%9c-1474c36e15fa18b45b507d34442a5fa9": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 270 - שוד השעונים הגדול",
+      "published": "Tue, 07 Aug 2018 18:25:46 +0000",
+      "audio_url": "https://play.hubhopper.com/173a6430adf0f0f4e5b53f7256bd3441.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:45:36.656708+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-271-%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d-d5b2ef29e7dd9489ab443270de02bb37": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 271 - ירושלים",
+      "published": "Wed, 15 Aug 2018 11:19:48 +0000",
+      "audio_url": "https://play.hubhopper.com/4af70553ce0a30263953f0f558008f67.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:45:47.217559+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a7%d7%a8%d7%a4%d7%99%d7%95%d7%a0%d7%99%d7%9d-%d7%91%d7%90%d7%9e%d7%91%d7%98%d7%99%d7%94-%d7%a7%d7%98%d7%a2-%d7%9e%d7-b49f3381da431cb6cec98105ae5a79fb": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 272: קרפיונים באמבטיה - קטע מספרה של טובה רון \\'הילדה זו אני\\'",
+      "published": "Tue, 28 Aug 2018 05:07:00 +0000",
+      "audio_url": "https://play.hubhopper.com/2d16864e457cd9334bcc8a8cc269d949.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:45:53.781663+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-273-%d7%a7%d7%a0%d7%99%d7%aa-%d7%9c%d7%99-%d7%9e%d7%a6%d7%a0%d7%a4%d7%aa%d7%a1%d7%99%d7%a4%d7%95%d7%a-d0b0c0f30b7f8b1bd2917363395404ec": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 273: קנית לי מצנפת??? סיפורים על אופנה ושינה - עם אריאלה גויכמן גארבר",
+      "published": "Fri, 07 Sep 2018 10:05:49 +0000",
+      "audio_url": "https://play.hubhopper.com/004cd844137004e659de82cadaf8d6d7.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:46:05.659805+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-275-%d7%94%d7%a1%d7%a4%d7%99%d7%a0%d7%94%d7%94%d7%9e%d7%a2%d7%95%d7%a4%d7%a4%d7%aa-%d7%a9%d7%94%d7%a7-601b33b9b33a45f504f6318ed1cc6788": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 275: הספינה המעופפת שהקיפה את העולם - סיפור אמיתי",
+      "published": "Mon, 24 Sep 2018 06:46:01 +0000",
+      "audio_url": "https://play.hubhopper.com/b1b377950cdb670eb1b03626ff43f277.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:46:17.921504+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-277-%d7%94%d7%a1%d7%9c%d7%99%d7%a7%d7%99%d7%9d-%d7%a9%d7%9c-%d7%9b%d7%a4%d7%a8-%d7%92%d7%9c%d7%a2%d7%-58ed428d4cb0398e06a44ef3a9e3e0d7": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 277: הסליקים של כפר גלעדי",
+      "published": "Sat, 20 Oct 2018 12:42:22 +0000",
+      "audio_url": "https://play.hubhopper.com/99e668d8dd5737b81f698d15f92fff34.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:46:28.177659+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-282-%d7%a9%d7%99%d7%97%d7%94-%d7%a2%d7%9d-%d7%a2%d7%95%d7%9e%d7%a8-%d7%a2%d7%9c-%d7%99%d7%a4%d7%9f-b3db1e2e487cd7f23106e9ed97faad76": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 282: שיחה עם עומר על יפן",
+      "published": "Sun, 11 Nov 2018 18:29:04 +0000",
+      "audio_url": "https://play.hubhopper.com/26d6146213ccffdf8711175d561ab3cb.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:46:38.671612+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-284-%d7%9b%d7%99%d7%a6%d7%93-%d7%a0%d7%99%d7%a6%d7%9c%d7%94-%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%91%d7%-dede06094b5fe7ac97df4b22a7da0c09": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 284: הרב והשופט שהצילו את הצהרת בלפור",
+      "published": "Thu, 22 Nov 2018 18:50:56 +0000",
+      "audio_url": "https://play.hubhopper.com/06bacf7a1ec9e4669af0d9b06ad11466.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:46:46.444986+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-286-%d7%94%d7%97%d7%a8%d7%9d-%d7%94%d7%99%d7%94%d7%95%d7%93%d7%99-%d7%a2%d7%9c-%d7%a7%d7%95%d7%a7%d7%-3653352f5cc8323279cece1dc5a978d5": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 286: החרם היהודי על קוקה קולה",
+      "published": "Fri, 30 Nov 2018 10:47:52 +0000",
+      "audio_url": "https://play.hubhopper.com/643ea49e5607b6d000370960fdd6852a.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:46:54.023049+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-288-%d7%90%d7%99%d7%9a-%d7%90%d7%95%d7%9e%d7%a8%d7%99%d7%9d%d7%a1%d7%9e%d7%99-%d7%94%d7%9b%d7%91%d7%9-22e75a232e532a2607f3d76ee7e27768": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 288: איך אומרים סמי הכבאי בערבית",
+      "published": "Fri, 07 Dec 2018 12:06:15 +0000",
+      "audio_url": "https://play.hubhopper.com/92d3acd1e111f18437dbf37780089f61.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:46:59.933944+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-290-%d7%94%d7%a4%d7%92%d7%99%d7%a9%d7%94%d7%94%d7%9e%d7%98%d7%95%d7%a8%d7%a4%d7%aa-%d7%a9%d7%9c-%d7%9-0cd0c96a7513f5ca363e05fea407f243": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 290: הפגישה המטורפת של גולדה מאיר",
+      "published": "Sat, 29 Dec 2018 15:33:21 +0000",
+      "audio_url": "https://play.hubhopper.com/25b11df2921e8264c9a89a03cd9afa40.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:47:07.718387+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-293%d7%94%d7%94%d7%99%d7%a1%d7%98%d7%95%d7%a8%d7%99%d7%94%d7%95%d7%94%d7%a2%d7%aa%d7%99%d7%93-%d7%a9%-3e7f4c4c6627dc9b9645e5666079ef3f": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 293: ההיסטוריה והעתיד של מערכות חינוך - עם ניב מורגנשטרן מהפודקאסט פרסונה",
+      "published": "Mon, 14 Jan 2019 19:27:18 +0000",
+      "audio_url": "https://play.hubhopper.com/d78a1f0f1275c0dc096f3080e0361536.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:47:20.035418+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-295-%d7%90%d7%9e%d7%90-%d7%96%d7%94%d7%90%d7%a0%d7%99%d7%a1%d7%99%d7%a4%d7%95%d7%a8%d7%95-%d7%94%d7%9-583bf91e3312118815b88b0a90b51425": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 295: אמא זה אני! סיפורו המדהים של אפי טלבי שנפל בשבי במלחמת לבנון הראשונה",
+      "published": "Sat, 09 Feb 2019 19:29:08 +0000",
+      "audio_url": "https://play.hubhopper.com/cb923d77e9d3371f84dcadd10f2ac100.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:47:31.390935+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-290-%d7%91%d7%a0%d7%a7%d7%99%d7%9d%d7%9e%d7%96%d7%9b%d7%99%d7%a8%d7%99%d7%9d-%d7%a1%d7%95%d7%97%d7%a8-c289e69a94d0c8b037c5238f6eab14cc": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 297: בנקים מזכירים סוחרי סמים - שיחה משוגעת עם הכלכלן רימון חייט",
+      "published": "Sun, 24 Feb 2019 04:11:52 +0000",
+      "audio_url": "https://play.hubhopper.com/97f9a7b6da7a5cb617ef642d35efc7ab.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:47:44.184658+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-299-%d7%94%d7%90%d7%a1%d7%95%d7%9f-%d7%97%d7%9c%d7%a7-%d7%90-%d7%94%d7%9e%d7%a2%d7%95%d7%96-0b7cb9935f8aa7c370c0aab96ec1c04e": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 299: האסון - חלק א - המעוז",
+      "published": "Wed, 13 Mar 2019 16:55:16 +0000",
+      "audio_url": "https://play.hubhopper.com/a7d706e1e31a7814f9a1c79d01833113.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:47:53.928472+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-300-30-%d7%a1%d7%a4%d7%a8%d7%99%d7%9d-%d7%90%d7%a7%d7%a8%d7%90%d7%99%d7%99%d7%9d-daac41841a461f8c227c45f6bbfff676": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 300: 30 ספרים אקראיים",
+      "published": "Tue, 02 Apr 2019 14:44:17 +0000",
+      "audio_url": "https://play.hubhopper.com/89b056031e1b7c862ca75a41cb2e86ef.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:48:08.147218+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%90%d7%99%d7%9f-%d7%9b%d7%9e%d7%95-%d7%91%d7%91%d7%99%d7%aa-%d7%a8%d7%95%d7%a0%d7%99-%d7%a6%d7%91%d7%a8-4896d4774ffe84d5ee079b17ea3ae690": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 301: \\'אין כמו בבית\\' - חלק 1 - רפואה לאבוריג\\'נים או איך הכל התחיל",
+      "published": "Sun, 07 Apr 2019 12:45:36 +0000",
+      "audio_url": "https://play.hubhopper.com/3a3f85f2cab14e3258f0d8c0d5e671f6.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:48:16.327838+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-302-%d7%94%d7%90%d7%a1%d7%95%d7%9f-%d7%97%d7%9c%d7%a7-%d7%91-%d7%94%d7%90%d7%a1%d7%93%d7%94-cc6d764ea8459b2528ec86a620ec6082": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 302: האסון - חלק ב - האסדה",
+      "published": "Tue, 09 Apr 2019 20:02:16 +0000",
+      "audio_url": "https://play.hubhopper.com/184fd13e5807b261929a5ac6cb050e6c.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:48:24.789725+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%90%d7%99%d7%9f-%d7%9b%d7%9e%d7%95-%d7%91%d7%91%d7%99%d7%aa-%d7%98%d7%9c-%d7%a1%d7%a4%d7%99%d7%a8-%d7%93%d7%9e%d7%a0%-933d394fa6cb4f0825e78c5c435f92e8": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 303:\\'אין כמו בבית\\' - חלק 2 - דמנציה וכובע של שוטר -",
+      "published": "Thu, 11 Apr 2019 04:00:00 +0000",
+      "audio_url": "https://play.hubhopper.com/7c2f0adc319e67d88dff831c6d74fb7d.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:48:32.766580+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-305%d7%90%d7%99%d7%9f-%d7%9b%d7%9e%d7%95-%d7%91%d7%91%d7%99%d7%aa%d7%94%d7%9b%d7%99-%d7%98%d7%95%d7%9-1ef5438bbc9f45e27f228317bfec4b45": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 305: \\'אין כמו בבית\\' - חלק 3 - הכי טוב שאני יכול - עם ד\\\"ר שמחה שפירא",
+      "published": "Thu, 18 Apr 2019 06:42:31 +0000",
+      "audio_url": "https://play.hubhopper.com/bd6e32632f8a6a619258b6d62e929d4b.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:48:41.271688+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%90%d7%99%d7%9f-%d7%9b%d7%9e%d7%95-%d7%91%d7%91%d7%99%d7%aa%d7%94%d7%93%d7%a1-%d7%9b%d7%95%d7%a8%d7%9d-%d7%a4%d7%99%d-06c2e43cba4804e6672e5f64328ca678": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 307: \\'אין כמו בבית\\' - חלק 4 - טיפול בכח - עם הדס כורם",
+      "published": "Sat, 27 Apr 2019 19:41:00 +0000",
+      "audio_url": "https://play.hubhopper.com/a7117291eb36a03954f241644d078a37.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:48:49.273820+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%90%d7%99%d7%9f-%d7%9b%d7%9e%d7%95-%d7%91%d7%91%d7%99%d7%aa%d7%90%d7%99%d7%aa%d7%9e%d7%a8%d7%a2%d7%95%d7%a4%d7%a8%d7%-d0942b97d84f141d855fca260637019f": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 309: הלובי של בית לוינשטיין - עם ד\\\"ר אורון כהן - \\'אין כמו בבית\\' - פרק 5",
+      "published": "Sat, 04 May 2019 20:48:51 +0000",
+      "audio_url": "https://play.hubhopper.com/17347bdad484195ae6b842d5c70e6d7d.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:48:56.170957+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-310-%d7%94%d7%a7%d7%a8%d7%91%d7%95%d7%aa-%d7%a9%d7%9c-%d7%93%d7%95%d7%a8%d7%95%d7%9f-%d7%90%d7%9c%d7%-a389b6e2c38dcabefca25888abaabd88": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 310: הקרבות של דורון אלמוג",
+      "published": "Wed, 08 May 2019 03:30:24 +0000",
+      "audio_url": "https://play.hubhopper.com/4ea92b9333f2f7a4782aa4108e77cf4e.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:49:06.183644+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-311-%d7%97%d7%9e%d7%9c%d7%94-%d7%95%d7%a2%d7%91%d7%95%d7%93%d7%94%d7%a1%d7%95%d7%a6%d7%99%d7%90%d7%9c-477ee60f50797f376fa08b9f75ae4bc2": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 311: \\'אין כמו בבית\\' - חלק 6 - חמלה ואפקט סוף העמוד - עם מורן וייס",
+      "published": "Sat, 11 May 2019 20:55:33 +0000",
+      "audio_url": "https://play.hubhopper.com/b39bcfb818d2bc9d7b4306ccfb1d78c7.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:49:14.394320+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-312-%d7%90%d7%99%d7%9f-%d7%93%d7%91%d7%a8-%d7%9b%d7%96%d7%94%d7%99%d7%9c%d7%93%d7%97%d7%95%d7%9c%d7%9-0e54580a18b7aa2748330cbab73a447f": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 312: \\'אין כמו בבית\\' - חלק 7 - אין דבר כזה ילד חולה עם ד\\\"ר איתמר עופר",
+      "published": "Sun, 19 May 2019 07:48:51 +0000",
+      "audio_url": "https://play.hubhopper.com/801be04069bcc646fd3c027fdc7ff916.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:49:22.590634+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-314-%d7%97%d7%9c%d7%9e%d7%aa%d7%99%d7%9c%d7%94%d7%99%d7%95%d7%aa%d7%98%d7%99%d7%99%d7%a1f-16%d7%a2%d7-ecf61d2cf651b2c99569fb28e57da16f": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 314: \\'אין כמו בבית\\' - חלק 8 - חלמתי להיות טייס עם ד\\\"ר אוסאמה דראוושה",
+      "published": "Tue, 28 May 2019 09:54:35 +0000",
+      "audio_url": "https://play.hubhopper.com/becb77f880407154c62919f6772f8a03.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:49:30.031686+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-315-%d7%94%d7%a1%d7%95%d7%93%d7%95%d7%aa-%d7%a9%d7%9c-%d7%a2%d7%99%d7%a8-%d7%93%d7%95%d7%93-%d7%97%d7-f923920dacafe9afc97225fdc1d246d4": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 315: הסודות של עיר דוד - חלק 1",
+      "published": "Thu, 30 May 2019 09:13:21 +0000",
+      "audio_url": "https://play.hubhopper.com/68e384936691126f2fc22e5a3080d3da.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:49:37.451403+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-316-%d7%a1%d7%95%d7%a1%d7%99%d7%9d%d7%9e%d7%95%d7%a0%d7%92%d7%95%d7%9c%d7%99%d7%9d-%d7%95%d7%a8%d7%a4-67c252560efb102a9a6c0f5b526c7bc4": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 316: \\'אין כמו בבית\\' - חלק 9 - סוסים מונגולים ורפואה של פעם",
+      "published": "Mon, 03 Jun 2019 07:50:38 +0000",
+      "audio_url": "https://play.hubhopper.com/cb5b07d73f5193973f384efc34cc0e73.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:49:44.566407+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-317-%d7%94%d7%a1%d7%95%d7%93%d7%95%d7%aa%d7%a9%d7%9c-%d7%a2%d7%99%d7%a8-%d7%93%d7%95%d7%93-%d7%97%d7%-36eb9860ad1f21dbb0c32686b42214a3": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 317: הסודות של עיר דוד - חלק 2 - ימי דוד המלך",
+      "published": "Thu, 06 Jun 2019 10:38:46 +0000",
+      "audio_url": "https://play.hubhopper.com/5ced695785756b128857e0869754db0d.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:49:51.859517+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-318%d7%90%d7%95%d7%aa%d7%99%d7%9c%d7%90-%d7%99%d7%aa%d7%a4%d7%a1%d7%95%d7%94%d7%99%d7%94%d7%95%d7%93%-5ab1a0ea0750e8f8367efb5dfce93a1c": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 318: \\\"אותי לא יתפסו!\\\" - היהודי שהסתנן לשורות הורמאכט",
+      "published": "Mon, 10 Jun 2019 11:35:44 +0000",
+      "audio_url": "https://play.hubhopper.com/b79b7f8198d94f3c15fced133a74504f.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:50:00.841666+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-321-%d7%94%d7%a1%d7%95%d7%93%d7%95%d7%aa%d7%a9%d7%9c-%d7%a2%d7%99%d7%a8-%d7%93%d7%95%d7%93-%d7%97%d7%-50391a06a0ad905e9eccc7a1c8ae2b7f": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 321: הסודות של עיר דוד - חלק 3 - שלמה המלך ואינדיאנה ג\\'ונס",
+      "published": "Thu, 27 Jun 2019 11:53:24 +0000",
+      "audio_url": "https://play.hubhopper.com/a0c5fb94710a88f9d030123cc84cddf9.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:50:07.476846+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-322-%d7%94%d7%a1%d7%95%d7%93%d7%95%d7%aa%d7%a9%d7%9c-%d7%a2%d7%99%d7%a8-%d7%93%d7%95%d7%93-%d7%a0%d7%-0a9f7baa3f3b3099da7132f32f371022": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 322: הסודות של עיר דוד - חלק 4 - נצחונות ומפלות - חורבן בית ראשון",
+      "published": "Sun, 07 Jul 2019 09:17:03 +0000",
+      "audio_url": "https://play.hubhopper.com/7034819f0a6ae7e4275549036b48b2ee.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:50:14.924386+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-324-%d7%90%d7%99%d7%9f-%d7%9b%d7%a0%d7%99%d7%a1%d7%94-%d7%9c%d7%a0%d7%a9%d7%99%d7%9d%d7%a2%d7%9c%d7%a-ed2ca845672f3844c13ef90ae0c1729e": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 324: אין כניסה לנשים - על רצת המרתון ששינתה את ההיסטוריה",
+      "published": "Thu, 11 Jul 2019 09:24:09 +0000",
+      "audio_url": "https://play.hubhopper.com/98a9f327575be754eaaeccaee7502218.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:50:39.308377+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-326-%d7%94%d7%9e%d7%aa%d7%a0%d7%93%d7%91%d7%99%d7%9d-%d7%94%d7%94%d7%95%d7%9c%d7%a0%d7%93%d7%99%d7%9d-790ea52e859614519e89135c4e4f591a": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 326: המתנדבים ההולנדים ל-SS. החוקר קיז קליין מספר על הבנאליות של הרוע",
+      "published": "Tue, 16 Jul 2019 07:52:56 +0000",
+      "audio_url": "https://play.hubhopper.com/80a8bba5aa67e78cb67b9e74bf864292.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:50:48.525541+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-327-%d7%94%d7%a1%d7%95%d7%93%d7%95%d7%aa%d7%a9%d7%9c-%d7%a2%d7%99%d7%a8-%d7%93%d7%95%d7%93-%d7%97%d7%-f9e60dd0036e4e588ef6ae36cd4c589f": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 327: הסודות של עיר דוד - חלק 5 - בית שני - מתקומה לחורבן",
+      "published": "Thu, 18 Jul 2019 07:36:59 +0000",
+      "audio_url": "https://play.hubhopper.com/a081646c08f6a137314d2168962b7e2a.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:50:56.512419+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-329-%d7%91%d7%99%d7%94%d7%95%d7%93%d7%99%d7%9d-%d7%a9%d7%9c%d7%a0%d7%95-%d7%90%d7%a3%d7%90%d7%97%d7%9-5415405d81e09c78379f8593bff66060": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 329: ביהודים שלנו אף אחד לא יגע - הצלת יהדות בולגריה בשואה - שיחה עם פרופ\\' מיכאל בר זוהר",
+      "published": "Mon, 29 Jul 2019 10:18:37 +0000",
+      "audio_url": "https://play.hubhopper.com/d6fa4c98d8f62c7fcedd8fd4f4dbd4ec.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:51:05.087458+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-330-%d7%94%d7%a1%d7%95%d7%93%d7%95%d7%aa%d7%a9%d7%9c-%d7%a2%d7%99%d7%a8-%d7%93%d7%95%d7%93-%d7%97%d7%-89cb6b5df15b5f098bf8a25a03c724bf": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 330: הסודות של עיר דוד - חלק 6 - מחורבן ועד נתנמלך",
+      "published": "Thu, 01 Aug 2019 06:33:38 +0000",
+      "audio_url": "https://play.hubhopper.com/ae7464bc1caf5ec3caba03c9b36c0666.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:51:12.000398+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-333-%e2%80%93%d7%9e%d7%94-%d7%94%d7%a9%d7%90%d7%9c%d7%95%d7%aa%d7%a4%d7%a8%d7%95%d7%a4%d7%9e%d7%99%d7-a31bd74a5007a6230a523fbf5590c502": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 333 – מה השאלות? פרופ\\' מיכאל בר זוהר עם סיפורים מרתקים על בן-גוריון ופולה",
+      "published": "Tue, 13 Aug 2019 06:28:48 +0000",
+      "audio_url": "https://play.hubhopper.com/c657d7caabccd4a3331ceca22d8e2199.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:51:21.840219+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-335-36857e0dc883152241e51a0c79101aa6": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 335 - קרב כראמה ומלחמת ההתשה",
+      "published": "Wed, 21 Aug 2019 06:32:44 +0000",
+      "audio_url": "https://play.hubhopper.com/44d5d93ba82203820c26d6e3809ee4da.mp3?s=rss-feed",
+      "drive_file_id": "1iz2HpabPt5EshiKcsuhz5Ej4CiHUboGw",
+      "drive_url": "https://drive.google.com/file/d/1iz2HpabPt5EshiKcsuhz5Ej4CiHUboGw/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T21:51:33.208875+00:00",
+      "yemos_path": "ivr2:/1/26/125.wav"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-336%d7%9c%d7%90-%d7%90%d7%9e%d7%95%d7%aa-%d7%9b%d7%99%d7%90%d7%97%d7%99%d7%94%d7%90%d7%9d-%d7%94%d7%9-45b3b4589741200bfe3e83773a57a33e": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 336 - לא אמות כי אחיה - \\'אם הבנים\\' רבקה גובר",
+      "published": "Sat, 31 Aug 2019 19:00:00 +0000",
+      "audio_url": "https://play.hubhopper.com/bc54169be2ed846b83ce4f212f19332f.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:52:24.854069+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%aa%d7%a8%d7%9e%d7%99%d7%95%d7%aa-%d7%a6%d7%91%d7%90%d7%99%d7%95%d7%aa-%d7%95%d7%9e%d7%94%d7%9c%d7%9b%d7%99%d7%9d-%d7-4e702f1a3eae528fa8e9b40036f5345a": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 337: הונאות צבאיות ומה באמת חשוב בבחירות הקרובות - ראיון אצל פתחי וזימרי",
+      "published": "Mon, 02 Sep 2019 13:34:41 +0000",
+      "audio_url": "https://play.hubhopper.com/d58e774ab33c7e15b1810cacd28a462c.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:52:31.025642+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-338%d7%90%d7%92%d7%a8%d7%95%d7%a3-%d7%9c%d7%91%d7%98%d7%9f%d7%a1%d7%99%d7%a4%d7%95%d7%a8%d7%99-%d7%94-469668b8af69e961a441521147876af4": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 338 - \\\"אגרוף לבטן\\\" - סיפורי השואה של חברי כפר אחים שאספה רבקה גובר",
+      "published": "Sun, 08 Sep 2019 10:58:23 +0000",
+      "audio_url": "https://play.hubhopper.com/9907f938e3c0e340d1615ee0796797b4.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:52:40.854233+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a2%d7%99%d7%a8-%d7%93%d7%95%d7%93-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%a4%d7%a8%d7%a7-7-9e978d33722b004ebbe8a296d12e57fe": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 339 - העיר האבודה - הסודות של עיר דוד",
+      "published": "Wed, 11 Sep 2019 09:09:33 +0000",
+      "audio_url": "https://play.hubhopper.com/3cbcc1af78de7e18bd632ae07b1fb4a9.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:52:47.897497+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-340%d7%9e%d7%90%d7%97%d7%95%d7%a8%d7%99-%d7%94%d7%a7%d7%9c%d7%a2%d7%99%d7%9d-%d7%a9%d7%9c-%d7%aa%d7%a-9a57b3976e6f1a383364fb050be8e7fb": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 340 - מאחורי הקלעים של תערוכת \\\"השאלות של לאונרדו\\\"",
+      "published": "Sun, 15 Sep 2019 11:53:10 +0000",
+      "audio_url": "https://play.hubhopper.com/aad27573e3e2b60253a2774943f6d4f8.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:52:58.141653+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-341%d7%94%d7%90%d7%99%d7%a9%d7%a2%d7%9d-%d7%94%d7%97%d7%95%d7%a8-%d7%91%d7%91%d7%98%d7%9f-%d7%94%d7%9-cfed657d75a1208ce38b4f9ec74b21e7": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 341 - האיש עם החור בבטן, הגדוד האבוד וסיור שלי בירושלים",
+      "published": "Sun, 06 Oct 2019 08:44:39 +0000",
+      "audio_url": "https://play.hubhopper.com/0efb4de4ed2eed4aeea204724eccb3ca.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:53:06.021658+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-342%d7%9e%d7%9c%d7%9a-%d7%94%d7%a4%d7%95%d7%93%d7%a7%d7%90%d7%a1%d7%98%d7%99%d7%9d%d7%a9%d7%99%d7%97%-53a4fd42f2a720a111b1311782c55680": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 342 - מלך הפודקאסטים - שיחה עם אסף רפפורט",
+      "published": "Tue, 22 Oct 2019 05:51:16 +0000",
+      "audio_url": "https://play.hubhopper.com/cfc335d5ff29f13dfc4be276be0a7338.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:53:15.992751+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-343-%d7%94%d7%a7%d7%99%d7%a5-%d7%91%d7%95-%d7%a0%d7%99%d7%95%d7%99%d7%95%d7%a8%d7%a7%d7%9c%d7%90-%d7%-ba5f266af99a0e4b441fca9f0012bc73": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 343: הקיץ בו ניו יורק לא נרדמה - הבן של סאם (עם דנה הילמן - עבר פלילי)",
+      "published": "Tue, 26 Nov 2019 09:43:27 +0000",
+      "audio_url": "https://play.hubhopper.com/fabd3b372b44ace93341a48355cc40c4.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:53:24.600011+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-345-%d7%90%d7%95%d7%9d-%d7%92%d7%95%d7%a0%d7%99-%d7%a2%d7%9e%d7%93%d7%aa-%d7%9e%d7%a1%d7%91%d7%99%d7%-405ed61efc7b9403613f91ff82a652cd": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 345 - אום ג\\'וני - עמדת מסבירן",
+      "published": "Thu, 05 Dec 2019 11:34:52 +0000",
+      "audio_url": "https://play.hubhopper.com/c32b46b46f946afa125e5826d6fbef98.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:53:30.280342+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a0%d7%a9%d7%9c%d7%97%d7%a0%d7%95-%d7%9b%d7%9a%d7%94%d7%94%d7%99%d7%a1%d7%98%d7%95%d7%a8%d7%99%d7%94-%d7%a9%d7%9c%d7%-6c31d29b837fdf415d528f6baa28b391": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 346 - \\'נשלחנו כך\\' - חלק 1 - ההיסטוריה של שליחות",
+      "published": "Mon, 16 Dec 2019 08:09:47 +0000",
+      "audio_url": "https://play.hubhopper.com/ddc6796e10867b3709ca439632ebc161.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:53:38.291616+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a4%d7%a8%d7%a7-346%d7%a0%d7%a9%d7%9c%d7%97%d7%a0%d7%95-%d7%9b%d7%9a%d7%a8%d7%90%d7%99%d7%95%d7%9f-%d7%a2%d7%9d%d7%99-af17060b91772cef9cf964eeee12b963": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 347: נשלחנו כך - חלק 2 - ראיון עם יהודה סטון",
+      "published": "Mon, 23 Dec 2019 08:43:00 +0000",
+      "audio_url": "https://play.hubhopper.com/de7f25f6ea32c12e0ac31cab976c0dd7.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T21:53:45.041818+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/b90ddb1c-d61b-5268-be06-bc47fdc4e2ee": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 348: הכישלונות הגדולים של לאונרדו דה וינצ\\'י - עם יהודית כץ",
+      "published": "Thu, 26 Dec 2019 11:17:31 +0000",
+      "audio_url": "https://play.hubhopper.com/0c9dc3cd4bee373eb4be29605737b9a5.mp3?s=rss-feed",
+      "drive_file_id": "1IIVdOluXqK3tIlD8rcXir4EqgxcL9Bp-",
+      "drive_url": "https://drive.google.com/file/d/1IIVdOluXqK3tIlD8rcXir4EqgxcL9Bp-/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T21:53:54.786331+00:00",
+      "yemos_path": "ivr2:/1/26/137.wav"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/7992769f-e1b0-5d4a-8058-189fd4daf8e0": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 349: נשלחנו כך - חלק 3 - היהודי הנודד",
+      "published": "Mon, 30 Dec 2019 06:53:23 +0000",
+      "audio_url": "https://play.hubhopper.com/15bb7543b38e4f881b716ceee5994017.mp3?s=rss-feed",
+      "drive_file_id": "1tuNbkxSoZ6IephO1RlgvoP_EWxMjDe-o",
+      "drive_url": "https://drive.google.com/file/d/1tuNbkxSoZ6IephO1RlgvoP_EWxMjDe-o/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T21:54:26.538710+00:00",
+      "yemos_path": "ivr2:/1/26/138.wav"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/642654ee-56d3-5381-90b7-2ca078a6c019": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 350: מפגשים עם הגיל השלישי - עם יעל חביב (פיילוט)",
+      "published": "Fri, 03 Jan 2020 07:43:45 +0000",
+      "audio_url": "https://play.hubhopper.com/44859eca875ed5789ea9092c4c82a6bf.mp3?s=rss-feed",
+      "drive_file_id": "1bu5xMQyGtlhUHZxH1nQgARtvCozv7hyr",
+      "drive_url": "https://drive.google.com/file/d/1bu5xMQyGtlhUHZxH1nQgARtvCozv7hyr/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T21:54:56.910166+00:00",
+      "yemos_path": "ivr2:/1/26/139.wav"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/94afcf0f-3276-5e06-8693-a5a56e81c772": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 351: נשלחנו כך - חלק 4 - ראיון עם שלי קידר",
+      "published": "Mon, 06 Jan 2020 07:52:34 +0000",
+      "audio_url": "https://play.hubhopper.com/37a1e15a7803964d6bdbbafae77f660e.mp3?s=rss-feed",
+      "drive_file_id": "1vAmrz1ziSXLLSNnI6GLXiGL3ymYRKF6a",
+      "drive_url": "https://drive.google.com/file/d/1vAmrz1ziSXLLSNnI6GLXiGL3ymYRKF6a/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "error",
+      "processed_at": "2026-09-26T21:55:48.346570+00:00",
+      "yemos_error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/32fe174d-85ba-53d0-b6c4-747974d00810": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 352: חידה ושמה לורנס איש ערב",
+      "published": "Thu, 09 Jan 2020 09:19:20 +0000",
+      "audio_url": "https://play.hubhopper.com/998725aec3622ca2710582bd214dc269.mp3?s=rss-feed",
+      "drive_file_id": "11XdQ2JhzjYaJY4g3i1SAzhhdRWDb66Xa",
+      "drive_url": "https://drive.google.com/file/d/11XdQ2JhzjYaJY4g3i1SAzhhdRWDb66Xa/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T21:56:26.347183+00:00",
+      "yemos_path": "ivr2:/1/26/141.wav"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/951586d1-84d3-5a65-8442-6d88c971d2b3": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 353: נשלחנו כך - חלק 5 - בין חזון למציאות",
+      "published": "Mon, 13 Jan 2020 07:51:35 +0000",
+      "audio_url": "https://play.hubhopper.com/22126d622ebf8ac433595d097886842d.mp3?s=rss-feed",
+      "drive_file_id": "15CYEeOvNkZMc94s0_VmE9ap8Dl8gUKmU",
+      "drive_url": "https://drive.google.com/file/d/15CYEeOvNkZMc94s0_VmE9ap8Dl8gUKmU/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T21:57:13.758225+00:00",
+      "yemos_path": "ivr2:/1/26/142.wav"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/f858ede9-8555-51b9-b805-26250b816250": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 354: לכודים בטהרן",
+      "published": "Wed, 15 Jan 2020 08:21:24 +0000",
+      "audio_url": "https://play.hubhopper.com/bf0ea17b80585d4d958003018a62021c.mp3?s=rss-feed",
+      "drive_file_id": "1alSYoMnSsbh9DhCmPCHBr6WLKkvOaVJJ",
+      "drive_url": "https://drive.google.com/file/d/1alSYoMnSsbh9DhCmPCHBr6WLKkvOaVJJ/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T21:57:42.795500+00:00",
+      "yemos_path": "ivr2:/1/26/143.wav"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/1d1b1848-0655-553a-ae93-ac03044ad382": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 356: נשלחנו כך - חלק 6 - ראיון עם לירון פינקלשטיין",
+      "published": "Mon, 20 Jan 2020 08:08:08 +0000",
+      "audio_url": "https://play.hubhopper.com/3a68ca56a73b5a74996e48815d455010.mp3?s=rss-feed",
+      "drive_file_id": "1JCfU1orocXcDKIRljqxIO9X-JTmZ4G71",
+      "drive_url": "https://drive.google.com/file/d/1JCfU1orocXcDKIRljqxIO9X-JTmZ4G71/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T21:58:25.977367+00:00",
+      "yemos_path": "ivr2:/1/26/144.wav"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/cbb091e0-aac3-5736-a5e7-89ee51f45a34": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 358: נשלחנו כך - חלק 7 - על ציונות, גזענות, BDS ומה שביניהם",
+      "published": "Mon, 27 Jan 2020 08:26:13 +0000",
+      "audio_url": "https://play.hubhopper.com/5d0d01d596abddbb51ad0e794a081418.mp3?s=rss-feed",
+      "drive_file_id": "1jSkA43enZXUHiELDI6hJZV-cDZ6BBTsR",
+      "drive_url": "https://drive.google.com/file/d/1jSkA43enZXUHiELDI6hJZV-cDZ6BBTsR/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T21:58:41.261973+00:00",
+      "yemos_path": "ivr2:/1/26/145.wav"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/705cf599-8325-54d7-a106-bcac7a9f9dc1": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 361 - ההיסטוריה שלי ובלאק פריידי על טוגות",
+      "published": "Sat, 08 Feb 2020 20:49:31 +0000",
+      "audio_url": "https://play.hubhopper.com/5f7d1c603c5f6858c600150f683ed74c.mp3?s=rss-feed",
+      "drive_file_id": "1vY2YVffsyFk8vqNM3vZINVpIuYJY_TrH",
+      "drive_url": "https://drive.google.com/file/d/1vY2YVffsyFk8vqNM3vZINVpIuYJY_TrH/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T21:59:09.824186+00:00",
+      "yemos_path": "ivr2:/1/26/146.wav"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/9550b24c-14af-5132-aa05-e2da6e0d446f": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 362 - יציאת אתיופיה - קדימון",
+      "published": "Wed, 12 Feb 2020 11:51:44 +0000",
+      "audio_url": "https://play.hubhopper.com/1579a04f5c6007c5c8cdced2c7de88ac.mp3?s=rss-feed",
+      "drive_file_id": "1m-OWDM7r27tm2wVxlirCRcbZGnYm02RQ",
+      "drive_url": "https://drive.google.com/file/d/1m-OWDM7r27tm2wVxlirCRcbZGnYm02RQ/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T21:59:54.524716+00:00",
+      "yemos_path": "ivr2:/1/26/147.wav"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/dbd7fe23-5dae-5cd0-8c43-59a01b18a599": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 364: יחסי ישראל והקהילה היהודית בארצות הברית - נשלחנו כך - חלק 8",
+      "published": "Mon, 17 Feb 2020 04:30:08 +0000",
+      "audio_url": "https://play.hubhopper.com/0f4f9f4748af1c0f70400a7813ed3a05.mp3?s=rss-feed",
+      "drive_file_id": "1KRuzJDiE407jUdFQeyFgOeDvKx9n12g1",
+      "drive_url": "https://drive.google.com/file/d/1KRuzJDiE407jUdFQeyFgOeDvKx9n12g1/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T22:00:06.638329+00:00",
+      "yemos_path": "ivr2:/1/26/148.wav"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/2850365c-ce9b-546b-b084-e4f2ca8c0e0f": {
+      "podcast_id": "historia_ktaim",
+      "title": "אל תשפכו את השעועית - על מטבעות לשון באנגלית",
+      "published": "Wed, 19 Feb 2020 04:30:00 +0000",
+      "audio_url": "https://play.hubhopper.com/0128d7ae26ddb8e5ac6206e386eaf625.mp3?s=rss-feed",
+      "drive_file_id": "1pl6UhNGhPVLDI6AN7jqycBxFFzxeUhqb",
+      "drive_url": "https://drive.google.com/file/d/1pl6UhNGhPVLDI6AN7jqycBxFFzxeUhqb/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T22:00:36.332356+00:00",
+      "yemos_path": "ivr2:/1/26/149.wav"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/878fca72-b6c5-504d-b9c3-055c610da716": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 367 - יציאת אתיופיה - חלק 1",
+      "published": "Tue, 25 Feb 2020 07:29:30 +0000",
+      "audio_url": "https://play.hubhopper.com/d58973a44c77ac95770be5a4ab1cb7b2.mp3?s=rss-feed",
+      "drive_file_id": "1gHiLm1ltZ9WopQAM-dGdMQCJ50soMvIm",
+      "drive_url": "https://drive.google.com/file/d/1gHiLm1ltZ9WopQAM-dGdMQCJ50soMvIm/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T22:00:59.826640+00:00",
+      "yemos_path": "ivr2:/1/26/150.wav"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/ef3cff51-742b-5651-b6ef-6011d1ebdf99": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 369: נשלחנו כך - הזמנה לריקוד - עם מנכ\\\"לית הסוכנות היהודית אמירה אהרונוביץ - חלק 9",
+      "published": "Mon, 02 Mar 2020 12:01:57 +0000",
+      "audio_url": "https://play.hubhopper.com/565beacc3249c7f8562276648ac2ed3d.mp3?s=rss-feed",
+      "drive_file_id": "1t5XtgStJqFXot-xW3P2oc097uehxVfK2",
+      "drive_url": "https://drive.google.com/file/d/1t5XtgStJqFXot-xW3P2oc097uehxVfK2/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T22:01:21.809658+00:00",
+      "yemos_path": "ivr2:/1/26/151.wav"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/0db3daf5-079d-530a-952b-29c8698b6115": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 370 - יציאת אתיופיה - חלק 2 - ממלכת בית ישראל ועד הזמן הרע",
+      "published": "Thu, 05 Mar 2020 14:57:29 +0000",
+      "audio_url": "https://play.hubhopper.com/24e6e8e4d6ca367080506450906150d7.mp3?s=rss-feed",
+      "drive_file_id": "1LJwdPxNXRBeivQO65ifGCaOlLsyGgO5-",
+      "drive_url": "https://drive.google.com/file/d/1LJwdPxNXRBeivQO65ifGCaOlLsyGgO5-/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T22:01:44.694677+00:00",
+      "yemos_path": "ivr2:/1/26/152.wav"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/b45360e3-9586-53f6-8af9-e7ced7cc72f9": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 379: יציאת אתיופיה חלק 3",
+      "published": "Sat, 21 Mar 2020 17:30:24 +0000",
+      "audio_url": "https://play.hubhopper.com/7e6f05ed835f0043dcbeba836ebec80e.mp3?s=rss-feed",
+      "drive_file_id": "1X1HiwDBcuD-MvLiuoXNkNjp_I7OvdkZL",
+      "drive_url": "https://drive.google.com/file/d/1X1HiwDBcuD-MvLiuoXNkNjp_I7OvdkZL/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T22:02:06.861349+00:00",
+      "yemos_path": "ivr2:/1/26/153.wav"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/cca88ca1-87ae-50bb-90dc-768a24e3b729": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 381: יציאת אתיופיה - חלק 4 - פורצי הדרך",
+      "published": "Fri, 27 Mar 2020 12:27:07 +0000",
+      "audio_url": "https://play.hubhopper.com/641aca6aa865fa4c17afbd9f7298f9f5.mp3?s=rss-feed",
+      "drive_file_id": "1k9hNgBZ9GbXHvH0HdpR4ODDr6Yef1rOe",
+      "drive_url": "https://drive.google.com/file/d/1k9hNgBZ9GbXHvH0HdpR4ODDr6Yef1rOe/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T22:02:31.515381+00:00",
+      "yemos_path": "ivr2:/1/26/154.wav"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/d002ff7c-520b-5c01-a996-e5c2d67c0a8b": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 384: יציאת אתיופיה - חלק 5 - מבצע סבתא ובית הסוהר הסודאני",
+      "published": "Sat, 04 Apr 2020 18:09:00 +0000",
+      "audio_url": "https://play.hubhopper.com/b3570184e157330734c3a190995eca27.mp3?s=rss-feed",
+      "drive_file_id": "1xnvE16vqQRWziniBd3SqHZUSnzEWudMg",
+      "drive_url": "https://drive.google.com/file/d/1xnvE16vqQRWziniBd3SqHZUSnzEWudMg/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T22:03:03.387561+00:00",
+      "yemos_path": "ivr2:/1/26/155.wav"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/3919ea1d-9feb-5aaa-9dea-289de1e40bab": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 385: יציאת אתיופיה - חלק 6 - פרדה לוחם מוסד והפרידה",
+      "published": "Fri, 10 Apr 2020 11:14:46 +0000",
+      "audio_url": "https://play.hubhopper.com/ec581c15020a98f02eba4aa358de532c.mp3?s=rss-feed",
+      "drive_file_id": "1dqDhc2O-VwGOxcEqHgbsIXwYSGtVsKYi",
+      "drive_url": "https://drive.google.com/file/d/1dqDhc2O-VwGOxcEqHgbsIXwYSGtVsKYi/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T22:03:34.560684+00:00",
+      "yemos_path": "ivr2:/1/26/156.wav"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/c54f6f5e-3ccb-573f-badc-9b7e684ac563": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 387: וינסטון צ\\'רצ\\'יל - מחרחר המלחמה שהציל את העולם (הרצאה)",
+      "published": "Sat, 18 Apr 2020 18:50:00 +0000",
+      "audio_url": "https://play.hubhopper.com/11e7b90b4391f316bb6a4c217b044323.mp3?s=rss-feed",
+      "drive_file_id": "1Naxu_DltgdQgvpgCXiSsVMf16FB1_3Wu",
+      "drive_url": "https://drive.google.com/file/d/1Naxu_DltgdQgvpgCXiSsVMf16FB1_3Wu/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T22:04:11.459433+00:00",
+      "yemos_path": "ivr2:/1/26/157.wav"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/%d7%a8%d7%a9%d7%95%d7%aa%d7%94%d7%98%d7%91%d7%a2%d7%95%d7%94%d7%92%d7%a0%d7%99%d7%9d-%d7%90%d7%a4%d7%95%d7%9c%d7%95%d7%a-c0d6e77e87bea1f6519ed7626a6d509d": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 388: גן לאומי אפולוניה - רשות הטבע והגנים",
+      "published": "Wed, 22 Apr 2020 12:57:13 +0000",
+      "audio_url": "https://play.hubhopper.com/89a836e21bac3c8837a025d8171b8ded.mp3?s=rss-feed",
+      "status": "error",
+      "error": "<HttpError 403 when requesting https://www.googleapis.com/upload/drive/v3/files?fields=id%2Cname%2CwebViewLink%2Csize&alt=json&uploadType=resumable returned \"Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.\". Details: \"[{'message': 'Properties and app properties are limited to 124 bytes in UTF-8 encoding, counting both the key and the value.', 'domain': 'global', 'reason': 'propertyLengthLimitExceeded'}]\">",
+      "updated_at": "2026-09-26T22:05:15.728927+00:00"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/3da8a586-a10f-5236-98aa-5e38388d7194": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 390 - דפיקה בדלת - פרק אורח של הפודקאסט מוזה סטוריז",
+      "published": "Sun, 26 Apr 2020 19:49:52 +0000",
+      "audio_url": "https://play.hubhopper.com/4c1c613b8e0700e6e6050873d65c0c7b.mp3?s=rss-feed",
+      "drive_file_id": "1FhNmpyGaeDdMYkw2wBu6HvoVWNOY3Qlw",
+      "drive_url": "https://drive.google.com/file/d/1FhNmpyGaeDdMYkw2wBu6HvoVWNOY3Qlw/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T22:05:26.688464+00:00",
+      "yemos_path": "ivr2:/1/26/159.wav"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/79c03022-b772-5c34-a9fd-719ecd153621": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 391 - יציאת אתיופיה פרק 7 - כפר הנופש חלק 1",
+      "published": "Wed, 29 Apr 2020 19:56:32 +0000",
+      "audio_url": "https://play.hubhopper.com/4b4c21ae25860540035ded3f695f8d18.mp3?s=rss-feed",
+      "drive_file_id": "1K6o1UtjC6sQDipLcls0WFHUhWAjOnQxp",
+      "drive_url": "https://drive.google.com/file/d/1K6o1UtjC6sQDipLcls0WFHUhWAjOnQxp/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-26T22:06:20.687545+00:00",
+      "yemos_path": "ivr2:/1/26/160.wav"
+    },
+    "https://feeds.hubhopper.com/yuval.podbean.com/cdcef3d6-0b5d-5337-acc2-0bbdbbc3f277": {
+      "podcast_id": "historia_ktaim",
+      "title": "פרק 393 - השכן שלי בן 100",
+      "published": "Fri, 08 May 2020 23:07:01 +0000",
+      "audio_url": "https://play.hubhopper.com/724f61a0a7603c8505b624739f89917e.mp3?s=rss-feed",
+      "drive_file_id": "1iNrh8DQt6i8HdRyGOzlS4x_Ct9d2SWrU",
+      "drive_url": "https://drive.google.com/file/d/1iNrh8DQt6i8HdRyGOzlS4x_Ct9d2SWrU/view?usp=drivesdk",
+      "status": "uploaded",
+      "notification_status": "pending",
+      "yemos_status": "pending",
+      "processed_at": "2026-09-26T22:07:14.447337+00:00"
     }
   }
 }
