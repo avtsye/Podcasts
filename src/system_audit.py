@@ -6,7 +6,8 @@ from pathlib import Path
 import feedparser
 import requests
 
-# Audit is intentionally read-only.\nROOT = Path(".")
+# Audit is intentionally read-only.
+ROOT = Path(".")
 CONFIG = ROOT / "config" / "podcasts.json"
 STATE = ROOT / "data" / "state.json"
 YEMOS_STATE = ROOT / "data" / "yemos_state.json"
