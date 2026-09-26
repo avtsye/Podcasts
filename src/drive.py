@@ -60,14 +60,15 @@ def _find_existing_episode(service, folder_id, episode_key):
     return files[0] if files else None
 
 
-def upload_audio(file_path, podcast_name, filename, root_name="Podcasts", episode_key=None, podcast_id=None):
+def upload_audio(file_path, podcast_name, filename, root_name="Podcasts", episode_key=None, podcast_id=None, force_replace=False):
     service = _service()
     root_id = _ensure_folder(service, root_name)
     folder_id = _ensure_folder(service, podcast_name, root_id)
 
+    existing = None
     if episode_key:
         existing = _find_existing_episode(service, folder_id, episode_key)
-        if existing:
+        if existing and not force_replace:
             print(f"Drive already contains this episode: {existing['name']}")
             return existing
 
@@ -86,6 +87,15 @@ def upload_audio(file_path, podcast_name, filename, root_name="Podcasts", episod
         properties["podcast_id"] = podcast_id
     if properties:
         body["appProperties"] = properties
+
+    if existing and force_replace:
+        print(f"Replacing existing Drive episode: {existing['name']}")
+        return service.files().update(
+            fileId=existing["id"],
+            body={"name": filename, "appProperties": properties} if properties else {"name": filename},
+            media_body=media,
+            fields="id,name,webViewLink,size",
+        ).execute()
 
     return service.files().create(
         body=body,
