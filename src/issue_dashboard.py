@@ -34,7 +34,7 @@ def main():
         digits=re.search(r"\d+",section(body,"מספר פרקים אחרונים") or "1")
         out={"kind":"download","ids":ids,"mode":mode,"count":str(max(1,min(1000,int(digits.group(0)))) if digits else 1)}
     elif title.startswith("[ניהול פודקאסט]"):
-        out={"kind":"manage","action":section(body,"פעולה"),"podcast_id":section(body,"מזהה הפודקאסט"),"name":section(body,"שם"),"rss":section(body,"RSS"),"drive_folder":section(body,"תיקיית Drive"),"yemos_branch":section(body,"שלוחת Yemos")}
+        out={"kind":"manage","action":section(body,"פעולה"),"current_name":section(body,"שם הפודקאסט הקיים"),"name":section(body,"שם"),"rss":section(body,"RSS"),"drive_folder":section(body,"תיקיית Drive"),"yemos_branch":section(body,"שלוחת Yemos")}
     elif title.startswith("[מצב]"):
         out={"kind":"status","scope":section(body,"היקף")}
     elif title.startswith("[רשימת פודקאסטים]"):
