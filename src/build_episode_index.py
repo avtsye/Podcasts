@@ -48,11 +48,8 @@ def main():
         if podcast.get("enabled", True):
             status["totals"]["active"] += 1
 
-        feed_error = feeds.get(podcast.get("id", ""), {}).get("last_error")
-        if feed_error:
-            status["totals"]["feed_errors"] += 1
-
         feed_state = feeds.get(podcast.get("id", ""), {})
+        feed_error = ""
         item_status = {
             "id": podcast.get("id"),
             "name": podcast.get("name"),
@@ -70,6 +67,10 @@ def main():
             continue
 
         feed = feedparser.parse(podcast["rss"])
+        if getattr(feed, "bozo", False) and not feed.entries:
+            feed_error = str(getattr(feed, "bozo_exception", "RSS parse error"))
+            status["totals"]["feed_errors"] += 1
+            item_status["feed_error"] = feed_error
         episodes = []
         for entry in feed.entries:
             key = episode_key(entry)
@@ -116,7 +117,7 @@ def main():
             "last_checked": feed_state.get("last_checked", ""),
             "feed_error": feed_error or "",
             "episodes": episodes,
-            "error": str(getattr(feed, "bozo_exception", "")) if getattr(feed, "bozo", False) and not episodes else "",
+            "error": feed_error,
         })
         status["podcasts"].append(item_status)
         print(f"{podcast['name']}: {len(episodes)} episode(s)")
