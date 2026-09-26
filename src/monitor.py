@@ -166,14 +166,22 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None):
     for entry in reversed(entries):
         key = episode_key(entry)
         current = seen.get(key)
+        previous_current = dict(current) if current else None
         yemos_record = yemos_episodes.get(key, {})
+        previous_yemos_record = dict(yemos_record) if yemos_record else {}
         forced = force_match(entry, key)
+        force_drive = forced and "Drive" in force_targets
+        force_yemos = forced and "Yemos" in force_targets
+        force_drive_only = force_drive and not force_yemos
         if forced:
-            if "Drive" in force_targets:
+            if force_drive:
                 current = None
                 seen.pop(key, None)
-            if "Yemos" in force_targets:
+            if force_yemos:
                 yemos_episodes.pop(key, None)
+                yemos_record = {}
+                if previous_yemos_record.get("filename_stem"):
+                    yemos_record["filename_stem"] = previous_yemos_record["filename_stem"]
                 if current:
                     current["yemos_status"] = "pending"
                     current.pop("yemos_path", None)
@@ -251,6 +259,11 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None):
                 current.pop("yemos_error", None)
                 save_state(state)
 
+                run_uploads.append({
+                    "podcast": podcast.get("name", ""),
+                    "title": title,
+                    "destinations": ["ימות המשיח " + str(yemos_file.get("path", ""))],
+                })
                 print(f"Yemos retry complete: {title}")
             except Exception as exc:
                 yemos_episodes[key] = {
@@ -319,6 +332,7 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None):
                     settings.get("drive_root_folder", "Podcasts"),
                     episode_key=key,
                     podcast_id=podcast_id,
+                    force_replace=force_drive,
                 )
 
                 record = {
@@ -333,6 +347,14 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None):
                     "yemos_status": "pending",
                     "processed_at": utc_now(),
                 }
+                if force_drive_only:
+                    if previous_yemos_record.get("status") == "uploaded":
+                        record["yemos_status"] = "uploaded"
+                        record["yemos_path"] = previous_yemos_record.get("path")
+                    elif previous_current and previous_current.get("yemos_status"):
+                        record["yemos_status"] = previous_current.get("yemos_status")
+                        if previous_current.get("yemos_path"):
+                            record["yemos_path"] = previous_current.get("yemos_path")
                 seen[key] = record
                 run_item = {
                     "podcast": podcast.get("name", ""),
@@ -344,7 +366,7 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None):
                 feeds[podcast_id]["last_error"] = None
                 save_state(state)
 
-                if settings.get("yemos_enabled", True):
+                if settings.get("yemos_enabled", True) and not force_drive_only:
                     try:
                         print(f"Uploading to Yemos: {title} as {yemos_filename}")
                         yemos_file = upload_yemos_audio(
@@ -382,7 +404,7 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None):
                         record["yemos_status"] = "error"
                         record["yemos_error"] = str(exc)
                         print(f"WARNING: Yemos upload failed for {title}: {exc}")
-                else:
+                elif not force_drive_only:
                     record["yemos_status"] = "disabled"
 
                 save_state(state)
