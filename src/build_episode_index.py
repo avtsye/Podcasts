@@ -4,7 +4,7 @@ from pathlib import Path
 
 import feedparser
 
-CONFIG = Path("config/podcasts.json")
+# Rebuilds docs/episode-index.json from the configured RSS feeds.\nCONFIG = Path("config/podcasts.json")
 OUTPUT = Path("docs/episode-index.json")
 
 
