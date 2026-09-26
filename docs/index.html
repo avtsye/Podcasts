@@ -3,140 +3,191 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>חיפוש פרקי פודקאסטים</title>
+<title>מרכז הפודקאסטים</title>
 <style>
-body{font-family:Arial,sans-serif;margin:0;background:#f6f7f9;color:#111}
-main{max-width:1000px;margin:auto;padding:24px}
-h1{margin-top:0}
-.card{background:#fff;border:1px solid #ddd;border-radius:14px;padding:18px;margin-bottom:16px}
-.controls{display:grid;grid-template-columns:1fr 1fr;gap:12px}
-input,select,button{font:inherit;padding:10px;border-radius:10px;border:1px solid #bbb}
-button{cursor:pointer;background:#111;color:#fff}
-.episode{padding:12px 0;border-bottom:1px solid #eee;display:grid;grid-template-columns:1fr auto;gap:12px;align-items:center}
-.meta{color:#666;font-size:.9rem;margin-top:4px}
-.small{font-size:.9rem;color:#666}
-@media(max-width:700px){.controls{grid-template-columns:1fr}.episode{grid-template-columns:1fr}}
+:root{font-family:Arial,sans-serif;color:#111;background:#f5f6f8}
+*{box-sizing:border-box}body{margin:0}main{max-width:1180px;margin:auto;padding:22px}
+h1,h2{margin-top:0}.tabs,.toolbar,.actions{display:flex;gap:8px;flex-wrap:wrap}
+.tabs{margin-bottom:16px}.tab{background:#fff;color:#111;border:1px solid #ccc}.tab.active{background:#111;color:#fff}
+.card{background:#fff;border:1px solid #ddd;border-radius:14px;padding:16px;margin-bottom:14px}
+.controls{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:10px}
+input,select,button{font:inherit;padding:10px;border-radius:9px;border:1px solid #bbb}
+button{cursor:pointer;background:#111;color:#fff}button.secondary{background:#fff;color:#111}
+button:disabled{opacity:.45;cursor:not-allowed}.muted{color:#666;font-size:.9rem}
+.episode{display:grid;grid-template-columns:auto 1fr auto;gap:12px;align-items:center;padding:12px 0;border-bottom:1px solid #eee}
+.badges{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}.badge{font-size:.78rem;padding:3px 7px;border-radius:999px;background:#eee}
+.badge.ok{background:#e5f6e8}.badge.no{background:#f2f2f2}.cart{position:sticky;bottom:12px;z-index:3}
+.cartbar{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;background:#111;color:#fff;border-radius:14px;padding:12px 16px}
+.cartbar button{background:#fff;color:#111}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+.stat{padding:14px;border:1px solid #ddd;border-radius:12px}.stat strong{font-size:1.5rem;display:block}
+table{width:100%;border-collapse:collapse}th,td{text-align:right;padding:9px;border-bottom:1px solid #eee;vertical-align:top}
+dialog{border:0;border-radius:14px;max-width:650px;width:calc(100% - 30px);padding:0}dialog::backdrop{background:#0008}.dialog-body{padding:20px}
+.hidden{display:none!important}
+@media(max-width:800px){.controls,.grid{grid-template-columns:1fr 1fr}.episode{grid-template-columns:auto 1fr}.episode>.row-actions{grid-column:2}.table-wrap{overflow:auto}}
+@media(max-width:520px){.controls,.grid{grid-template-columns:1fr}main{padding:12px}}
 </style>
 </head>
 <body>
 <main>
-<h1>🔎 חיפוש והורדת פרק</h1>
+<h1>🎧 מרכז הפודקאסטים</h1>
+<div class="tabs">
+<button class="tab active" data-tab="search" onclick="showTab('search')">🔎 חיפוש והורדה</button>
+<button class="tab" data-tab="status" onclick="showTab('status')">📊 מצב המערכת</button>
+<button class="tab" data-tab="runs" onclick="showTab('runs')">🕘 היסטוריית ריצות</button>
+</div>
+
+<section id="tab-search">
 <div class="card">
 <div class="controls">
-<select id="podcast"></select>
-<input id="search" placeholder="חיפוש לפי שם הפרק">
+<input id="search" placeholder="חיפוש בכל הפרקים">
+<select id="podcast"><option value="all">כל הפודקאסטים</option></select>
+<select id="sort">
+<option value="newest">חדש → ישן</option>
+<option value="oldest">ישן → חדש</option>
+<option value="az">א׳ → ת׳</option>
+<option value="status">לפי מצב העלאה</option>
+</select>
+<select id="statusFilter">
+<option value="all">כל המצבים</option>
+<option value="none">טרם הורד</option>
+<option value="drive">Drive בלבד</option>
+<option value="yemos">Yemos בלבד</option>
+<option value="both">Drive + Yemos</option>
+</select>
 <input id="dateFrom" type="date" aria-label="מתאריך">
 <input id="dateTo" type="date" aria-label="עד תאריך">
+<select id="target">
+<option>Drive וגם Yemos</option>
+<option>Drive בלבד</option>
+<option>Yemos בלבד</option>
+</select>
+<button class="secondary" onclick="clearFilters()">נקה סינון</button>
 </div>
-<p class="small" id="status">טוען אינדקס...</p>
-<div style="display:flex;gap:10px;flex-wrap:wrap">
-<button id="downloadSelected" type="button" onclick="downloadSelected()" disabled>הורד את המסומנים</button>
-<button id="selectVisible" type="button" onclick="selectVisible()">בחר את כל המוצגים</button>
-<button id="clearSelected" type="button" onclick="clearSelected()">נקה בחירה</button>
+<p class="muted" id="indexStatus">טוען אינדקס...</p>
+</div>
+<div class="card">
+<div class="actions">
+<button class="secondary" onclick="selectVisible()">בחר את כל המוצגים</button>
+<button class="secondary" onclick="clearCart()">נקה בחירה</button>
+</div>
+<div id="results"></div>
+</div>
+<div class="cart" id="cartBox">
+<div class="cartbar">
+<div><b id="cartCount">0 פרקים נבחרו</b> <span id="cartPodcasts" class="muted"></span></div>
+<button id="downloadCart" onclick="downloadCart()" disabled>הורד את הסל</button>
 </div>
 </div>
-<div class="card" id="results"></div>
+</section>
+
+<section id="tab-status" class="hidden">
+<div class="grid" id="statusCards"></div>
+<div class="card table-wrap"><table id="statusTable"></table></div>
+</section>
+
+<section id="tab-runs" class="hidden">
+<div class="card table-wrap"><table id="runsTable"></table></div>
+</section>
 </main>
+
+<dialog id="detailsDialog">
+<div class="dialog-body">
+<h2 id="detailTitle"></h2>
+<div id="detailBody"></div>
+<div class="actions" style="margin-top:16px">
+<button onclick="document.getElementById('detailsDialog').close()">סגור</button>
+</div>
+</div>
+</dialog>
+
 <script>
 const repo='avtsye/Podcasts';
-let data=null,current=null;
 const selected=new Map();
+let data={podcasts:[]},statusData=null,runData=null,currentResults=[];
+
+function esc(s){return String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]))}
+function normalize(s){return String(s??'').normalize('NFKD').replace(/[\u0591-\u05C7]/g,'').toLowerCase().replace(/[^\p{L}\p{N}]+/gu,' ').trim()}
+function lev(a,b){if(a===b)return 0;if(!a.length)return b.length;if(!b.length)return a.length;let p=[...Array(b.length+1).keys()];for(let i=1;i<=a.length;i++){let c=[i];for(let j=1;j<=b.length;j++)c[j]=Math.min(c[j-1]+1,p[j]+1,p[j-1]+(a[i-1]===b[j-1]?0:1));p=c}return p[b.length]}
+function fuzzyMatch(text,query){const t=normalize(text),q=normalize(query);if(!q)return true;if(t.includes(q))return true;const qt=q.split(' '),tt=t.split(' ');return qt.every(qw=>tt.some(tw=>tw.includes(qw)||lev(tw,qw)<=Math.max(1,Math.floor(qw.length*.25))))}
+function episodeDate(v){const d=new Date(v);return Number.isNaN(d.getTime())?null:d}
+function statusKey(e){if(e.drive_uploaded&&e.yemos_uploaded)return'both';if(e.drive_uploaded)return'drive';if(e.yemos_uploaded)return'yemos';return'none'}
+function targetBadges(e){return '<div class="badges">'+
+  '<span class="badge '+(e.drive_uploaded?'ok':'no')+'">'+(e.drive_uploaded?'✅':'⬜')+' Drive</span>'+
+  '<span class="badge '+(e.yemos_uploaded?'ok':'no')+'">'+(e.yemos_uploaded?'✅':'⬜')+' Yemos</span></div>'}
 
 async function load(){
-  const r=await fetch('./episode-index.json',{cache:'no-store'});
-  if(!r.ok) throw new Error('לא ניתן לטעון את אינדקס הפרקים');
+  const r=await fetch('./episode-index.json',{cache:'no-store'});if(!r.ok)throw new Error('לא ניתן לטעון אינדקס');
   data=await r.json();
-  const sel=document.getElementById('podcast');
-  sel.innerHTML=data.podcasts.map(p=>'<option value="'+esc(p.id)+'">'+esc(p.name)+'</option>').join('');
-  sel.onchange=render;
-  document.getElementById('search').oninput=render;
-  document.getElementById('dateFrom').onchange=render;
-  document.getElementById('dateTo').onchange=render;
-  document.getElementById('status').textContent='עודכן: '+new Date(data.updated_at).toLocaleString('he-IL');
+  const p=document.getElementById('podcast');
+  p.innerHTML='<option value="all">כל הפודקאסטים</option>'+data.podcasts.map(x=>'<option value="'+esc(x.id)+'">'+esc(x.name)+'</option>').join('');
+  ['search','podcast','sort','statusFilter','dateFrom','dateTo','target'].forEach(id=>{
+    const el=document.getElementById(id);el.addEventListener(id==='search'?'input':'change',()=>{syncUrl();render()});
+  });
+  applyUrl();
+  document.getElementById('indexStatus').textContent='האינדקס עודכן: '+new Date(data.updated_at).toLocaleString('he-IL',{timeZone:'Asia/Jerusalem'});
   render();
+  loadStatus();
+  loadRuns();
 }
-function esc(s){return String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]))}
+function allEpisodes(){return data.podcasts.flatMap(p=>p.episodes.map(e=>({...e,podcastId:p.id,podcastName:p.name,rss:p.rss,yemosBranch:p.yemos_branch})))}
 function render(){
-  const pid=document.getElementById('podcast').value;
-  const q=document.getElementById('search').value.trim().toLowerCase();
-  const from=document.getElementById('dateFrom').value;
-  const to=document.getElementById('dateTo').value;
-  current=data.podcasts.find(p=>p.id===pid);
-  if(!current)return;
-  const eps=current.episodes.filter(e=>{
-    if(q && !e.title.toLowerCase().includes(q)) return false;
-    if(from || to){
-      const d=parseEpisodeDate(e.published);
-      if(!d) return false;
-      const iso=d.toISOString().slice(0,10);
-      if(from && iso<from) return false;
-      if(to && iso>to) return false;
-    }
+  const pid=document.getElementById('podcast').value,q=document.getElementById('search').value;
+  const sf=document.getElementById('statusFilter').value,from=document.getElementById('dateFrom').value,to=document.getElementById('dateTo').value;
+  let eps=allEpisodes().filter(e=>{
+    if(pid!=='all'&&e.podcastId!==pid)return false;
+    if(!fuzzyMatch(e.title,q)&&!fuzzyMatch(e.podcastName,q))return false;
+    if(sf!=='all'&&statusKey(e)!==sf)return false;
+    const d=episodeDate(e.published);
+    if((from||to)&&!d)return false;
+    if(d){const iso=d.toISOString().slice(0,10);if(from&&iso<from)return false;if(to&&iso>to)return false}
     return true;
   });
-  document.getElementById('results').innerHTML=
-    '<p><b>'+eps.length+'</b> פרקים נמצאו</p>'+
-    eps.map(e=>{
-      const token=current.id+'::'+e.key;
-      const checked=selected.has(token)?' checked':'';
-      return '<div class="episode"><div><label><input class="episode-check" type="checkbox" data-token="'+encodeURIComponent(token)+'" data-key="'+encodeURIComponent(e.key)+'" data-title="'+encodeURIComponent(e.title)+'" onchange="toggleEpisode(this)"'+checked+'> <b>'+esc(e.title)+'</b></label><div class="meta">'+esc(e.published)+'</div></div><button onclick="downloadEpisode(this)" data-key="'+encodeURIComponent(e.key)+'" data-title="'+encodeURIComponent(e.title)+'">הורד פרק</button></div>';
-    }).join('');
-  updateSelectedButton();
+  const sort=document.getElementById('sort').value;
+  eps.sort((a,b)=>sort==='oldest'?(episodeDate(a.published)?.getTime()||0)-(episodeDate(b.published)?.getTime()||0):
+    sort==='az'?a.title.localeCompare(b.title,'he'):
+    sort==='status'?statusKey(a).localeCompare(statusKey(b)):
+    (episodeDate(b.published)?.getTime()||0)-(episodeDate(a.published)?.getTime()||0));
+  currentResults=eps;
+  document.getElementById('results').innerHTML='<p><b>'+eps.length+'</b> פרקים נמצאו</p>'+eps.slice(0,500).map(e=>{
+    const token=e.podcastId+'::'+e.key,checked=selected.has(token)?' checked':'';
+    return '<div class="episode"><input class="episode-check" type="checkbox" data-token="'+encodeURIComponent(token)+'" onchange="toggle(this)"'+checked+'>'+
+      '<div><b>'+esc(e.title)+'</b><div class="muted">'+esc(e.podcastName)+' · '+esc(e.published)+'</div>'+targetBadges(e)+'</div>'+
+      '<div class="row-actions actions"><button class="secondary" onclick="details(\''+encodeURIComponent(token)+'\')">פרטים</button><button onclick="single(\''+encodeURIComponent(token)+'\')">הורד</button></div></div>';
+  }).join('')+(eps.length>500?'<p class="muted">מוצגים 500 הראשונים. צמצם את החיפוש כדי להגיע לתוצאה ספציפית.</p>':'');
+  updateCart();
 }
-function parseEpisodeDate(value){
-  const d=new Date(value);
-  return Number.isNaN(d.getTime())?null:d;
+function findByToken(token){const [pid,...rest]=token.split('::'),key=rest.join('::');const p=data.podcasts.find(x=>x.id===pid);const e=p?.episodes.find(x=>x.key===key);return p&&e?{...e,podcastId:p.id,podcastName:p.name,rss:p.rss,yemosBranch:p.yemos_branch}:null}
+function toggle(box){const token=decodeURIComponent(box.dataset.token),item=findByToken(token);if(!item)return;if(box.checked)selected.set(token,item);else selected.delete(token);updateCart()}
+function selectVisible(){currentResults.forEach(e=>selected.set(e.podcastId+'::'+e.key,e));render()}
+function clearCart(){selected.clear();render()}
+function updateCart(){const items=[...selected.values()],pods=new Set(items.map(x=>x.podcastId));document.getElementById('cartCount').textContent=items.length+' פרקים נבחרו';document.getElementById('cartPodcasts').textContent=items.length?'מ־'+pods.size+' פודקאסטים':'';document.getElementById('downloadCart').disabled=!items.length}
+function single(encoded){const e=findByToken(decodeURIComponent(encoded));if(!e)return;openIssue([e])}
+function downloadCart(){openIssue([...selected.values()])}
+function openIssue(items){
+  const groups=new Map();items.forEach(x=>{if(!groups.has(x.podcastName))groups.set(x.podcastName,[]);groups.get(x.podcastName).push(x)});
+  const selectedLines=[...groups.keys()].map(n=>'- [x] '+n);
+  const keys=items.map(x=>x.key);
+  const target=document.getElementById('target').value;
+  const body=['### בחירת פודקאסטים',...selectedLines,'','### פרקים מסוימים להורדה חוזרת',...keys,'','### כמות פרקים אחרונים להורדה חוזרת','','### יעד ההורדה החוזרת',target].join('\n');
+  const title='[הורדה חוזרת] '+items.length+' פרקים מ-'+groups.size+' פודקאסטים';
+  window.open('https://github.com/'+repo+'/issues/new?title='+encodeURIComponent(title)+'&body='+encodeURIComponent(body),'_blank');
 }
-function toggleEpisode(box){
-  const token=decodeURIComponent(box.dataset.token);
-  if(box.checked){
-    selected.set(token,{key:decodeURIComponent(box.dataset.key),title:decodeURIComponent(box.dataset.title),podcastId:current.id,podcastName:current.name});
-  }else{
-    selected.delete(token);
-  }
-  updateSelectedButton();
+function details(encoded){const e=findByToken(decodeURIComponent(encoded));if(!e)return;document.getElementById('detailTitle').textContent=e.title;document.getElementById('detailBody').innerHTML=
+  '<p><b>פודקאסט:</b> '+esc(e.podcastName)+'</p><p><b>תאריך:</b> '+esc(e.published)+'</p>'+
+  '<p><b>GUID:</b> <code>'+esc(e.key)+'</code></p><p><b>RSS:</b> '+esc(e.rss)+'</p>'+
+  '<p><b>שלוחת Yemos:</b> '+esc(e.yemosBranch||'—')+'</p>'+targetBadges(e)+
+  (e.yemos_path?'<p><b>נתיב Yemos:</b> '+esc(e.yemos_path)+'</p>':'')+
+  (e.link?'<p><a href="'+esc(e.link)+'" target="_blank" rel="noopener">קישור לפרק המקורי</a></p>':'');
+  document.getElementById('detailsDialog').showModal();
 }
-function updateSelectedButton(){
-  const btn=document.getElementById('downloadSelected');
-  btn.disabled=selected.size===0;
-  btn.textContent=selected.size?('הורד את המסומנים ('+selected.size+')'):'הורד את המסומנים';
-}
-function selectVisible(){
-  document.querySelectorAll('.episode-check').forEach(box=>{
-    if(!box.checked){box.checked=true;toggleEpisode(box);}
-  });
-}
-function clearSelected(){
-  selected.clear();
-  document.querySelectorAll('.episode-check').forEach(box=>box.checked=false);
-  updateSelectedButton();
-}
-function downloadSelected(){
-  const items=[...selected.values()].filter(x=>x.podcastId===current.id);
-  if(!items.length)return;
-  openDownloadIssue(items);
-}
-function downloadEpisode(btn){
-  openDownloadIssue([{key:decodeURIComponent(btn.dataset.key),title:decodeURIComponent(btn.dataset.title),podcastId:current.id,podcastName:current.name}]);
-}
-function openDownloadIssue(items){
-  const issueTitle='[הורדה חוזרת] '+current.name+(items.length===1?' - '+items[0].title:' - '+items.length+' פרקים');
-  const body=[
-    '### בחירת פודקאסטים',
-    '- [x] '+current.name,
-    '',
-    '### פרקים מסוימים להורדה חוזרת',
-    ...items.map(x=>x.key),
-    '',
-    '### כמות פרקים אחרונים להורדה חוזרת',
-    '',
-    '### יעד ההורדה החוזרת',
-    'Drive וגם Yemos'
-  ].join('\n');
-  const url='https://github.com/'+repo+'/issues/new?title='+encodeURIComponent(issueTitle)+'&body='+encodeURIComponent(body);
-  window.open(url,'_blank');
-}
-load().catch(e=>document.getElementById('status').textContent=e.message);
+function clearFilters(){['search','dateFrom','dateTo'].forEach(id=>document.getElementById(id).value='');document.getElementById('podcast').value='all';document.getElementById('sort').value='newest';document.getElementById('statusFilter').value='all';syncUrl();render()}
+function syncUrl(){const u=new URL(location.href);[['q','search'],['podcast','podcast'],['sort','sort'],['state','statusFilter'],['from','dateFrom'],['to','dateTo'],['target','target']].forEach(([k,id])=>{const v=document.getElementById(id).value;if(v&&v!=='all'&&!(k==='sort'&&v==='newest'))u.searchParams.set(k,v);else u.searchParams.delete(k)});history.replaceState(null,'',u)}
+function applyUrl(){const p=new URLSearchParams(location.search);const map={q:'search',podcast:'podcast',sort:'sort',state:'statusFilter',from:'dateFrom',to:'dateTo',target:'target'};Object.entries(map).forEach(([k,id])=>{const v=p.get(k);if(v&&[...document.getElementById(id).options||[]].length){if(document.querySelector('#'+id+' option[value="'+CSS.escape(v)+'"]'))document.getElementById(id).value=v;else if(document.getElementById(id).tagName==='INPUT')document.getElementById(id).value=v}else if(v&&document.getElementById(id).tagName==='INPUT')document.getElementById(id).value=v})}
+function showTab(name){['search','status','runs'].forEach(x=>{document.getElementById('tab-'+x).classList.toggle('hidden',x!==name);document.querySelector('.tab[data-tab="'+x+'"]').classList.toggle('active',x===name)});const u=new URL(location.href);u.searchParams.set('tab',name);history.replaceState(null,'',u)}
+async function loadStatus(){try{const r=await fetch('./status.json',{cache:'no-store'});if(!r.ok)return;statusData=await r.json();const t=statusData.totals;document.getElementById('statusCards').innerHTML=[['מוגדרים',t.configured],['פעילים',t.active],['פרקים באינדקס',t.episodes],['שגיאות RSS',t.feed_errors]].map(x=>'<div class="stat"><span>'+x[0]+'</span><strong>'+x[1]+'</strong></div>').join('');document.getElementById('statusTable').innerHTML='<tr><th>פודקאסט</th><th>מצב</th><th>RSS</th><th>שלוחה</th><th>פרקים</th></tr>'+statusData.podcasts.map(p=>'<tr><td>'+esc(p.name)+'</td><td>'+(p.enabled?'✅ פעיל':'⏸️ מושבת')+'</td><td>'+(p.feed_error?'❌ '+esc(p.feed_error):'✅ תקין')+'</td><td>'+esc(p.yemos_branch||'—')+'</td><td>'+p.episode_count+'</td></tr>').join('')}catch(e){}}
+async function loadRuns(){try{const r=await fetch('./run-history.json',{cache:'no-store'});if(!r.ok)return;runData=await r.json();document.getElementById('runsTable').innerHTML='<tr><th>זמן בישראל</th><th>סוג</th><th>מצב</th><th>העלאות</th><th>שגיאות</th><th>Actions</th></tr>'+runData.runs.map(x=>'<tr><td>'+esc(x.israel_time)+'</td><td>'+esc(x.event)+'</td><td>'+(x.status==='success'?'✅':'❌')+' '+esc(x.status)+'</td><td>'+x.uploads+'</td><td>'+x.feed_errors+'</td><td>'+(x.run_url?'<a href="'+esc(x.run_url)+'" target="_blank">פתח</a>':'')+'</td></tr>').join('')}catch(e){document.getElementById('runsTable').innerHTML='<tr><td>היסטוריית הריצות תופיע לאחר הריצה הבאה.</td></tr>'}}
+
+load().then(()=>{const tab=new URLSearchParams(location.search).get('tab');if(['status','runs'].includes(tab))showTab(tab)}).catch(e=>document.getElementById('indexStatus').textContent=e.message);
 </script>
 </body>
 </html>
