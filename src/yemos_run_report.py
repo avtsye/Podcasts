@@ -46,7 +46,7 @@ def main():
     api_call("RunTzintuk", {
         "token": token,
         "phones": "tzl:" + list_id,
-        "TzintukTimeOut": "5",
+        "TzintukTimeOut": "15",
     })
     print(f"Sent tzintuk list {list_id}.")
 
