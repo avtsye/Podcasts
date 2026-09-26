@@ -35,7 +35,7 @@ permissions:
   issues: write
 
 concurrency:
-  group: ${{ github.event_name == 'issues' && (startsWith(github.event.issue.title, '[מצב]') || startsWith(github.event.issue.title, '[רשימת פודקאסטים]')) && format('podcast-readonly-{0}', github.event.issue.number) || 'podcast-monitor' }}
+  group: ${{ github.event_name == 'issues' && contains(github.event.issue.title, 'בדיקת צינתוק') && format('podcast-tzintuk-test-{0}', github.event.issue.number) || (github.event_name == 'issues' && (startsWith(github.event.issue.title, '[מצב]') || startsWith(github.event.issue.title, '[רשימת פודקאסטים]')) && format('podcast-readonly-{0}', github.event.issue.number) || 'podcast-monitor') }}
   cancel-in-progress: false
 
 jobs:
