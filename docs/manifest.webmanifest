@@ -1,0 +1,10 @@
+{
+  "name": "מרכז הפודקאסטים",
+  "short_name": "פודקאסטים",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f6f8",
+  "theme_color": "#111111",
+  "lang": "he",
+  "dir": "rtl"
+}
