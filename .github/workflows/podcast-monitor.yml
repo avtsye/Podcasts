@@ -222,7 +222,7 @@ jobs:
           gh issue comment "$ISSUE_NUMBER" --body-file /tmp/scheduled-run.md
 
       - name: Log temporary run in dedicated issue
-        if: always() && github.event_name != 'schedule'
+        if: always() && github.event_name != 'schedule' && (github.event_name != 'issues' || steps.parse_request.outputs.kind == 'download' || steps.parse_request.outputs.kind == 'redownload')
         env:
           GH_TOKEN: ${{ github.token }}
           REPO: ${{ github.repository }}
@@ -233,13 +233,21 @@ jobs:
           COUNT: ${{ github.event_name == 'issues' && steps.parse_request.outputs.count || github.event_name == 'workflow_dispatch' && inputs.count || github.event.client_payload.count || '1' }}
           PODCASTS: ${{ github.event_name == 'issues' && steps.parse_request.outputs.ids || github.event_name == 'workflow_dispatch' && inputs.podcasts || github.event.client_payload.podcasts || 'all enabled' }}
         run: python -m src.log_manual_run
+      - name: Comment on failed manual request
+        if: failure() && github.event_name == 'issues'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          RUN_URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          gh issue comment "$ISSUE_NUMBER" --body "❌ הבקשה לא הסתיימה בהצלחה. ה-Issue נשאר פתוח לבדיקה. [פתיחת הריצה ב-Actions]($RUN_URL)"
+
       - name: Comment on manual request
         if: github.event_name == 'issues'
         env:
           GH_TOKEN: ${{ github.token }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
         run: |
-          gh issue edit "$ISSUE_NUMBER" --add-label "הושלם" || true
           gh issue comment "$ISSUE_NUMBER" --body "✅ הטיפול בבקשה הסתיים. ניתן לראות את פרטי הריצה בלשונית Actions."
 
       - name: Close manual request
@@ -274,5 +282,6 @@ jobs:
             echo "No state changes."
           else
             git commit -m "chore: update podcast monitor state"
+            git pull --rebase origin main
             git push
           fi
