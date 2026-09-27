@@ -288,6 +288,7 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None):
                     "podcast_id": podcast_id,
                     "title": title,
                     "status": "error",
+                    "filename_stem": yemos_number,
                     "error": str(exc),
                     "updated_at": utc_now(),
                 }
