@@ -2,6 +2,7 @@ import os
 import requests
 
 ISSUE_TITLE = "Podcast Notifications"
+MAX_COMMENTS_PER_ISSUE = 2400
 
 _PENDING = []
 
@@ -37,19 +38,31 @@ def _find_or_create_issue(token, repo, api_url):
     base = f"{api_url}/repos/{repo}/issues"
     response = _request("GET", base, token, params={"state": "open", "per_page": 100})
 
-    for issue in response:
-        if issue.get("title") == ISSUE_TITLE and "pull_request" not in issue:
+    candidates = [
+        issue for issue in response
+        if issue.get("title", "").startswith(ISSUE_TITLE)
+        and "pull_request" not in issue
+    ]
+    candidates.sort(key=lambda item: item.get("number", 0), reverse=True)
+
+    for issue in candidates:
+        if int(issue.get("comments", 0) or 0) < MAX_COMMENTS_PER_ISSUE:
             return issue["number"]
+
+    suffix = ""
+    if candidates:
+        suffix = f" #{len(candidates) + 1}"
 
     issue = _request(
         "POST",
         base,
         token,
         json={
-            "title": ISSUE_TITLE,
+            "title": ISSUE_TITLE + suffix,
             "body": (
                 "This issue is used by Podcast Monitor for new-episode notifications.\n\n"
-                "Each monitoring run adds one batched comment containing the new episodes."
+                "Each monitoring run adds one batched comment containing the new episodes.\n\n"
+                f"A new issue is opened automatically before reaching {MAX_COMMENTS_PER_ISSUE} comments."
             ),
         },
     )
