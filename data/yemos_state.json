@@ -1853,7 +1853,7 @@
       "title": "עונה 1 - פרק 15: נדב פורז - מייסד ומנכ״ל whosampled.com",
       "status": "error",
       "error": "UploadFile finalization failed: path is invalid (messageCode=110)",
-      "updated_at": "2026-09-26T17:13:56.625663+00:00"
+      "updated_at": "2026-09-27T02:18:05.969959+00:00"
     },
     "448ca1a7-018e-4f1a-a85e-b33f00d9bd1d": {
       "podcast_id": "music_tech",
@@ -12658,6 +12658,235 @@
       "path": "ivr2:/1/26/160.wav",
       "filename_stem": "160",
       "uploaded_at": "2026-09-26T22:07:04.585056+00:00"
+    },
+    "57222af8-9c52-457d-8fcc-b48700f54f24": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "להמציא את הכדור מחדש",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/1.wav",
+      "filename_stem": "1",
+      "uploaded_at": "2026-09-27T02:12:09.383807+00:00"
+    },
+    "636c150f-454a-4108-b636-b48f008fccd2": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "סטארט-אפ ניישן או סעד ניישן: מי יפרנס אותנו כשהבינה המלאכותית תעשה הכל?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/2.wav",
+      "filename_stem": "2",
+      "uploaded_at": "2026-09-27T02:12:51.792445+00:00"
+    },
+    "24e649d1-e15c-47f5-a4f4-b49501562f07": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מפצל מסלול מחדש: איך מתכוננים לתרחישים מנוגדים?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/3.wav",
+      "filename_stem": "3",
+      "uploaded_at": "2026-09-27T02:13:22.655611+00:00"
+    },
+    "ad51db29-4530-40db-870e-b49d008b2764": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים: עמה ספר!",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/4.wav",
+      "filename_stem": "4",
+      "uploaded_at": "2026-09-27T02:14:07.798018+00:00"
+    },
+    "a4ba2e07-7ed3-4fb0-880e-b4a4009432f4": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים: בינה מלאכותית ברה מז'ור",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/5.wav",
+      "filename_stem": "5",
+      "uploaded_at": "2026-09-27T02:14:33.678964+00:00"
+    },
+    "9f3b9763-a81c-4f7e-8259-b4b101769620": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים: ממדפים לשרתים- המהפכה הטכנולוגית של וולמארט",
+      "status": "error",
+      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "updated_at": "2026-09-27T02:15:08.070304+00:00"
+    },
+    "ad0f2437-8952-41f7-a2e3-b4b900866924": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "פרק חדש! כשהסוכנים יצאו משליטה: הצצה לתוך המוח של המכונה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-27T02:15:33.020878+00:00"
+    },
+    "aebf57b4-54fb-4e77-b73c-b4c000916dce": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מאנדרגראונד לארץ נהדרת: הפודקאסט משתלט על עולם התקשורת",
+      "status": "error",
+      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "updated_at": "2026-09-27T02:16:08.378262+00:00"
+    },
+    "6a88d308-60d0-4454-bcbe-b4c60108e04d": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "Baby no one drives my car",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-27T02:16:53.519192+00:00"
+    },
+    "1578f2e9-b1f5-4d4d-8460-b4cd00f2f3c1": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "קוראים לה בקפה: מה יעלה בגורלה של סטארבקס?",
+      "status": "error",
+      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "updated_at": "2026-09-27T02:17:27.989528+00:00"
+    },
+    "93dbce7e-129d-44e6-82c3-b48200d992df": {
+      "podcast_id": "ear_catcher",
+      "title": "״אני לא רציתי לעשות את המיקרו דרמה״- פרק 442 עם איילת ניצן סמנכ״לית השיווק של יד2",
+      "status": "uploaded",
+      "path": "ivr2:/1/24/1.wav",
+      "filename_stem": "1",
+      "uploaded_at": "2026-09-27T02:18:58.390436+00:00"
+    },
+    "445bd34f-df59-4237-ba78-b48c00645842": {
+      "podcast_id": "ear_catcher",
+      "title": "גאון יח״צ או רודף טרנדים? פרק 443 עם זאביק דרור, בעלים של משרד אסטרטגיה ותקשורת",
+      "status": "uploaded",
+      "path": "ivr2:/1/24/2.wav",
+      "filename_stem": "2",
+      "uploaded_at": "2026-09-27T02:19:55.800514+00:00"
+    },
+    "8880b6b0-866d-43a5-b9f5-b49000acfa51": {
+      "podcast_id": "ear_catcher",
+      "title": "עשו מה שבקראנץ׳ שלהם? פרק 444 עם רועי מדלי מנהל קריאייטיב בגליקמן על הקמפיין האחרון של קראנץ׳",
+      "status": "uploaded",
+      "path": "ivr2:/1/24/3.wav",
+      "filename_stem": "3",
+      "uploaded_at": "2026-09-27T02:20:11.389943+00:00"
+    },
+    "94042862-c9ff-42cd-ada2-b49500dd20d1": {
+      "podcast_id": "ear_catcher",
+      "title": "הבנצ׳מרק הראשון לפעילות משפיענים- פרק 445 עם לינוי יחזקאל אלבו מנכ״לית Humanz ישראל",
+      "status": "uploaded",
+      "path": "ivr2:/1/24/4.wav",
+      "filename_stem": "4",
+      "uploaded_at": "2026-09-27T02:21:01.488582+00:00"
+    },
+    "2bb42c21-5c8f-4284-90e0-b49d009285ff": {
+      "podcast_id": "ear_catcher",
+      "title": "איך הופכים מיוצרי תוכן למכונת קמפיינים? פרק 446 עם יערה אוחיון  שותפה ב-Rizz ומנהלת לשעבר של קהילת היוצרים של טיקטוק",
+      "status": "uploaded",
+      "path": "ivr2:/1/24/5.wav",
+      "filename_stem": "5",
+      "uploaded_at": "2026-09-27T02:21:57.883309+00:00"
+    },
+    "321c1656-7e5b-40cc-afee-b4a400c5d7ec": {
+      "podcast_id": "ear_catcher",
+      "title": "לזכרו של אורן פרנק ז״ל מי שהיה סמנכ״ל קריאייטיב ומנכ״ל מקאן- פרק מיוחד עם איל לינור",
+      "status": "uploaded",
+      "path": "ivr2:/1/24/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-27T02:22:50.811884+00:00"
+    },
+    "0f1c7190-47b4-40a4-a1b0-b4ac0077c7f0": {
+      "podcast_id": "ear_catcher",
+      "title": "הקפיצה הטכנולוגית של ניטור השיח ברשת! פרק 448 עם יונתן חסידים מנכ״ל חברת סקופר",
+      "status": "uploaded",
+      "path": "ivr2:/1/24/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-27T02:23:35.690448+00:00"
+    },
+    "e15d3320-a8bd-4be7-a71f-b4b300c8e76e": {
+      "podcast_id": "ear_catcher",
+      "title": "המיתוג שהצית סערת רשת- עם גיא בן נון מנכ״ל עברית",
+      "status": "uploaded",
+      "path": "ivr2:/1/24/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-27T02:23:56.094624+00:00"
+    },
+    "cd7a3129-cda0-44bb-8c5e-b4bf0092c8e5": {
+      "podcast_id": "ear_catcher",
+      "title": "״ג׳ימבו ג׳יי, קח את השלטים שלנו ותפיח בהם רוח חיים״ - פרק 450 עם שרון ברוקנר סמנכ״ל השיווק של טמבור",
+      "status": "uploaded",
+      "path": "ivr2:/1/24/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-27T02:24:32.981428+00:00"
+    },
+    "https://feeds.hubhopper.com/frontiershebrew.podbean.com/b7c0e5e1-21ff-38ae-98e7-4f465ec92a25": {
+      "podcast_id": "frontiers_youth",
+      "title": "פרק 9: קרחונים נמסים ועליית מפלס הים",
+      "status": "uploaded",
+      "path": "ivr2:/1/41/1.wav",
+      "filename_stem": "1",
+      "uploaded_at": "2026-09-27T02:26:15.797377+00:00"
+    },
+    "https://feeds.hubhopper.com/frontiershebrew.podbean.com/37f4e026-f01d-34e7-b6de-953a63436550": {
+      "podcast_id": "frontiers_youth",
+      "title": "פרק 10: תורת המשחקים",
+      "status": "uploaded",
+      "path": "ivr2:/1/41/2.wav",
+      "filename_stem": "2",
+      "uploaded_at": "2026-09-27T02:26:30.367685+00:00"
+    },
+    "https://feeds.hubhopper.com/frontiershebrew.podbean.com/5625f82c-a551-3028-8d89-5800186d925f": {
+      "podcast_id": "frontiers_youth",
+      "title": "פרק 11 - קסם תאי הגזע - פרונטירז מדע לצעירים - עונה 2",
+      "status": "uploaded",
+      "path": "ivr2:/1/41/3.wav",
+      "filename_stem": "3",
+      "uploaded_at": "2026-09-27T02:26:43.612900+00:00"
+    },
+    "https://feeds.hubhopper.com/frontiershebrew.podbean.com/f3716f67-cf91-3944-a51f-c0403b8bdc8f": {
+      "podcast_id": "frontiers_youth",
+      "title": "פרק 12: לראות בלי לראות או מה זה התמרה חושית - פרונטירז עונה 2",
+      "status": "uploaded",
+      "path": "ivr2:/1/41/4.wav",
+      "filename_stem": "4",
+      "uploaded_at": "2026-09-27T02:26:57.724627+00:00"
+    },
+    "https://api.spreaker.com/episode/44846653": {
+      "podcast_id": "frontiers_youth",
+      "title": "פרק 13: כוכבים רחוקים - פרונטירז עונה 3",
+      "status": "uploaded",
+      "path": "ivr2:/1/41/5.wav",
+      "filename_stem": "5",
+      "uploaded_at": "2026-09-27T02:27:17.978580+00:00"
+    },
+    "https://api.spreaker.com/episode/44846657": {
+      "podcast_id": "frontiers_youth",
+      "title": "פרק 14: קורונה - פרונטירז עונה 3",
+      "status": "uploaded",
+      "path": "ivr2:/1/41/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-27T02:27:36.765587+00:00"
+    },
+    "https://api.spreaker.com/episode/44846656": {
+      "podcast_id": "frontiers_youth",
+      "title": "פרק 15 - אימון גופני למוח - פרונטירז עונה 3",
+      "status": "uploaded",
+      "path": "ivr2:/1/41/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-09-27T02:27:55.179309+00:00"
+    },
+    "https://api.spreaker.com/episode/44846659": {
+      "podcast_id": "frontiers_youth",
+      "title": "פרק 16: המוח חש אמפתיה... רגע מאיפה אתה? - פרונטירז מדע לצעירים – עונה 3",
+      "status": "uploaded",
+      "path": "ivr2:/1/41/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-09-27T02:28:11.936174+00:00"
+    },
+    "https://api.spreaker.com/episode/44846660": {
+      "podcast_id": "frontiers_youth",
+      "title": "פרק 17: מספרים ראשוניים שומרים עלינו - פרונטירז עונה 3",
+      "status": "uploaded",
+      "path": "ivr2:/1/41/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-09-27T02:28:28.203690+00:00"
+    },
+    "https://api.spreaker.com/episode/44846658": {
+      "podcast_id": "frontiers_youth",
+      "title": "פרק 18: אבולוציה ולאן נעלמו המינים האחרים? - פרונטירז עונה 3",
+      "status": "uploaded",
+      "path": "ivr2:/1/41/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-09-27T02:28:46.502525+00:00"
     }
   },
   "next_numbers": {
@@ -12681,14 +12910,17 @@
     "18": 11,
     "19": 11,
     "21": 11,
-    "22": 20,
+    "22": 21,
     "23": 11,
     "25": 9,
     "26": 161,
     "27": 11,
-    "37": 100,
+    "37": 109,
     "38": 11,
     "39": 9,
-    "40": 7
+    "40": 7,
+    "20": 11,
+    "24": 11,
+    "41": 11
   }
 }

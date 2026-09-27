@@ -1,6 +1,248 @@
 {
-  "updated_at": "2026-09-26T22:07:27.526925+00:00",
+  "updated_at": "2026-09-27T02:28:49.725958+00:00",
   "runs": [
+    {
+      "run_id": "36285736438",
+      "run_number": "90",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-09-27T02:28:49.725958+00:00",
+      "israel_time": "27/09/2026 05:28",
+      "uploads": 29,
+      "feed_errors": 3,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36285736438",
+      "items": [
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "להמציא את הכדור מחדש",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/1.wav"
+          ]
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "סטארט-אפ ניישן או סעד ניישן: מי יפרנס אותנו כשהבינה המלאכותית תעשה הכל?",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/2.wav"
+          ]
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "מפצל מסלול מחדש: איך מתכוננים לתרחישים מנוגדים?",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/3.wav"
+          ]
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "הפרקים האהובים: עמה ספר!",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/4.wav"
+          ]
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "הפרקים האהובים: בינה מלאכותית ברה מז'ור",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/5.wav"
+          ]
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "הפרקים האהובים: ממדפים לשרתים- המהפכה הטכנולוגית של וולמארט",
+          "destinations": [
+            "Google Drive"
+          ]
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "פרק חדש! כשהסוכנים יצאו משליטה: הצצה לתוך המוח של המכונה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/7.wav"
+          ]
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "מאנדרגראונד לארץ נהדרת: הפודקאסט משתלט על עולם התקשורת",
+          "destinations": [
+            "Google Drive"
+          ]
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "Baby no one drives my car",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/9.wav"
+          ]
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "קוראים לה בקפה: מה יעלה בגורלה של סטארבקס?",
+          "destinations": [
+            "Google Drive"
+          ]
+        },
+        {
+          "podcast": "Ear Catcher",
+          "title": "״אני לא רציתי לעשות את המיקרו דרמה״- פרק 442 עם איילת ניצן סמנכ״לית השיווק של יד2",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/24/1.wav"
+          ]
+        },
+        {
+          "podcast": "Ear Catcher",
+          "title": "גאון יח״צ או רודף טרנדים? פרק 443 עם זאביק דרור, בעלים של משרד אסטרטגיה ותקשורת",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/24/2.wav"
+          ]
+        },
+        {
+          "podcast": "Ear Catcher",
+          "title": "עשו מה שבקראנץ׳ שלהם? פרק 444 עם רועי מדלי מנהל קריאייטיב בגליקמן על הקמפיין האחרון של קראנץ׳",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/24/3.wav"
+          ]
+        },
+        {
+          "podcast": "Ear Catcher",
+          "title": "הבנצ׳מרק הראשון לפעילות משפיענים- פרק 445 עם לינוי יחזקאל אלבו מנכ״לית Humanz ישראל",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/24/4.wav"
+          ]
+        },
+        {
+          "podcast": "Ear Catcher",
+          "title": "איך הופכים מיוצרי תוכן למכונת קמפיינים? פרק 446 עם יערה אוחיון  שותפה ב-Rizz ומנהלת לשעבר של קהילת היוצרים של טיקטוק",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/24/5.wav"
+          ]
+        },
+        {
+          "podcast": "Ear Catcher",
+          "title": "לזכרו של אורן פרנק ז״ל מי שהיה סמנכ״ל קריאייטיב ומנכ״ל מקאן- פרק מיוחד עם איל לינור",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/24/6.wav"
+          ]
+        },
+        {
+          "podcast": "Ear Catcher",
+          "title": "הקפיצה הטכנולוגית של ניטור השיח ברשת! פרק 448 עם יונתן חסידים מנכ״ל חברת סקופר",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/24/7.wav"
+          ]
+        },
+        {
+          "podcast": "Ear Catcher",
+          "title": "המיתוג שהצית סערת רשת- עם גיא בן נון מנכ״ל עברית",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/24/8.wav"
+          ]
+        },
+        {
+          "podcast": "Ear Catcher",
+          "title": "״ג׳ימבו ג׳יי, קח את השלטים שלנו ותפיח בהם רוח חיים״ - פרק 450 עם שרון ברוקנר סמנכ״ל השיווק של טמבור",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/24/9.wav"
+          ]
+        },
+        {
+          "podcast": "פרונטירז – מדע לצעירים",
+          "title": "פרק 9: קרחונים נמסים ועליית מפלס הים",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/41/1.wav"
+          ]
+        },
+        {
+          "podcast": "פרונטירז – מדע לצעירים",
+          "title": "פרק 10: תורת המשחקים",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/41/2.wav"
+          ]
+        },
+        {
+          "podcast": "פרונטירז – מדע לצעירים",
+          "title": "פרק 11 - קסם תאי הגזע - פרונטירז מדע לצעירים - עונה 2",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/41/3.wav"
+          ]
+        },
+        {
+          "podcast": "פרונטירז – מדע לצעירים",
+          "title": "פרק 12: לראות בלי לראות או מה זה התמרה חושית - פרונטירז עונה 2",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/41/4.wav"
+          ]
+        },
+        {
+          "podcast": "פרונטירז – מדע לצעירים",
+          "title": "פרק 13: כוכבים רחוקים - פרונטירז עונה 3",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/41/5.wav"
+          ]
+        },
+        {
+          "podcast": "פרונטירז – מדע לצעירים",
+          "title": "פרק 14: קורונה - פרונטירז עונה 3",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/41/6.wav"
+          ]
+        },
+        {
+          "podcast": "פרונטירז – מדע לצעירים",
+          "title": "פרק 15 - אימון גופני למוח - פרונטירז עונה 3",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/41/7.wav"
+          ]
+        },
+        {
+          "podcast": "פרונטירז – מדע לצעירים",
+          "title": "פרק 16: המוח חש אמפתיה... רגע מאיפה אתה? - פרונטירז מדע לצעירים – עונה 3",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/41/8.wav"
+          ]
+        },
+        {
+          "podcast": "פרונטירז – מדע לצעירים",
+          "title": "פרק 17: מספרים ראשוניים שומרים עלינו - פרונטירז עונה 3",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/41/9.wav"
+          ]
+        },
+        {
+          "podcast": "פרונטירז – מדע לצעירים",
+          "title": "פרק 18: אבולוציה ולאן נעלמו המינים האחרים? - פרונטירז עונה 3",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/41/10.wav"
+          ]
+        }
+      ]
+    },
     {
       "run_id": "36273286465",
       "run_number": "87",
