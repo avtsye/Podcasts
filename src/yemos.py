@@ -186,24 +186,50 @@ def _upload_large(source, destination, token):
                 f"{part_index + 1}/{total_parts}"
             )
 
+    final_params = {
+        "token": token,
+        "path": destination,
+        "convertAudio": "1",
+        "autoNumbering": "false",
+        "tts": "0",
+        "uploader": "yemot-admin",
+        "qquuid": upload_uuid,
+        "qqfilename": source.name,
+        "qqtotalfilesize": str(total_size),
+        "qqtotalparts": str(total_parts),
+    }
+
     response = requests.post(
         f"{API_BASE}/UploadFile?done",
-        data={
-            "token": token,
-            "path": destination,
-            "convertAudio": "1",
-            "autoNumbering": "false",
-            "tts": "0",
-            "uploader": "yemot-admin",
-            "qquuid": upload_uuid,
-            "qqfilename": source.name,
-            "qqtotalfilesize": str(total_size),
-            "qqtotalparts": str(total_parts),
-        },
+        data=final_params,
         timeout=(30, 1800),
     )
 
-    return _parse_response(response, operation="UploadFile finalization")
+    try:
+        return _parse_response(
+            response,
+            operation="UploadFile finalization",
+        )
+    except YemosError as exc:
+        # Some Yemos UploadFile deployments accept the chunk-join
+        # parameters more reliably in the query string. Retry only the
+        # finalization request; the uploaded chunks are reused.
+        if "path is invalid" not in str(exc).lower():
+            raise
+
+        print(
+            "Yemos upload: finalization returned path is invalid; "
+            "retrying finalization with query parameters."
+        )
+        retry = requests.post(
+            f"{API_BASE}/UploadFile",
+            params={"done": "", **final_params},
+            timeout=(30, 1800),
+        )
+        return _parse_response(
+            retry,
+            operation="UploadFile finalization retry",
+        )
 
 
 def upload_audio(local_path, podcast_name, filename, branch="1"):
