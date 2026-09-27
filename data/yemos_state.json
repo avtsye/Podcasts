@@ -1853,7 +1853,7 @@
       "title": "עונה 1 - פרק 15: נדב פורז - מייסד ומנכ״ל whosampled.com",
       "status": "error",
       "error": "UploadFile finalization failed: path is invalid (messageCode=110)",
-      "updated_at": "2026-09-27T02:18:05.969959+00:00"
+      "updated_at": "2026-09-27T08:17:38.648090+00:00"
     },
     "448ca1a7-018e-4f1a-a85e-b33f00d9bd1d": {
       "podcast_id": "music_tech",
@@ -12702,9 +12702,10 @@
     "9f3b9763-a81c-4f7e-8259-b4b101769620": {
       "podcast_id": "zman_sheavodtem",
       "title": "הפרקים האהובים: ממדפים לשרתים- המהפכה הטכנולוגית של וולמארט",
-      "status": "error",
-      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "updated_at": "2026-09-27T02:15:08.070304+00:00"
+      "status": "uploaded",
+      "path": "ivr2:/1/20/11.wav",
+      "filename_stem": "11",
+      "uploaded_at": "2026-09-27T08:16:25.698689+00:00"
     },
     "ad0f2437-8952-41f7-a2e3-b4b900866924": {
       "podcast_id": "zman_sheavodtem",
@@ -12717,9 +12718,10 @@
     "aebf57b4-54fb-4e77-b73c-b4c000916dce": {
       "podcast_id": "zman_sheavodtem",
       "title": "מאנדרגראונד לארץ נהדרת: הפודקאסט משתלט על עולם התקשורת",
-      "status": "error",
-      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "updated_at": "2026-09-27T02:16:08.378262+00:00"
+      "status": "uploaded",
+      "path": "ivr2:/1/20/12.wav",
+      "filename_stem": "12",
+      "uploaded_at": "2026-09-27T08:16:50.345139+00:00"
     },
     "6a88d308-60d0-4454-bcbe-b4c60108e04d": {
       "podcast_id": "zman_sheavodtem",
@@ -12732,9 +12734,10 @@
     "1578f2e9-b1f5-4d4d-8460-b4cd00f2f3c1": {
       "podcast_id": "zman_sheavodtem",
       "title": "קוראים לה בקפה: מה יעלה בגורלה של סטארבקס?",
-      "status": "error",
-      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "updated_at": "2026-09-27T02:17:27.989528+00:00"
+      "status": "uploaded",
+      "path": "ivr2:/1/20/13.wav",
+      "filename_stem": "13",
+      "uploaded_at": "2026-09-27T08:17:10.747753+00:00"
     },
     "93dbce7e-129d-44e6-82c3-b48200d992df": {
       "podcast_id": "ear_catcher",
@@ -12887,10 +12890,26 @@
       "path": "ivr2:/1/41/10.wav",
       "filename_stem": "10",
       "uploaded_at": "2026-09-27T02:28:46.502525+00:00"
+    },
+    "7f2b5799-91fb-4cd2-a752-b4d100f84e49": {
+      "podcast_id": "ehad_beyom",
+      "title": "השוליים של גרמניה במרכז",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/1303.wav",
+      "filename_stem": "1303",
+      "uploaded_at": "2026-09-27T08:15:48.413475+00:00"
+    },
+    "c7379183-2257-4bd6-8a36-b4c700eeafc8": {
+      "podcast_id": "ear_catcher",
+      "title": "מה עושים אחרי ההצלחה של קראנץ' פיסטוק? פרק 451 עם עדי רובינשטיין, מנהלת השיווק של גלידות נסטלה",
+      "status": "uploaded",
+      "path": "ivr2:/1/24/11.wav",
+      "filename_stem": "11",
+      "uploaded_at": "2026-09-27T08:18:08.610995+00:00"
     }
   },
   "next_numbers": {
-    "1": 1303,
+    "1": 1304,
     "2": 12,
     "3": 11,
     "4": 11,
@@ -12910,17 +12929,17 @@
     "18": 11,
     "19": 11,
     "21": 11,
-    "22": 21,
+    "22": 22,
     "23": 11,
     "25": 9,
     "26": 161,
     "27": 11,
-    "37": 109,
+    "37": 118,
     "38": 11,
     "39": 9,
     "40": 7,
-    "20": 11,
-    "24": 11,
+    "20": 14,
+    "24": 12,
     "41": 11
   }
 }
