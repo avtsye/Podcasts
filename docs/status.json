@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T08:35:01.066679+00:00",
+  "updated_at": "2026-09-27T12:57:29.293477+00:00",
   "podcasts": [
     {
       "id": "ehad_beyom",
@@ -9,7 +9,7 @@
       "yemos_branch": "1",
       "category": "חדשות ואקטואליה",
       "feed_error": "",
-      "last_checked": "2026-09-27T08:15:48.460561+00:00",
+      "last_checked": "2026-09-27T08:41:43.156478+00:00",
       "episode_count": 1335
     },
     {
@@ -42,7 +42,7 @@
       "yemos_branch": "4",
       "category": "טכנולוגיה",
       "feed_error": "",
-      "last_checked": "2026-09-27T08:15:52.528938+00:00",
+      "last_checked": "2026-09-27T08:42:42.899289+00:00",
       "episode_count": 182
     },
     {
@@ -64,7 +64,7 @@
       "yemos_branch": "6",
       "category": "טכנולוגיה",
       "feed_error": "",
-      "last_checked": "2026-09-27T08:15:55.190588+00:00",
+      "last_checked": "2026-09-27T08:43:04.195510+00:00",
       "episode_count": 427
     },
     {
