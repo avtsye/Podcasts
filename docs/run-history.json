@@ -1,6 +1,82 @@
 {
-  "updated_at": "2026-09-27T08:18:28.926411+00:00",
+  "updated_at": "2026-09-27T08:43:08.605996+00:00",
   "runs": [
+    {
+      "run_id": "36306838740",
+      "run_number": "92",
+      "event": "issues",
+      "status": "success",
+      "utc_time": "2026-09-27T08:43:08.605996+00:00",
+      "israel_time": "27/09/2026 11:43",
+      "uploads": 8,
+      "feed_errors": 2,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36306838740",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "והמועמדים לבחירות 2026 הם...",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/1304.wav"
+          ]
+        },
+        {
+          "podcast": "אחד ביום",
+          "title": "מרד הסוכנים",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/1305.wav"
+          ]
+        },
+        {
+          "podcast": "אחד ביום",
+          "title": "למה בריטניה הטילה סנקציות?",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/1306.wav"
+          ]
+        },
+        {
+          "podcast": "אחד ביום",
+          "title": "גורם ההפתעה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/1307.wav"
+          ]
+        },
+        {
+          "podcast": "אחד ביום",
+          "title": "שפה משותפת",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/1308.wav"
+          ]
+        },
+        {
+          "podcast": "אחד ביום",
+          "title": "מצב האזנה עם עמית סגל: אהוד אולמרט והסודות מאחורי תקיפת הכור הסורי",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/1309.wav"
+          ]
+        },
+        {
+          "podcast": "עושים טכנולוגיה",
+          "title": "מה הבעיה שלי עם אפל [עושים טכנולוגיה] ש.ח.",
+          "destinations": [
+            "Google Drive"
+          ]
+        },
+        {
+          "podcast": "Startup for Startup",
+          "title": "368: איך יוצרים פריקשן שעוזר למשתמשים לאמץ את המוצר שלנו",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/6/12.wav"
+          ]
+        }
+      ]
+    },
     {
       "run_id": "36305611578",
       "run_number": "91",

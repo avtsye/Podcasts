@@ -1,7 +1,7 @@
 {
   "feeds": {
     "ehad_beyom": {
-      "last_checked": "2026-09-27T08:15:48.460561+00:00",
+      "last_checked": "2026-09-27T08:41:43.156478+00:00",
       "last_error": null
     },
     "geekonomy": {
@@ -13,7 +13,7 @@
       "last_error": null
     },
     "osim_tech": {
-      "last_checked": "2026-09-27T08:15:52.528938+00:00",
+      "last_checked": "2026-09-27T08:42:42.899289+00:00",
       "last_error": null
     },
     "hatshuva": {
@@ -21,7 +21,7 @@
       "last_error": null
     },
     "startup_for_startup": {
-      "last_checked": "2026-09-27T08:15:55.190588+00:00",
+      "last_checked": "2026-09-27T08:43:04.195510+00:00",
       "last_error": null
     },
     "money_engines": {
@@ -199,76 +199,6 @@
       "notification_sent_at": "2026-09-23T15:53:00.850206+00:00",
       "yemos_status": "uploaded",
       "yemos_path": "ivr2:/1/1/10.wav"
-    },
-    "00bafb61-6dba-42e5-a35a-b4c0015bd896": {
-      "podcast_id": "ehad_beyom",
-      "title": "והמועמדים לבחירות 2026 הם...",
-      "published": "Thu, 10 Sep 2026 01:45:00 +0000",
-      "audio_url": "https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/00bafb61-6dba-42e5-a35a-b4c0015bd896/audio.mp3?utm_source=Podcast&in_playlist=409bad89-c4c2-46cb-b69b-accf01152781",
-      "drive_file_id": "1cWWqrJrOZPRNsBwhmMLLFL_VvlDyuiHj",
-      "drive_url": "https://drive.google.com/file/d/1cWWqrJrOZPRNsBwhmMLLFL_VvlDyuiHj/view?usp=drivesdk",
-      "status": "notified",
-      "notification_status": "sent",
-      "processed_at": "2026-09-23T15:53:04.356429+00:00",
-      "notification_sent_at": "2026-09-23T15:53:05.334761+00:00",
-      "yemos_status": "uploaded",
-      "yemos_path": "ivr2:/1/1/1.wav"
-    },
-    "c4b89ed2-0427-4c1e-a34b-b4c400e51031": {
-      "podcast_id": "ehad_beyom",
-      "title": "מרד הסוכנים",
-      "published": "Mon, 14 Sep 2026 03:00:00 +0000",
-      "audio_url": "https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/c4b89ed2-0427-4c1e-a34b-b4c400e51031/audio.mp3?utm_source=Podcast&in_playlist=409bad89-c4c2-46cb-b69b-accf01152781",
-      "drive_file_id": "1TvMvLTOyiVHKRbN563x7VGC7pM7rRStc",
-      "drive_url": "https://drive.google.com/file/d/1TvMvLTOyiVHKRbN563x7VGC7pM7rRStc/view?usp=drivesdk",
-      "status": "notified",
-      "notification_status": "sent",
-      "processed_at": "2026-09-23T15:53:10.350157+00:00",
-      "notification_sent_at": "2026-09-23T15:53:11.361671+00:00",
-      "yemos_status": "uploaded",
-      "yemos_path": "ivr2:/1/1/2.wav"
-    },
-    "a00b78fb-034c-4e26-bb57-b4c501241970": {
-      "podcast_id": "ehad_beyom",
-      "title": "למה בריטניה הטילה סנקציות?",
-      "published": "Tue, 15 Sep 2026 01:32:02 +0000",
-      "audio_url": "https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/a00b78fb-034c-4e26-bb57-b4c501241970/audio.mp3?utm_source=Podcast&in_playlist=409bad89-c4c2-46cb-b69b-accf01152781",
-      "drive_file_id": "12ROwYy62WJLfOuLNOw3iFxQ37vXL-FyR",
-      "drive_url": "https://drive.google.com/file/d/12ROwYy62WJLfOuLNOw3iFxQ37vXL-FyR/view?usp=drivesdk",
-      "status": "notified",
-      "notification_status": "sent",
-      "processed_at": "2026-09-23T15:53:17.110249+00:00",
-      "notification_sent_at": "2026-09-23T15:53:18.315665+00:00",
-      "yemos_status": "uploaded",
-      "yemos_path": "ivr2:/1/1/3.wav"
-    },
-    "3f615e56-0a86-4a7b-989c-b4c6016ccb71": {
-      "podcast_id": "ehad_beyom",
-      "title": "גורם ההפתעה",
-      "published": "Wed, 16 Sep 2026 01:50:00 +0000",
-      "audio_url": "https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/3f615e56-0a86-4a7b-989c-b4c6016ccb71/audio.mp3?utm_source=Podcast&in_playlist=409bad89-c4c2-46cb-b69b-accf01152781",
-      "drive_file_id": "1_KBgIgHWNNJj17xL4P9WP3CFgbk3LWCC",
-      "drive_url": "https://drive.google.com/file/d/1_KBgIgHWNNJj17xL4P9WP3CFgbk3LWCC/view?usp=drivesdk",
-      "status": "notified",
-      "notification_status": "sent",
-      "processed_at": "2026-09-23T15:53:21.875946+00:00",
-      "notification_sent_at": "2026-09-23T15:53:23.081386+00:00",
-      "yemos_status": "uploaded",
-      "yemos_path": "ivr2:/1/1/4.wav"
-    },
-    "9b611e80-c836-41fc-b3c3-b4c70167bd16": {
-      "podcast_id": "ehad_beyom",
-      "title": "שפה משותפת",
-      "published": "Thu, 17 Sep 2026 01:45:00 +0000",
-      "audio_url": "https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/9b611e80-c836-41fc-b3c3-b4c70167bd16/audio.mp3?utm_source=Podcast&in_playlist=409bad89-c4c2-46cb-b69b-accf01152781",
-      "drive_file_id": "1v7hsR1ekZPiVn1uRueA3yDvwCAsGL0NK",
-      "drive_url": "https://drive.google.com/file/d/1v7hsR1ekZPiVn1uRueA3yDvwCAsGL0NK/view?usp=drivesdk",
-      "status": "notified",
-      "notification_status": "sent",
-      "processed_at": "2026-09-23T15:53:26.853142+00:00",
-      "notification_sent_at": "2026-09-23T15:53:28.358158+00:00",
-      "yemos_status": "uploaded",
-      "yemos_path": "ivr2:/1/1/5.wav"
     },
     "geekonomy.podbean.com/4f99d35b-c934-35e2-8a45-0553c4a400cf": {
       "podcast_id": "geekonomy",
@@ -676,20 +606,6 @@
       "yemos_status": "uploaded",
       "yemos_path": "ivr2:/1/4/4.wav"
     },
-    "https://api.spreaker.com/episode/75283499": {
-      "podcast_id": "osim_tech",
-      "title": "מה הבעיה שלי עם אפל [עושים טכנולוגיה] ש.ח.",
-      "published": "Tue, 22 Sep 2026 16:55:02 +0000",
-      "audio_url": "https://api.spreaker.com/download/episode/75283499/utf_8_b_157xlcdxlner16lxmdeuinep15zxmsdxotedineq16txnf8gw9ei_utf_8_b_15xxqdez150g15jxm9eg15xxnnev15lxmdeuxsdxl9et16kubxaz.mp3",
-      "drive_file_id": "1PzbZ-Ib_XIPXtwhEkhL-9F4Xw5tx8Il7",
-      "drive_url": "https://drive.google.com/file/d/1PzbZ-Ib_XIPXtwhEkhL-9F4Xw5tx8Il7/view?usp=drivesdk",
-      "status": "notified",
-      "notification_status": "sent",
-      "processed_at": "2026-09-23T15:57:10.981419+00:00",
-      "notification_sent_at": "2026-09-23T15:57:12.086281+00:00",
-      "yemos_status": "uploaded",
-      "yemos_path": "ivr2:/1/4/5.wav"
-    },
     "https://api.spreaker.com/episode/69241835": {
       "podcast_id": "hatshuva",
       "title": "מאיפה הגיעו החתולים? [התשובה]",
@@ -881,19 +797,6 @@
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T10:57:24.205871+00:00",
       "yemos_path": "ivr2:/1/6/4.wav"
-    },
-    "fce2f130-a008-4409-82ed-b4c600540483": {
-      "podcast_id": "startup_for_startup",
-      "title": "368: איך יוצרים פריקשן שעוזר למשתמשים לאמץ את המוצר שלנו",
-      "published": "Tue, 22 Sep 2026 02:00:00 +0000",
-      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/fce2f130-a008-4409-82ed-b4c600540483/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
-      "drive_file_id": "14-zpnEtA56vHtpVDo5wtovE6e9_q-gxV",
-      "drive_url": "https://drive.google.com/file/d/14-zpnEtA56vHtpVDo5wtovE6e9_q-gxV/view?usp=drivesdk",
-      "status": "uploaded",
-      "notification_status": "queued",
-      "yemos_status": "uploaded",
-      "processed_at": "2026-09-24T10:58:08.170932+00:00",
-      "yemos_path": "ivr2:/1/6/5.wav"
     },
     "cae6e5ac-21fe-4d11-a508-b4a500c6684e": {
       "podcast_id": "money_engines",
@@ -3744,19 +3647,6 @@
       "yemos_status": "uploaded",
       "processed_at": "2026-09-24T22:08:54.248095+00:00",
       "yemos_path": "ivr2:/1/2/11.wav"
-    },
-    "bb4840c2-4702-41c5-9422-b4cf015fba86": {
-      "podcast_id": "ehad_beyom",
-      "title": "מצב האזנה עם עמית סגל: אהוד אולמרט והסודות מאחורי תקיפת הכור הסורי",
-      "published": "Fri, 25 Sep 2026 05:30:00 +0000",
-      "audio_url": "https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/bb4840c2-4702-41c5-9422-b4cf015fba86/audio.mp3?utm_source=Podcast&in_playlist=409bad89-c4c2-46cb-b69b-accf01152781",
-      "drive_file_id": "1Jc0TOLAfRZDsT-oJfIFfnOoIz2Din-MM",
-      "drive_url": "https://drive.google.com/file/d/1Jc0TOLAfRZDsT-oJfIFfnOoIz2Din-MM/view?usp=drivesdk",
-      "status": "uploaded",
-      "notification_status": "queued",
-      "yemos_status": "uploaded",
-      "processed_at": "2026-09-25T07:53:18.659915+00:00",
-      "yemos_path": "ivr2:/1/1/1302.wav"
     },
     "32197afb-1e21-4a82-929e-acd60147f2c9": {
       "podcast_id": "ehad_beyom",
@@ -22386,6 +22276,118 @@
       "yemos_status": "uploaded",
       "processed_at": "2026-09-27T08:15:31.449974+00:00",
       "yemos_path": "ivr2:/1/1/1303.wav"
+    },
+    "00bafb61-6dba-42e5-a35a-b4c0015bd896": {
+      "podcast_id": "ehad_beyom",
+      "title": "והמועמדים לבחירות 2026 הם...",
+      "published": "Thu, 10 Sep 2026 01:45:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/00bafb61-6dba-42e5-a35a-b4c0015bd896/audio.mp3?utm_source=Podcast&in_playlist=409bad89-c4c2-46cb-b69b-accf01152781",
+      "drive_file_id": "1DWhCXaavqsPM0lIwVn9BG8xcvOcOap1W",
+      "drive_url": "https://drive.google.com/file/d/1DWhCXaavqsPM0lIwVn9BG8xcvOcOap1W/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-27T08:39:04.189896+00:00",
+      "yemos_path": "ivr2:/1/1/1304.wav",
+      "notification_sent_at": "2026-09-27T08:43:05.749670+00:00"
+    },
+    "c4b89ed2-0427-4c1e-a34b-b4c400e51031": {
+      "podcast_id": "ehad_beyom",
+      "title": "מרד הסוכנים",
+      "published": "Mon, 14 Sep 2026 03:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/c4b89ed2-0427-4c1e-a34b-b4c400e51031/audio.mp3?utm_source=Podcast&in_playlist=409bad89-c4c2-46cb-b69b-accf01152781",
+      "drive_file_id": "1eVavt-KSOvo91xPTz9jkohrCNcgK5mLW",
+      "drive_url": "https://drive.google.com/file/d/1eVavt-KSOvo91xPTz9jkohrCNcgK5mLW/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-27T08:39:37.041617+00:00",
+      "yemos_path": "ivr2:/1/1/1305.wav",
+      "notification_sent_at": "2026-09-27T08:43:05.749684+00:00"
+    },
+    "a00b78fb-034c-4e26-bb57-b4c501241970": {
+      "podcast_id": "ehad_beyom",
+      "title": "למה בריטניה הטילה סנקציות?",
+      "published": "Tue, 15 Sep 2026 01:32:02 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/a00b78fb-034c-4e26-bb57-b4c501241970/audio.mp3?utm_source=Podcast&in_playlist=409bad89-c4c2-46cb-b69b-accf01152781",
+      "drive_file_id": "1529Vg13DICNV5sEvcAFIvX6FEy9pEvRw",
+      "drive_url": "https://drive.google.com/file/d/1529Vg13DICNV5sEvcAFIvX6FEy9pEvRw/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-27T08:39:56.167113+00:00",
+      "yemos_path": "ivr2:/1/1/1306.wav",
+      "notification_sent_at": "2026-09-27T08:43:05.749686+00:00"
+    },
+    "3f615e56-0a86-4a7b-989c-b4c6016ccb71": {
+      "podcast_id": "ehad_beyom",
+      "title": "גורם ההפתעה",
+      "published": "Wed, 16 Sep 2026 01:50:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/3f615e56-0a86-4a7b-989c-b4c6016ccb71/audio.mp3?utm_source=Podcast&in_playlist=409bad89-c4c2-46cb-b69b-accf01152781",
+      "drive_file_id": "1xXN3pt3gEP1s3XmSQtYFow_66dtcvCPp",
+      "drive_url": "https://drive.google.com/file/d/1xXN3pt3gEP1s3XmSQtYFow_66dtcvCPp/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-27T08:40:15.222991+00:00",
+      "yemos_path": "ivr2:/1/1/1307.wav",
+      "notification_sent_at": "2026-09-27T08:43:05.749689+00:00"
+    },
+    "9b611e80-c836-41fc-b3c3-b4c70167bd16": {
+      "podcast_id": "ehad_beyom",
+      "title": "שפה משותפת",
+      "published": "Thu, 17 Sep 2026 01:45:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/9b611e80-c836-41fc-b3c3-b4c70167bd16/audio.mp3?utm_source=Podcast&in_playlist=409bad89-c4c2-46cb-b69b-accf01152781",
+      "drive_file_id": "12u76E_elRI0XXeG83T_4sy7xCZ490Rf6",
+      "drive_url": "https://drive.google.com/file/d/12u76E_elRI0XXeG83T_4sy7xCZ490Rf6/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-27T08:40:31.590153+00:00",
+      "yemos_path": "ivr2:/1/1/1308.wav",
+      "notification_sent_at": "2026-09-27T08:43:05.749691+00:00"
+    },
+    "bb4840c2-4702-41c5-9422-b4cf015fba86": {
+      "podcast_id": "ehad_beyom",
+      "title": "מצב האזנה עם עמית סגל: אהוד אולמרט והסודות מאחורי תקיפת הכור הסורי",
+      "published": "Fri, 25 Sep 2026 05:30:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/bb4840c2-4702-41c5-9422-b4cf015fba86/audio.mp3?utm_source=Podcast&in_playlist=409bad89-c4c2-46cb-b69b-accf01152781",
+      "drive_file_id": "1Jc0TOLAfRZDsT-oJfIFfnOoIz2Din-MM",
+      "drive_url": "https://drive.google.com/file/d/1Jc0TOLAfRZDsT-oJfIFfnOoIz2Din-MM/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-27T08:40:58.053259+00:00",
+      "yemos_path": "ivr2:/1/1/1309.wav",
+      "notification_sent_at": "2026-09-27T08:43:05.749692+00:00"
+    },
+    "https://api.spreaker.com/episode/75283499": {
+      "podcast_id": "osim_tech",
+      "title": "מה הבעיה שלי עם אפל [עושים טכנולוגיה] ש.ח.",
+      "published": "Tue, 22 Sep 2026 16:55:02 +0000",
+      "audio_url": "https://api.spreaker.com/download/episode/75283499/utf_8_b_157xlcdxlner16lxmdeuinep15zxmsdxotedineq16txnf8gw9ei_utf_8_b_15xxqdez150g15jxm9eg15xxnnev15lxmdeuxsdxl9et16kubxaz.mp3",
+      "drive_file_id": "1PzbZ-Ib_XIPXtwhEkhL-9F4Xw5tx8Il7",
+      "drive_url": "https://drive.google.com/file/d/1PzbZ-Ib_XIPXtwhEkhL-9F4Xw5tx8Il7/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "error",
+      "processed_at": "2026-09-27T08:41:51.505362+00:00",
+      "yemos_error": "UploadFile finalization failed: Unknown Yemos API error",
+      "notification_sent_at": "2026-09-27T08:43:05.749694+00:00"
+    },
+    "fce2f130-a008-4409-82ed-b4c600540483": {
+      "podcast_id": "startup_for_startup",
+      "title": "368: איך יוצרים פריקשן שעוזר למשתמשים לאמץ את המוצר שלנו",
+      "published": "Tue, 22 Sep 2026 02:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/fce2f130-a008-4409-82ed-b4c600540483/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "drive_file_id": "14-zpnEtA56vHtpVDo5wtovE6e9_q-gxV",
+      "drive_url": "https://drive.google.com/file/d/14-zpnEtA56vHtpVDo5wtovE6e9_q-gxV/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-27T08:42:49.403531+00:00",
+      "yemos_path": "ivr2:/1/6/12.wav",
+      "notification_sent_at": "2026-09-27T08:43:05.749696+00:00"
     }
   }
 }
