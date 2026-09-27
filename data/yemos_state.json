@@ -1796,8 +1796,9 @@
       "podcast_id": "music_tech",
       "title": "עונה 1 - פרק 15: נדב פורז - מייסד ומנכ״ל whosampled.com",
       "status": "error",
-      "error": "UploadFile finalization failed: path is invalid (messageCode=110)",
-      "updated_at": "2026-09-27T08:17:38.648090+00:00"
+      "filename_stem": "22",
+      "error": "UploadFile finalization retry failed: Invalid file identifier or file name.",
+      "updated_at": "2026-09-27T14:05:51.465038+00:00"
     },
     "448ca1a7-018e-4f1a-a85e-b33f00d9bd1d": {
       "podcast_id": "music_tech",
@@ -12895,8 +12896,9 @@
       "podcast_id": "osim_tech",
       "title": "מה הבעיה שלי עם אפל [עושים טכנולוגיה] ש.ח.",
       "status": "error",
+      "filename_stem": "12",
       "error": "UploadFile finalization failed: Unknown Yemos API error",
-      "updated_at": "2026-09-27T08:42:42.852491+00:00"
+      "updated_at": "2026-09-27T14:05:07.507046+00:00"
     },
     "fce2f130-a008-4409-82ed-b4c600540483": {
       "podcast_id": "startup_for_startup",
@@ -12911,7 +12913,7 @@
     "1": 1310,
     "2": 12,
     "3": 11,
-    "4": 12,
+    "4": 13,
     "5": 11,
     "6": 13,
     "7": 11,
@@ -12928,12 +12930,12 @@
     "18": 11,
     "19": 11,
     "21": 11,
-    "22": 22,
+    "22": 23,
     "23": 11,
     "25": 9,
     "26": 161,
     "27": 11,
-    "37": 118,
+    "37": 127,
     "38": 11,
     "39": 9,
     "40": 7,
