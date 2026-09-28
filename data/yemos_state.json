@@ -1798,7 +1798,7 @@
       "status": "error",
       "filename_stem": "22",
       "error": "UploadFile finalization retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-09-27T22:17:39.457722+00:00"
+      "updated_at": "2026-09-28T00:54:27.668037+00:00"
     },
     "448ca1a7-018e-4f1a-a85e-b33f00d9bd1d": {
       "podcast_id": "music_tech",
@@ -12898,7 +12898,7 @@
       "status": "error",
       "filename_stem": "12",
       "error": "UploadFile finalization failed: Unknown Yemos API error",
-      "updated_at": "2026-09-27T22:17:02.864749+00:00"
+      "updated_at": "2026-09-28T00:53:38.237899+00:00"
     },
     "fce2f130-a008-4409-82ed-b4c600540483": {
       "podcast_id": "startup_for_startup",
@@ -12943,7 +12943,7 @@
     "25": 9,
     "26": 161,
     "27": 11,
-    "37": 145,
+    "37": 154,
     "38": 11,
     "39": 9,
     "40": 7,
