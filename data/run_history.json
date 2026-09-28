@@ -1,6 +1,418 @@
 {
-  "updated_at": "2026-09-28T18:46:56.293466+00:00",
+  "updated_at": "2026-09-28T21:01:52.131341+00:00",
   "runs": [
+    {
+      "run_id": "36481303673",
+      "run_number": "103",
+      "event": "issues",
+      "status": "success",
+      "utc_time": "2026-09-28T21:01:52.131341+00:00",
+      "israel_time": "29/09/2026 00:01",
+      "uploads": 54,
+      "feed_errors": 3,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36481303673",
+      "items": [
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #457 - ניק צדוק ופוטבול",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/13.wav"
+          ]
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #765 - ניר צדוק סקנד דאון",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/14.wav"
+          ]
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1079 - ניר צדוק אוהד הפועל",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/15.wav"
+          ]
+        },
+        {
+          "podcast": "עושים טכנולוגיה",
+          "title": "עדכון מחזית המאבק בשוק העבודה [עושים טכנולוגיה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/4/14.wav"
+          ]
+        },
+        {
+          "podcast": "Startup for Startup",
+          "title": "175: אלטרנטיב  - הקמה וצמיחה של חברה שמתמקדת בשוק הישראלי (ליאור וילצ׳ינסקי ורמי גבאי, morning של חשבונית ירוקה)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/6/13.wav"
+          ]
+        },
+        {
+          "podcast": "Startup for Startup",
+          "title": "180: אלטרנטיב - על הקמת חברה טכנולוגית בשוק לא טכנולוגי (דפנה עקיבא, Veev)",
+          "destinations": [
+            "Google Drive"
+          ]
+        },
+        {
+          "podcast": "Startup for Startup",
+          "title": "212: השיעורים שלמדנו בוול-סטריט - על משקיעים בשוק ההון (ערן זינמן ואלירן גלזר)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/6/15.wav"
+          ]
+        },
+        {
+          "podcast": "Startup for Startup",
+          "title": "244: איך נשארים רלוונטיים בשוק מלא בתחרות (ירון אינגר, לייטריקס)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/6/16.wav"
+          ]
+        },
+        {
+          "podcast": "Startup for Startup",
+          "title": "287: סטארטאפים בניו-יורק - איך התחלנו בשוק האמריקאי? (יותם כהן)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/6/17.wav"
+          ]
+        },
+        {
+          "podcast": "מנועי הכסף",
+          "title": "פרק 331 - מה עושים כשהתנודתיות בוול סטריט מזכירה מניה בינונית בשוק נידח",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/7/11.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "מינים פולשים עם ציפי המיינה | עונה 1: בסביבה שלנו, פרק 1",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/11.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "אקלים עם פרי הפרפר | עונה 1: בסביבה שלנו, פרק 2",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/12.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "זבל עם משי המשאית | עונה 1: בסביבה שלנו, פרק 3",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/13.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "עצים עם אילן העץ | עונה 1: בסביבה שלנו, פרק 4",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/14.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "מזון העתיד עם ז'אן פייר הקיפוד | עונה 1: בסביבה שלנו, פרק 5",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/15.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "ים עם ימי כלב הים | עונה 1: בסביבה שלנו, פרק 6",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/16.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "דבורים עם מלכה המלכה | עונה 1: בסביבה שלנו, פרק 7",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/17.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "בעלי חיים בעיר עם חזי חזיר הבר | עונה 1: בסביבה שלנו, פרק 8",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/18.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "טקסטיל עם סוודי הסוודר | עונה 1: בסביבה שלנו, פרק 9",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/19.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "חקלאות עם שרי העגבנייה | עונה 1: בסביבה שלנו, פרק 10",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/20.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "הדברה ביולוגית עם מושית החיפושית | עונה 1: בסביבה שלנו, פרק 11",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/21.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "זיהום אור עם לילי הגחלילית | עונה 1: בסביבה שלנו, פרק 12",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/22.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "תחבורה עם רמי הרמזור | עונה 1: בסביבה שלנו, פרק 13",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/23.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "אנרגיה מתחדשת עם שמש השמש | עונה 1: בסביבה שלנו, פרק 14",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/24.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "מגוון ביולוגי עם זומזום היתושה | עונה 1: בסביבה שלנו, פרק 15",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/25.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "טביעת רגל אקולוגית עם ללה הפילה | עונה 1: בסביבה שלנו, פרק 16",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/26.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "חלום של פרק עם לומי לוכד החלומות | עונה 2: בתוך המוח, פרק 1",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/27.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "איזה פחד! עם ג׳וקי הג׳וק | עונה 2: בתוך המוח, פרק 2",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/28.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "פרק בלתי נשכח עם ללה הפילה | עונה 2: בתוך המוח, פרק 3",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/29.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "גועל נפש! עם פחי הפח | עונה 2: בתוך המוח, פרק 4",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/30.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "לילה טוב עם נומי הקואלה | עונה 2: בתוך המוח, פרק 5",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/31.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "רק אהבה עם בוריטו הכלב | עונה 2: בתוך המוח, פרק 6",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/32.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "המציאות עולה על כל דמיון עם קוני הדרקונית | עונה 2: בתוך המוח, פרק 7",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/33.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "איזה שעמום עם תמנע התמנונה | עונה 2: בתוך המוח, פרק 8",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/34.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "אאוץ׳ כואב!!! עם ג׳רי הגי׳רפה| עונה 2: בתוך המוח, פרק 9",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/35.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "איזה כיף פה עם קופי הקוף! | עונה 2: בתוך המוח, פרק 10",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/36.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "להזיז ת׳טוסיק עם נבי הארנב | עונה 2: בתוך המוח, פרק 11",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/37.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "אגרול החתולה מריחה צרות | עונה 2: בתוך המוח, פרק 12",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/38.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "לומדים מהטובים ביותר עם ציפציף הגוזל | עונה 2: בתוך המוח, פרק 13",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/39.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "הצחוק טוב לבריאות עם פלוצי כרית הפלוצים | עונה 2: בתוך המוח, פרק 14",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/40.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "אן דן דינו עם ברי העכבר | עונה 2: בתוך המוח, פרק 15",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/41.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "הבוס הגדול עם המוחי המוח | עונה 2: בתוך המוח, פרק 16",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/42.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "יוצאים לדרך | עונה 3: מסע בחלל, פרק 1",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/43.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "ההמראה | עונה 3: מסע בחלל, פרק 2",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/44.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "האסטרונאוט | עונה 3: מסע בחלל, פרק 3",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/45.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "הודעה חשובה! | עונה 3: מסע בחלל",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/46.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "תחנת החלל | עונה 3: מסע בחלל, פרק 4",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/47.wav"
+          ]
+        },
+        {
+          "podcast": "בָּדוּק",
+          "title": "הלוויינים | עונה 3: מסע בחלל, פרק 5",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/9/48.wav"
+          ]
+        },
+        {
+          "podcast": "מגזין מעריב",
+          "title": "ממוכר אבטיחים בשוק לטייקון: רמי נחום על 16 השנים בביהמ\"ש ובועת ה-AI",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/15/12.wav"
+          ]
+        },
+        {
+          "podcast": "חיים של אחרים",
+          "title": "ניגוני חירות בצוק העיתים • הקלטות הבית",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/17/11.wav"
+          ]
+        }
+      ]
+    },
     {
       "run_id": "36467472997",
       "run_number": "102",

@@ -13043,26 +13043,457 @@
       "path": "ivr2:/1/8/11.wav",
       "filename_stem": "11",
       "uploaded_at": "2026-09-28T18:46:52.102347+00:00"
+    },
+    "geekonomy.podbean.com/dc036c49-7cb1-3273-b495-132401fa043f": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #457 - ניק צדוק ופוטבול",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/13.wav",
+      "filename_stem": "13",
+      "uploaded_at": "2026-09-28T20:45:39.534448+00:00"
+    },
+    "geekonomy.podbean.com/12d36e4f-1ca2-36ba-9698-722bf57c1588": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #765 - ניר צדוק סקנד דאון",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/14.wav",
+      "filename_stem": "14",
+      "uploaded_at": "2026-09-28T20:46:34.426787+00:00"
+    },
+    "geekonomy.podbean.com/717d8852-0511-353e-8a34-53b2f5de67cb": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1079 - ניר צדוק אוהד הפועל",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/15.wav",
+      "filename_stem": "15",
+      "uploaded_at": "2026-09-28T20:47:46.524074+00:00"
+    },
+    "https://api.spreaker.com/episode/62356150": {
+      "podcast_id": "osim_tech",
+      "title": "עדכון מחזית המאבק בשוק העבודה [עושים טכנולוגיה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/4/14.wav",
+      "filename_stem": "14",
+      "uploaded_at": "2026-09-28T20:48:36.413706+00:00"
+    },
+    "9b71fe6e-c27b-48bd-9982-aeff00ffd922": {
+      "podcast_id": "startup_for_startup",
+      "title": "175: אלטרנטיב  - הקמה וצמיחה של חברה שמתמקדת בשוק הישראלי (ליאור וילצ׳ינסקי ורמי גבאי, morning של חשבונית ירוקה)",
+      "status": "uploaded",
+      "path": "ivr2:/1/6/13.wav",
+      "filename_stem": "13",
+      "uploaded_at": "2026-09-28T20:49:04.211362+00:00"
+    },
+    "70c4a99b-8da1-4796-b5a6-af2900b8fffd": {
+      "podcast_id": "startup_for_startup",
+      "title": "180: אלטרנטיב - על הקמת חברה טכנולוגית בשוק לא טכנולוגי (דפנה עקיבא, Veev)",
+      "status": "error",
+      "error": "UploadFile finalization failed: Unknown Yemos API error",
+      "updated_at": "2026-09-28T20:49:42.736701+00:00"
+    },
+    "d90a4acd-7c03-4ee2-9ebd-b02600de6e72": {
+      "podcast_id": "startup_for_startup",
+      "title": "212: השיעורים שלמדנו בוול-סטריט - על משקיעים בשוק ההון (ערן זינמן ואלירן גלזר)",
+      "status": "uploaded",
+      "path": "ivr2:/1/6/15.wav",
+      "filename_stem": "15",
+      "uploaded_at": "2026-09-28T20:50:09.712225+00:00"
+    },
+    "a9f1dcde-a7d3-4f87-9b92-b12200f9fe7d": {
+      "podcast_id": "startup_for_startup",
+      "title": "244: איך נשארים רלוונטיים בשוק מלא בתחרות (ירון אינגר, לייטריקס)",
+      "status": "uploaded",
+      "path": "ivr2:/1/6/16.wav",
+      "filename_stem": "16",
+      "uploaded_at": "2026-09-28T20:50:31.240702+00:00"
+    },
+    "3f8bbb5f-5695-49e2-a93a-b26300ae3918": {
+      "podcast_id": "startup_for_startup",
+      "title": "287: סטארטאפים בניו-יורק - איך התחלנו בשוק האמריקאי? (יותם כהן)",
+      "status": "uploaded",
+      "path": "ivr2:/1/6/17.wav",
+      "filename_stem": "17",
+      "uploaded_at": "2026-09-28T20:50:53.166592+00:00"
+    },
+    "af43eaf2-7cb7-4bfc-9471-a027874f8a4f": {
+      "podcast_id": "money_engines",
+      "title": "פרק 331 - מה עושים כשהתנודתיות בוול סטריט מזכירה מניה בינונית בשוק נידח",
+      "status": "uploaded",
+      "path": "ivr2:/1/7/11.wav",
+      "filename_stem": "11",
+      "uploaded_at": "2026-09-28T20:51:26.799762+00:00"
+    },
+    "7df2b331-f798-48b4-b4fe-b19300cc55ef": {
+      "podcast_id": "baduk",
+      "title": "מינים פולשים עם ציפי המיינה | עונה 1: בסביבה שלנו, פרק 1",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/11.wav",
+      "filename_stem": "11",
+      "uploaded_at": "2026-09-28T20:51:37.022613+00:00"
+    },
+    "96a67b6e-6e6d-44ec-b078-b19300cd7677": {
+      "podcast_id": "baduk",
+      "title": "אקלים עם פרי הפרפר | עונה 1: בסביבה שלנו, פרק 2",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/12.wav",
+      "filename_stem": "12",
+      "uploaded_at": "2026-09-28T20:51:46.579438+00:00"
+    },
+    "dbfa02b5-81a8-462c-8887-b19300ce50fe": {
+      "podcast_id": "baduk",
+      "title": "זבל עם משי המשאית | עונה 1: בסביבה שלנו, פרק 3",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/13.wav",
+      "filename_stem": "13",
+      "uploaded_at": "2026-09-28T20:51:56.631814+00:00"
+    },
+    "684cd070-5fbf-46c9-884e-b19300cfaf71": {
+      "podcast_id": "baduk",
+      "title": "עצים עם אילן העץ | עונה 1: בסביבה שלנו, פרק 4",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/14.wav",
+      "filename_stem": "14",
+      "uploaded_at": "2026-09-28T20:52:07.380841+00:00"
+    },
+    "262a29a3-634f-46ce-b479-b19300d09e09": {
+      "podcast_id": "baduk",
+      "title": "מזון העתיד עם ז'אן פייר הקיפוד | עונה 1: בסביבה שלנו, פרק 5",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/15.wav",
+      "filename_stem": "15",
+      "uploaded_at": "2026-09-28T20:52:18.228444+00:00"
+    },
+    "90c99d3b-7c41-4013-812e-b19300d201df": {
+      "podcast_id": "baduk",
+      "title": "ים עם ימי כלב הים | עונה 1: בסביבה שלנו, פרק 6",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/16.wav",
+      "filename_stem": "16",
+      "uploaded_at": "2026-09-28T20:52:27.839554+00:00"
+    },
+    "dd6aada8-68c6-4756-9cbc-b199007d5f37": {
+      "podcast_id": "baduk",
+      "title": "דבורים עם מלכה המלכה | עונה 1: בסביבה שלנו, פרק 7",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/17.wav",
+      "filename_stem": "17",
+      "uploaded_at": "2026-09-28T20:52:38.278134+00:00"
+    },
+    "8684f38e-cbf9-4d10-9712-b1a10073c7a1": {
+      "podcast_id": "baduk",
+      "title": "בעלי חיים בעיר עם חזי חזיר הבר | עונה 1: בסביבה שלנו, פרק 8",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/18.wav",
+      "filename_stem": "18",
+      "uploaded_at": "2026-09-28T20:52:50.484612+00:00"
+    },
+    "87383b08-c08b-48b7-b02c-b1a80072ae42": {
+      "podcast_id": "baduk",
+      "title": "טקסטיל עם סוודי הסוודר | עונה 1: בסביבה שלנו, פרק 9",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/19.wav",
+      "filename_stem": "19",
+      "uploaded_at": "2026-09-28T20:53:00.036765+00:00"
+    },
+    "bbfbca23-f787-490b-a4b1-b1ae00ca5e47": {
+      "podcast_id": "baduk",
+      "title": "חקלאות עם שרי העגבנייה | עונה 1: בסביבה שלנו, פרק 10",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/20.wav",
+      "filename_stem": "20",
+      "uploaded_at": "2026-09-28T20:53:10.929086+00:00"
+    },
+    "7f797220-0359-4b49-a3a6-b1b500e8a1bc": {
+      "podcast_id": "baduk",
+      "title": "הדברה ביולוגית עם מושית החיפושית | עונה 1: בסביבה שלנו, פרק 11",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/21.wav",
+      "filename_stem": "21",
+      "uploaded_at": "2026-09-28T20:53:21.350866+00:00"
+    },
+    "6db6e696-db9b-47b0-84e0-b1bd006f8f22": {
+      "podcast_id": "baduk",
+      "title": "זיהום אור עם לילי הגחלילית | עונה 1: בסביבה שלנו, פרק 12",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/22.wav",
+      "filename_stem": "22",
+      "uploaded_at": "2026-09-28T20:53:33.670637+00:00"
+    },
+    "5b715b67-175e-4aff-8d81-b1c400ff419b": {
+      "podcast_id": "baduk",
+      "title": "תחבורה עם רמי הרמזור | עונה 1: בסביבה שלנו, פרק 13",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/23.wav",
+      "filename_stem": "23",
+      "uploaded_at": "2026-09-28T20:53:43.750522+00:00"
+    },
+    "19026e2e-c287-4c5a-af55-b1c5006a55f9": {
+      "podcast_id": "baduk",
+      "title": "אנרגיה מתחדשת עם שמש השמש | עונה 1: בסביבה שלנו, פרק 14",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/24.wav",
+      "filename_stem": "24",
+      "uploaded_at": "2026-09-28T20:53:53.718691+00:00"
+    },
+    "012c2d7e-9aa0-4973-b076-b1c5006b4502": {
+      "podcast_id": "baduk",
+      "title": "מגוון ביולוגי עם זומזום היתושה | עונה 1: בסביבה שלנו, פרק 15",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/25.wav",
+      "filename_stem": "25",
+      "uploaded_at": "2026-09-28T20:54:03.482649+00:00"
+    },
+    "463815fd-107a-4c7e-b7a1-b1c5006bf5b2": {
+      "podcast_id": "baduk",
+      "title": "טביעת רגל אקולוגית עם ללה הפילה | עונה 1: בסביבה שלנו, פרק 16",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/26.wav",
+      "filename_stem": "26",
+      "uploaded_at": "2026-09-28T20:54:13.305978+00:00"
+    },
+    "4f7e06eb-814b-4665-a198-b3360083f1bd": {
+      "podcast_id": "baduk",
+      "title": "חלום של פרק עם לומי לוכד החלומות | עונה 2: בתוך המוח, פרק 1",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/27.wav",
+      "filename_stem": "27",
+      "uploaded_at": "2026-09-28T20:54:24.810082+00:00"
+    },
+    "7182b084-e127-432b-a4f1-b3360084c994": {
+      "podcast_id": "baduk",
+      "title": "איזה פחד! עם ג׳וקי הג׳וק | עונה 2: בתוך המוח, פרק 2",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/28.wav",
+      "filename_stem": "28",
+      "uploaded_at": "2026-09-28T20:54:38.944358+00:00"
+    },
+    "ec949abd-89fb-42ab-9b55-b3360085600b": {
+      "podcast_id": "baduk",
+      "title": "פרק בלתי נשכח עם ללה הפילה | עונה 2: בתוך המוח, פרק 3",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/29.wav",
+      "filename_stem": "29",
+      "uploaded_at": "2026-09-28T20:54:50.426410+00:00"
+    },
+    "efb79fa3-0525-4a02-8f46-b336008604ec": {
+      "podcast_id": "baduk",
+      "title": "גועל נפש! עם פחי הפח | עונה 2: בתוך המוח, פרק 4",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/30.wav",
+      "filename_stem": "30",
+      "uploaded_at": "2026-09-28T20:55:02.079164+00:00"
+    },
+    "5d15dfd4-1b14-4563-9c7f-b3360086936c": {
+      "podcast_id": "baduk",
+      "title": "לילה טוב עם נומי הקואלה | עונה 2: בתוך המוח, פרק 5",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/31.wav",
+      "filename_stem": "31",
+      "uploaded_at": "2026-09-28T20:55:13.445561+00:00"
+    },
+    "ba18c194-dc69-440e-ae89-b34c008ecdf9": {
+      "podcast_id": "baduk",
+      "title": "רק אהבה עם בוריטו הכלב | עונה 2: בתוך המוח, פרק 6",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/32.wav",
+      "filename_stem": "32",
+      "uploaded_at": "2026-09-28T20:55:23.971054+00:00"
+    },
+    "94fe0601-73c0-4532-9242-b34c008ee165": {
+      "podcast_id": "baduk",
+      "title": "המציאות עולה על כל דמיון עם קוני הדרקונית | עונה 2: בתוך המוח, פרק 7",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/33.wav",
+      "filename_stem": "33",
+      "uploaded_at": "2026-09-28T20:55:33.840675+00:00"
+    },
+    "75a6a2aa-56b9-4713-90e4-b34c008ef53d": {
+      "podcast_id": "baduk",
+      "title": "איזה שעמום עם תמנע התמנונה | עונה 2: בתוך המוח, פרק 8",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/34.wav",
+      "filename_stem": "34",
+      "uploaded_at": "2026-09-28T20:55:44.584830+00:00"
+    },
+    "5faa2256-888d-4147-b232-b34c008efe10": {
+      "podcast_id": "baduk",
+      "title": "אאוץ׳ כואב!!! עם ג׳רי הגי׳רפה| עונה 2: בתוך המוח, פרק 9",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/35.wav",
+      "filename_stem": "35",
+      "uploaded_at": "2026-09-28T20:55:54.732169+00:00"
+    },
+    "1fe70f50-1eec-4b4a-b0d6-b35b00712b26": {
+      "podcast_id": "baduk",
+      "title": "איזה כיף פה עם קופי הקוף! | עונה 2: בתוך המוח, פרק 10",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/36.wav",
+      "filename_stem": "36",
+      "uploaded_at": "2026-09-28T20:56:05.037851+00:00"
+    },
+    "49b28d5d-34e0-4a51-af56-b35b0071b0ea": {
+      "podcast_id": "baduk",
+      "title": "להזיז ת׳טוסיק עם נבי הארנב | עונה 2: בתוך המוח, פרק 11",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/37.wav",
+      "filename_stem": "37",
+      "uploaded_at": "2026-09-28T20:56:14.875729+00:00"
+    },
+    "1a9c965e-8037-437c-b54f-b35b00728f30": {
+      "podcast_id": "baduk",
+      "title": "אגרול החתולה מריחה צרות | עונה 2: בתוך המוח, פרק 12",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/38.wav",
+      "filename_stem": "38",
+      "uploaded_at": "2026-09-28T20:56:24.519851+00:00"
+    },
+    "712eb858-83bf-4343-8d76-b35b0073203b": {
+      "podcast_id": "baduk",
+      "title": "לומדים מהטובים ביותר עם ציפציף הגוזל | עונה 2: בתוך המוח, פרק 13",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/39.wav",
+      "filename_stem": "39",
+      "uploaded_at": "2026-09-28T20:56:33.916087+00:00"
+    },
+    "ca300a66-0576-4da3-864c-b368008084aa": {
+      "podcast_id": "baduk",
+      "title": "הצחוק טוב לבריאות עם פלוצי כרית הפלוצים | עונה 2: בתוך המוח, פרק 14",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/40.wav",
+      "filename_stem": "40",
+      "uploaded_at": "2026-09-28T20:56:44.327851+00:00"
+    },
+    "fa880d39-c531-4146-91a9-b36800811543": {
+      "podcast_id": "baduk",
+      "title": "אן דן דינו עם ברי העכבר | עונה 2: בתוך המוח, פרק 15",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/41.wav",
+      "filename_stem": "41",
+      "uploaded_at": "2026-09-28T20:57:03.172852+00:00"
+    },
+    "2d60affc-d11d-4e57-a346-b3680081da75": {
+      "podcast_id": "baduk",
+      "title": "הבוס הגדול עם המוחי המוח | עונה 2: בתוך המוח, פרק 16",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/42.wav",
+      "filename_stem": "42",
+      "uploaded_at": "2026-09-28T20:57:25.074474+00:00"
+    },
+    "f4ff6449-2201-43b0-a557-b4a10074e354": {
+      "podcast_id": "baduk",
+      "title": "יוצאים לדרך | עונה 3: מסע בחלל, פרק 1",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/43.wav",
+      "filename_stem": "43",
+      "uploaded_at": "2026-09-28T20:57:36.804322+00:00"
+    },
+    "725351dc-c496-4bc7-813e-b4a10075c4b3": {
+      "podcast_id": "baduk",
+      "title": "ההמראה | עונה 3: מסע בחלל, פרק 2",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/44.wav",
+      "filename_stem": "44",
+      "uploaded_at": "2026-09-28T20:57:46.984303+00:00"
+    },
+    "64c06dd1-88cf-4e96-8074-b4a40072a978": {
+      "podcast_id": "baduk",
+      "title": "האסטרונאוט | עונה 3: מסע בחלל, פרק 3",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/45.wav",
+      "filename_stem": "45",
+      "uploaded_at": "2026-09-28T20:57:56.766459+00:00"
+    },
+    "03c6ea06-a284-426a-887e-b4a500648bff": {
+      "podcast_id": "baduk",
+      "title": "הודעה חשובה! | עונה 3: מסע בחלל",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/46.wav",
+      "filename_stem": "46",
+      "uploaded_at": "2026-09-28T20:58:00.122882+00:00"
+    },
+    "75cf4708-c23e-4af8-ad53-b4a40073864a": {
+      "podcast_id": "baduk",
+      "title": "תחנת החלל | עונה 3: מסע בחלל, פרק 4",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/47.wav",
+      "filename_stem": "47",
+      "uploaded_at": "2026-09-28T20:58:10.628827+00:00"
+    },
+    "180ee358-652d-4602-8822-b4a400745a99": {
+      "podcast_id": "baduk",
+      "title": "הלוויינים | עונה 3: מסע בחלל, פרק 5",
+      "status": "uploaded",
+      "path": "ivr2:/1/9/48.wav",
+      "filename_stem": "48",
+      "uploaded_at": "2026-09-28T20:58:20.991610+00:00"
+    },
+    "cddfe682-694f-4945-81c6-b47400885dfa": {
+      "podcast_id": "maariv_magazine",
+      "title": "ממוכר אבטיחים בשוק לטייקון: רמי נחום על 16 השנים בביהמ\"ש ובועת ה-AI",
+      "status": "uploaded",
+      "path": "ivr2:/1/15/12.wav",
+      "filename_stem": "12",
+      "uploaded_at": "2026-09-28T20:59:24.799427+00:00"
+    },
+    "5e8a3ffaf231b4028c45e706": {
+      "podcast_id": "haim_aherim",
+      "title": "ניגוני חירות בצוק העיתים • הקלטות הבית",
+      "status": "uploaded",
+      "path": "ivr2:/1/17/11.wav",
+      "filename_stem": "11",
+      "uploaded_at": "2026-09-28T21:00:08.643188+00:00"
+    },
+    "9d3151ea-8be8-41d0-a9c1-ae0501839d66": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "רוח של שינוי: מה עתיד לקרות בשוק העבודה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/14.wav",
+      "filename_stem": "14",
+      "uploaded_at": "2026-09-28T21:00:31.333204+00:00"
+    },
+    "c1293696-bc02-4c5e-b9ec-af2c0074c803": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים: רוח של שינוי: מה עתיד לקרות בשוק העבודה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/15.wav",
+      "filename_stem": "15",
+      "uploaded_at": "2026-09-28T21:00:58.081729+00:00"
+    },
+    "af61869f-e682-4f99-a925-b12b000f5cf2": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "אוטוטו? תמונת מצב של הרכבים האוטונומיים בשוק",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/16.wav",
+      "filename_stem": "16",
+      "uploaded_at": "2026-09-28T21:01:19.575531+00:00"
+    },
+    "36ceef57-5e4d-427e-85ae-b05a00dfa1a3": {
+      "podcast_id": "ear_catcher",
+      "title": "איך מפצחים את טיקטוק? פרק 320 לייב(!) עם ‎⁨רעות כהן, ⁩מנהלת הפעילות העסקית של טיקטוק בשוק המקומי",
+      "status": "uploaded",
+      "path": "ivr2:/1/24/12.wav",
+      "filename_stem": "12",
+      "uploaded_at": "2026-09-28T21:01:48.226353+00:00"
     }
   },
   "next_numbers": {
     "1": 1311,
-    "2": 13,
+    "2": 16,
     "3": 11,
-    "4": 14,
+    "4": 15,
     "5": 11,
-    "6": 13,
-    "7": 11,
+    "6": 18,
+    "7": 12,
     "8": 12,
-    "9": 11,
+    "9": 49,
     "10": 11,
     "11": 11,
     "12": 11,
     "13": 11,
     "14": 5,
-    "15": 12,
+    "15": 13,
     "16": 12,
-    "17": 11,
+    "17": 12,
     "18": 11,
     "19": 11,
     "21": 12,
@@ -13075,8 +13506,8 @@
     "38": 11,
     "39": 9,
     "40": 7,
-    "20": 14,
-    "24": 12,
+    "20": 17,
+    "24": 13,
     "41": 11
   }
 }
