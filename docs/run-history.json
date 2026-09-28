@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-09-28T21:01:52.131341+00:00",
+  "updated_at": "2026-09-28T22:07:07.022491+00:00",
   "runs": [
+    {
+      "run_id": "36490189805",
+      "run_number": "104",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-09-28T22:07:07.022491+00:00",
+      "israel_time": "29/09/2026 01:07",
+      "uploads": 1,
+      "feed_errors": 2,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36490189805",
+      "items": [
+        {
+          "podcast": "הנוסע המתמיד עם נדב יעקבי",
+          "title": "תבוסה שהיא מעבר לכדורגל",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/23/12.wav"
+          ]
+        }
+      ]
+    },
     {
       "run_id": "36481303673",
       "run_number": "103",

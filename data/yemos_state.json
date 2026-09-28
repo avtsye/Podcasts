@@ -1798,7 +1798,7 @@
       "status": "error",
       "filename_stem": "22",
       "error": "UploadFile finalization retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-09-28T15:34:25.497917+00:00"
+      "updated_at": "2026-09-28T22:06:17.594096+00:00"
     },
     "448ca1a7-018e-4f1a-a85e-b33f00d9bd1d": {
       "podcast_id": "music_tech",
@@ -12898,7 +12898,7 @@
       "status": "error",
       "filename_stem": "12",
       "error": "UploadFile finalization failed: Unknown Yemos API error",
-      "updated_at": "2026-09-28T15:33:43.103884+00:00"
+      "updated_at": "2026-09-28T22:05:38.689348+00:00"
     },
     "fce2f130-a008-4409-82ed-b4c600540483": {
       "podcast_id": "startup_for_startup",
@@ -13474,6 +13474,14 @@
       "path": "ivr2:/1/24/12.wav",
       "filename_stem": "12",
       "uploaded_at": "2026-09-28T21:01:48.226353+00:00"
+    },
+    "a751ce94-ad71-4569-ac64-b4d300f89e45": {
+      "podcast_id": "traveler",
+      "title": "תבוסה שהיא מעבר לכדורגל",
+      "status": "uploaded",
+      "path": "ivr2:/1/23/12.wav",
+      "filename_stem": "12",
+      "uploaded_at": "2026-09-28T22:06:45.518990+00:00"
     }
   },
   "next_numbers": {
@@ -13498,11 +13506,11 @@
     "19": 11,
     "21": 12,
     "22": 23,
-    "23": 12,
+    "23": 13,
     "25": 9,
     "26": 171,
     "27": 11,
-    "37": 172,
+    "37": 181,
     "38": 11,
     "39": 9,
     "40": 7,
