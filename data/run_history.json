@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-09-28T15:35:17.873042+00:00",
+  "updated_at": "2026-09-28T18:37:26.008573+00:00",
   "runs": [
+    {
+      "run_id": "36466400762",
+      "run_number": "99",
+      "event": "issues",
+      "status": "success",
+      "utc_time": "2026-09-28T18:37:26.008573+00:00",
+      "israel_time": "28/09/2026 21:37",
+      "uploads": 1,
+      "feed_errors": 3,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36466400762",
+      "items": [
+        {
+          "podcast": "היסטוריה עם יובל מלחי - קטעים",
+          "title": "590: מבצע אנטבה - חלק 1",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/26/161.wav"
+          ]
+        }
+      ]
+    },
     {
       "run_id": "36444391584",
       "run_number": "98",

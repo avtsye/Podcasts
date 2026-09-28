@@ -101,7 +101,7 @@
       "last_error": null
     },
     "historia_ktaim": {
-      "last_checked": "2026-09-28T15:35:03.164986+00:00",
+      "last_checked": "2026-09-28T18:37:21.803793+00:00",
       "last_error": null
     },
     "osim_historia": {
@@ -22700,6 +22700,20 @@
       "status": "error",
       "error": "<HttpError 500 when requesting https://www.googleapis.com/drive/v3/files?q=mimeType%3D%27application%2Fvnd.google-apps.folder%27+and+trashed%3Dfalse+and+name%3D%27Podcasts%27&spaces=drive&fields=files%28id%2Cname%29&pageSize=10&alt=json returned \"Internal Error\". Details: \"[{'message': 'Internal Error', 'domain': 'global', 'reason': 'internalError'}]\">",
       "updated_at": "2026-09-28T15:34:59.657581+00:00"
+    },
+    "https://hubhopper.com/episode/590-mbz-ntbh-hlq-1": {
+      "podcast_id": "historia_ktaim",
+      "title": "590: מבצע אנטבה - חלק 1",
+      "published": "Fri, 08 May 2026 08:01:30 +0000",
+      "audio_url": "https://play.hubhopper.com/c73629f49b0773e0dede55a51dcb46c4.mp3?s=rss-feed&v=f6432e916180",
+      "drive_file_id": "12PN728VIBal0QLNTqoWTMD8ZTJtmTEX0",
+      "drive_url": "https://drive.google.com/file/d/12PN728VIBal0QLNTqoWTMD8ZTJtmTEX0/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-28T18:37:07.654853+00:00",
+      "yemos_path": "ivr2:/1/26/161.wav",
+      "notification_sent_at": "2026-09-28T18:37:23.094855+00:00"
     }
   }
 }

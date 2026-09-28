@@ -12939,6 +12939,14 @@
       "path": "ivr2:/1/16/11.wav",
       "filename_stem": "11",
       "uploaded_at": "2026-09-28T07:02:37.469542+00:00"
+    },
+    "https://hubhopper.com/episode/590-mbz-ntbh-hlq-1": {
+      "podcast_id": "historia_ktaim",
+      "title": "590: מבצע אנטבה - חלק 1",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/161.wav",
+      "filename_stem": "161",
+      "uploaded_at": "2026-09-28T18:37:21.707663+00:00"
     }
   },
   "next_numbers": {
@@ -12965,7 +12973,7 @@
     "22": 23,
     "23": 12,
     "25": 9,
-    "26": 161,
+    "26": 162,
     "27": 11,
     "37": 172,
     "38": 11,
