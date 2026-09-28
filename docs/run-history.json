@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-09-28T07:03:38.459829+00:00",
+  "updated_at": "2026-09-28T15:35:17.873042+00:00",
   "runs": [
+    {
+      "run_id": "36444391584",
+      "run_number": "98",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-09-28T15:35:17.873042+00:00",
+      "israel_time": "28/09/2026 18:35",
+      "uploads": 0,
+      "feed_errors": 3,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36444391584",
+      "items": []
+    },
     {
       "run_id": "36389190129",
       "run_number": "97",
