@@ -1,6 +1,35 @@
 {
-  "updated_at": "2026-09-28T18:43:42.804169+00:00",
+  "updated_at": "2026-09-28T18:46:56.293466+00:00",
   "runs": [
+    {
+      "run_id": "36467472997",
+      "run_number": "102",
+      "event": "issues",
+      "status": "success",
+      "utc_time": "2026-09-28T18:46:56.293466+00:00",
+      "israel_time": "28/09/2026 21:46",
+      "uploads": 2,
+      "feed_errors": 3,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36467472997",
+      "items": [
+        {
+          "podcast": "עושים טכנולוגיה",
+          "title": "כמה מים ChatGPT שותה? [עושים טכנולוגיה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/4/13.wav"
+          ]
+        },
+        {
+          "podcast": "היסטוריה לילדים",
+          "title": "(ש.ח.) הייתי ילד בשואה: אני זוכר",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/8/11.wav"
+          ]
+        }
+      ]
+    },
     {
       "run_id": "36467167813",
       "run_number": "101",

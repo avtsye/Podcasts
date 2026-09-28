@@ -13,7 +13,7 @@
       "last_error": null
     },
     "osim_tech": {
-      "last_checked": "2026-09-28T15:33:43.115496+00:00",
+      "last_checked": "2026-09-28T18:46:26.397992+00:00",
       "last_error": null
     },
     "hatshuva": {
@@ -29,7 +29,7 @@
       "last_error": null
     },
     "history_for_children": {
-      "last_checked": "2026-09-28T15:33:48.013699+00:00",
+      "last_checked": "2026-09-28T18:46:52.151510+00:00",
       "last_error": null
     },
     "baduk": {
@@ -22854,6 +22854,34 @@
       "processed_at": "2026-09-28T18:43:33.879401+00:00",
       "yemos_path": "ivr2:/1/21/11.wav",
       "notification_sent_at": "2026-09-28T18:43:39.718396+00:00"
+    },
+    "https://api.spreaker.com/episode/59628408": {
+      "podcast_id": "osim_tech",
+      "title": "כמה מים ChatGPT שותה? [עושים טכנולוגיה]",
+      "published": "Tue, 30 Apr 2024 03:00:03 +0000",
+      "audio_url": "https://api.spreaker.com/download/episode/59628408/chat_gpt_water.mp3",
+      "drive_file_id": "10mcr2Qze2Q1IhTuWK37zJnoEN5xjp2Iz",
+      "drive_url": "https://drive.google.com/file/d/10mcr2Qze2Q1IhTuWK37zJnoEN5xjp2Iz/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-28T18:46:03.822334+00:00",
+      "yemos_path": "ivr2:/1/4/13.wav",
+      "notification_sent_at": "2026-09-28T18:46:53.292148+00:00"
+    },
+    "62dcaebe-6379-45c3-ba92-afe7013aa93f": {
+      "podcast_id": "history_for_children",
+      "title": "(ש.ח.) הייתי ילד בשואה: אני זוכר",
+      "published": "Tue, 18 Apr 2023 03:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/5d166961-3f93-4859-a8dd-a919008d592b/62dcaebe-6379-45c3-ba92-afe7013aa93f/audio.mp3?utm_source=Podcast&in_playlist=d7702e41-7c9d-4afe-bf80-a919008d592b",
+      "drive_file_id": "1-zX9_HDKSVIIgERoMd-hUiaYvHatmD7f",
+      "drive_url": "https://drive.google.com/file/d/1-zX9_HDKSVIIgERoMd-hUiaYvHatmD7f/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-28T18:46:38.879345+00:00",
+      "yemos_path": "ivr2:/1/8/11.wav",
+      "notification_sent_at": "2026-09-28T18:46:53.292163+00:00"
     }
   }
 }

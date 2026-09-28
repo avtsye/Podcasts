@@ -13027,17 +13027,33 @@
       "path": "ivr2:/1/21/11.wav",
       "filename_stem": "11",
       "uploaded_at": "2026-09-28T18:43:38.696176+00:00"
+    },
+    "https://api.spreaker.com/episode/59628408": {
+      "podcast_id": "osim_tech",
+      "title": "כמה מים ChatGPT שותה? [עושים טכנולוגיה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/4/13.wav",
+      "filename_stem": "13",
+      "uploaded_at": "2026-09-28T18:46:26.348108+00:00"
+    },
+    "62dcaebe-6379-45c3-ba92-afe7013aa93f": {
+      "podcast_id": "history_for_children",
+      "title": "(ש.ח.) הייתי ילד בשואה: אני זוכר",
+      "status": "uploaded",
+      "path": "ivr2:/1/8/11.wav",
+      "filename_stem": "11",
+      "uploaded_at": "2026-09-28T18:46:52.102347+00:00"
     }
   },
   "next_numbers": {
     "1": 1311,
     "2": 13,
     "3": 11,
-    "4": 13,
+    "4": 14,
     "5": 11,
     "6": 13,
     "7": 11,
-    "8": 11,
+    "8": 12,
     "9": 11,
     "10": 11,
     "11": 11,
