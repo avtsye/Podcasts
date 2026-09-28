@@ -81,7 +81,7 @@
       "last_checked": "2026-09-28T15:33:55.837598+00:00"
     },
     "little_university": {
-      "last_checked": "2026-09-28T15:33:56.415051+00:00",
+      "last_checked": "2026-09-28T18:43:38.744430+00:00",
       "last_error": null
     },
     "music_tech": {
@@ -22840,6 +22840,20 @@
       "processed_at": "2026-09-28T18:41:55.396920+00:00",
       "yemos_path": "ivr2:/1/26/170.wav",
       "notification_sent_at": "2026-09-28T18:42:06.622323+00:00"
+    },
+    "21867df1aa36204c3df1d0b5d0db0d46": {
+      "podcast_id": "little_university",
+      "title": "שלוש נקודות ציון היסטוריות בדרך אל גורדי השחקים",
+      "published": "Wed, 18 Apr 2018 06:24:37 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/d5def522-7ca5-4ba1-9730-a92f009305b4/6587ef12-bc2e-4c96-ba28-a92f009a5ef5/audio.mp3?utm_source=Podcast&in_playlist=61d0a060-8f09-495d-a278-a92f009305b4&t=1533115587",
+      "drive_file_id": "1tIziywxZQVFlPPcIAroEvlpfeNDCwxll",
+      "drive_url": "https://drive.google.com/file/d/1tIziywxZQVFlPPcIAroEvlpfeNDCwxll/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-28T18:43:33.879401+00:00",
+      "yemos_path": "ivr2:/1/21/11.wav",
+      "notification_sent_at": "2026-09-28T18:43:39.718396+00:00"
     }
   }
 }

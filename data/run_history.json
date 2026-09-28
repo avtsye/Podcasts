@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-09-28T18:42:08.983560+00:00",
+  "updated_at": "2026-09-28T18:43:42.804169+00:00",
   "runs": [
+    {
+      "run_id": "36467167813",
+      "run_number": "101",
+      "event": "issues",
+      "status": "success",
+      "utc_time": "2026-09-28T18:43:42.804169+00:00",
+      "israel_time": "28/09/2026 21:43",
+      "uploads": 1,
+      "feed_errors": 3,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36467167813",
+      "items": [
+        {
+          "podcast": "האוניברסיטה הקטנה של המדעים",
+          "title": "שלוש נקודות ציון היסטוריות בדרך אל גורדי השחקים",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/21/11.wav"
+          ]
+        }
+      ]
+    },
     {
       "run_id": "36466669663",
       "run_number": "100",
