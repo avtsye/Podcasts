@@ -1,6 +1,43 @@
 {
-  "updated_at": "2026-09-28T00:54:46.073655+00:00",
+  "updated_at": "2026-09-28T07:03:38.459829+00:00",
   "runs": [
+    {
+      "run_id": "36389190129",
+      "run_number": "97",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-09-28T07:03:38.459829+00:00",
+      "israel_time": "28/09/2026 10:03",
+      "uploads": 3,
+      "feed_errors": 2,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36389190129",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "הפלונטר הסעודי",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/1310.wav"
+          ]
+        },
+        {
+          "podcast": "מגזין מעריב",
+          "title": "\"הזמינו לילדה ניידת במקום לחבק אותה\": המחדל מאחורי מותה של אדוה בת ה-13",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/15/11.wav"
+          ]
+        },
+        {
+          "podcast": "The CX PODCAST",
+          "title": "חוויית לקוח בעידן החדש: בין הבוטית לבין הקול האנושי",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/16/11.wav"
+          ]
+        }
+      ]
+    },
     {
       "run_id": "36363831166",
       "run_number": "96",
