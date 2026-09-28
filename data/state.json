@@ -101,7 +101,7 @@
       "last_error": null
     },
     "historia_ktaim": {
-      "last_checked": "2026-09-28T18:37:21.803793+00:00",
+      "last_checked": "2026-09-28T18:42:05.718190+00:00",
       "last_error": null
     },
     "osim_historia": {
@@ -22714,6 +22714,132 @@
       "processed_at": "2026-09-28T18:37:07.654853+00:00",
       "yemos_path": "ivr2:/1/26/161.wav",
       "notification_sent_at": "2026-09-28T18:37:23.094855+00:00"
+    },
+    "https://api.spreaker.com/episode/58582640": {
+      "podcast_id": "historia_ktaim",
+      "title": "553: הקרב על כרם שלום",
+      "published": "Tue, 06 Feb 2024 06:47:30 +0000",
+      "audio_url": "https://play.hubhopper.com/12dd81ce61d9c4cc992a50660259fa16.mp3?s=rss-feed&v=976979b25a48",
+      "drive_file_id": "153NGKl9CRCIv3fAX71jWcSbivVnFzk-z",
+      "drive_url": "https://drive.google.com/file/d/153NGKl9CRCIv3fAX71jWcSbivVnFzk-z/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-28T18:39:13.414668+00:00",
+      "yemos_path": "ivr2:/1/26/162.wav",
+      "notification_sent_at": "2026-09-28T18:42:06.622289+00:00"
+    },
+    "https://api.spreaker.com/episode/58821809": {
+      "podcast_id": "historia_ktaim",
+      "title": "554: שטפון הבירה של לונדון",
+      "published": "Mon, 26 Feb 2024 08:27:11 +0000",
+      "audio_url": "https://play.hubhopper.com/f0def7c3b5e68517c5860da4e3614571.mp3?s=rss-feed&v=976979b25a48",
+      "drive_file_id": "1MtnqHVu98LW7dCLiL3bSxYevI0cv-Eck",
+      "drive_url": "https://drive.google.com/file/d/1MtnqHVu98LW7dCLiL3bSxYevI0cv-Eck/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-28T18:39:31.368637+00:00",
+      "yemos_path": "ivr2:/1/26/163.wav",
+      "notification_sent_at": "2026-09-28T18:42:06.622307+00:00"
+    },
+    "https://api.spreaker.com/episode/63872351": {
+      "podcast_id": "historia_ktaim",
+      "title": "569 - צלילה אטומית",
+      "published": "Sun, 26 Jan 2025 04:51:35 +0000",
+      "audio_url": "https://play.hubhopper.com/c1bdcc902d9cb6bb8a30063b82e1277a.mp3?s=rss-feed&v=976979b25a48",
+      "drive_file_id": "10q6JQ6mtfU2ra20lDBet6c_qWIbn8cw6",
+      "drive_url": "https://drive.google.com/file/d/10q6JQ6mtfU2ra20lDBet6c_qWIbn8cw6/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-28T18:39:45.904010+00:00",
+      "yemos_path": "ivr2:/1/26/164.wav",
+      "notification_sent_at": "2026-09-28T18:42:06.622310+00:00"
+    },
+    "https://api.spreaker.com/episode/64911048": {
+      "podcast_id": "historia_ktaim",
+      "title": "570: שדים ורוחות ביהדות - עם יהודית קגן",
+      "published": "Sun, 16 Mar 2025 07:07:35 +0000",
+      "audio_url": "https://play.hubhopper.com/2aafc23ad5e743a067ed2fe0f1310fc0.mp3?s=rss-feed&v=976979b25a48",
+      "drive_file_id": "1cXntEUudt4efDXa0WQc-XxjOWy0Ew6M3",
+      "drive_url": "https://drive.google.com/file/d/1cXntEUudt4efDXa0WQc-XxjOWy0Ew6M3/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-28T18:40:05.872534+00:00",
+      "yemos_path": "ivr2:/1/26/165.wav",
+      "notification_sent_at": "2026-09-28T18:42:06.622313+00:00"
+    },
+    "https://hubhopper.com/episode/576-hms-hgdwl-mkwlm-msw-hhrwn-sl-hrzl": {
+      "podcast_id": "historia_ktaim",
+      "title": "576: המסע הגדול מכולם - מסעו האחרון של הרצל",
+      "published": "Sat, 02 Aug 2025 18:00:02 +0000",
+      "audio_url": "https://play.hubhopper.com/c85d112d58db535b3aeb753c8df82d25.mp3?s=rss-feed&v=976979b25a48",
+      "drive_file_id": "1sSDCi09THNleViX7BrnK_JGxlkVgTXmo",
+      "drive_url": "https://drive.google.com/file/d/1sSDCi09THNleViX7BrnK_JGxlkVgTXmo/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-28T18:40:31.407881+00:00",
+      "yemos_path": "ivr2:/1/26/166.wav",
+      "notification_sent_at": "2026-09-28T18:42:06.622315+00:00"
+    },
+    "https://hubhopper.com/episode/wz-yryty-l-hbyt-sl-hyhwdym-hrb-hlwhm-ywl-nhswn-l-mlhmwt-ysrl": {
+      "podcast_id": "historia_ktaim",
+      "title": "ואז יריתי על הבית של היהודים - הרב הלוחם יואל נחשון על מלחמות ישראל",
+      "published": "Sat, 11 Oct 2025 16:11:01 +0000",
+      "audio_url": "https://play.hubhopper.com/f0eb72aa3c85b782f11e1c356b6f923f.mp3?s=rss-feed&v=976979b25a48",
+      "drive_file_id": "1Zo62LaCr4esF_2xQWIXx5hF7LzTeo0gj",
+      "drive_url": "https://drive.google.com/file/d/1Zo62LaCr4esF_2xQWIXx5hF7LzTeo0gj/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-28T18:40:53.052790+00:00",
+      "yemos_path": "ivr2:/1/26/167.wav",
+      "notification_sent_at": "2026-09-28T18:42:06.622317+00:00"
+    },
+    "https://hubhopper.com/episode/580-mhpkt-hbynh-hmlkwtyt": {
+      "podcast_id": "historia_ktaim",
+      "title": "580 - מהפכת הבינה המלאכותית",
+      "published": "Thu, 11 Dec 2025 10:29:48 +0000",
+      "audio_url": "https://play.hubhopper.com/574cf93404d46c090b271ac06e212be3.mp3?s=rss-feed&v=976979b25a48",
+      "drive_file_id": "1P1Xr2FVL9A3d86Q8hBubFsjIaIvpEkSs",
+      "drive_url": "https://drive.google.com/file/d/1P1Xr2FVL9A3d86Q8hBubFsjIaIvpEkSs/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-28T18:41:13.284011+00:00",
+      "yemos_path": "ivr2:/1/26/168.wav",
+      "notification_sent_at": "2026-09-28T18:42:06.622319+00:00"
+    },
+    "https://hubhopper.com/episode/581-hglym-sl-ltlnh-hlq": {
+      "podcast_id": "historia_ktaim",
+      "title": "581: הגלים של אלטלנה - חלק א",
+      "published": "Sat, 03 Jan 2026 10:30:40 +0000",
+      "audio_url": "https://play.hubhopper.com/97f4d45a1b3cc5ccf36c8a54082e4eb1.mp3?s=rss-feed&v=976979b25a48",
+      "drive_file_id": "1s4ok4TpQTousDjOzjbSyQ-o5iB_4Pzka",
+      "drive_url": "https://drive.google.com/file/d/1s4ok4TpQTousDjOzjbSyQ-o5iB_4Pzka/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-28T18:41:36.893143+00:00",
+      "yemos_path": "ivr2:/1/26/169.wav",
+      "notification_sent_at": "2026-09-28T18:42:06.622321+00:00"
+    },
+    "https://hubhopper.com/episode/582-hglym-sl-ltlnh-hlq-b-whrwn": {
+      "podcast_id": "historia_ktaim",
+      "title": "582: הגלים של אלטלנה חלק ב ואחרון",
+      "published": "Wed, 14 Jan 2026 08:08:53 +0000",
+      "audio_url": "https://play.hubhopper.com/67b694fc1b4f5acb846c097c51f72518.mp3?s=rss-feed&v=976979b25a48",
+      "drive_file_id": "1TM09Lrv4WKg7xJYB3BYIvGDhUmvdiAv6",
+      "drive_url": "https://drive.google.com/file/d/1TM09Lrv4WKg7xJYB3BYIvGDhUmvdiAv6/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-28T18:41:55.396920+00:00",
+      "yemos_path": "ivr2:/1/26/170.wav",
+      "notification_sent_at": "2026-09-28T18:42:06.622323+00:00"
     }
   }
 }

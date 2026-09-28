@@ -1,6 +1,91 @@
 {
-  "updated_at": "2026-09-28T18:37:26.008573+00:00",
+  "updated_at": "2026-09-28T18:42:08.983560+00:00",
   "runs": [
+    {
+      "run_id": "36466669663",
+      "run_number": "100",
+      "event": "issues",
+      "status": "success",
+      "utc_time": "2026-09-28T18:42:08.983560+00:00",
+      "israel_time": "28/09/2026 21:42",
+      "uploads": 9,
+      "feed_errors": 3,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36466669663",
+      "items": [
+        {
+          "podcast": "היסטוריה עם יובל מלחי - קטעים",
+          "title": "553: הקרב על כרם שלום",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/26/162.wav"
+          ]
+        },
+        {
+          "podcast": "היסטוריה עם יובל מלחי - קטעים",
+          "title": "554: שטפון הבירה של לונדון",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/26/163.wav"
+          ]
+        },
+        {
+          "podcast": "היסטוריה עם יובל מלחי - קטעים",
+          "title": "569 - צלילה אטומית",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/26/164.wav"
+          ]
+        },
+        {
+          "podcast": "היסטוריה עם יובל מלחי - קטעים",
+          "title": "570: שדים ורוחות ביהדות - עם יהודית קגן",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/26/165.wav"
+          ]
+        },
+        {
+          "podcast": "היסטוריה עם יובל מלחי - קטעים",
+          "title": "576: המסע הגדול מכולם - מסעו האחרון של הרצל",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/26/166.wav"
+          ]
+        },
+        {
+          "podcast": "היסטוריה עם יובל מלחי - קטעים",
+          "title": "ואז יריתי על הבית של היהודים - הרב הלוחם יואל נחשון על מלחמות ישראל",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/26/167.wav"
+          ]
+        },
+        {
+          "podcast": "היסטוריה עם יובל מלחי - קטעים",
+          "title": "580 - מהפכת הבינה המלאכותית",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/26/168.wav"
+          ]
+        },
+        {
+          "podcast": "היסטוריה עם יובל מלחי - קטעים",
+          "title": "581: הגלים של אלטלנה - חלק א",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/26/169.wav"
+          ]
+        },
+        {
+          "podcast": "היסטוריה עם יובל מלחי - קטעים",
+          "title": "582: הגלים של אלטלנה חלק ב ואחרון",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/26/170.wav"
+          ]
+        }
+      ]
+    },
     {
       "run_id": "36466400762",
       "run_number": "99",
