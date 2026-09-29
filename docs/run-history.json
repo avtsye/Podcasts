@@ -1,6 +1,35 @@
 {
-  "updated_at": "2026-09-28T22:07:07.022491+00:00",
+  "updated_at": "2026-09-29T02:03:46.050622+00:00",
   "runs": [
+    {
+      "run_id": "36510580571",
+      "run_number": "105",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-09-29T02:03:46.050622+00:00",
+      "israel_time": "29/09/2026 05:03",
+      "uploads": 2,
+      "feed_errors": 2,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36510580571",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "פוטין נגד אירופה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/1311.wav"
+          ]
+        },
+        {
+          "podcast": "Startup for Startup",
+          "title": "369: איך מתמחרים מוצר AI? | רועי מן",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/6/18.wav"
+          ]
+        }
+      ]
+    },
     {
       "run_id": "36490189805",
       "run_number": "104",
