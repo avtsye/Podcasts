@@ -13498,6 +13498,294 @@
       "path": "ivr2:/1/6/18.wav",
       "filename_stem": "18",
       "uploaded_at": "2026-09-29T02:02:46.197742+00:00"
+    },
+    "ca8eeae0513f6365cbb8cbaa157a0dce": {
+      "podcast_id": "little_university",
+      "title": "נופים עוצרי נשימה במערכת השמש",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/12.wav",
+      "filename_stem": "12",
+      "uploaded_at": "2026-09-29T10:42:03.030476+00:00"
+    },
+    "b2cb6cad7fe625997c41a5b3d51be415": {
+      "podcast_id": "little_university",
+      "title": "תופעות מזג אוויר מדהימות על כוכבי לכת אחרים",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/13.wav",
+      "filename_stem": "13",
+      "uploaded_at": "2026-09-29T10:42:10.461831+00:00"
+    },
+    "1580deec686f866315da6e570b713eac": {
+      "podcast_id": "little_university",
+      "title": "גופים לא מוכרים במערכת השמש",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/14.wav",
+      "filename_stem": "14",
+      "uploaded_at": "2026-09-29T10:42:16.878437+00:00"
+    },
+    "e874f82a4f5003983645e3d994414d15": {
+      "podcast_id": "little_university",
+      "title": "הדברים שהשארנו מאחור על הירח",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/15.wav",
+      "filename_stem": "15",
+      "uploaded_at": "2026-09-29T10:42:23.505434+00:00"
+    },
+    "1ee0e5eeb593ebfe81a6d7fdc7fbeb11": {
+      "podcast_id": "little_university",
+      "title": "נחיתות קשות והתרסקויות",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/16.wav",
+      "filename_stem": "16",
+      "uploaded_at": "2026-09-29T10:42:30.153756+00:00"
+    },
+    "b553dac2ee8bdbc273a65a46d9cc0d82": {
+      "podcast_id": "little_university",
+      "title": "כיצד נוכל ליישב כוכבי לכת מחוץ למערכת השמש?",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/17.wav",
+      "filename_stem": "17",
+      "uploaded_at": "2026-09-29T10:42:38.987042+00:00"
+    },
+    "d6ecd4cecec8c49ffdd0d00d3d475d98": {
+      "podcast_id": "little_university",
+      "title": "שאלות בלתי פתורות בחקר היקום",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/18.wav",
+      "filename_stem": "18",
+      "uploaded_at": "2026-09-29T10:42:45.443004+00:00"
+    },
+    "07cb430455514b834ce0b9dc5b8057d6": {
+      "podcast_id": "little_university",
+      "title": "תיאוריות ביולוגיות שהופרכו",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/19.wav",
+      "filename_stem": "19",
+      "uploaded_at": "2026-09-29T10:42:55.584402+00:00"
+    },
+    "22d94cc94ee77b24bcf1fbfb9018f434": {
+      "podcast_id": "little_university",
+      "title": "רעיונות משונים על תורשה",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/20.wav",
+      "filename_stem": "20",
+      "uploaded_at": "2026-09-29T10:43:02.446854+00:00"
+    },
+    "4f56155310eebf8b4a856350af82a98b": {
+      "podcast_id": "little_university",
+      "title": "שאריות אבולוציוניות אצל בני אדם",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/21.wav",
+      "filename_stem": "21",
+      "uploaded_at": "2026-09-29T10:43:09.672960+00:00"
+    },
+    "2badee6a305865209a46941039b39761": {
+      "podcast_id": "little_university",
+      "title": "דברים שלא ידעתם על הדנ\"א",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/22.wav",
+      "filename_stem": "22",
+      "uploaded_at": "2026-09-29T10:43:17.379705+00:00"
+    },
+    "89e1a14a304696b1cb7b8d15c99f10fd": {
+      "podcast_id": "little_university",
+      "title": "צמחים ובעלי חיים ארסיים",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/23.wav",
+      "filename_stem": "23",
+      "uploaded_at": "2026-09-29T10:43:25.545408+00:00"
+    },
+    "d1dad890b61ec563d5235446e8ca95c8": {
+      "podcast_id": "little_university",
+      "title": "תעלומות ביולוגיות שאין להן תשובות (עדיין)",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/24.wav",
+      "filename_stem": "24",
+      "uploaded_at": "2026-09-29T10:43:33.875990+00:00"
+    },
+    "5506ca8da590de5dc07700e28e4ba18f": {
+      "podcast_id": "little_university",
+      "title": "טיפולים רפואיים שקשה להאמין שנעשו בעבר",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/25.wav",
+      "filename_stem": "25",
+      "uploaded_at": "2026-09-29T10:43:41.774576+00:00"
+    },
+    "17b3f29e00520cc8b975d4f450459476": {
+      "podcast_id": "little_university",
+      "title": "רעיונות רפואיים מוקדמים",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/26.wav",
+      "filename_stem": "26",
+      "uploaded_at": "2026-09-29T10:43:58.352710+00:00"
+    },
+    "83a6d48a6b5a2095de42d36d8a41a7af": {
+      "podcast_id": "little_university",
+      "title": "תיאוריות רפואיות גזעניות ופוגעניות",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/27.wav",
+      "filename_stem": "27",
+      "uploaded_at": "2026-09-29T10:44:06.001193+00:00"
+    },
+    "3e5e6558050b9078ca2fbef8e7df681e": {
+      "podcast_id": "little_university",
+      "title": "הדם - הנוזל המופלא, חלק א'",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/28.wav",
+      "filename_stem": "28",
+      "uploaded_at": "2026-09-29T10:44:12.683878+00:00"
+    },
+    "57f9fa7e06cc2d6bbd793a476710a973": {
+      "podcast_id": "little_university",
+      "title": "כיצד מגן הגוף על עצמו מפני חיידקים ווירוסים - חלק א'",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/29.wav",
+      "filename_stem": "29",
+      "uploaded_at": "2026-09-29T10:44:19.098240+00:00"
+    },
+    "d17b02b541e7deef6699788b6d040162": {
+      "podcast_id": "little_university",
+      "title": "כיצד מגן הגוף על עצמו מפני חיידקים ווירוסים - חלק ב'",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/30.wav",
+      "filename_stem": "30",
+      "uploaded_at": "2026-09-29T10:44:27.564141+00:00"
+    },
+    "2cbab4ad377993c7392b4ecfe860bf36": {
+      "podcast_id": "little_university",
+      "title": "איך מצליחים חיידקים ווירוסים להתגבר על הגנות הגוף?",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/31.wav",
+      "filename_stem": "31",
+      "uploaded_at": "2026-09-29T10:44:34.392671+00:00"
+    },
+    "e00f2723637e0b93e64790fa112eb22e": {
+      "podcast_id": "little_university",
+      "title": "סוגי סמים שונים, וכיצד הם משפיעים על גופנו",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/32.wav",
+      "filename_stem": "32",
+      "uploaded_at": "2026-09-29T10:44:44.368255+00:00"
+    },
+    "4743dd6a96cc1792c117fd3c0549cdad": {
+      "podcast_id": "little_university",
+      "title": "הפרעות שינה משונות",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/33.wav",
+      "filename_stem": "33",
+      "uploaded_at": "2026-09-29T10:44:50.746129+00:00"
+    },
+    "048fc387a3d27e6ca6f681df2eb31cee": {
+      "podcast_id": "little_university",
+      "title": "מחלות מסתוריות שאין להן הסבר",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/34.wav",
+      "filename_stem": "34",
+      "uploaded_at": "2026-09-29T10:44:58.663770+00:00"
+    },
+    "2da07dd2dd81731e17a8d3f3f12deb18": {
+      "podcast_id": "little_university",
+      "title": "תעלומות מסקרנות אודות גוף האדם",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/35.wav",
+      "filename_stem": "35",
+      "uploaded_at": "2026-09-29T10:45:06.524633+00:00"
+    },
+    "14dfdedb741a1918ecd840a084b022e2": {
+      "podcast_id": "little_university",
+      "title": "סיבות לכך שניוטון הוא המדען החשוב ביותר בהיסטוריה",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/36.wav",
+      "filename_stem": "36",
+      "uploaded_at": "2026-09-29T10:45:12.472658+00:00"
+    },
+    "a68d1645b71ce4596d421e0adff7fc6a": {
+      "podcast_id": "little_university",
+      "title": "הסברים פשוטים לרעיונות של תורת היחסות - חלק א'",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/37.wav",
+      "filename_stem": "37",
+      "uploaded_at": "2026-09-29T10:45:25.196524+00:00"
+    },
+    "32b4194c8c3ee571c2cd8127de0fbaa9": {
+      "podcast_id": "little_university",
+      "title": "הסברים פשוטים לרעיונות של תורת היחסות - חלק ב'",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/38.wav",
+      "filename_stem": "38",
+      "uploaded_at": "2026-09-29T10:45:32.129099+00:00"
+    },
+    "bfcbd60b2a7e448f92741dac9044d697": {
+      "podcast_id": "little_university",
+      "title": "מודלים שגויים של האטום",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/39.wav",
+      "filename_stem": "39",
+      "uploaded_at": "2026-09-29T10:45:38.647358+00:00"
+    },
+    "30839c1787fbf1f4198a5db26debdcd0": {
+      "podcast_id": "little_university",
+      "title": "עקרונות חשובים (ומוזרים) של תורת הקוונטים - חלק א'",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/40.wav",
+      "filename_stem": "40",
+      "uploaded_at": "2026-09-29T10:45:45.315135+00:00"
+    },
+    "bcb1fe69570cdf9f84e1a05aafbadde8": {
+      "podcast_id": "little_university",
+      "title": "עקרונות חשובים (ומוזרים) של תורת הקוונטים - חלק ב'",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/41.wav",
+      "filename_stem": "41",
+      "uploaded_at": "2026-09-29T10:45:51.725132+00:00"
+    },
+    "93d3375ffe66d7182cc7a97465bca1f6": {
+      "podcast_id": "little_university",
+      "title": "פרדוקסים משונים של מסע בזמן",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/42.wav",
+      "filename_stem": "42",
+      "uploaded_at": "2026-09-29T10:45:58.006126+00:00"
+    },
+    "c138fccf59ec8cae5a1c8974d95ab3cd": {
+      "podcast_id": "little_university",
+      "title": "תופעות משונות שמתרחשות קרוב לאפס המוחלט",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/43.wav",
+      "filename_stem": "43",
+      "uploaded_at": "2026-09-29T10:46:04.644668+00:00"
+    },
+    "2c66d507648a99d525ed983078cad808": {
+      "podcast_id": "little_university",
+      "title": "המצאות חשובות בדרך אל המחשב",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/44.wav",
+      "filename_stem": "44",
+      "uploaded_at": "2026-09-29T10:46:11.168805+00:00"
+    },
+    "eb46f1b0fa8ea9dffc8afedb4bffff9d": {
+      "podcast_id": "little_university",
+      "title": "עקרונות בסיסיים של מחשבים",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/45.wav",
+      "filename_stem": "45",
+      "uploaded_at": "2026-09-29T10:46:21.462668+00:00"
+    },
+    "b6a94664513638c771bd91397b7a8b4b": {
+      "podcast_id": "little_university",
+      "title": "מחקרים מדעיים מפתיעים בעולמות וירטואליים",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/46.wav",
+      "filename_stem": "46",
+      "uploaded_at": "2026-09-29T10:46:30.110773+00:00"
+    },
+    "b36198de2bd968530cec4eb00f684a32": {
+      "podcast_id": "little_university",
+      "title": "וירוסי מחשב שעשו היסטוריה",
+      "status": "uploaded",
+      "path": "ivr2:/1/21/47.wav",
+      "filename_stem": "47",
+      "uploaded_at": "2026-09-29T10:46:38.444369+00:00"
     }
   },
   "next_numbers": {
@@ -13520,7 +13808,7 @@
     "17": 12,
     "18": 11,
     "19": 11,
-    "21": 12,
+    "21": 48,
     "22": 23,
     "23": 13,
     "25": 9,
