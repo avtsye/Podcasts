@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T22:40:21.104783+00:00",
+  "updated_at": "2026-09-30T23:43:00.565664+00:00",
   "podcasts": [
     {
       "id": "ehad_beyom",
@@ -9,7 +9,7 @@
       "yemos_branch": "1",
       "category": "חדשות ואקטואליה",
       "feed_error": "",
-      "last_checked": "2026-09-30T19:24:27.009960+00:00",
+      "last_checked": "2026-09-30T22:53:54.507472+00:00",
       "episode_count": 1338
     },
     {
@@ -352,12 +352,166 @@
       "feed_error": "",
       "last_checked": "2026-09-30T19:26:06.392527+00:00",
       "episode_count": 18
+    },
+    {
+      "id": "three_who_know",
+      "name": "שלושה שיודעים",
+      "rss": "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/1870742d-7e8b-424f-b3ed-a919008d58e8/5e84154a-096c-459d-b4af-a919008d58ec/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "42",
+      "category": "מדע",
+      "feed_error": "",
+      "last_checked": "",
+      "episode_count": 1866
+    },
+    {
+      "id": "osim_software",
+      "name": "עושים תוכנה",
+      "rss": "https://www.spreaker.com/show/4221323/episodes/feed",
+      "enabled": true,
+      "yemos_branch": "43",
+      "category": "טכנולוגיה",
+      "feed_error": "",
+      "last_checked": "",
+      "episode_count": 201
+    },
+    {
+      "id": "how_it_works",
+      "name": "איך העולם עובד",
+      "rss": "https://omny.fm/shows/howitworks/playlists/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "44",
+      "category": "מדע",
+      "feed_error": "",
+      "last_checked": "",
+      "episode_count": 19
+    },
+    {
+      "id": "historia_big_small",
+      "name": "הפודקאסט של היסטוריה גדולה בקטנה",
+      "rss": "https://feeds.soundcloud.com/users/soundcloud:users:455459574/sounds.rss",
+      "enabled": true,
+      "yemos_branch": "45",
+      "category": "היסטוריה",
+      "feed_error": "",
+      "last_checked": "",
+      "episode_count": 316
+    },
+    {
+      "id": "world_war_two",
+      "name": "מלחמת העולם השנייה",
+      "rss": "https://omny.fm/shows/wwii/playlists/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "46",
+      "category": "היסטוריה",
+      "feed_error": "",
+      "last_checked": "",
+      "episode_count": 30
+    },
+    {
+      "id": "minhar_hazman",
+      "name": "מינהר הזמן",
+      "rss": "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/85733579-61c7-4032-b009-a919008d5a10/360a2397-d97b-4394-ad3a-a919008d5a16/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "47",
+      "category": "היסטוריה",
+      "feed_error": "",
+      "last_checked": "",
+      "episode_count": 224
+    },
+    {
+      "id": "triple_agent",
+      "name": "סוכן משולש",
+      "rss": "https://feed.podbean.com/dannyorbach/feed.xml",
+      "enabled": true,
+      "yemos_branch": "48",
+      "category": "היסטוריה",
+      "feed_error": "",
+      "last_checked": "",
+      "episode_count": 50
+    },
+    {
+      "id": "grush_hole",
+      "name": "כשבגרוש היה חור",
+      "rss": "https://www.spreaker.com/show/4482630/episodes/feed",
+      "enabled": true,
+      "yemos_branch": "49",
+      "category": "היסטוריה",
+      "feed_error": "",
+      "last_checked": "",
+      "episode_count": 101
+    },
+    {
+      "id": "hatzolelet",
+      "name": "הצוללת",
+      "rss": "https://omny.fm/shows/zsolelet/playlists/podcast.rss",
+      "enabled": true,
+      "yemos_branch": "50",
+      "category": "כלכלה",
+      "feed_error": "",
+      "last_checked": "",
+      "episode_count": 501
+    },
+    {
+      "id": "osim_heshbon",
+      "name": "עושים חשבון",
+      "rss": "https://www.spreaker.com/show/4221239/episodes/feed",
+      "enabled": true,
+      "yemos_branch": "51",
+      "category": "כלכלה",
+      "feed_error": "",
+      "last_checked": "",
+      "episode_count": 168
+    },
+    {
+      "id": "al_halal",
+      "name": "על-חלל",
+      "rss": "https://feeds.buzzsprout.com/836719.rss",
+      "enabled": true,
+      "yemos_branch": "52",
+      "category": "מדע",
+      "feed_error": "",
+      "last_checked": "",
+      "episode_count": 85
+    },
+    {
+      "id": "el_haeinsof",
+      "name": "אל האינסוף - הפודקאסט של החלל והזמן",
+      "rss": "https://rss.buzzsprout.com/856603.rss",
+      "enabled": true,
+      "yemos_branch": "53",
+      "category": "מדע",
+      "feed_error": "",
+      "last_checked": "",
+      "episode_count": 113
+    },
+    {
+      "id": "madbarimda",
+      "name": "מדברימדע",
+      "rss": "https://feed.podbean.com/lbscience/feed.xml",
+      "enabled": true,
+      "yemos_branch": "54",
+      "category": "מדע",
+      "feed_error": "",
+      "last_checked": "",
+      "episode_count": 181
+    },
+    {
+      "id": "pashut_ai",
+      "name": "פשוט AI",
+      "rss": "https://anchor.fm/s/dd127d10/podcast/rss",
+      "enabled": true,
+      "yemos_branch": "55",
+      "category": "טכנולוגיה",
+      "feed_error": "",
+      "last_checked": "",
+      "episode_count": 185
     }
   ],
   "totals": {
-    "configured": 32,
-    "active": 32,
-    "episodes": 7528,
+    "configured": 46,
+    "active": 46,
+    "episodes": 11568,
     "feed_errors": 0
   }
 }
