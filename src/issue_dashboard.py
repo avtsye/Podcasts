@@ -19,7 +19,7 @@ def main():
         episodes=[x.strip() for x in section(body,"פרקים מסוימים להורדה חוזרת").splitlines() if x.strip()]
         count_text=section(body,"כמות פרקים אחרונים להורדה חוזרת")
         digits=re.search(r"\d+",count_text)
-        count=str(max(1,min(1000,int(digits.group(0))))) if digits else ""
+        count=str(max(1,min(5000,int(digits.group(0))))) if digits else ""
         target=section(body,"יעד ההורדה החוזרת")
         if not ids: raise SystemExit("לא נבחר אף פודקאסט")
         if not episodes and not count: raise SystemExit("יש להגדיר כמות פרקים אחרונים או לבחור פרקים מסוימים")
@@ -32,7 +32,7 @@ def main():
         if not all_selected and not ids: raise SystemExit("לא נבחר אף פודקאסט")
         mode="all" if "כל הפרקים" in section(body,"מצב הורדה") else "latest"
         digits=re.search(r"\d+",section(body,"מספר פרקים אחרונים") or "1")
-        out={"kind":"download","ids":ids,"mode":mode,"count":str(max(1,min(1000,int(digits.group(0)))) if digits else 1)}
+        out={"kind":"download","ids":ids,"mode":mode,"count":str(max(1,min(5000,int(digits.group(0)))) if digits else 1)}
     elif title.startswith("[ניהול פודקאסט]"):
         out={"kind":"manage","action":section(body,"פעולה"),"current_name":section(body,"שם הפודקאסט הקיים"),"name":section(body,"שם"),"rss":section(body,"RSS"),"drive_folder":section(body,"תיקיית Drive"),"yemos_branch":section(body,"שלוחת Yemos")}
     elif title.startswith("[מצב]"):
