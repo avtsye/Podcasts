@@ -1,131 +1,201 @@
 {
   "feeds": {
     "ehad_beyom": {
-      "last_checked": "2026-09-30T22:53:54.507472+00:00",
+      "last_checked": "2026-09-30T23:54:13.250153+00:00",
       "last_error": null
     },
     "geekonomy": {
-      "last_checked": "2026-09-30T19:24:29.253307+00:00",
+      "last_checked": "2026-09-30T23:54:15.282279+00:00",
       "last_error": null
     },
     "hayot_kes": {
-      "last_checked": "2026-09-30T19:24:30.191715+00:00",
+      "last_checked": "2026-09-30T23:54:16.006730+00:00",
       "last_error": null
     },
     "osim_tech": {
-      "last_checked": "2026-09-30T19:25:06.151092+00:00",
+      "last_checked": "2026-09-30T23:54:48.104781+00:00",
       "last_error": null
     },
     "hatshuva": {
-      "last_checked": "2026-09-30T19:25:07.098942+00:00",
+      "last_checked": "2026-09-30T23:54:48.820755+00:00",
       "last_error": null
     },
     "startup_for_startup": {
-      "last_checked": "2026-09-30T19:37:47.065040+00:00",
-      "last_error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
+      "last_checked": "2026-09-30T23:54:50.212936+00:00",
+      "last_error": null
     },
     "money_engines": {
-      "last_checked": "2026-09-30T19:25:09.435130+00:00",
+      "last_checked": "2026-09-30T23:54:50.532984+00:00",
       "last_error": null
     },
     "history_for_children": {
-      "last_checked": "2026-09-30T19:25:10.308830+00:00",
+      "last_checked": "2026-09-30T23:54:51.199995+00:00",
       "last_error": null
     },
     "baduk": {
-      "last_checked": "2026-09-30T19:25:10.811651+00:00",
+      "last_checked": "2026-09-30T23:54:51.489529+00:00",
       "last_error": null
     },
     "20th_century": {
-      "last_checked": "2026-09-30T19:25:11.388276+00:00",
+      "last_checked": "2026-09-30T23:54:51.900650+00:00",
       "last_error": null
     },
     "sakranit": {
-      "last_checked": "2026-09-30T19:25:11.860463+00:00",
+      "last_checked": "2026-09-30T23:54:52.190780+00:00",
       "last_error": null
     },
     "out_of_memory": {
-      "last_checked": "2026-09-30T19:25:12.275049+00:00",
+      "last_checked": "2026-09-30T23:54:52.417618+00:00",
       "last_error": null
     },
     "erech_musaf": {
-      "last_checked": "2026-09-30T19:25:12.665756+00:00",
+      "last_checked": "2026-09-30T23:54:52.630500+00:00",
       "last_error": null
     },
     "team_atzmaim": {
-      "last_checked": "2026-09-30T19:25:13.051859+00:00",
+      "last_checked": "2026-09-30T23:54:52.837691+00:00",
       "last_error": null
     },
     "maariv_magazine": {
-      "last_checked": "2026-09-30T19:25:13.583953+00:00",
+      "last_checked": "2026-09-30T23:54:53.195320+00:00",
       "last_error": null
     },
     "cx_podcast": {
-      "last_checked": "2026-09-30T19:25:13.981669+00:00",
+      "last_checked": "2026-09-30T23:54:53.414481+00:00",
       "last_error": null
     },
     "haim_aherim": {
-      "last_checked": "2026-09-30T19:25:15.537629+00:00",
+      "last_checked": "2026-09-30T23:54:54.697940+00:00",
       "last_error": null
     },
     "esek_kalkali": {
-      "last_checked": "2026-09-30T19:25:15.984979+00:00",
+      "last_checked": "2026-09-30T23:54:54.963580+00:00",
       "last_error": null
     },
     "keta_kalkali": {
-      "last_checked": "2026-09-30T19:25:16.615783+00:00",
+      "last_checked": "2026-09-30T23:54:55.448575+00:00",
       "last_error": null
     },
     "zman_sheavodtem": {
       "last_error": null,
-      "last_checked": "2026-09-30T19:25:17.337767+00:00"
+      "last_checked": "2026-09-30T23:54:56.025744+00:00"
     },
     "little_university": {
-      "last_checked": "2026-09-30T19:25:17.859328+00:00",
+      "last_checked": "2026-09-30T23:54:56.382503+00:00",
       "last_error": null
     },
     "music_tech": {
-      "last_checked": "2026-09-30T19:25:46.493386+00:00",
+      "last_checked": "2026-09-30T23:55:53.279148+00:00",
       "last_error": null
     },
     "traveler": {
-      "last_checked": "2026-09-30T19:25:47.251063+00:00",
+      "last_checked": "2026-09-30T23:55:53.831331+00:00",
       "last_error": null
     },
     "ear_catcher": {
-      "last_checked": "2026-09-30T19:25:50.280844+00:00",
-      "last_error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
+      "last_checked": "2026-09-30T23:56:44.138771+00:00",
+      "last_error": null
     },
     "historia_bederech": {
-      "last_checked": "2026-09-30T19:25:50.698800+00:00",
+      "last_checked": "2026-09-30T23:56:44.398570+00:00",
       "last_error": null
     },
     "historia_ktaim": {
-      "last_checked": "2026-09-30T19:25:51.241410+00:00",
+      "last_checked": "2026-09-30T23:56:44.829993+00:00",
       "last_error": null
     },
     "osim_historia": {
-      "last_checked": "2026-09-30T19:25:52.224042+00:00",
+      "last_checked": "2026-09-30T23:56:45.602033+00:00",
       "last_error": null
     },
     "yaldin": {
       "last_error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/33026741/wnh-hdsh-bpth-mthylym-m-lyyb.mp3?s=rss-feed&rd=1790726400",
-      "last_checked": "2026-09-30T19:26:05.218887+00:00"
+      "last_checked": "2026-09-30T23:56:59.224262+00:00"
     },
     "yetziat_ethiopia": {
-      "last_checked": "2026-09-30T19:26:05.424872+00:00",
+      "last_checked": "2026-09-30T23:56:59.378425+00:00",
       "last_error": null
     },
     "sogen_sodi": {
-      "last_checked": "2026-09-30T19:26:05.764183+00:00",
+      "last_checked": "2026-09-30T23:56:59.656418+00:00",
       "last_error": null
     },
     "sipur_beerech": {
-      "last_checked": "2026-09-30T19:26:05.942357+00:00",
+      "last_checked": "2026-09-30T23:56:59.826787+00:00",
       "last_error": null
     },
     "frontiers_youth": {
-      "last_checked": "2026-09-30T19:26:06.392527+00:00",
+      "last_checked": "2026-09-30T23:56:59.980052+00:00",
+      "last_error": null
+    },
+    "three_who_know": {
+      "initialized": true,
+      "last_checked": "2026-09-30T23:57:02.388403+00:00",
+      "last_error": null
+    },
+    "osim_software": {
+      "initialized": true,
+      "last_checked": "2026-09-30T23:57:02.723765+00:00",
+      "last_error": null
+    },
+    "how_it_works": {
+      "initialized": true,
+      "last_checked": "2026-09-30T23:57:02.936321+00:00",
+      "last_error": null
+    },
+    "historia_big_small": {
+      "initialized": true,
+      "last_checked": "2026-09-30T23:57:04.209227+00:00",
+      "last_error": null
+    },
+    "world_war_two": {
+      "initialized": true,
+      "last_checked": "2026-09-30T23:57:04.442027+00:00",
+      "last_error": null
+    },
+    "minhar_hazman": {
+      "initialized": true,
+      "last_checked": "2026-09-30T23:57:04.777002+00:00",
+      "last_error": null
+    },
+    "triple_agent": {
+      "initialized": true,
+      "last_checked": "2026-09-30T23:57:04.920718+00:00",
+      "last_error": null
+    },
+    "grush_hole": {
+      "initialized": true,
+      "last_checked": "2026-09-30T23:57:05.544072+00:00",
+      "last_error": null
+    },
+    "hatzolelet": {
+      "initialized": true,
+      "last_checked": "2026-09-30T23:57:06.839292+00:00",
+      "last_error": null
+    },
+    "osim_heshbon": {
+      "initialized": true,
+      "last_checked": "2026-09-30T23:57:07.113810+00:00",
+      "last_error": null
+    },
+    "al_halal": {
+      "initialized": true,
+      "last_checked": "2026-09-30T23:57:07.505967+00:00",
+      "last_error": null
+    },
+    "el_haeinsof": {
+      "initialized": true,
+      "last_checked": "2026-09-30T23:57:07.852170+00:00",
+      "last_error": null
+    },
+    "madbarimda": {
+      "initialized": true,
+      "last_checked": "2026-09-30T23:57:08.199330+00:00",
+      "last_error": null
+    },
+    "pashut_ai": {
+      "initialized": true,
+      "last_checked": "2026-09-30T23:57:08.733691+00:00",
       "last_error": null
     }
   },
@@ -2125,7 +2195,7 @@
       "audio_url": "https://play.hubhopper.com/a64924e349e3c7e73f6b432108dff7e3.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32885696/htmwnh-btyqtwq-wnh-5-prq-5.mp3?s=rss-feed&rd=1790726400",
-      "updated_at": "2026-09-30T19:26:01.323465+00:00"
+      "updated_at": "2026-09-30T23:56:55.307980+00:00"
     },
     "https://hubhopper.com/episode/mdynt-hyldym-wnh-5-prq-6": {
       "podcast_id": "yaldin",
@@ -2134,7 +2204,7 @@
       "audio_url": "https://play.hubhopper.com/78b7d7d904648a59cd5b69ab4501393c.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32887761/mdynt-hyldym-wnh-5-prq-6.mp3?s=rss-feed&rd=1790726400",
-      "updated_at": "2026-09-30T19:26:02.403541+00:00"
+      "updated_at": "2026-09-30T23:56:56.443741+00:00"
     },
     "https://hubhopper.com/episode/hpwdqst-sl-twm-wmyh-wnh-5-prq-7": {
       "podcast_id": "yaldin",
@@ -2143,7 +2213,7 @@
       "audio_url": "https://play.hubhopper.com/804eb17d5ea317b10e840672662c9ede.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32893995/hpwdqst-sl-twm-wmyh-wnh-5-prq-7.mp3?s=rss-feed&rd=1790726400",
-      "updated_at": "2026-09-30T19:26:03.994814+00:00"
+      "updated_at": "2026-09-30T23:56:57.566949+00:00"
     },
     "https://hubhopper.com/episode/wnh-hdsh-bpth-mthylym-m-lyyb": {
       "podcast_id": "yaldin",
@@ -2152,7 +2222,7 @@
       "audio_url": "https://play.hubhopper.com/c2c4f85119f569ec5714f401ecbfa36f.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/33026741/wnh-hdsh-bpth-mthylym-m-lyyb.mp3?s=rss-feed&rd=1790726400",
-      "updated_at": "2026-09-30T19:26:05.193632+00:00"
+      "updated_at": "2026-09-30T23:56:59.203140+00:00"
     },
     "https://hubhopper.com/episode/hmtb-htyq-wnh-6-prq-1": {
       "podcast_id": "yaldin",
@@ -3381,9 +3451,9 @@
       "drive_url": "https://drive.google.com/file/d/1gsZIGHzDjODnjT4BTMG58dms4NlWGwwm/view?usp=drivesdk",
       "status": "uploaded",
       "notification_status": "pending",
-      "yemos_status": "error",
+      "yemos_status": "uploaded",
       "processed_at": "2026-09-24T20:43:44.578747+00:00",
-      "yemos_error": "UploadFile finalization failed: path is invalid (messageCode=110)"
+      "yemos_path": "ivr2:/1/22/22.wav"
     },
     "448ca1a7-018e-4f1a-a85e-b33f00d9bd1d": {
       "podcast_id": "music_tech",
@@ -3686,7 +3756,7 @@
       "audio_url": "https://play.hubhopper.com/3219abdfcb811baf9c677e7d92ed55aa.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32866883/mwknym-lwnh-5.mp3?s=rss-feed&rd=1790726400",
-      "updated_at": "2026-09-30T19:25:53.991566+00:00"
+      "updated_at": "2026-09-30T23:56:47.981917+00:00"
     },
     "https://hubhopper.com/episode/qrqs-ytlynw-wnh-5-prq-1": {
       "podcast_id": "yaldin",
@@ -3695,7 +3765,7 @@
       "audio_url": "https://play.hubhopper.com/cc36f1b9337b5e0a6225bd1e6fe1349e.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32870692/qrqs-ytlynw-wnh-5-prq-1.mp3?s=rss-feed&rd=1790726400",
-      "updated_at": "2026-09-30T19:25:55.632545+00:00"
+      "updated_at": "2026-09-30T23:56:49.776543+00:00"
     },
     "https://hubhopper.com/episode/sws-trwyny-wnh-5-prq-2": {
       "podcast_id": "yaldin",
@@ -3704,7 +3774,7 @@
       "audio_url": "https://play.hubhopper.com/eae054ec6feb717d772a3f8340b6d2a1.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32872798/sws-trwyny-wnh-5-prq-2.mp3?s=rss-feed&rd=1790726400",
-      "updated_at": "2026-09-30T19:25:56.811207+00:00"
+      "updated_at": "2026-09-30T23:56:51.435410+00:00"
     },
     "https://hubhopper.com/episode/qwmyqs-hmhh-wnh-5-prq-3": {
       "podcast_id": "yaldin",
@@ -3713,7 +3783,7 @@
       "audio_url": "https://play.hubhopper.com/a1a9e95bebcdaf3cdcbe4ddef563e6e6.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32880299/qwmyqs-hmhh-wnh-5-prq-3.mp3?s=rss-feed&rd=1790726400",
-      "updated_at": "2026-09-30T19:25:58.072172+00:00"
+      "updated_at": "2026-09-30T23:56:52.566383+00:00"
     },
     "https://hubhopper.com/episode/dwkn-hwgywt-wnh-5-prq-4": {
       "podcast_id": "yaldin",
@@ -3722,7 +3792,7 @@
       "audio_url": "https://play.hubhopper.com/e340aa535b1507a8e582c1f5908bc3fe.mp3?s=rss-feed&v=a44071056d50",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://files.hubhopper.com/podcast/457749/episode/32881735/dwkn-hwgywt-wnh-5-prq-4.mp3?s=rss-feed&rd=1790726400",
-      "updated_at": "2026-09-30T19:25:59.733142+00:00"
+      "updated_at": "2026-09-30T23:56:54.164938+00:00"
     },
     "https://historia.co.il/?p=17482": {
       "podcast_id": "yetziat_ethiopia",
@@ -25678,9 +25748,14 @@
       "title": "אושפיזין קריאייטיב- פרק מיוחד לסוכות עם הילה סלומון, אייל גיא וחזקוש ישורון",
       "published": "Wed, 30 Sep 2026 16:30:45 +0000",
       "audio_url": "https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/afa263c2-43fe-47d6-90ea-a790010b74d2/32afdb31-c4bf-4067-9a31-b4d5010d36c0/audio.mp3?utm_source=Podcast&in_playlist=dc4d1e18-a21c-4f1a-87d9-a79300969977",
-      "status": "error",
-      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
-      "updated_at": "2026-09-30T19:25:50.256055+00:00"
+      "drive_file_id": "1QDs-1v5mPa9uVcYGyEKQizGgmgbWjH55",
+      "drive_url": "https://drive.google.com/file/d/1QDs-1v5mPa9uVcYGyEKQizGgmgbWjH55/view?usp=drivesdk",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-09-30T23:56:02.188773+00:00",
+      "yemos_path": "ivr2:/1/24/14.wav",
+      "notification_sent_at": "2026-09-30T23:57:09.907435+00:00"
     },
     "f25ef9d4-2084-47d3-b203-b19f00f18212": {
       "podcast_id": "startup_for_startup",
@@ -27651,6 +27726,846 @@
       "yemos_status": "uploaded",
       "processed_at": "2026-09-30T22:53:54.507454+00:00",
       "yemos_path": "ivr2:/1/1/413.wav"
+    },
+    "fc4a1aba-9df4-4528-b3e4-b4cd00d74fc3": {
+      "podcast_id": "three_who_know",
+      "title": "טמני לי תחתונים וגופיות",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.388355+00:00"
+    },
+    "dc38fe4d-979b-4a58-99ae-b4cd005e4b18": {
+      "podcast_id": "three_who_know",
+      "title": "נותנים אגוזים למי שיש לו שיניים",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.388372+00:00"
+    },
+    "8c8e8d2b-72d3-45a2-b07c-b4c60082cfb9": {
+      "podcast_id": "three_who_know",
+      "title": "בדמעותייך ארעד, כאילו סוף העולם קרוב",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.388377+00:00"
+    },
+    "637633ae-ca5d-4b89-bc78-b4c6005b6bf6": {
+      "podcast_id": "three_who_know",
+      "title": "לֵךְ אֶל נְמָלָה, הַצֵּל!",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.388380+00:00"
+    },
+    "30839ce3-d681-4964-972e-b4c50064b18c": {
+      "podcast_id": "three_who_know",
+      "title": "ברחובות שלנו יש קסם מיוחד",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.388384+00:00"
+    },
+    "62db1794-f92b-4baa-ae96-b4bf00982ba1": {
+      "podcast_id": "three_who_know",
+      "title": "כי עוד נפשי דרור שואפת",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.388387+00:00"
+    },
+    "23b62d34-d5e7-4bff-b9e4-b4be00c70ff5": {
+      "podcast_id": "three_who_know",
+      "title": "מי יודע כמה, מי יודע איך ולמה?",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.388390+00:00"
+    },
+    "d55320ef-1b9a-4187-ac3c-b4bd00ab2d46": {
+      "podcast_id": "three_who_know",
+      "title": "בואי נתחבק בסלואו צמוד",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.388394+00:00"
+    },
+    "3c382435-3881-4f77-bff5-b4bd005a0977": {
+      "podcast_id": "three_who_know",
+      "title": "Me Want Cookie",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.388397+00:00"
+    },
+    "9805329c-a6ab-4d69-996c-b4b800c9d71d": {
+      "podcast_id": "three_who_know",
+      "title": "שיר כאב, עובר ושב",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.388401+00:00"
+    },
+    "https://api.spreaker.com/episode/75276645": {
+      "podcast_id": "osim_software",
+      "title": "צבא של Assistants - הסיפור של NanoClawֿֿ | גבריאל כהן [עושים תוכנה]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.723726+00:00"
+    },
+    "https://api.spreaker.com/episode/74755735": {
+      "podcast_id": "osim_software",
+      "title": "האם המתמטיקה נפלה לידי ה-Ai?  | ד\"ר מייק ארליכסון [עושים תוכנה[",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.723739+00:00"
+    },
+    "https://api.spreaker.com/episode/74120527": {
+      "podcast_id": "osim_software",
+      "title": "לוקאלי בדפדפן | גיל פינק [עושים תוכנה] AI",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.723743+00:00"
+    },
+    "https://api.spreaker.com/episode/73336395": {
+      "podcast_id": "osim_software",
+      "title": "Second Brain ו- LLM wiki | דנה ממן  [עושים תוכנה]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.723746+00:00"
+    },
+    "https://api.spreaker.com/episode/73055202": {
+      "podcast_id": "osim_software",
+      "title": "האם זה מותו של ה-UI?  | מור חננוביץ׳ [עושים תוכנה]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.723749+00:00"
+    },
+    "https://api.spreaker.com/episode/72727014": {
+      "podcast_id": "osim_software",
+      "title": "[עושים תוכנה] AI, פיטורים וקריירה בעולם משתנה",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.723751+00:00"
+    },
+    "https://api.spreaker.com/episode/72546264": {
+      "podcast_id": "osim_software",
+      "title": "הגיע הזמן ל־Skill [עושים תוכנה]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.723754+00:00"
+    },
+    "https://api.spreaker.com/episode/72260061": {
+      "podcast_id": "osim_software",
+      "title": "הAI לא טועה אתם פשוט משתמשים בו לא נכון [עושים תוכנה]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.723757+00:00"
+    },
+    "https://api.spreaker.com/episode/72041423": {
+      "podcast_id": "osim_software",
+      "title": "איך באמת מריצים LLM בסקייל עצום? [עושים תוכנה]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.723760+00:00"
+    },
+    "https://api.spreaker.com/episode/71112876": {
+      "podcast_id": "osim_software",
+      "title": "כשאייג׳נטים נשברים [עושים תוכנה]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.723763+00:00"
+    },
+    "adbed4f24b8a0a0cd76b99a68f45dc7a": {
+      "podcast_id": "how_it_works",
+      "title": "איך עובד מנוע חיפוש?",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.936287+00:00"
+    },
+    "66916667fdabe853b7c8aa28e7f4f309": {
+      "podcast_id": "how_it_works",
+      "title": "איך עובד רכב אוטונומי?",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.936299+00:00"
+    },
+    "485a61278541c3640659e1f7eb58cc11": {
+      "podcast_id": "how_it_works",
+      "title": "מה זה מחשב ואיך הוא עובד?",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.936302+00:00"
+    },
+    "894b9584aaae1569ab2302f73b92d36c": {
+      "podcast_id": "how_it_works",
+      "title": "איך ממריאה חללית מכדור הארץ?",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.936304+00:00"
+    },
+    "3269a2aacb6bb591fbb140952203eb6e": {
+      "podcast_id": "how_it_works",
+      "title": "למה רכבת צריכה נהג ומה הוא בעצם עושה?",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.936307+00:00"
+    },
+    "6bba09b72f1dd16ebc69ab18f68bc17e": {
+      "podcast_id": "how_it_works",
+      "title": "מה קורה לאשפה אחרי שזרקנו אותה לפח?",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.936309+00:00"
+    },
+    "158c1b5159437e1d4391d2d3accef319": {
+      "podcast_id": "how_it_works",
+      "title": "מטוסים, חלק ב' - זנבות ומעצורי אוויר",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.936312+00:00"
+    },
+    "cc5fbf3516d2102c02ce5a1b18a47f6e": {
+      "podcast_id": "how_it_works",
+      "title": "מטוסים חלק א' - איך הם ממריאים ומה מחזיק אותם באויר?",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.936314+00:00"
+    },
+    "eab33673c852688e3d794acff6231895": {
+      "podcast_id": "how_it_works",
+      "title": "איך פועל סורק תלת ממד?",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.936317+00:00"
+    },
+    "6776300b84e59b6c1dbf95b9c783b202": {
+      "podcast_id": "how_it_works",
+      "title": "איך מייצרים אבקת שוקו?",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:02.936320+00:00"
+    },
+    "tag:soundcloud,2010:tracks/2109711027": {
+      "podcast_id": "historia_big_small",
+      "title": "היסטוריה גדולה בקטנה - מימון המונים",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.209186+00:00"
+    },
+    "tag:soundcloud,2010:tracks/1862925081": {
+      "podcast_id": "historia_big_small",
+      "title": "פרק סיום חגיגי",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.209202+00:00"
+    },
+    "tag:soundcloud,2010:tracks/1858919235": {
+      "podcast_id": "historia_big_small",
+      "title": "#299 - מזרחנות במנדט הבריטי ובישראל עם ד\"ר עמית לוי",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.209205+00:00"
+    },
+    "tag:soundcloud,2010:tracks/1849792008": {
+      "podcast_id": "historia_big_small",
+      "title": "#298 - פרשנויות מרקסיסטיות להיסטוריה היהודית עם ד\"ר תום נבון",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.209209+00:00"
+    },
+    "tag:soundcloud,2010:tracks/1835762811": {
+      "podcast_id": "historia_big_small",
+      "title": "#297 - האולימפיאדה הנאצית, עם שרית זייברט",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.209211+00:00"
+    },
+    "tag:soundcloud,2010:tracks/1827844482": {
+      "podcast_id": "historia_big_small",
+      "title": "#296 - ההיסטוריה של האינטרנט עם עומר בן יעקב",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.209214+00:00"
+    },
+    "tag:soundcloud,2010:tracks/1827618429": {
+      "podcast_id": "historia_big_small",
+      "title": "#295 - המעברות בישראל עם ד\"ר הילה שלם בהרד",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.209218+00:00"
+    },
+    "tag:soundcloud,2010:tracks/1822113984": {
+      "podcast_id": "historia_big_small",
+      "title": "#294 - ד\"ר רותי אבליוביץ והתאטרון היידי הפופולרי",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.209221+00:00"
+    },
+    "tag:soundcloud,2010:tracks/1817854986": {
+      "podcast_id": "historia_big_small",
+      "title": "#293 - אלה בניאן ומשחקי המחשב שמדברים על השואה",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.209224+00:00"
+    },
+    "tag:soundcloud,2010:tracks/1811654283": {
+      "podcast_id": "historia_big_small",
+      "title": "#292 - היסטוריה קומוניסטית במנדט הבריטי ובישראל הצעירה עם רענן שמש־פורשנר",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.209226+00:00"
+    },
+    "486dba9bb48be84113188286b80afa04": {
+      "podcast_id": "world_war_two",
+      "title": "פרק 30 - עולם חדש",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.441993+00:00"
+    },
+    "8a26331d35cf8ffaf60535180ef630c6": {
+      "podcast_id": "world_war_two",
+      "title": "פרק 29 - יפן מוכנעת באטום",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.442005+00:00"
+    },
+    "d1bb09ecdac0c96ef6614296e9c472fd": {
+      "podcast_id": "world_war_two",
+      "title": "פרק 28 - גרמניה מוכנעת",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.442008+00:00"
+    },
+    "01ff515704b1d42c1be882038a18b05b": {
+      "podcast_id": "world_war_two",
+      "title": "פרק 27 - כיבוש גרמניה והאוקיינוס הרועם",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.442010+00:00"
+    },
+    "7ea9fed1e81c92adfeefe464821280bc": {
+      "podcast_id": "world_war_two",
+      "title": "פרק 26 - לשנות את כיוון המלחמה",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.442013+00:00"
+    },
+    "2cb1770e645d6e19065f91ccd54b3fc1": {
+      "podcast_id": "world_war_two",
+      "title": "פרק 25 - מלחמה במערב אירופה",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.442015+00:00"
+    },
+    "b25fab887c966d3eff7b59051973f0bc": {
+      "podcast_id": "world_war_two",
+      "title": "פרק 24 - פצצות מעופפות, מבצע בגרטיון ומיידנק",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.442018+00:00"
+    },
+    "872cffdd5a28686f8dbdc95b6c5a36cb": {
+      "podcast_id": "world_war_two",
+      "title": "פרק 23 - הפלישה לנורמנדי",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.442020+00:00"
+    },
+    "82d1e15cddf5e0c3c6324ea542fdf619": {
+      "podcast_id": "world_war_two",
+      "title": "פרק 22 - קרבות באוקיינוס השקט ומבצע שומר ראש",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.442022+00:00"
+    },
+    "b0085e22520f4014803560b33cb8964c": {
+      "podcast_id": "world_war_two",
+      "title": "פרק 21 - מדינות הציר הולכות לאחור",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.442025+00:00"
+    },
+    "f42a49a6-a75c-45d3-9534-ae4f009b5f6b": {
+      "podcast_id": "minhar_hazman",
+      "title": "מלך התמימות",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.776963+00:00"
+    },
+    "c510b687-2e38-401a-a58a-ae4801739cec": {
+      "podcast_id": "minhar_hazman",
+      "title": "עושים רעש",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.776977+00:00"
+    },
+    "0cb1ce51-6a26-4326-97e8-ae400072bbab": {
+      "podcast_id": "minhar_hazman",
+      "title": "אחי, איפה אתה?",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.776980+00:00"
+    },
+    "e7b06246-afd9-4a0c-bc45-ae3a011e33b1": {
+      "podcast_id": "minhar_hazman",
+      "title": "טוב לחיות",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.776984+00:00"
+    },
+    "e3d44679-d99f-4ba1-9906-ae3200d8a798": {
+      "podcast_id": "minhar_hazman",
+      "title": "לא בפנים ולא בחוץ",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.776987+00:00"
+    },
+    "c692d206-2bbd-4ff4-ab12-ae2c00e93809": {
+      "podcast_id": "minhar_hazman",
+      "title": "תכתוב, הוא אמר לו, תכתוב",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.776989+00:00"
+    },
+    "af84555f-f720-40f9-a105-ae260004766e": {
+      "podcast_id": "minhar_hazman",
+      "title": "זה לא מצחיק, זה קוריאה",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.776992+00:00"
+    },
+    "105500f7-7246-419d-b761-ae1e016cfeab": {
+      "podcast_id": "minhar_hazman",
+      "title": "השטן שוכן בעצים הגדולים",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.776994+00:00"
+    },
+    "5acfb2f6-ccc0-47ce-9ab5-ae15012c97df": {
+      "podcast_id": "minhar_hazman",
+      "title": "לא שם עין",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.776997+00:00"
+    },
+    "d6fbbe6c-d4d9-4364-a409-ae1001560768": {
+      "podcast_id": "minhar_hazman",
+      "title": "תאוריות קשר",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.777000+00:00"
+    },
+    "dannyorbach.podbean.com/bbffdf27-f2de-3893-9546-bf322968a799": {
+      "podcast_id": "triple_agent",
+      "title": "הממונה: איסר הראל וראשית קהילת המודיעין הישראלית - עם פרופ’ שלמה שפירא",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.920679+00:00"
+    },
+    "dannyorbach.podbean.com/58c2f0a7-7d49-3a20-80dd-95c477943fc0": {
+      "podcast_id": "triple_agent",
+      "title": "תעתועי המראה: מדוע רוסיה והמערב לא הבינו את אוקראינה? - שיחה עם שלום בוגוסלבסקי",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.920692+00:00"
+    },
+    "dannyorbach.podbean.com/8a98e59f-31df-3ec3-864d-608b229dc2df": {
+      "podcast_id": "triple_agent",
+      "title": "בדל סיגריה: כישלון המודיעין הרוסי בפלישה לאוקראינה- שיחה עם ד”ר אלכס גרינברג",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.920695+00:00"
+    },
+    "dannyorbach.podbean.com/e022b208-e76b-3e12-a140-09cbb3be6ee6": {
+      "podcast_id": "triple_agent",
+      "title": "מרגלים מושכחים: הביון הפולני במלחמת העולם השנייה",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.920698+00:00"
+    },
+    "dannyorbach.podbean.com/bf2788b6-a521-32ea-a1df-cd41283c1ea9": {
+      "podcast_id": "triple_agent",
+      "title": "המגדל הגאה שקרס: כישלון המודיעין האמריקאי ב-11 בספטמבר - שיחה עם יורם שוייצר",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.920701+00:00"
+    },
+    "dannyorbach.podbean.com/ceb4f1db-dab8-30b8-b704-1eabe8d1830d": {
+      "podcast_id": "triple_agent",
+      "title": "סוסים טרויאנים: ריגול פוליטי במערכות בחירות - שיחה עם רונן צור וד”ר חגי אלקיים-שלם",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.920704+00:00"
+    },
+    "dannyorbach.podbean.com/c2ea4d81-4eb5-3ce8-8ffa-3213685f43ce": {
+      "podcast_id": "triple_agent",
+      "title": "מגש הכסף (2): הסוכן שהציל את ביבי",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.920707+00:00"
+    },
+    "dannyorbach.podbean.com/38097c77-d046-357c-aecb-13a400f151dd": {
+      "podcast_id": "triple_agent",
+      "title": "מגש הכסף: משתפי הפעולה של השב\"כ - שיחה עם פרופ' מנחם הופנונג",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.920710+00:00"
+    },
+    "dannyorbach.podbean.com/36d60943-9040-39d3-9615-62418e2b0a08": {
+      "podcast_id": "triple_agent",
+      "title": "סודות הקג\"ב: פרק אורח עם צבי מירקין",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.920713+00:00"
+    },
+    "dannyorbach.podbean.com/98e67e10-e408-31ce-b266-52f16980a5c2": {
+      "podcast_id": "triple_agent",
+      "title": "מרגלים בעולם הערבי: פרק משותף עם \"השבוע במזרח התיכון\"",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:04.920716+00:00"
+    },
+    "https://api.spreaker.com/episode/66824099": {
+      "podcast_id": "grush_hole",
+      "title": "מסיבת המכסים של ארצות הברית [כשבגרוש היה חור]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:05.544031+00:00"
+    },
+    "https://api.spreaker.com/episode/64525099": {
+      "podcast_id": "grush_hole",
+      "title": "בועת הנדל\"ן הראשונה של תל אביב [כשבגרוש היה חור]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:05.544045+00:00"
+    },
+    "https://api.spreaker.com/episode/63335702": {
+      "podcast_id": "grush_hole",
+      "title": "חלומות שבורים בכלכלה הישראלית [כשבגרוש היה חור]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:05.544049+00:00"
+    },
+    "https://api.spreaker.com/episode/61010685": {
+      "podcast_id": "grush_hole",
+      "title": "עסקת הנשק שהכריעה את מלחמת העצמאות- חלק ב' [כשבגרוש היה חור]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:05.544052+00:00"
+    },
+    "https://api.spreaker.com/episode/60109333": {
+      "podcast_id": "grush_hole",
+      "title": "עסקת הנשק שהכריעה את מלחמת העצמאות- חלק א' [כשבגרוש היה חור]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:05.544055+00:00"
+    },
+    "https://api.spreaker.com/episode/59003470": {
+      "podcast_id": "grush_hole",
+      "title": "רועי גרון- ראיון על שיטת ספיר [כשבגרוש היה חור]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:05.544058+00:00"
+    },
+    "https://api.spreaker.com/episode/58741509": {
+      "podcast_id": "grush_hole",
+      "title": "הדרך למטה [כשבגרוש היה חור]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:05.544061+00:00"
+    },
+    "https://api.spreaker.com/episode/58266561": {
+      "podcast_id": "grush_hole",
+      "title": "ראש הממשלה של הכלכלה [כשבגרוש היה חור]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:05.544064+00:00"
+    },
+    "https://api.spreaker.com/episode/57360163": {
+      "podcast_id": "grush_hole",
+      "title": "[כשבגרוש היה חור] שיטת ספיר- האבא של עיירות הפיתוח",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:05.544067+00:00"
+    },
+    "https://api.spreaker.com/episode/57005998": {
+      "podcast_id": "grush_hole",
+      "title": "שיטת ספיר- מאבקים ושילומים [כשבגרוש היה חור]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:05.544070+00:00"
+    },
+    "4e420159-934a-42ad-be50-b4d300739e77": {
+      "podcast_id": "hatzolelet",
+      "title": "כך הפכה משפחת סטיבה לשחקנית בתחום המים בהודו | פרק בונוס",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:06.839250+00:00"
+    },
+    "71af172f-5609-49ff-b28c-b4ce004a212d": {
+      "podcast_id": "hatzolelet",
+      "title": "אוריאל רייכמן מדבר על \"בינ-טחונים\", בית הספר לרפואה והמאבק על עתיד המדינה | פרק 388",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:06.839264+00:00"
+    },
+    "5a312ba5-698e-4840-8479-b4c8007e01b5": {
+      "podcast_id": "hatzolelet",
+      "title": "\"היכונו לצונאמי של קריסת חברות\": תחזית האימים של אבישי עובדיה | כסף בקיר",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:06.839269+00:00"
+    },
+    "0bc4fce0-ebdb-43ae-8014-b4c000b2b767": {
+      "podcast_id": "hatzolelet",
+      "title": "\"יש לי הרבה יותר מרקאנטי\": אריק שטילמן מסביר למה הוא מוכן לשלם 120 מיליון דולר על מכבי | מגרש עסקי",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:06.839272+00:00"
+    },
+    "8664f5c8-9639-4989-8ec1-b4b900a5ce05": {
+      "podcast_id": "hatzolelet",
+      "title": "האם כלכלת יפן תצליח להתאושש? | פרק 387",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:06.839275+00:00"
+    },
+    "04836fc2-2fc8-413a-a7db-b4a200c543e2": {
+      "podcast_id": "hatzolelet",
+      "title": "פרק בונוס: איך להשיג חופש כלכלי באמצעות נדל\"ן?",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:06.839278+00:00"
+    },
+    "421adbca-f338-4a9b-8f2e-b49700923065": {
+      "podcast_id": "hatzolelet",
+      "title": "מי יכול להרוויח כפליים מקרן ההשתלמות - ועוד 5 טיפים שיחסכו לכם הרבה כסף | פרק רביעי בסדרה",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:06.839281+00:00"
+    },
+    "16ae58bb-a792-4493-88cb-b49e00b2d897": {
+      "podcast_id": "hatzolelet",
+      "title": "לא לתכנן פרישה, לתכנן חיים: פגישה עם עצמכם בגיל 82 | פרק שלישי בסדרה עם אלכס קפלון",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:06.839284+00:00"
+    },
+    "4907f40f-c54d-46fa-8f0c-b49e00b1cdcd": {
+      "podcast_id": "hatzolelet",
+      "title": "\"אל תבנו על הירושה\": המומחית שמנתצת מיתוסים על הפנסיה | פרק שני בסדרה",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:06.839287+00:00"
+    },
+    "f590ecb2-b663-48bb-87e5-b49a00af96da": {
+      "podcast_id": "hatzolelet",
+      "title": "איך (ולמה) להתכונן לפנסיה - גם בגיל 40 | פרק ראשון בסדרה, עם אלה אלקלעי",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:06.839290+00:00"
+    },
+    "https://api.spreaker.com/episode/75400200": {
+      "podcast_id": "osim_heshbon",
+      "title": "מס ירושה: צדק חברתי או נזק כלכלי? [עושים חשבון]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.113771+00:00"
+    },
+    "https://api.spreaker.com/episode/75107375": {
+      "podcast_id": "osim_heshbon",
+      "title": "מהפכת הבינה: סוף עידן התעסוקה?  [עושים חשבון]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.113785+00:00"
+    },
+    "https://api.spreaker.com/episode/74699041": {
+      "podcast_id": "osim_heshbon",
+      "title": "מי ישלם? שולמן ישלם | אביר קארה [עושים חשבון]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.113789+00:00"
+    },
+    "https://api.spreaker.com/episode/73554678": {
+      "podcast_id": "osim_heshbon",
+      "title": "אובר - תורם לרווחה או לפקקים?ֿ פרופ׳ יוסי שפיגל [עושים חשבון]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.113791+00:00"
+    },
+    "https://api.spreaker.com/episode/73176810": {
+      "podcast_id": "osim_heshbon",
+      "title": "המחשב הקוואנטי והכלכלה | עושים חשבון״ ו״דיפטק ישראל״",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.113794+00:00"
+    },
+    "https://api.spreaker.com/episode/72867289": {
+      "podcast_id": "osim_heshbon",
+      "title": "האם תחב\"צ חינם יקטין את הגודש בכבישים? [עושים חשבון]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.113797+00:00"
+    },
+    "https://api.spreaker.com/episode/72684794": {
+      "podcast_id": "osim_heshbon",
+      "title": "קללת המנצח [עושים חשבון]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.113800+00:00"
+    },
+    "https://api.spreaker.com/episode/72473884": {
+      "podcast_id": "osim_heshbon",
+      "title": "השופטת והכלב - תורת המכרזים [עושים חשבון]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.113802+00:00"
+    },
+    "https://api.spreaker.com/episode/72059644": {
+      "podcast_id": "osim_heshbon",
+      "title": "יוקר המחייה בישראל [עושים חשבון]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.113805+00:00"
+    },
+    "https://api.spreaker.com/episode/71851254": {
+      "podcast_id": "osim_heshbon",
+      "title": "תנועת הג'ורג'יזם: האם אפשר לממן את הממשלה על ידי מס על קרקע? [עושים חשבון]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.113808+00:00"
+    },
+    "Buzzsprout-19772794": {
+      "podcast_id": "al_halal",
+      "title": "פרק 77 - נשים בחלל, חלק א'",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.505896+00:00"
+    },
+    "Buzzsprout-19731854": {
+      "podcast_id": "al_halal",
+      "title": "פרק 76 - חישה מרחוק של חקלאות",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.505925+00:00"
+    },
+    "Buzzsprout-19633442": {
+      "podcast_id": "al_halal",
+      "title": "פרק 75, חלק ב' - איך בונים מצלמת חלל",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.505930+00:00"
+    },
+    "Buzzsprout-19555735": {
+      "podcast_id": "al_halal",
+      "title": "פרק 75, חלק א' - איך בונים מצלמת חלל",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.505936+00:00"
+    },
+    "Buzzsprout-19478531": {
+      "podcast_id": "al_halal",
+      "title": "פרק 74 - קוטב",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.505940+00:00"
+    },
+    "Buzzsprout-19413331": {
+      "podcast_id": "al_halal",
+      "title": "פרק 73 - מגן ישראלי",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.505945+00:00"
+    },
+    "Buzzsprout-19319518": {
+      "podcast_id": "al_halal",
+      "title": "פרק 72 - סוכנת חלל",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.505950+00:00"
+    },
+    "Buzzsprout-19230723": {
+      "podcast_id": "al_halal",
+      "title": "פרק 71 - ציידת האסטרואידים",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.505955+00:00"
+    },
+    "Buzzsprout-19030921": {
+      "podcast_id": "al_halal",
+      "title": "פרק 70 - הניווט הלווייני של מחר",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.505959+00:00"
+    },
+    "Buzzsprout-18943764": {
+      "podcast_id": "al_halal",
+      "title": "פרק 69 - גלילאו, מידברן ושעון שמש",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.505964+00:00"
+    },
+    "Buzzsprout-11283051": {
+      "podcast_id": "el_haeinsof",
+      "title": "פרק 103 - ראיון עם הפרופסור ראמזי סולימאן",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.852134+00:00"
+    },
+    "Buzzsprout-11283107": {
+      "podcast_id": "el_haeinsof",
+      "title": "פרק 102 - ראיון עם הפרופסור אשר יהלום",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.852147+00:00"
+    },
+    "Buzzsprout-10180460": {
+      "podcast_id": "el_haeinsof",
+      "title": "פרק 101 - פרק ספיישל - פרופ' חגי פרץ",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.852151+00:00"
+    },
+    "Buzzsprout-10049236": {
+      "podcast_id": "el_haeinsof",
+      "title": "פרק 100 - פרק ספיישל - פרופ' חגי נצר",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.852153+00:00"
+    },
+    "Buzzsprout-9935174": {
+      "podcast_id": "el_haeinsof",
+      "title": "פרק 99 -  פרק ספיישל - פרופ' יונתן דובי",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.852156+00:00"
+    },
+    "Buzzsprout-9898636": {
+      "podcast_id": "el_haeinsof",
+      "title": "פרק 98 – טלסקופ החלל ג'יימס ווב [או: כמה רחוק אפשר לראות?]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.852158+00:00"
+    },
+    "Buzzsprout-9664621": {
+      "podcast_id": "el_haeinsof",
+      "title": "פרק 97 – הדואליות של הכוח החלש ביותר [או: איך הזמן מסביר את הכבידה?]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.852161+00:00"
+    },
+    "Buzzsprout-9342026": {
+      "podcast_id": "el_haeinsof",
+      "title": "פרק 96 – הסינגולריות העירומה [או: האם אפשר לראות את מרכז החור השחור?]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.852163+00:00"
+    },
+    "Buzzsprout-9261012": {
+      "podcast_id": "el_haeinsof",
+      "title": "פרק 95 – הסוף של היקום האינסופי [או: מתי מגיע סוף היקום?]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.852166+00:00"
+    },
+    "Buzzsprout-9220080": {
+      "podcast_id": "el_haeinsof",
+      "title": "פרק 94 – סוף היקום [או: לאינסוף זמן יש איכות משלו]",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:07.852168+00:00"
+    },
+    "lbscience.podbean.com/2c3b0f90-84c4-3965-ae68-b1aa45f4f2d0": {
+      "podcast_id": "madbarimda",
+      "title": "פרק 181: ד\"ר סהר גלפמן - תרגום מחקר גנטי לתרופות",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:08.199281+00:00"
+    },
+    "lbscience.podbean.com/c9db22b0-ae02-3e04-9b05-1143c9008dea": {
+      "podcast_id": "madbarimda",
+      "title": "פרק 180: ד\"ר דני גליק - מחשוב קוונטי",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:08.199296+00:00"
+    },
+    "lbscience.podbean.com/fb61b26c-3a39-3f66-b8d1-fafeaea3b5ee": {
+      "podcast_id": "madbarimda",
+      "title": "פרק 179: פרופ' ג'פרי גרסט - הנדסה ביולוגית של ההארה",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:08.199300+00:00"
+    },
+    "lbscience.podbean.com/ae316aa9-82c8-3ebf-8ba2-d3c9715c573c": {
+      "podcast_id": "madbarimda",
+      "title": "פרק 178: ד\"ר חגי שפיגלר - סודות הדבורים",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:08.199303+00:00"
+    },
+    "lbscience.podbean.com/4ce7bb7e-6926-362d-b5ef-d28754f8aa90": {
+      "podcast_id": "madbarimda",
+      "title": "פרק 177: ד\"ר ויקטור צ'רנוב - ארטמיס 2",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:08.199305+00:00"
+    },
+    "lbscience.podbean.com/62f66912-5f1f-38e5-b126-b617c41a7e03": {
+      "podcast_id": "madbarimda",
+      "title": "פרק 176: פרופ' אלי וקסמן - אולטראסאט, הטלסקופ הישראלי בחלל",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:08.199309+00:00"
+    },
+    "lbscience.podbean.com/265cf434-a359-367a-9e6f-14a941b14970": {
+      "podcast_id": "madbarimda",
+      "title": "פרק 175: ד״ר ירון דקל - תנים מבייתים את עצמם (ש.ח.)",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:08.199316+00:00"
+    },
+    "lbscience.podbean.com/8cd05aba-eb53-329e-bfce-13b38e5e754d": {
+      "podcast_id": "madbarimda",
+      "title": "פרק 174: פרופ׳ רועי סלומון - טיפול בשורדי הנובה",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:08.199322+00:00"
+    },
+    "lbscience.podbean.com/37fdac12-1927-3ccc-b1e6-e2f6c72452a6": {
+      "podcast_id": "madbarimda",
+      "title": "פרק 173: פרופ׳ עודד רכבי - העתיד של פרסומים מדעיים ובינה מלאכותית",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:08.199325+00:00"
+    },
+    "lbscience.podbean.com/44931e7f-2148-3cba-be03-9ce13109ee16": {
+      "podcast_id": "madbarimda",
+      "title": "פרק 172: פרופ׳ רועי דיאמנט - תקשורת ימית",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:08.199328+00:00"
+    },
+    "906749df-6ca2-4ac0-8e0e-a5d519988d35": {
+      "podcast_id": "pashut_ai",
+      "title": "חדשות ועדכונים על עולם הבינה המלאכותית - אוקטובר 2026 | פרק 186 סולו",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:08.733648+00:00"
+    },
+    "347d3025-b51b-4344-bee8-8e14c67bbf4a": {
+      "podcast_id": "pashut_ai",
+      "title": "״בניתי סטארטאפ בריאותי שיעזור לי ולעוד אלפים״ 👩‍⚕️ | פרק 185 עם ספיר אלעד, סימפטרה",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:08.733665+00:00"
+    },
+    "17e380c2-21c4-4211-901b-5e9ed0b3d58d": {
+      "podcast_id": "pashut_ai",
+      "title": "בואו נדבר על גרוק בוט! 🦿 | פרק 184 עם אביץ",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:08.733668+00:00"
+    },
+    "b5abdb30-4f63-4af4-96a3-13ce0c97aedb": {
+      "podcast_id": "pashut_ai",
+      "title": "לחבר את סוכני הבינה המלאכותית שלכם לחשבון הבנק והאשראי(?) 💳 | פרק 183 עם אלירון ג'יני, אופןפיינאנס",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:08.733672+00:00"
+    },
+    "94c4bb9a-a7fa-4012-823e-1e2c4df686c7": {
+      "podcast_id": "pashut_ai",
+      "title": "חברת מאנדיי מתכוננת למהפכת סוכני הבינה המלאכותית 🌈 | פרק 182 עם דניאל לריה, מאנדיי",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:08.733674+00:00"
+    },
+    "37220579-5f1f-42f5-aab3-3fc7f3dd81f4": {
+      "podcast_id": "pashut_ai",
+      "title": "מכשירי הבינה המלאכותית שכבר מתלבשים עלינו פיזית 💍 | פרק 181 עם שי אלנקרי",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:08.733678+00:00"
+    },
+    "dcc8ae9a-fe28-41f9-80f4-312170789d46": {
+      "podcast_id": "pashut_ai",
+      "title": "תהליכי השיווק החדשים בעזרת סוכני בינה מלאכותית 🌊 | פרק 180 עם טל אקרלינג",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:08.733681+00:00"
+    },
+    "cb962691-f832-46cd-b6e1-4e435f1e084d": {
+      "podcast_id": "pashut_ai",
+      "title": "מה קרה כשחיברתי את חשבון הבנק לסוכן שלי 💳 | פרק 179 עם שי בדיחי, ידע שווה כסף",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:08.733684+00:00"
+    },
+    "d1988195-9b58-4b8e-9b7a-1988465c405a": {
+      "podcast_id": "pashut_ai",
+      "title": "עד כמה בתי ספר רלוונטיים לדור שגדל עם בינה מלאכותית 👩‍🏫 | פרק 178 עם נסטיה אוצ'קובסקי, אליסקוד",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:08.733686+00:00"
+    },
+    "bf74c4ed-4aeb-40f4-95ec-83e76001850e": {
+      "podcast_id": "pashut_ai",
+      "title": "שוק התעסוקה ומיסוי על סוכני בינה מלאכותית(?) 📠 | פרק 177 עם אפרת בכר-נתנאל, מכון מוזאיק",
+      "status": "bootstrap",
+      "seen_at": "2026-09-30T23:57:08.733689+00:00"
     }
   }
 }

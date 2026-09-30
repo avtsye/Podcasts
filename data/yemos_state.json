@@ -1795,10 +1795,10 @@
     "01b2b108-076b-4dfd-8c8e-b1fa00c16f35": {
       "podcast_id": "music_tech",
       "title": "עונה 1 - פרק 15: נדב פורז - מייסד ומנכ״ל whosampled.com",
-      "status": "error",
+      "status": "uploaded",
+      "path": "ivr2:/1/22/22.wav",
       "filename_stem": "22",
-      "error": "UploadFile finalization retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-09-30T19:25:46.479216+00:00"
+      "uploaded_at": "2026-09-30T23:55:53.251037+00:00"
     },
     "448ca1a7-018e-4f1a-a85e-b33f00d9bd1d": {
       "podcast_id": "music_tech",
@@ -12897,8 +12897,8 @@
       "title": "מה הבעיה שלי עם אפל [עושים טכנולוגיה] ש.ח.",
       "status": "error",
       "filename_stem": "12",
-      "error": "UploadFile finalization failed: Unknown Yemos API error",
-      "updated_at": "2026-09-30T19:25:06.137479+00:00"
+      "error": "UploadFile finalization retry failed: Invalid file identifier or file name.",
+      "updated_at": "2026-09-30T23:54:48.094354+00:00"
     },
     "fce2f130-a008-4409-82ed-b4c600540483": {
       "podcast_id": "startup_for_startup",
@@ -13810,6 +13810,14 @@
       "path": "ivr2:/1/5/11.wav",
       "filename_stem": "11",
       "uploaded_at": "2026-09-30T06:48:05.307157+00:00"
+    },
+    "32afdb31-c4bf-4067-9a31-b4d5010d36c0": {
+      "podcast_id": "ear_catcher",
+      "title": "אושפיזין קריאייטיב- פרק מיוחד לסוכות עם הילה סלומון, אייל גיא וחזקוש ישורון",
+      "status": "uploaded",
+      "path": "ivr2:/1/24/14.wav",
+      "filename_stem": "14",
+      "uploaded_at": "2026-09-30T23:56:44.087445+00:00"
     }
   },
   "next_numbers": {
@@ -13838,12 +13846,12 @@
     "25": 9,
     "26": 175,
     "27": 13,
-    "37": 253,
+    "37": 262,
     "38": 11,
     "39": 9,
     "40": 7,
     "20": 17,
-    "24": 14,
+    "24": 15,
     "41": 11
   }
 }

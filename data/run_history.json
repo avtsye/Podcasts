@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-09-30T22:53:55.295453+00:00",
+  "updated_at": "2026-09-30T23:57:10.192543+00:00",
   "runs": [
+    {
+      "run_id": "36793396350",
+      "run_number": "122",
+      "event": "schedule",
+      "status": "failure",
+      "utc_time": "2026-09-30T23:57:10.192543+00:00",
+      "israel_time": "01/10/2026 02:57",
+      "uploads": 2,
+      "feed_errors": 1,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36793396350",
+      "items": [
+        {
+          "podcast": "פודקאסט על מוזיקה וטכנולוגיה",
+          "title": "עונה 1 - פרק 15: נדב פורז - מייסד ומנכ״ל whosampled.com",
+          "destinations": [
+            "ימות המשיח ivr2:/1/22/22.wav"
+          ]
+        },
+        {
+          "podcast": "Ear Catcher",
+          "title": "אושפיזין קריאייטיב- פרק מיוחד לסוכות עם הילה סלומון, אייל גיא וחזקוש ישורון",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/24/14.wav"
+          ]
+        }
+      ]
+    },
     {
       "run_id": "36787560550",
       "run_number": "120",
