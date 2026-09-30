@@ -1798,7 +1798,7 @@
       "status": "error",
       "filename_stem": "22",
       "error": "UploadFile finalization retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-09-30T00:32:55.203539+00:00"
+      "updated_at": "2026-09-30T06:48:44.616082+00:00"
     },
     "448ca1a7-018e-4f1a-a85e-b33f00d9bd1d": {
       "podcast_id": "music_tech",
@@ -12898,7 +12898,7 @@
       "status": "error",
       "filename_stem": "12",
       "error": "UploadFile finalization failed: Unknown Yemos API error",
-      "updated_at": "2026-09-30T00:32:17.361024+00:00"
+      "updated_at": "2026-09-30T06:47:43.117892+00:00"
     },
     "fce2f130-a008-4409-82ed-b4c600540483": {
       "podcast_id": "startup_for_startup",
@@ -13794,14 +13794,30 @@
       "path": "ivr2:/1/2/16.wav",
       "filename_stem": "16",
       "uploaded_at": "2026-09-30T00:31:45.851444+00:00"
+    },
+    "1eb6ebc9-d21f-42d8-bff5-b4d401435f7f": {
+      "podcast_id": "ehad_beyom",
+      "title": "המהפכה של יהודה אטלס",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/1312.wav",
+      "filename_stem": "1312",
+      "uploaded_at": "2026-09-30T06:47:05.525432+00:00"
+    },
+    "https://api.spreaker.com/episode/75426573": {
+      "podcast_id": "hatshuva",
+      "title": "סיזיפוס [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/11.wav",
+      "filename_stem": "11",
+      "uploaded_at": "2026-09-30T06:48:05.307157+00:00"
     }
   },
   "next_numbers": {
-    "1": 1312,
+    "1": 1313,
     "2": 17,
     "3": 11,
     "4": 15,
-    "5": 11,
+    "5": 12,
     "6": 19,
     "7": 12,
     "8": 12,
@@ -13822,7 +13838,7 @@
     "25": 9,
     "26": 175,
     "27": 13,
-    "37": 226,
+    "37": 235,
     "38": 11,
     "39": 9,
     "40": 7,

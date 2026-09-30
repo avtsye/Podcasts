@@ -1,6 +1,35 @@
 {
-  "updated_at": "2026-09-30T00:33:13.912739+00:00",
+  "updated_at": "2026-09-30T06:49:02.954195+00:00",
   "runs": [
+    {
+      "run_id": "36680007364",
+      "run_number": "114",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-09-30T06:49:02.954195+00:00",
+      "israel_time": "30/09/2026 09:49",
+      "uploads": 2,
+      "feed_errors": 1,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36680007364",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "המהפכה של יהודה אטלס",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/1312.wav"
+          ]
+        },
+        {
+          "podcast": "התשובה",
+          "title": "סיזיפוס [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/11.wav"
+          ]
+        }
+      ]
+    },
     {
       "run_id": "36650661249",
       "run_number": "113",
