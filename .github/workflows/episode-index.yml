@@ -13,7 +13,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: refresh-episode-index
+  group: podcast-state-writer
   cancel-in-progress: true
 
 jobs:
@@ -29,6 +29,9 @@ jobs:
           cache: "pip"
       - name: Install dependencies
         run: python -m pip install -r requirements.txt
+      - name: Update working tree before index build
+        run: git pull --ff-only origin main
+
       - name: Build episode index
         run: python -m src.build_episode_index
       - name: Commit refreshed index
