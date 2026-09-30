@@ -21,8 +21,8 @@
       "last_error": null
     },
     "startup_for_startup": {
-      "last_checked": "2026-09-30T13:48:38.439851+00:00",
-      "last_error": null
+      "last_checked": "2026-09-30T18:22:31.972230+00:00",
+      "last_error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})"
     },
     "money_engines": {
       "last_checked": "2026-09-30T13:48:38.704694+00:00",
@@ -25231,6 +25231,1266 @@
       "processed_at": "2026-09-30T06:47:47.739114+00:00",
       "yemos_path": "ivr2:/1/5/11.wav",
       "notification_sent_at": "2026-09-30T06:49:00.782720+00:00"
+    },
+    "tag:soundcloud,2010:tracks/464183604": {
+      "podcast_id": "startup_for_startup",
+      "title": "0: למה אנחנו עושים את זה? (ערן זינמן וליאור קרנכל)",
+      "published": "Wed, 27 Jun 2018 15:24:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/92419c51-b653-43b0-bcd0-aaf60094226a/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609775206",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:16:32.404689+00:00"
+    },
+    "tag:soundcloud,2010:tracks/468815424": {
+      "podcast_id": "startup_for_startup",
+      "title": "1: מפצחים A/B testing (ערן זינמן ואבירם גבאי)",
+      "published": "Sun, 08 Jul 2018 07:58:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/9a44ac04-e901-409d-977d-aaf6009418d1/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609775271",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:16:34.774658+00:00"
+    },
+    "tag:soundcloud,2010:tracks/472253949": {
+      "podcast_id": "startup_for_startup",
+      "title": "2: איך הופכים את צוות העיצוב לחלק אינטגרלי מהמוצר (רותם וייסמן וערן זינמן)",
+      "published": "Mon, 16 Jul 2018 05:41:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/92b7e7a5-165c-447b-b78f-aaf600940a4e/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609775523",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:16:38.033581+00:00"
+    },
+    "tag:soundcloud,2010:tracks/475470603": {
+      "podcast_id": "startup_for_startup",
+      "title": "3: איך הורדנו את זמן התגובה ללקוח ל-7 דקות (שחר ששון וערן זינמן)",
+      "published": "Mon, 23 Jul 2018 08:14:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/046e066d-1e7c-434b-b297-aaf60093ebb7/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609775555",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:16:41.064188+00:00"
+    },
+    "tag:soundcloud,2010:tracks/478448871": {
+      "podcast_id": "startup_for_startup",
+      "title": "4: שלב אחר שלב - איך עושים פרודקט במאנדיי.קום (שירלי באומר וערן זינמן)",
+      "published": "Mon, 30 Jul 2018 00:05:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/b70a862a-b8c6-4065-b1c4-aaf60093dffc/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609775598",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:16:44.223954+00:00"
+    },
+    "tag:soundcloud,2010:tracks/481675389": {
+      "podcast_id": "startup_for_startup",
+      "title": "5: פיתוח מוכוון אימפקט (דניאל לריה וערן זינמן)",
+      "published": "Mon, 06 Aug 2018 03:27:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/48473c28-3242-4e24-b3d4-aaf60093ca7e/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609775662",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:16:47.033256+00:00"
+    },
+    "tag:soundcloud,2010:tracks/484567356": {
+      "podcast_id": "startup_for_startup",
+      "title": "6: מ-30 אלף דולר ל-4.5 מיליון דולר תקציב שיווק חודשי (רותם שי ורועי מן)",
+      "published": "Sun, 12 Aug 2018 17:19:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/198f5b18-52d2-4ef8-9983-aaf60093beab/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609775712",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:16:49.493110+00:00"
+    },
+    "tag:soundcloud,2010:tracks/487659753": {
+      "podcast_id": "startup_for_startup",
+      "title": "7: איך הופכים דאטה למנוע צמיחה (רן דוידוביץ׳ וערן זינמן)",
+      "published": "Sun, 19 Aug 2018 17:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/6c310859-807e-4cbd-92c3-aaf60093b373/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609775895",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:16:53.031332+00:00"
+    },
+    "tag:soundcloud,2010:tracks/491031453": {
+      "podcast_id": "startup_for_startup",
+      "title": "8: איך מגייסים עובדים בכמות ובמהירות תוך שמירה על איכות (דניאל וייסבלט וערן זינמן)",
+      "published": "Sun, 26 Aug 2018 21:52:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/98951a51-0a9b-4fa5-b266-aaf60093a94f/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609775916",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:16:55.805357+00:00"
+    },
+    "tag:soundcloud,2010:tracks/497487504": {
+      "podcast_id": "startup_for_startup",
+      "title": "9: קאש איז קינג - על ניהול כספים (כפיר ליפמן וערן זינמן)",
+      "published": "Sun, 09 Sep 2018 16:37:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/cf1a9329-d2b9-4a99-b507-aaf60093a2b8/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609776214",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:16:57.912469+00:00"
+    },
+    "tag:soundcloud,2010:tracks/500780739": {
+      "podcast_id": "startup_for_startup",
+      "title": "10: על מכירות בחברה שצמחה למיליוני דולרים ללא אנשי מכירות (יוני אושרוב וערן זינמן)",
+      "published": "Sun, 16 Sep 2018 18:48:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/61a4fa43-ca84-47a8-b821-aaf6009395ff/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609776368",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:17:01.423521+00:00"
+    },
+    "tag:soundcloud,2010:tracks/504010839": {
+      "podcast_id": "startup_for_startup",
+      "title": "11: עוד על פיתוח מוכוון אימפקט (דניאל לריה וערן זינמן)",
+      "published": "Sun, 23 Sep 2018 16:55:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/7aedad7e-6a4c-47c3-97c7-aaf600938b59/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609776585",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:17:04.762260+00:00"
+    },
+    "tag:soundcloud,2010:tracks/510814494": {
+      "podcast_id": "startup_for_startup",
+      "title": "12: איך מפחיתים סיכון בגיוס כספים ממשקיעים (עם רועי מן)",
+      "published": "Sun, 07 Oct 2018 15:42:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/d9d71390-b026-436c-bf3c-aaf6009369ff/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609776615",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:17:07.844513+00:00"
+    },
+    "tag:soundcloud,2010:tracks/515026704": {
+      "podcast_id": "startup_for_startup",
+      "title": "13: מה זה PR לסטארטאפים? (English) (לאה וולטרס וערן זינמן)",
+      "published": "Tue, 16 Oct 2018 07:07:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/946e9c5a-faa3-443c-85c7-aaf600935cae/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609682214",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:17:13.467230+00:00"
+    },
+    "tag:soundcloud,2010:tracks/518220792": {
+      "podcast_id": "startup_for_startup",
+      "title": "14: על מנוע הצמיחה שעדיין לא פיצחנו - שותפויות עסקיות (אסף פרדקין וערן זינמן)",
+      "published": "Mon, 22 Oct 2018 17:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/e925c91d-6efc-40b6-9148-aaf6009352b3/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609777058",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:17:16.085166+00:00"
+    },
+    "tag:soundcloud,2010:tracks/523667364": {
+      "podcast_id": "startup_for_startup",
+      "title": "15: על האתגרים שבפתיחת משרד חדש בניו-יורק (ערן זינמן ותום רונן)",
+      "published": "Mon, 05 Nov 2018 05:47:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/678e586f-5135-4940-b345-aaf600934772/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609777357",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:17:19.122213+00:00"
+    },
+    "tag:soundcloud,2010:tracks/528003060": {
+      "podcast_id": "startup_for_startup",
+      "title": "16: איך אנחנו מגנים על המידע של הלקוחות שלנו (דניאל מיטלמן וערן זינמן)",
+      "published": "Sun, 11 Nov 2018 10:50:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/c10d80b3-fefb-42d3-9ffb-aaf600933e02/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609777396",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:17:22.000973+00:00"
+    },
+    "tag:soundcloud,2010:tracks/532765362": {
+      "podcast_id": "startup_for_startup",
+      "title": "17: כשמפתחים ונציגי תמיכה עובדים יחד - Dev of the Day (גיא אסינובסקי)",
+      "published": "Tue, 20 Nov 2018 06:55:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/1d38d569-8189-467b-9604-aaf600933659/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609777418",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:17:24.499173+00:00"
+    },
+    "tag:soundcloud,2010:tracks/535683186": {
+      "podcast_id": "startup_for_startup",
+      "title": "18: הובלה מתוך מנהיגות -  Individual Contributor (ערן זינמן וטל הרמתי)",
+      "published": "Mon, 26 Nov 2018 13:25:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/b657fe98-204e-4dfe-9b8a-aaf600932cbe/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609777446",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:17:26.712682+00:00"
+    },
+    "tag:soundcloud,2010:tracks/539113242": {
+      "podcast_id": "startup_for_startup",
+      "title": "19: נקודת המבט של המשקיע (ג׳ף הורינג, Insight Capital Partners) (English)",
+      "published": "Thu, 06 Dec 2018 07:09:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/d9ab0654-7948-4a56-b3a9-aaf60093215d/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609778057",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:17:30.273374+00:00"
+    },
+    "tag:soundcloud,2010:tracks/545739549": {
+      "podcast_id": "startup_for_startup",
+      "title": "20: איך שינוי אסטרטגי במוצר קם ונופל על עיצוב (איילה נרושביץ׳ וערן זינמן)",
+      "published": "Mon, 17 Dec 2018 13:37:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/bc9690bb-eba7-48fc-a439-aaf6009317dd/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609778076",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:17:32.689372+00:00"
+    },
+    "tag:soundcloud,2010:tracks/549392364": {
+      "podcast_id": "startup_for_startup",
+      "title": "21: כל מה שרצינו שתדעו על אופציות (כפיר ליפמן וערן זינמן)",
+      "published": "Mon, 24 Dec 2018 06:22:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/ab64e6c2-1052-4654-9c06-aaf600930f36/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609778114",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:17:35.932029+00:00"
+    },
+    "tag:soundcloud,2010:tracks/552154722": {
+      "podcast_id": "startup_for_startup",
+      "title": "22: איך הופכים תהליך רגולטורי להזדמנות - GDPR (אוריאל וייס וערן זינמן)",
+      "published": "Mon, 31 Dec 2018 08:08:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/5f6baa62-c40a-4887-b5c9-aaf60093056d/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609778137",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:17:38.942105+00:00"
+    },
+    "tag:soundcloud,2010:tracks/558767886": {
+      "podcast_id": "startup_for_startup",
+      "title": "23: הטאסק-פורס הסודי (יבגני קזינק, ארנון ניר וערן זינמן)",
+      "published": "Mon, 14 Jan 2019 17:02:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/0cdd8cb5-7f32-47ec-b834-aaf60092fb3c/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609778152",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:17:41.911754+00:00"
+    },
+    "tag:soundcloud,2010:tracks/562302498": {
+      "podcast_id": "startup_for_startup",
+      "title": "24: ממחלקת מכירות לקבוצת ייעוץ (English) (מיטשל בליקמן וערן זינמן)",
+      "published": "Mon, 21 Jan 2019 11:17:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/3d139f31-bbf9-4fab-b84d-aaf60092e977/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609778654",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:17:45.080913+00:00"
+    },
+    "tag:soundcloud,2010:tracks/566029857": {
+      "podcast_id": "startup_for_startup",
+      "title": "25: פרודקט-מרקט פיט (רועי מן ואבישי אברהמי, Wix)",
+      "published": "Mon, 28 Jan 2019 17:49:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/0d40790b-c901-4d7c-8c3a-aaf60092dccc/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609778434",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:17:48.691775+00:00"
+    },
+    "tag:soundcloud,2010:tracks/575147289": {
+      "podcast_id": "startup_for_startup",
+      "title": "26: איך יצרנו תהליך ראיונות שעובד לנו - על בסיס כישורים ולא על בסיס ניסיון (שקד מזרחי ורועי מן)",
+      "published": "Mon, 25 Feb 2019 07:37:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/ecafd84b-9af0-4d3f-b88d-aaf60092d353/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609778602",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:17:52.359838+00:00"
+    },
+    "tag:soundcloud,2010:tracks/584761023": {
+      "podcast_id": "startup_for_startup",
+      "title": "27: על חילופי מפתחים בין חברות ומה יצא לנו מזה (דניאל לריה ורודיק חנוכייב)",
+      "published": "Mon, 04 Mar 2019 13:30:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/f886807d-2384-4472-8334-aaf60092c369/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609778690",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:17:55.395383+00:00"
+    },
+    "tag:soundcloud,2010:tracks/587820879": {
+      "podcast_id": "startup_for_startup",
+      "title": "28: איך מגדירים ומודדים הצלחה (ערן זינמן וגיל הירש, StreamElements)",
+      "published": "Mon, 11 Mar 2019 20:46:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/058c4d8c-9566-4cc0-b7a1-aaf60092b996/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609778707",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:17:59.159188+00:00"
+    },
+    "tag:soundcloud,2010:tracks/591816570": {
+      "podcast_id": "startup_for_startup",
+      "title": "29: איך הופכים 30 אלף פניות  חודשיות לשירות לקוחות לתובנות מעשיות (English) (אפי ארמן וערן זינמן)",
+      "published": "Mon, 18 Mar 2019 06:55:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/7251bfe5-b5b9-4292-8bcc-aaf60092afe3/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609781698",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:18:02.316317+00:00"
+    },
+    "tag:soundcloud,2010:tracks/595449120": {
+      "podcast_id": "startup_for_startup",
+      "title": "30: איך אנחנו מודדים אפקטיביות של שיווק (דניאל ברוך ורועי מן)",
+      "published": "Mon, 25 Mar 2019 13:57:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/bc77b01d-d93a-4b5c-876c-aaf60092a558/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609781229",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:18:04.874207+00:00"
+    },
+    "tag:soundcloud,2010:tracks/602667552": {
+      "podcast_id": "startup_for_startup",
+      "title": "31: איך יצרנו שפה סביב עקרונות חווית משתמש (אביגיל פאגי ורועי מן)",
+      "published": "Mon, 15 Apr 2019 11:29:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/36be38d5-0edf-4f7c-ba53-aaf600929946/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609781265",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:18:09.477812+00:00"
+    },
+    "tag:soundcloud,2010:tracks/619830291": {
+      "podcast_id": "startup_for_startup",
+      "title": "32: איך שיתוף פעולה עם משקיעים יכול להועיל לסטארטאפ בשלבים מוקדמים (ערן זינמן ואבי אייל, Entree Capital)",
+      "published": "Mon, 13 May 2019 14:11:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/0586c4ca-3db6-49f1-802c-aaf600928a1e/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609781288",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:18:12.697098+00:00"
+    },
+    "tag:soundcloud,2010:tracks/623657229": {
+      "podcast_id": "startup_for_startup",
+      "title": "33: על חמשת התכונות המרכיבות את הדנ״א של מאנדיי.קום (עם ערן זינמן)",
+      "published": "Mon, 20 May 2019 16:46:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/fa1f5de6-7def-40a0-a681-aaf600928245/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609781340",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:18:16.108751+00:00"
+    },
+    "tag:soundcloud,2010:tracks/630923979": {
+      "podcast_id": "startup_for_startup",
+      "title": "34: המתודולוגיה מאחורי טקטיקת הצמיחה של מאנדיי.קום (מיכל לופו וערן זינמן)",
+      "published": "Mon, 03 Jun 2019 15:19:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/21470291-89fa-45f2-bf52-aaf60092789b/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609781373",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:18:19.025052+00:00"
+    },
+    "tag:soundcloud,2010:tracks/634526472": {
+      "podcast_id": "startup_for_startup",
+      "title": "35: מפתח תורן - או, איך להפוך מטלה מבאסת לאתגר קבוצתי? (אביתר מוצפי וערן זינמן)",
+      "published": "Mon, 10 Jun 2019 14:49:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/d0c0454e-59cd-45be-8217-aaf600926d8c/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609781401",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:18:21.641982+00:00"
+    },
+    "tag:soundcloud,2010:tracks/638082105": {
+      "podcast_id": "startup_for_startup",
+      "title": "36: מה עושים יום אחרי שסוגרים חברה (ערן זינמן וערן הלפט)",
+      "published": "Mon, 17 Jun 2019 17:19:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/9155d5ed-296c-415e-ac06-aaf60092600a/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609781419",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:18:24.656053+00:00"
+    },
+    "tag:soundcloud,2010:tracks/641354661": {
+      "podcast_id": "startup_for_startup",
+      "title": "37: פיתוח למובייל - על אתגרים והזדמנויות (שני פרנקל וערן זינמן)",
+      "published": "Mon, 24 Jun 2019 14:49:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/c62aa204-a6c7-4719-85d9-aaf6009254dc/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609781397",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:18:27.108075+00:00"
+    },
+    "tag:soundcloud,2010:tracks/644737371": {
+      "podcast_id": "startup_for_startup",
+      "title": "38: איך הופכים לקוחות לשגרירים (English) (ערן זינמן ולורן ספרה)",
+      "published": "Mon, 01 Jul 2019 19:26:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/87914275-79ca-4255-8bf2-aaf60092449c/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609781376",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:18:30.082870+00:00"
+    },
+    "tag:soundcloud,2010:tracks/648508418": {
+      "podcast_id": "startup_for_startup",
+      "title": "39: היום שאחרי ההשקעה - בניית מערכות יחסים מוצלחות עם משקיעים (ערן זינמן וקן פוקס, Stripes Group) (English)",
+      "published": "Mon, 15 Jul 2019 14:22:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/223e3825-6b9f-416a-bc4c-aaf600923bc5/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609781357",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:18:32.437721+00:00"
+    },
+    "tag:soundcloud,2010:tracks/658034906": {
+      "podcast_id": "startup_for_startup",
+      "title": "40: על איך גייסנו 150 מיליון דולר (ערן זינמן ורועי מן)",
+      "published": "Tue, 30 Jul 2019 10:03:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/2d422610-4d73-4ca2-a0ba-aaf600923262/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609781311",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:18:36.045183+00:00"
+    },
+    "tag:soundcloud,2010:tracks/661273595": {
+      "podcast_id": "startup_for_startup",
+      "title": "41: דאטה סקול - איך הופכים דאטה לנגישה עבור כל עובדי החברה (סתיו לוי וערן זינמן)",
+      "published": "Mon, 05 Aug 2019 13:59:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/5844dfaa-94a2-4d2b-abb3-aaf600922769/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609781185",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:18:38.890146+00:00"
+    },
+    "tag:soundcloud,2010:tracks/664687691": {
+      "podcast_id": "startup_for_startup",
+      "title": "42: משנים את מודל התמחור (אלירן זגביב, אסף בן דוד וערן זינמן)",
+      "published": "Mon, 12 Aug 2019 13:51:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/7818a816-f918-4e08-b9e8-aaf600920cb2/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609781171",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:18:41.770841+00:00"
+    },
+    "tag:soundcloud,2010:tracks/671205284": {
+      "podcast_id": "startup_for_startup",
+      "title": "43: קניית מדיה - על יצירת ערוצי שיווק נוספים (גיל פלדמן ורועי מן)",
+      "published": "Mon, 26 Aug 2019 14:21:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/5ee4ed64-2a3e-4731-b10e-aaf60091fd98/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609781157",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:18:44.354769+00:00"
+    },
+    "tag:soundcloud,2010:tracks/674888888": {
+      "podcast_id": "startup_for_startup",
+      "title": "44: סרטוני ויז׳ן - איך אנחנו ממחישים את עתיד המוצר (שגיא הוברמן ורועי מן)",
+      "published": "Mon, 02 Sep 2019 17:06:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/dc8397bd-f221-45be-908a-aaf60091f3ed/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609781143",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:18:46.385511+00:00"
+    },
+    "tag:soundcloud,2010:tracks/678474336": {
+      "podcast_id": "startup_for_startup",
+      "title": "45: איך צוותים עם יעדים שונים יכולים לעבוד יחד (ניר גולדשטיין ובן רוזנפלד)",
+      "published": "Mon, 09 Sep 2019 14:37:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/57fa2af1-cfbf-4a4f-a8bb-aaf60091eb1f/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609781122",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:18:49.308277+00:00"
+    },
+    "tag:soundcloud,2010:tracks/681747191": {
+      "podcast_id": "startup_for_startup",
+      "title": "46: איך עיצוב המשרד יכול לתמוך ברוח ובתרבות של חברה (רועי מן וערן זינמן)",
+      "published": "Mon, 16 Sep 2019 14:16:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/2601e286-7959-49ec-b299-aaf60091dff0/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609781113",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:18:52.582172+00:00"
+    },
+    "tag:soundcloud,2010:tracks/683233356": {
+      "podcast_id": "startup_for_startup",
+      "title": "47: בקצרה - KPIs & WAPP (ערן זינמן וגיל הירש, StreamElements)",
+      "published": "Mon, 23 Sep 2019 17:57:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/efc11ee1-28f4-4145-8e7f-aaf60091d8b3/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609781092",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:18:53.821013+00:00"
+    },
+    "tag:soundcloud,2010:tracks/690934462": {
+      "podcast_id": "startup_for_startup",
+      "title": "48: בקצרה - שלושה סיפורים על טעויות (אבירם גבאי, רותם שי, טל הרמתי)",
+      "published": "Mon, 07 Oct 2019 14:22:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/21d09ae3-a224-4bf5-8795-aaf60091cfe3/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609781061",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:18:54.486196+00:00"
+    },
+    "tag:soundcloud,2010:tracks/701054380": {
+      "podcast_id": "startup_for_startup",
+      "title": "49: ראיונות משתמשים - דאטה זה לא רק מספרים (שירלי באומר ורועי מן)",
+      "published": "Mon, 28 Oct 2019 15:27:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/d9864a19-355b-4794-b43c-aaf60091c7f6/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609781047",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:18:57.951487+00:00"
+    },
+    "tag:soundcloud,2010:tracks/711115321": {
+      "podcast_id": "startup_for_startup",
+      "title": "50: על הפן האופרטיבי שבעיצוב המשרד (אוריאל וייס ורועי מן)",
+      "published": "Mon, 11 Nov 2019 15:15:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/b7fd538e-7ffe-493a-b7c8-ab0201117034/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609781033",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:00.525627+00:00"
+    },
+    "tag:soundcloud,2010:tracks/714084451": {
+      "podcast_id": "startup_for_startup",
+      "title": "51: על גיוס שדרה ניהולית בחברת סטארטאפ (ערן זינמן ואיילת גביש)",
+      "published": "Mon, 18 Nov 2019 15:56:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/6c7b96dd-f5b7-4ace-b1cc-ab0901109c7a/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609781016",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:03.102870+00:00"
+    },
+    "tag:soundcloud,2010:tracks/718158952": {
+      "podcast_id": "startup_for_startup",
+      "title": "52: ריסלרים - או, איך בוחרים את השותף הנכון? (ערן זינמן ואופיר פנסו)",
+      "published": "Mon, 25 Nov 2019 12:34:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/c7a0b796-619d-49c9-b3ee-ab1000d06684/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609781001",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:05.691870+00:00"
+    },
+    "dd3e225a-f3a3-41d7-b1f9-ab2500ef99e3": {
+      "podcast_id": "startup_for_startup",
+      "title": "53:  הובלה באמצעות KPIs (גיל הירש, StreamElements)",
+      "published": "Mon, 16 Dec 2019 14:53:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/dd3e225a-f3a3-41d7-b1f9-ab2500ef99e3/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609780988",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:08.826647+00:00"
+    },
+    "fca1a5bf-2efe-45e8-bbdc-ab2c00ffafd9": {
+      "podcast_id": "startup_for_startup",
+      "title": "54: מטריקות שמניעות את החברה (ערן זינמן ורועי מן)",
+      "published": "Mon, 23 Dec 2019 15:42:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/fca1a5bf-2efe-45e8-bbdc-ab2c00ffafd9/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609780972",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:11.310050+00:00"
+    },
+    "5e2cd9bb-85c6-4a2d-af47-ab330100f029": {
+      "podcast_id": "startup_for_startup",
+      "title": "55: מטריקות שמניעות את המוצר (שירלי באומר ומיכל לופו)",
+      "published": "Mon, 30 Dec 2019 15:46:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/5e2cd9bb-85c6-4a2d-af47-ab330100f029/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609780955",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:13.210568+00:00"
+    },
+    "30e9c1ab-497d-4233-925f-ab39010a0a79": {
+      "podcast_id": "startup_for_startup",
+      "title": "56: על ה״מוח הגדול״ שמנגיש דאטה לעובדי החברה (דניאל לריה ואביאל הרשקוביץ׳)",
+      "published": "Mon, 06 Jan 2020 11:47:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/30e9c1ab-497d-4233-925f-ab39010a0a79/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609780839",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:15.212630+00:00"
+    },
+    "5b1ad889-c356-4cdb-8cb8-ab410120821a": {
+      "podcast_id": "startup_for_startup",
+      "title": "57: בקצרה - לשים את הלקוח במרכז (English) (מיטשל בליקמן, אפי ארמן)",
+      "published": "Mon, 13 Jan 2020 17:36:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/5b1ad889-c356-4cdb-8cb8-ab410120821a/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609780807",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:16.427154+00:00"
+    },
+    "05227b37-1be3-45db-8422-ab4800edf562": {
+      "podcast_id": "startup_for_startup",
+      "title": "58: איך בונים אופרציית מכירות יעילה - Business operations (יוני אושרוב ואורן אקרון)",
+      "published": "Mon, 20 Jan 2020 14:45:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/05227b37-1be3-45db-8422-ab4800edf562/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609780729",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:18.868897+00:00"
+    },
+    "d1a20677-8fe6-42cd-8c83-ab5200e68108": {
+      "podcast_id": "startup_for_startup",
+      "title": "59: איך יוצרים תרבות באמצעות מעשים (English) (ערן זינמן ורועי מן)",
+      "published": "Thu, 30 Jan 2020 14:16:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/d1a20677-8fe6-42cd-8c83-ab5200e68108/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609780703",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:21.474646+00:00"
+    },
+    "4ae4720e-c70d-48f8-b99f-ab5d011618ff": {
+      "podcast_id": "startup_for_startup",
+      "title": "60: בקצרה - אופציות (כפיר ליפמן וערן זינמן)",
+      "published": "Mon, 10 Feb 2020 16:58:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/4ae4720e-c70d-48f8-b99f-ab5d011618ff/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609780187",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:22.385217+00:00"
+    },
+    "cf6b451e-72a0-4b7e-b71e-ab640106e710": {
+      "podcast_id": "startup_for_startup",
+      "title": "61: מידול פיננסי - כלי קריטי לקבלת החלטות בחברה (אייל בר וערן זינמן)",
+      "published": "Mon, 17 Feb 2020 16:21:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/cf6b451e-72a0-4b7e-b71e-ab640106e710/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609780154",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:24.746407+00:00"
+    },
+    "85d1d304-7421-43b3-a84a-ab6b011c1d63": {
+      "podcast_id": "startup_for_startup",
+      "title": "62: עקרונות לעיצוב בפשטות 00 (רותם וייסמן ויבגני קזינץ)",
+      "published": "Mon, 24 Feb 2020 17:27:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/85d1d304-7421-43b3-a84a-ab6b011c1d63/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609682377",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:26.971667+00:00"
+    },
+    "a5a8054b-6dde-4964-8a19-ab7301039689": {
+      "podcast_id": "startup_for_startup",
+      "title": "63: עקרונות לעיצוב בפשטות 01 - לספר סיפור (רותם וייסמן ושגיא הוברמן)",
+      "published": "Tue, 03 Mar 2020 15:53:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/a5a8054b-6dde-4964-8a19-ab7301039689/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609680637",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:29.345551+00:00"
+    },
+    "24aeac57-80f7-44bb-9eb9-ab79008f4862": {
+      "podcast_id": "startup_for_startup",
+      "title": "64: שותפויות אקדמיות - איך גורמים לדור הבא של המשתמשים לאמץ את המוצר (עמרי סיטנר ורועי מן)",
+      "published": "Mon, 09 Mar 2020 15:53:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/24aeac57-80f7-44bb-9eb9-ab79008f4862/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609780119",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:31.558249+00:00"
+    },
+    "00854edb-a553-41a1-9909-ab8000e19a28": {
+      "podcast_id": "startup_for_startup",
+      "title": "65: בקצרה - ראיונות פרונטליים (שקד מזרחי וערן זינמן)",
+      "published": "Mon, 16 Mar 2020 14:22:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/00854edb-a553-41a1-9909-ab8000e19a28/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609780138",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:32.573237+00:00"
+    },
+    "560d95ac-138d-46bf-b489-ab8700ef9072": {
+      "podcast_id": "startup_for_startup",
+      "title": "66: עקרונות לעיצוב בפשטות 02 - להבין את הבעיה (עם מאי קישון)",
+      "published": "Mon, 23 Mar 2020 14:49:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/560d95ac-138d-46bf-b489-ab8700ef9072/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609780089",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:34.567834+00:00"
+    },
+    "f8c9ecb6-0a8c-48df-8b22-ab960115ea21": {
+      "podcast_id": "startup_for_startup",
+      "title": "67: על יציבות, משמעות ושייכות בתקופה של אי-וודאות (ערן זינמן ורועי מן)",
+      "published": "Tue, 07 Apr 2020 16:56:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/f8c9ecb6-0a8c-48df-8b22-ab960115ea21/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609780078",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:36.745255+00:00"
+    },
+    "c48ce872-a281-4af4-b6e8-ab9c00d8045d": {
+      "podcast_id": "startup_for_startup",
+      "title": "68: יצירת תהליכי עבודה משותפים בתנאי משבר - איך תרמנו את חלקנו למאבק הלאומי בקורונה (אמיתי וייזר ודורון אליעזר)",
+      "published": "Mon, 13 Apr 2020 13:46:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/c48ce872-a281-4af4-b6e8-ab9c00d8045d/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609780058",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:39.351940+00:00"
+    },
+    "85d71a8d-606f-4c74-a1a5-abab005b9e70": {
+      "podcast_id": "startup_for_startup",
+      "title": "69: למה בחרנו להצמיח את מאנדיי.קום בישראל (ערן זינמן ורועי מן)",
+      "published": "Tue, 28 Apr 2020 06:14:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/85d71a8d-606f-4c74-a1a5-abab005b9e70/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609779923",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:40.181333+00:00"
+    },
+    "5d01720e-54ac-40db-86c6-abb80089ef9e": {
+      "podcast_id": "startup_for_startup",
+      "title": "70: עקרונות לעיצוב בפשטות 03 - לזקק את המהות (שי כהן ואיתי כהן)",
+      "published": "Mon, 11 May 2020 08:32:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/5d01720e-54ac-40db-86c6-abb80089ef9e/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609779904",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:42.170352+00:00"
+    },
+    "35ba984e-6532-4bdf-ade4-abbf00b2b94f": {
+      "podcast_id": "startup_for_startup",
+      "title": "71: מה שלמדנו מהפקת כנס אונליין (עם דרור עדי וליאור קרנכל)",
+      "published": "Mon, 18 May 2020 14:41:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/35ba984e-6532-4bdf-ade4-abbf00b2b94f/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609779389",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:43.832056+00:00"
+    },
+    "bdab5483-af49-4518-95b6-abc700d29c32": {
+      "podcast_id": "startup_for_startup",
+      "title": "72: לוקליזציה - איך מנגישים מוצר לשווקים חדשים (עם איתן אבני)",
+      "published": "Tue, 26 May 2020 12:52:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/bdab5483-af49-4518-95b6-abc700d29c32/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609779376",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:46.211424+00:00"
+    },
+    "10394d98-b7c7-454c-9a01-abce00d57694": {
+      "podcast_id": "startup_for_startup",
+      "title": "73: עקרונות לעיצוב בפשטות 04 - להכיר את המדיום (רותם וייסמן ומעיין וקסלר דגן)",
+      "published": "Tue, 02 Jun 2020 13:10:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/10394d98-b7c7-454c-9a01-abce00d57694/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609779359",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:48.109228+00:00"
+    },
+    "12d4355b-7d9c-4c66-9d45-abd40109ada4": {
+      "podcast_id": "startup_for_startup",
+      "title": "74: בקצרה - פיתוח מוכוון אימפקט (דניאל לריה וערן זינמן)",
+      "published": "Mon, 08 Jun 2020 16:11:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/12d4355b-7d9c-4c66-9d45-abd40109ada4/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609779340",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:49.125274+00:00"
+    },
+    "8bb73bf5-71e8-405c-a9d5-abdc00a13380": {
+      "podcast_id": "startup_for_startup",
+      "title": "75: איך הפונקציה המשפטית יכולה להפוך לגורם מניע בחברה (שירן נאווי וערן זינמן)",
+      "published": "Tue, 16 Jun 2020 10:05:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/8bb73bf5-71e8-405c-a9d5-abdc00a13380/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609779300",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:51.485766+00:00"
+    },
+    "27729334-85d6-4678-90c6-abe300bc8281": {
+      "podcast_id": "startup_for_startup",
+      "title": "הפרקים שהכי אהבתם: 76 - Dev of the Day - כשמפתחים ונציגי תמיכה עובדים יחד (גיא אסינובסקי וערן זינמן)",
+      "published": "Tue, 23 Jun 2020 15:03:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/27729334-85d6-4678-90c6-abe300bc8281/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609779248",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:54.176983+00:00"
+    },
+    "b21bb7ed-6bc7-462b-b30f-abea00e1fc32": {
+      "podcast_id": "startup_for_startup",
+      "title": "77: איך יודעים שהגיע הזמן לשינוי במבנה הארגוני (דניאל לריה וערן הלפט)",
+      "published": "Tue, 30 Jun 2020 13:58:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/b21bb7ed-6bc7-462b-b30f-abea00e1fc32/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609779212",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:56.731841+00:00"
+    },
+    "2f40e31f-65da-417d-a136-abf000e2d9bc": {
+      "podcast_id": "startup_for_startup",
+      "title": "78: על איך הפכנו מ-Dapulse ל- monday.com (ערן זינמן ורועי מן)",
+      "published": "Mon, 06 Jul 2020 13:54:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/2f40e31f-65da-417d-a136-abf000e2d9bc/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609779188",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:19:59.256409+00:00"
+    },
+    "f0399897-ba12-4c5d-b0d4-abf800ef3215": {
+      "podcast_id": "startup_for_startup",
+      "title": "79: כל מה שרצינו שתדעו על קורות חיים (שקד מזרחי, נוי גורביץ׳ ודניאל וייסבלט)",
+      "published": "Tue, 14 Jul 2020 14:38:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/f0399897-ba12-4c5d-b0d4-abf800ef3215/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609779159",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:01.660893+00:00"
+    },
+    "0e000a26-8f76-45e1-855a-abff00dec37a": {
+      "podcast_id": "startup_for_startup",
+      "title": "80: יסודות - SaaS Metrics 01: על המודל העסקי של SaaS (עם ערן זינמן)",
+      "published": "Tue, 21 Jul 2020 13:49:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/0e000a26-8f76-45e1-855a-abff00dec37a/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609681215",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:03.386179+00:00"
+    },
+    "fc5c01a5-d13b-4cbc-9860-ac0500cc2215": {
+      "podcast_id": "startup_for_startup",
+      "title": "81: יסודות SaaS Metrics 02: מה זה ARR, ולמה זה חשוב? (עם ערן זינמן)",
+      "published": "Mon, 27 Jul 2020 12:29:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/fc5c01a5-d13b-4cbc-9860-ac0500cc2215/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609681381",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:05.204518+00:00"
+    },
+    "ff4c8102-d2fd-4814-8336-ac3000cd36df": {
+      "podcast_id": "startup_for_startup",
+      "title": "83: יסודות - SaaS Metrics 03: הכל על CAC - עלות רכישת לקוח (עם ערן זינמן)",
+      "published": "Tue, 08 Sep 2020 12:30:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/ff4c8102-d2fd-4814-8336-ac3000cd36df/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609778998",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:07.703475+00:00"
+    },
+    "d9aee076-ae01-4675-ad81-ac4500927ada": {
+      "podcast_id": "startup_for_startup",
+      "title": "85: יסודות - SaaS Metrics 04: מה זה LTV ולמה זה חשוב? (עם ערן זינמן)",
+      "published": "Tue, 29 Sep 2020 08:57:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/d9aee076-ae01-4675-ad81-ac4500927ada/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609778851",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:09.565123+00:00"
+    },
+    "5dd5c675-2ad9-4e1b-b938-ac140096c1ef": {
+      "podcast_id": "startup_for_startup",
+      "title": "82: עקרונות לעיצוב בפשטות 05 - לדבר עם בני אדם (מיטל בדיחי ויבגני קזינץ)",
+      "published": "Tue, 11 Aug 2020 09:16:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/5dd5c675-2ad9-4e1b-b938-ac140096c1ef/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609779116",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:11.825102+00:00"
+    },
+    "c42bae13-dd87-42a9-8d22-ac2000f70340": {
+      "podcast_id": "startup_for_startup",
+      "title": "הפרקים שהכי אהבתם - 24: ממחלקת מכירות לקבוצת ייעוץ (English) (ערן זינמן ומיטשל בליקמן)",
+      "published": "Sun, 23 Aug 2020 15:20:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/c42bae13-dd87-42a9-8d22-ac2000f70340/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1610269567",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:14.559393+00:00"
+    },
+    "dc59aeb9-962e-4a4e-8980-ac3700a85d93": {
+      "podcast_id": "startup_for_startup",
+      "title": "84: עקרונות לעיצוב בפשטות 06 - לחלום בלי גבולות (הילי נאמן מגיד ויבגני קזינץ)",
+      "published": "Tue, 15 Sep 2020 12:25:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/dc59aeb9-962e-4a4e-8980-ac3700a85d93/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609778865",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:16.762908+00:00"
+    },
+    "9eeac331-ae71-4259-8ec3-ac530082feb4": {
+      "podcast_id": "startup_for_startup",
+      "title": "86: מנהיגות מוכוונת אימפקט - חלק 1 (עם ערן זינמן) (English)",
+      "published": "Tue, 13 Oct 2020 08:03:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/9eeac331-ae71-4259-8ec3-ac530082feb4/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609778835",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:19.187639+00:00"
+    },
+    "ac484cde-03bc-451a-b3eb-ac5a0079a883": {
+      "podcast_id": "startup_for_startup",
+      "title": "87: תקשורת א-סינכרונית - איך עובדים מרחוק בצורה אפקטיבית (דניאל ברוך ושניר דוד)",
+      "published": "Tue, 20 Oct 2020 07:26:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/ac484cde-03bc-451a-b3eb-ac5a0079a883/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609778816",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:21.536226+00:00"
+    },
+    "943cc152-9cdd-40e0-a286-ac6000ffecbf": {
+      "podcast_id": "startup_for_startup",
+      "title": "88: מנהיגות מוכוונת אימפקט - חלק 2  (English) (עם ערן זינמן)",
+      "published": "Tue, 27 Oct 2020 15:13:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/943cc152-9cdd-40e0-a286-ac6000ffecbf/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609778800",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:24.227026+00:00"
+    },
+    "8fee6b7b-e15b-4f13-9186-ac6800e6fd32": {
+      "podcast_id": "startup_for_startup",
+      "title": "89: יסודות - SaaS Metrics 05: מה זה Churn Rate ומה אפשר ללמוד ממנו? (עם ערן זינמן)",
+      "published": "Tue, 03 Nov 2020 14:50:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/8fee6b7b-e15b-4f13-9186-ac6800e6fd32/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609778780",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:26.452726+00:00"
+    },
+    "a5a805bb-da1a-486a-a1d2-ac6f007b4bae": {
+      "podcast_id": "startup_for_startup",
+      "title": "90: איך אפשר להשתמש בתרבות הפנימית שלנו ליצירת שותפויות טובות יותר (English) (אסף פרדקין ודרור שפינדל)",
+      "published": "Tue, 10 Nov 2020 08:14:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/a5a805bb-da1a-486a-a1d2-ac6f007b4bae/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609778765",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:29.046425+00:00"
+    },
+    "bc6cb106-b55f-4800-b1b8-ac7600bfea95": {
+      "podcast_id": "startup_for_startup",
+      "title": "91: איך שותפות טכנולוגית יכולה להוסיף ערך ללקוחות? (English) (אורן שטרן ועמית גולדנברג)",
+      "published": "Tue, 17 Nov 2020 11:43:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/bc6cb106-b55f-4800-b1b8-ac7600bfea95/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609778748",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:31.883534+00:00"
+    },
+    "55daad0c-0992-4186-80b3-ac7d00cf1ead": {
+      "podcast_id": "startup_for_startup",
+      "title": "92: יסודות - SaaS Metrics 06: מה זה TROI ולמה זה חשוב? (עם ערן זינמן)",
+      "published": "Tue, 24 Nov 2020 14:24:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/55daad0c-0992-4186-80b3-ac7d00cf1ead/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609778732",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:33.777978+00:00"
+    },
+    "59cc95cf-a41f-41af-aed1-ac8400f373a7": {
+      "podcast_id": "startup_for_startup",
+      "title": "93: בקצרה - הקמת תכנית שותפויות עסקיות(English) (אסף פרדקין וברק זיגדון)",
+      "published": "Tue, 01 Dec 2020 15:08:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/59cc95cf-a41f-41af-aed1-ac8400f373a7/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609778719",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:34.491251+00:00"
+    },
+    "4d6fa60d-03f6-4749-90dc-ac8b00e9f30c": {
+      "podcast_id": "startup_for_startup",
+      "title": "94: שאלות ותשובות על Customer Success / Experience",
+      "published": "Tue, 08 Dec 2020 14:26:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/4d6fa60d-03f6-4749-90dc-ac8b00e9f30c/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609778697",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:37.537024+00:00"
+    },
+    "fd8ccc1d-382c-4e43-831d-ac92010fc6f6": {
+      "podcast_id": "startup_for_startup",
+      "title": "95: חמשת הפרקים המובילים שלנו, וגם: איך מגדירים ומודדים הצלחה עם גיל הירש",
+      "published": "Tue, 15 Dec 2020 16:36:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/fd8ccc1d-382c-4e43-831d-ac92010fc6f6/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609778686",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:41.238336+00:00"
+    },
+    "ef9e4c53-28e4-4a31-a95a-ac98008b35d2": {
+      "podcast_id": "startup_for_startup",
+      "title": "96: בניית גשר בין הפרודקט למחלקות שעובדות מול לקוחות (English) (לאה באומן וניר גולדשטיין)",
+      "published": "Mon, 21 Dec 2020 08:30:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/ef9e4c53-28e4-4a31-a95a-ac98008b35d2/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609776938",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:43.853097+00:00"
+    },
+    "39aeb189-b710-41a4-8066-aca000e08507": {
+      "podcast_id": "startup_for_startup",
+      "title": "97: יסודות - SaaS Metrics 07: משלימים את ארגז הכלים (עם ערן זינמן)",
+      "published": "Tue, 29 Dec 2020 13:49:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/39aeb189-b710-41a4-8066-aca000e08507/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609776888",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:46.256170+00:00"
+    },
+    "f59d171c-aadf-4b7f-ae42-aca700d94631": {
+      "podcast_id": "startup_for_startup",
+      "title": "98: יסודות - SaaS metrics 08: המסע של חברת SaaS (עם ערן זינמן)",
+      "published": "Tue, 05 Jan 2021 15:44:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/f59d171c-aadf-4b7f-ae42-aca700d94631/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1609861496",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:49.511803+00:00"
+    },
+    "701720e1-f9fd-43e5-832b-acac00ee3d32": {
+      "podcast_id": "startup_for_startup",
+      "title": "הפרקים שהכי אהבתם - 36: מה עושים יום אחרי שסוגרים חברה (ערן זינמן וערן הלפט)",
+      "published": "Tue, 12 Jan 2021 15:20:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/701720e1-f9fd-43e5-832b-acac00ee3d32/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1610464858",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:52.090953+00:00"
+    },
+    "939cc2fd-7f49-4658-8da7-acb4010154fe": {
+      "podcast_id": "startup_for_startup",
+      "title": "99: איך מנהלים מערכת יחסים נכונה בין שותפים? (יהלי סער, Tailor Brands)",
+      "published": "Mon, 18 Jan 2021 16:24:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/939cc2fd-7f49-4658-8da7-acb4010154fe/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1611738866",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:54.435088+00:00"
+    },
+    "1920ec86-e1fe-4ad9-8a35-acbc00db9e1f": {
+      "podcast_id": "startup_for_startup",
+      "title": "100: למה אנחנו עדיין עושים את זה? (ליאור קרנכל, ערן זינמן ורועי מן)",
+      "published": "Tue, 26 Jan 2021 15:49:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/1920ec86-e1fe-4ad9-8a35-acbc00db9e1f/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1611676148",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:56.922769+00:00"
+    },
+    "07f8f831-3dbf-4913-9e1a-acc2009ab44f": {
+      "podcast_id": "startup_for_startup",
+      "title": "101: איך חווית הקליטה של עובדים חדשים יכולה לתרום להצלחה שלהם (אושרת בנימין ורינת לבני)",
+      "published": "Tue, 02 Feb 2021 15:54:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/07f8f831-3dbf-4913-9e1a-acc2009ab44f/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1612281377",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:20:59.969191+00:00"
+    },
+    "78c6ebc2-d0a8-42be-b485-acca009c15fe": {
+      "podcast_id": "startup_for_startup",
+      "title": "102: בקצרה - איך מפחיתים סיכון בגיוס כספים ממשקיעים (עם רועי מן)",
+      "published": "Tue, 09 Feb 2021 13:49:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/78c6ebc2-d0a8-42be-b485-acca009c15fe/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1612971053",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:21:02.128195+00:00"
+    },
+    "518e7119-c57a-42a8-a410-acd100b29384": {
+      "podcast_id": "startup_for_startup",
+      "title": "103: סדרת R&D 01 - העקרונות שעומדים בבסיס תרבות ה-R&D שלנו (דניאל לריה וטל הרמתי)",
+      "published": "Tue, 16 Feb 2021 12:05:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/518e7119-c57a-42a8-a410-acd100b29384/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1613478474",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:21:05.268207+00:00"
+    },
+    "07579112-ed89-45ec-b613-acd7010638db": {
+      "podcast_id": "startup_for_startup",
+      "title": "104: נקודת המבט של המשקיעה - על אתגרים בתהליכי גיוס (לירון עזריאלנט, Meron Capital)",
+      "published": "Tue, 23 Feb 2021 12:06:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/07579112-ed89-45ec-b613-acd7010638db/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1614681571",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:21:08.633711+00:00"
+    },
+    "e45fb9bf-f685-48c1-ba2c-acde0110c3eb": {
+      "podcast_id": "startup_for_startup",
+      "title": "105: סדרת R&D 02 - איך שדרגנו את ה-framework  שלנו במינימום סיכון (אביתר מוצפי ועומר דורון)",
+      "published": "Tue, 02 Mar 2021 14:23:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/e45fb9bf-f685-48c1-ba2c-acde0110c3eb/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1614694985",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:21:11.083790+00:00"
+    },
+    "c5578036-a985-4c07-b67a-ace500d0d9b4": {
+      "podcast_id": "startup_for_startup",
+      "title": "106: יסודות - Performance Marketing 01: מאיפה מתחילים? (עם רועי מן)",
+      "published": "Tue, 09 Mar 2021 14:45:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/c5578036-a985-4c07-b67a-ace500d0d9b4/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1615301152",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:21:13.938672+00:00"
+    },
+    "dd5206a2-f010-4aff-bee3-aced009e0206": {
+      "podcast_id": "startup_for_startup",
+      "title": "107: בקצרה - על חילופי מפתחים בין חברות ומה יצא לנו מזה (דניאל לריה ורודיק חנוכייב)",
+      "published": "Tue, 16 Mar 2021 15:00:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/dd5206a2-f010-4aff-bee3-aced009e0206/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1615906858",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:21:15.522432+00:00"
+    },
+    "32e44b4e-e9bb-4de6-9815-acf300af7595": {
+      "podcast_id": "startup_for_startup",
+      "title": "108: יסודות Performance marketing 02 - איך עובדים עם Funnels? (עם רועי מן)",
+      "published": "Mon, 22 Mar 2021 14:51:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/32e44b4e-e9bb-4de6-9815-acf300af7595/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1616424718",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:21:17.412401+00:00"
+    },
+    "c6b8622d-99cb-4002-a770-acfa0107180c": {
+      "podcast_id": "startup_for_startup",
+      "title": "109: סדרת R&D 03 - על תכנית ההתפתחות האישית למפתחים (דניאל לריה ודניאל וייסבלט)",
+      "published": "Tue, 30 Mar 2021 09:39:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/c6b8622d-99cb-4002-a770-acfa0107180c/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1617097144",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:21:20.568180+00:00"
+    },
+    "b791f02e-b9ff-4e0c-ad4e-ad020081ae56": {
+      "podcast_id": "startup_for_startup",
+      "title": "110: איך  Business operations מאפשר לנו לצמוח (אורן אקרון ורז בן רון)",
+      "published": "Tue, 06 Apr 2021 14:18:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/b791f02e-b9ff-4e0c-ad4e-ad020081ae56/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae&t=1617719491",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:21:24.526751+00:00"
+    },
+    "ba9da5e3-11bf-4ab5-ad41-ad0800a9dacf": {
+      "podcast_id": "startup_for_startup",
+      "title": "111: איך עושים פרויקט של שנה בשלושה חודשים (שירלי באומר ודותן אגוזי)",
+      "published": "Mon, 12 Apr 2021 13:58:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/ba9da5e3-11bf-4ab5-ad41-ad0800a9dacf/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:21:27.370683+00:00"
+    },
+    "1ea08858-a747-4798-af6d-ad1000e251ff": {
+      "podcast_id": "startup_for_startup",
+      "title": "112: בקצרה - איך עושים אקטיבציה למשתמשים (ערן זינמן ומיכל לופו)",
+      "published": "Tue, 20 Apr 2021 14:21:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/1ea08858-a747-4798-af6d-ad1000e251ff/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:21:29.278027+00:00"
+    },
+    "ae711be1-1391-41b6-a571-ad1700b9c15f": {
+      "podcast_id": "startup_for_startup",
+      "title": "113: איך יודעים שהגיע הזמן לפתח מערכת אין-האוס (חן סלומון ותום הופן)",
+      "published": "Tue, 27 Apr 2021 11:20:34 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/ae711be1-1391-41b6-a571-ad1700b9c15f/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:21:31.850950+00:00"
+    },
+    "c5c3e673-1238-4ade-9aed-ad1e00da406f": {
+      "podcast_id": "startup_for_startup",
+      "title": "114: סדרת R&D 04 - איך בונים אסטרטגיית טסטים טובה בלי מחלקת QA (שני רדזיבסקי)",
+      "published": "Tue, 04 May 2021 14:58:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/c5c3e673-1238-4ade-9aed-ad1e00da406f/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:21:32.649974+00:00"
+    },
+    "bc33ef66-8bef-431c-84ef-ad2500efa32d": {
+      "podcast_id": "startup_for_startup",
+      "title": "115:איך מגדירים KPIs לצוותי CS  (English) (תום רונן וניר פוגל)",
+      "published": "Tue, 11 May 2021 14:41:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/bc33ef66-8bef-431c-84ef-ad2500efa32d/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:21:34.801002+00:00"
+    },
+    "d81f8ed9-e64c-4205-90bf-ad2c00f5905a": {
+      "podcast_id": "startup_for_startup",
+      "title": "הפרקים שהכי אהבתם - 1: מפצחים A/B testing (אבירם גבאי וערן זינמן)",
+      "published": "Tue, 18 May 2021 15:04:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/d81f8ed9-e64c-4205-90bf-ad2c00f5905a/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:21:38.072283+00:00"
+    },
+    "cb0eeb51-9caa-4570-9e7e-ad3300e2798b": {
+      "podcast_id": "startup_for_startup",
+      "title": "116: על השותפות של מייסדי מאנדיי.קום (ערן זינמן ורועי מן)",
+      "published": "Tue, 25 May 2021 14:47:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/cb0eeb51-9caa-4570-9e7e-ad3300e2798b/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:21:40.005314+00:00"
+    },
+    "ca288bb4-8ccc-4c9a-9852-ad3a00b4a645": {
+      "podcast_id": "startup_for_startup",
+      "title": "117: יסודות - Performance Marketing 03 :למה חשוב לגבות כסף על המוצר שלנו מההתחלה (עם רועי מן)",
+      "published": "Tue, 01 Jun 2021 14:11:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/ca288bb4-8ccc-4c9a-9852-ad3a00b4a645/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:21:41.722259+00:00"
+    },
+    "4c9ef0ac-f04c-4ad8-b3a2-ad4100a207f1": {
+      "podcast_id": "startup_for_startup",
+      "title": "118: על התהליך מאחורי הטמעת המוצר שלנו (אסף פרדקין ואלון שיבק)",
+      "published": "Tue, 08 Jun 2021 13:12:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/4c9ef0ac-f04c-4ad8-b3a2-ad4100a207f1/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:21:44.155484+00:00"
+    },
+    "85849ee9-abb1-4d3c-9871-ad4800a2ca92": {
+      "podcast_id": "startup_for_startup",
+      "title": "הפרקים שהכי אהבתם: 40 - על איך גייסנו 150 מיליון דולר (ערן זינמן ורועי מן)",
+      "published": "Tue, 15 Jun 2021 12:01:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/85849ee9-abb1-4d3c-9871-ad4800a2ca92/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:21:49.046614+00:00"
+    },
+    "a0d4835a-c71d-41ee-8980-ad4f00e0165f": {
+      "podcast_id": "startup_for_startup",
+      "title": "119: בקצרה - איך מידול פיננסי עוזר לנו לקבל החלטות טובות יותר (אייל בר וערן זינמן)",
+      "published": "Tue, 22 Jun 2021 13:43:31 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/a0d4835a-c71d-41ee-8980-ad4f00e0165f/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:21:50.778760+00:00"
+    },
+    "43db5d21-e253-4f2b-a83b-ad5500d206cc": {
+      "podcast_id": "startup_for_startup",
+      "title": "120:  איך בונים פיצ׳ר מנצח - שלב אחר שלב (חלק 1) (שירלי באומר ואורון מורד)",
+      "published": "Mon, 28 Jun 2021 14:40:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/43db5d21-e253-4f2b-a83b-ad5500d206cc/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:21:53.622494+00:00"
+    },
+    "fc4328dc-11d4-43f4-af2d-ad5d00c8f934": {
+      "podcast_id": "startup_for_startup",
+      "title": "121: איך בונים פיצ׳ר מנצח - שלב אחר שלב (חלק 2) (שירלי באומר ואורון מורד)",
+      "published": "Tue, 06 Jul 2021 14:53:46 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/fc4328dc-11d4-43f4-af2d-ad5d00c8f934/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:21:55.699538+00:00"
+    },
+    "230ac3d5-f3e7-4594-84d6-ad6400a4b54c": {
+      "podcast_id": "startup_for_startup",
+      "title": "122: סדרת IPO 01 - מה כדאי לדעת על תהליך ההנפקה? (ערן זינמן ורועי מן)",
+      "published": "Tue, 13 Jul 2021 10:39:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/230ac3d5-f3e7-4594-84d6-ad6400a4b54c/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:21:57.848559+00:00"
+    },
+    "f63cd3fa-af68-481a-8d08-ad6b00d2b15c": {
+      "podcast_id": "startup_for_startup",
+      "title": "123: סדרת R&D 05 - למה בחרנו להוסיף שרתים מחוץ לארצות הברית (דוד וירצר ודניאל מיטלמן)",
+      "published": "Tue, 20 Jul 2021 12:50:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/f63cd3fa-af68-481a-8d08-ad6b00d2b15c/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:22:00.110433+00:00"
+    },
+    "f3b948a7-8b20-4754-8dcb-ad7200e2faa2": {
+      "podcast_id": "startup_for_startup",
+      "title": "124: איך מייצרים חווית משתמש אחידה בין מובייל לדסקטופ (שני פרנקל ואיילה נרושביץ׳)",
+      "published": "Tue, 27 Jul 2021 13:49:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/f3b948a7-8b20-4754-8dcb-ad7200e2faa2/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:22:02.628428+00:00"
+    },
+    "100bb689-35b6-4e24-b737-ad7900be7bed": {
+      "podcast_id": "startup_for_startup",
+      "title": "125: סדרת IPO 02 - מתל אביב עד נאסד״ק - איך נראה תהליך הנפקה ; חלק 1 (ערן זינמן ורועי מן)",
+      "published": "Tue, 03 Aug 2021 11:34:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/100bb689-35b6-4e24-b737-ad7900be7bed/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:22:07.650543+00:00"
+    },
+    "d016e677-d29d-40ff-b62b-ad7f00c84bba": {
+      "podcast_id": "startup_for_startup",
+      "title": "126: סדרת IPO 03 - מתל אביב עד נאסד״ק - איך נראה תהליך הנפקה; חלק 2 (ערן זינמן ורועי מן)",
+      "published": "Mon, 09 Aug 2021 12:15:02 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/d016e677-d29d-40ff-b62b-ad7f00c84bba/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:22:10.242875+00:00"
+    },
+    "46b5bd59-4f34-43aa-b0d6-ad8500bb82f9": {
+      "podcast_id": "startup_for_startup",
+      "title": "127: סדרת IPO 04 - על השחקנים המרכזיים בתהליך ההנפקה (ערן זינמן ורועי מן)",
+      "published": "Sun, 15 Aug 2021 11:23:56 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/46b5bd59-4f34-43aa-b0d6-ad8500bb82f9/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:22:12.568597+00:00"
+    },
+    "eb0fadea-f97e-4cd4-a19f-ad8700a98bcc": {
+      "podcast_id": "startup_for_startup",
+      "title": "128: איך עושים קיקאוף למוצר חדש (ערן הלפט וספי קלר)",
+      "published": "Tue, 17 Aug 2021 10:23:57 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/eb0fadea-f97e-4cd4-a19f-ad8700a98bcc/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:22:14.678648+00:00"
+    },
+    "d85000aa-c0b0-4586-b4b3-ad8d00cae8ff": {
+      "podcast_id": "startup_for_startup",
+      "title": "129: יסודות Performance Marketing 04 - איך מודדים מרקטינג עם קוהורטים (עם רועי מן)",
+      "published": "Mon, 23 Aug 2021 13:06:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/d85000aa-c0b0-4586-b4b3-ad8d00cae8ff/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:22:17.098014+00:00"
+    },
+    "99ecf5d3-5603-4951-8bc7-ad9300bbdead": {
+      "podcast_id": "startup_for_startup",
+      "title": "130: שבעת העקרונות שמובילים את התקשורת הניהולית שלנו (עם ערן זינמן)",
+      "published": "Sun, 29 Aug 2021 11:41:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/99ecf5d3-5603-4951-8bc7-ad9300bbdead/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:22:20.162851+00:00"
+    },
+    "95f0f512-f377-480b-b568-ad9a009ce7f5": {
+      "podcast_id": "startup_for_startup",
+      "title": "הפרקים שהכי אהבתם: 78 - על איך הפכנו מ-Dapulse ל-monday.com (ערן זינמן ורועי מן)",
+      "published": "Sun, 05 Sep 2021 09:37:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/95f0f512-f377-480b-b568-ad9a009ce7f5/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:22:23.151111+00:00"
+    },
+    "a49d7383-48a1-4220-9b3a-ada300ca96f1": {
+      "podcast_id": "startup_for_startup",
+      "title": "הפרקים שהכי אהבתם: 25 - פרודקט מרקט פיט (אבישי אברהמי, Wix)",
+      "published": "Tue, 14 Sep 2021 12:20:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/a49d7383-48a1-4220-9b3a-ada300ca96f1/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:22:26.427278+00:00"
+    },
+    "13f7eb5e-09b9-46e6-b3ba-adb200c7cb8c": {
+      "podcast_id": "startup_for_startup",
+      "title": "131: בקצרה - על העבודה בין מעצבים ומפתחים (ערן זינמן ורותם וייסמן)",
+      "published": "Wed, 29 Sep 2021 12:09:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/13f7eb5e-09b9-46e6-b3ba-adb200c7cb8c/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:22:27.498647+00:00"
+    },
+    "a2b6f9ee-7224-4a7e-bd1d-adb800b96722": {
+      "podcast_id": "startup_for_startup",
+      "title": "132: איך הופכים את המוצר שלנו להרגל (מיכל לופו וסתיו לוי)",
+      "published": "Tue, 05 Oct 2021 11:21:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/a2b6f9ee-7224-4a7e-bd1d-adb800b96722/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:22:29.470242+00:00"
+    },
+    "b88037ea-537e-4adb-a4aa-adbe01157959": {
+      "podcast_id": "startup_for_startup",
+      "title": "133: סדרת IPO 05 - למה בחרנו לערב את כל העובדים בתהליך ההנפקה (אושרת בנימין ואוריאל וייס)",
+      "published": "Tue, 12 Oct 2021 07:19:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/5065d512-1eb7-465b-8dd5-aab100df53d1/a4e98e7b-23d2-43d1-8c4a-aaf60091bfa0/b88037ea-537e-4adb-a4aa-adbe01157959/audio.mp3?utm_source=Podcast&in_playlist=ca90681b-3bb0-4e4c-a0e7-aaf60091bfae",
+      "status": "error",
+      "error": "('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'})",
+      "updated_at": "2026-09-30T18:22:31.940107+00:00"
     }
   }
 }
