@@ -62,11 +62,24 @@ def safe_filename(title, url):
 def download(url, target, timeout):
     started = time.monotonic()
     read_timeout = min(max(int(timeout), 30), 120)
+    parsed = urlparse(url)
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154 Safari/537.36"
+        ),
+        "Accept": "audio/*,*/*;q=0.8",
+        "Accept-Language": "he-IL,he;q=0.9,en;q=0.7",
+    }
+    if parsed.hostname and parsed.hostname.endswith("hubhopper.com"):
+        headers["Referer"] = "https://hubhopper.com/"
+
     with requests.get(
         url,
         stream=True,
         timeout=(30, read_timeout),
-        headers={"User-Agent": "Podcasts-RSS-Monitor/1.0"},
+        headers=headers,
+        allow_redirects=True,
     ) as response:
         response.raise_for_status()
         with open(target, "wb") as output:
@@ -102,9 +115,11 @@ def notify_existing_uploaded(podcast, record, notifications):
         return False
 
 
-def process_feed(podcast, config, state, yemos_state, run_uploads=None):
+def process_feed(podcast, config, state, yemos_state, run_uploads=None, run_errors=None):
     if run_uploads is None:
         run_uploads = []
+    if run_errors is None:
+        run_errors = []
     settings = config.get("settings", {})
     notifications = config.get("notifications", {})
     podcast_id = podcast["id"]
@@ -153,6 +168,7 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None):
     feeds = state.setdefault("feeds", {})
     yemos_episodes = yemos_state.setdefault("episodes", {})
     first_run = podcast_id not in feeds
+    feed_had_error = False
 
     if first_run and settings.get("bootstrap_existing_as_seen", True):
         for entry in entries:
@@ -284,6 +300,13 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None):
                 })
                 print(f"Yemos retry complete: {title}")
             except Exception as exc:
+                feed_had_error = True
+                run_errors.append({
+                    "podcast": podcast.get("name", podcast_id),
+                    "title": title,
+                    "target": "Yemos",
+                    "error": str(exc),
+                })
                 yemos_episodes[key] = {
                     "podcast_id": podcast_id,
                     "title": title,
@@ -412,6 +435,13 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None):
                         )
                         print(f"Yemos upload complete: {yemos_file.get('path')}")
                     except Exception as exc:
+                        feed_had_error = True
+                        run_errors.append({
+                            "podcast": podcast.get("name", podcast_id),
+                            "title": title,
+                            "target": "Yemos",
+                            "error": str(exc),
+                        })
                         yemos_episodes[key] = {
                             "podcast_id": podcast_id,
                             "title": title,
@@ -437,6 +467,13 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None):
             print(f"Done: {title}")
 
         except Exception as exc:
+            feed_had_error = True
+            run_errors.append({
+                "podcast": podcast.get("name", podcast_id),
+                "title": title,
+                "target": "episode",
+                "error": str(exc),
+            })
             seen[key] = {
                 "podcast_id": podcast_id,
                 "title": title,
@@ -451,6 +488,8 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None):
             print(f"ERROR [{podcast['name']}] {title}: {exc}")
 
     feeds.setdefault(podcast_id, {})["last_checked"] = utc_now()
+    if not feed_had_error:
+        feeds[podcast_id]["last_error"] = None
     save_state(state)
     save_yemos_state(yemos_state)
     return new_count
@@ -484,13 +523,14 @@ def main():
     total_processed = 0
     failed_feeds = []
     run_uploads = []
+    run_errors = []
     manifest_path = Path("data/run_uploads.json")
     manifest_path.write_text("[]\n", encoding="utf-8")
 
     for podcast in podcasts:
         try:
             total_processed += process_feed(
-                podcast, config, state, yemos_state, run_uploads
+                podcast, config, state, yemos_state, run_uploads, run_errors
             )
             manifest_path.write_text(
                 json.dumps(run_uploads, ensure_ascii=False, indent=2) + "\n",
@@ -522,12 +562,27 @@ def main():
 
     print(
         f"Podcast monitor finished: {total_processed} episode(s) processed, "
-        f"{len(failed_feeds)} feed(s) failed."
+        f"{len(failed_feeds)} feed(s) failed, "
+        f"{len(run_errors)} episode/target error(s)."
     )
+
+    if run_errors:
+        print("CURRENT RUN ERRORS:")
+        for item in run_errors[:50]:
+            print(
+                f"- [{item.get('target')}] {item.get('podcast')} / "
+                f"{item.get('title')}: {item.get('error')}"
+            )
 
     if failed_feeds and len(failed_feeds) == len(podcasts):
         details = "; ".join(f"{podcast_id}: {error}" for podcast_id, error in failed_feeds)
         raise SystemExit("All selected podcast feeds failed: " + details)
+
+    if run_errors:
+        raise SystemExit(
+            f"Run completed with {len(run_errors)} episode/target error(s). "
+            "See CURRENT RUN ERRORS above."
+        )
 
 
 if __name__ == "__main__":
