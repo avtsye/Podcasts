@@ -84,6 +84,8 @@ def main():
         feed, fetch_error = fetch_feed(podcast["rss"])
         if fetch_error:
             feed_error = fetch_error
+            status["totals"]["feed_errors"] += 1
+            item_status["feed_error"] = feed_error
         elif getattr(feed, "bozo", False) and not feed.entries:
             feed_error = str(getattr(feed, "bozo_exception", "RSS parse error"))
             status["totals"]["feed_errors"] += 1
