@@ -82,6 +82,8 @@ def _parse_response(response, operation="UploadFile"):
         detail = message or "Unknown Yemos API error"
         if message_code not in (None, "", 0, "0"):
             detail = f"{detail} (messageCode={message_code})"
+        if detail == "Unknown Yemos API error":
+            detail += f" (responseStatus={response_status!r}, payload={str(payload)[:350]})"
         raise YemosError(f"{operation} failed: {detail}")
 
     error = payload.get("error")
@@ -128,6 +130,7 @@ def _upload_small(source, destination, token):
 
 def _upload_large(source, destination, token):
     total_size = source.stat().st_size
+    remote_filename = destination.rsplit("/", 1)[-1]
     total_parts = (total_size + CHUNK_SIZE - 1) // CHUNK_SIZE
     upload_uuid = str(uuid4())
 
@@ -158,7 +161,7 @@ def _upload_large(source, destination, token):
                 "qqchunksize": str(chunk_size),
                 "qqtotalparts": str(total_parts),
                 "qqtotalfilesize": str(total_size),
-                "qqfilename": source.name,
+                "qqfilename": remote_filename,
             }
 
             response = requests.post(
@@ -166,7 +169,7 @@ def _upload_large(source, destination, token):
                 data=data,
                 files={
                     "qqfile": (
-                        source.name,
+                        remote_filename,
                         chunk,
                         "application/octet-stream",
                     )
@@ -194,7 +197,7 @@ def _upload_large(source, destination, token):
         "tts": "0",
         "uploader": "yemot-admin",
         "qquuid": upload_uuid,
-        "qqfilename": source.name,
+        "qqfilename": remote_filename,
         "qqtotalfilesize": str(total_size),
         "qqtotalparts": str(total_parts),
     }
@@ -211,14 +214,11 @@ def _upload_large(source, destination, token):
             operation="UploadFile finalization",
         )
     except YemosError as exc:
-        # Some Yemos UploadFile deployments accept the chunk-join
-        # parameters more reliably in the query string. Retry only the
-        # finalization request; the uploaded chunks are reused.
-        if "path is invalid" not in str(exc).lower():
-            raise
-
+        # Reuse the already-uploaded chunks and retry finalization once.
+        # Some Yemos deployments handle the join parameters more reliably
+        # in the query string, and this also avoids re-uploading large files.
         print(
-            "Yemos upload: finalization returned path is invalid; "
+            f"Yemos upload: finalization failed ({exc}); "
             "retrying finalization with query parameters."
         )
         retry = requests.post(
