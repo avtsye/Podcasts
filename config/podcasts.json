@@ -300,6 +300,132 @@
       "drive_folder": "פרונטירז – מדע לצעירים",
       "yemos_branch": "41",
       "category": "מדע"
+    },
+    {
+      "id": "three_who_know",
+      "name": "שלושה שיודעים",
+      "rss": "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/1870742d-7e8b-424f-b3ed-a919008d58e8/5e84154a-096c-459d-b4af-a919008d58ec/podcast.rss",
+      "enabled": true,
+      "drive_folder": "שלושה שיודעים",
+      "yemos_branch": "42",
+      "category": "מדע"
+    },
+    {
+      "id": "osim_software",
+      "name": "עושים תוכנה",
+      "rss": "https://www.spreaker.com/show/4221323/episodes/feed",
+      "enabled": true,
+      "drive_folder": "עושים תוכנה",
+      "yemos_branch": "43",
+      "category": "טכנולוגיה"
+    },
+    {
+      "id": "how_it_works",
+      "name": "איך העולם עובד",
+      "rss": "https://omny.fm/shows/howitworks/playlists/podcast.rss",
+      "enabled": true,
+      "drive_folder": "איך העולם עובד",
+      "yemos_branch": "44",
+      "category": "מדע"
+    },
+    {
+      "id": "historia_big_small",
+      "name": "הפודקאסט של היסטוריה גדולה בקטנה",
+      "rss": "https://feeds.soundcloud.com/users/soundcloud:users:455459574/sounds.rss",
+      "enabled": true,
+      "drive_folder": "הפודקאסט של היסטוריה גדולה בקטנה",
+      "yemos_branch": "45",
+      "category": "היסטוריה"
+    },
+    {
+      "id": "world_war_two",
+      "name": "מלחמת העולם השנייה",
+      "rss": "https://omny.fm/shows/wwii/playlists/podcast.rss",
+      "enabled": true,
+      "drive_folder": "מלחמת העולם השנייה",
+      "yemos_branch": "46",
+      "category": "היסטוריה"
+    },
+    {
+      "id": "minhar_hazman",
+      "name": "מינהר הזמן",
+      "rss": "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/85733579-61c7-4032-b009-a919008d5a10/360a2397-d97b-4394-ad3a-a919008d5a16/podcast.rss",
+      "enabled": true,
+      "drive_folder": "מינהר הזמן",
+      "yemos_branch": "47",
+      "category": "היסטוריה"
+    },
+    {
+      "id": "triple_agent",
+      "name": "סוכן משולש",
+      "rss": "https://feed.podbean.com/dannyorbach/feed.xml",
+      "enabled": true,
+      "drive_folder": "סוכן משולש",
+      "yemos_branch": "48",
+      "category": "היסטוריה"
+    },
+    {
+      "id": "grush_hole",
+      "name": "כשבגרוש היה חור",
+      "rss": "https://www.spreaker.com/show/4482630/episodes/feed",
+      "enabled": true,
+      "drive_folder": "כשבגרוש היה חור",
+      "yemos_branch": "49",
+      "category": "היסטוריה"
+    },
+    {
+      "id": "hatzolelet",
+      "name": "הצוללת",
+      "rss": "https://omny.fm/shows/zsolelet/playlists/podcast.rss",
+      "enabled": true,
+      "drive_folder": "הצוללת",
+      "yemos_branch": "50",
+      "category": "כלכלה"
+    },
+    {
+      "id": "osim_heshbon",
+      "name": "עושים חשבון",
+      "rss": "https://www.spreaker.com/show/4221239/episodes/feed",
+      "enabled": true,
+      "drive_folder": "עושים חשבון",
+      "yemos_branch": "51",
+      "category": "כלכלה"
+    },
+    {
+      "id": "al_halal",
+      "name": "על-חלל",
+      "rss": "https://feeds.buzzsprout.com/836719.rss",
+      "enabled": true,
+      "drive_folder": "על-חלל",
+      "yemos_branch": "52",
+      "category": "מדע"
+    },
+    {
+      "id": "el_haeinsof",
+      "name": "אל האינסוף - הפודקאסט של החלל והזמן",
+      "rss": "https://rss.buzzsprout.com/856603.rss",
+      "enabled": true,
+      "drive_folder": "אל האינסוף - הפודקאסט של החלל והזמן",
+      "yemos_branch": "53",
+      "category": "מדע"
+    },
+    {
+      "id": "madbarimda",
+      "name": "מדברימדע",
+      "rss": "https://feed.podbean.com/lbscience/feed.xml",
+      "enabled": true,
+      "drive_folder": "מדברימדע",
+      "yemos_branch": "54",
+      "category": "מדע"
+    },
+    {
+      "id": "pashut_ai",
+      "name": "פשוט AI",
+      "rss": "https://anchor.fm/s/dd127d10/podcast/rss",
+      "enabled": true,
+      "drive_folder": "פשוט AI",
+      "yemos_branch": "55",
+      "category": "טכנולוגיה"
     }
   ]
 }
