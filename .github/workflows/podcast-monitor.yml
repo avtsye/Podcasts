@@ -243,16 +243,16 @@ jobs:
         run: |
           gh issue comment "$ISSUE_NUMBER" --body "❌ הבקשה לא הסתיימה בהצלחה. ה-Issue נשאר פתוח לבדיקה. [פתיחת הריצה ב-Actions]($RUN_URL)"
 
-      - name: Comment on manual request
-        if: github.event_name == 'issues'
+      - name: Comment on successful manual request
+        if: success() && github.event_name == 'issues'
         env:
           GH_TOKEN: ${{ github.token }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
         run: |
           gh issue comment "$ISSUE_NUMBER" --body "✅ הטיפול בבקשה הסתיים. ניתן לראות את פרטי הריצה בלשונית Actions."
 
-      - name: Close manual request
-        if: github.event_name == 'issues'
+      - name: Close successful manual request
+        if: success() && github.event_name == 'issues'
         env:
           GH_TOKEN: ${{ github.token }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
