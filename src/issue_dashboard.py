@@ -2,7 +2,7 @@ import json, os, re
 from pathlib import Path
 
 def section(body, label):
-    m=re.search(r"(?ms)^### "+re.escape(label)+r"\s*\n+(.+?)(?=\n### |\Z)", body or "")
+    m=re.search(r"(?ms)^### "+re.escape(label)+r"[ \t]*\n(.*?)(?=\n### |\Z)", body or "")
     return m.group(1).strip() if m else ""
 
 def main():
