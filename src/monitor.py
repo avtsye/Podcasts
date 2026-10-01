@@ -300,6 +300,7 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None, run_erro
                 run_uploads.append({
                     "podcast": podcast.get("name", ""),
                     "title": title,
+                    "yemos_path": str(yemos_file.get("path", "")),
                     "destinations": ["ימות המשיח " + str(yemos_file.get("path", ""))],
                 })
                 print(f"Yemos retry complete: {title}")
@@ -388,6 +389,8 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None, run_erro
                     "audio_url": audio_url,
                     "drive_file_id": drive_file.get("id"),
                     "drive_url": drive_file.get("webViewLink"),
+                    "drive_filename": filename,
+                    "drive_folder": podcast.get("drive_folder") or podcast["name"],
                     "status": "uploaded",
                     "notification_status": "pending",
                     "yemos_status": "pending",
@@ -405,6 +408,9 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None, run_erro
                 run_item = {
                     "podcast": podcast.get("name", ""),
                     "title": title,
+                    "drive_filename": filename,
+                    "drive_folder": podcast.get("drive_folder") or podcast["name"],
+                    "drive_url": drive_file.get("webViewLink") or "",
                     "destinations": ["Google Drive"],
                 }
                 run_uploads.append(run_item)
@@ -434,8 +440,9 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None, run_erro
                         record["yemos_status"] = "uploaded"
                         record["yemos_path"] = yemos_file.get("path")
                         record.pop("yemos_error", None)
+                        run_item["yemos_path"] = str(yemos_file.get("path", ""))
                         run_item["destinations"].append(
-                            "ימות המשיח " + str(yemos_file.get("path", ""))
+                            "ימות המשיח " + run_item["yemos_path"]
                         )
                         print(f"Yemos upload complete: {yemos_file.get('path')}")
                     except Exception as exc:
