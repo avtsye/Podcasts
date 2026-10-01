@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-09-30T23:57:10.192543+00:00",
+  "updated_at": "2026-10-01T06:02:50.220710+00:00",
   "runs": [
+    {
+      "run_id": "36822595719",
+      "run_number": "123",
+      "event": "schedule",
+      "status": "failure",
+      "utc_time": "2026-10-01T06:02:50.220710+00:00",
+      "israel_time": "01/10/2026 09:02",
+      "uploads": 1,
+      "feed_errors": 1,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36822595719",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "העולם הערבי סופר מנדטים",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/1313.wav"
+          ]
+        }
+      ]
+    },
     {
       "run_id": "36793396350",
       "run_number": "122",

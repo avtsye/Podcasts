@@ -12898,7 +12898,7 @@
       "status": "error",
       "filename_stem": "12",
       "error": "UploadFile finalization retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-09-30T23:54:48.094354+00:00"
+      "updated_at": "2026-10-01T06:02:16.521857+00:00"
     },
     "fce2f130-a008-4409-82ed-b4c600540483": {
       "podcast_id": "startup_for_startup",
@@ -13818,10 +13818,18 @@
       "path": "ivr2:/1/24/14.wav",
       "filename_stem": "14",
       "uploaded_at": "2026-09-30T23:56:44.087445+00:00"
+    },
+    "515cf406-6227-4e46-9247-b4d600080efe": {
+      "podcast_id": "ehad_beyom",
+      "title": "העולם הערבי סופר מנדטים",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/1313.wav",
+      "filename_stem": "1313",
+      "uploaded_at": "2026-10-01T06:01:37.579122+00:00"
     }
   },
   "next_numbers": {
-    "1": 1313,
+    "1": 1314,
     "2": 17,
     "3": 11,
     "4": 15,
@@ -13846,7 +13854,7 @@
     "25": 9,
     "26": 175,
     "27": 13,
-    "37": 262,
+    "37": 271,
     "38": 11,
     "39": 9,
     "40": 7,
