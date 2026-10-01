@@ -1,4 +1,7 @@
+import json
 import os
+from pathlib import Path
+
 import requests
 
 API = os.getenv("GITHUB_API_URL", "https://api.github.com").rstrip("/")
@@ -73,4 +76,54 @@ r = requests.post(
 )
 r.raise_for_status()
 
-print(f"Temporary run logged in issue #{issue['number']}.")
+manifest_path = Path("data/run_uploads.json")
+try:
+    uploads = json.loads(manifest_path.read_text(encoding="utf-8")) if manifest_path.exists() else []
+except Exception:
+    uploads = []
+
+if uploads:
+    lines = [
+        f"## קבצים שהועלו בריצה {run_id}",
+        "",
+        f"**סה״כ:** {len(uploads)}",
+        "",
+    ]
+    for item in uploads:
+        podcast = item.get("podcast", "")
+        title = item.get("title", "")
+        drive_folder = item.get("drive_folder", "")
+        drive_filename = item.get("drive_filename", "")
+        drive_url = item.get("drive_url", "")
+        yemos_path = item.get("yemos_path", "")
+        lines.append(f"- **{podcast} — {title}**")
+        if drive_folder or drive_filename:
+            lines.append(
+                f"  - Drive: `Podcasts/{drive_folder}/{drive_filename}`"
+                + (f" — {drive_url}" if drive_url else "")
+            )
+        if yemos_path:
+            lines.append(f"  - Yemos: `{yemos_path}`")
+
+    chunks = []
+    current = ""
+    for line in lines:
+        candidate = current + line + "\n"
+        if len(candidate) > 55000 and current:
+            chunks.append(current)
+            current = "## קבצים שהועלו — המשך\n\n" + line + "\n"
+        else:
+            current = candidate
+    if current:
+        chunks.append(current)
+
+    for chunk in chunks:
+        rr = requests.post(
+            f"{API}/repos/{REPO}/issues/{issue['number']}/comments",
+            headers=headers,
+            json={"body": chunk},
+            timeout=60,
+        )
+        rr.raise_for_status()
+
+print(f"Temporary run logged in issue #{issue['number']} with {len(uploads)} upload detail(s).")
