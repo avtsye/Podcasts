@@ -16203,6 +16203,780 @@
       "path": "ivr2:/1/42/300.wav",
       "filename_stem": "300",
       "uploaded_at": "2026-10-01T17:25:36.677357+00:00"
+    },
+    "28dbefad-435f-427e-88d2-b1cb00d1be50": {
+      "podcast_id": "three_who_know",
+      "title": "לכבוד הקיץ שהגיע כתבתי שיר, אמנם אני עוד לא מזיעה...",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/301.wav",
+      "filename_stem": "301",
+      "uploaded_at": "2026-10-01T17:27:36.055754+00:00"
+    },
+    "161f86fd-725c-485c-ada1-b1d0007fe02c": {
+      "podcast_id": "three_who_know",
+      "title": "חתולה כזאת מתרפקת, חת ושתיים על החזה, מארגו הייתה למינקת בו במקום",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/302.wav",
+      "filename_stem": "302",
+      "uploaded_at": "2026-10-01T17:28:53.952885+00:00"
+    },
+    "430e619a-d0e9-481e-abef-b1d1008dfc7f": {
+      "podcast_id": "three_who_know",
+      "title": "אני אישה קטנה מאוד ושמי פלפלת, יש לי כפית קסמים קטנה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/303.wav",
+      "filename_stem": "303",
+      "uploaded_at": "2026-10-01T17:30:08.999880+00:00"
+    },
+    "2673bc4f-bc85-4e17-b020-b1d200762134": {
+      "podcast_id": "three_who_know",
+      "title": "דבר אלי מילים פשוטות כמו שהיינו פעם",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/304.wav",
+      "filename_stem": "304",
+      "uploaded_at": "2026-10-01T17:31:26.860969+00:00"
+    },
+    "548e7bdd-ad04-4097-af6c-b1d200c662a0": {
+      "podcast_id": "three_who_know",
+      "title": "כאן, איפה שאתה רואה את הדשא, היו פעם רק יתושים וביצות",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/305.wav",
+      "filename_stem": "305",
+      "uploaded_at": "2026-10-01T17:32:45.774287+00:00"
+    },
+    "5fc5a187-79a6-4e12-a94c-b1d700861ef5": {
+      "podcast_id": "three_who_know",
+      "title": "דגדגי אותי פה, דגדגי אותי שם ונשיר ביחד את הדיגי דיגי דם",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/306.wav",
+      "filename_stem": "306",
+      "uploaded_at": "2026-10-01T17:34:00.457761+00:00"
+    },
+    "89f9be43-4445-41af-a782-b1d8009386ea": {
+      "podcast_id": "three_who_know",
+      "title": "האם ראית את הסוס הנהדר הזה?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/307.wav",
+      "filename_stem": "307",
+      "uploaded_at": "2026-10-01T17:35:10.208030+00:00"
+    },
+    "a29fffbf-3380-466e-8e1e-b1d90075204a": {
+      "podcast_id": "three_who_know",
+      "title": "וביחד נזדקן, תחת עץ צוחק",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/308.wav",
+      "filename_stem": "308",
+      "uploaded_at": "2026-10-01T17:36:25.871970+00:00"
+    },
+    "e21b7d73-452a-4b9c-99d5-b1da0089b236": {
+      "podcast_id": "three_who_know",
+      "title": "והמורה אומרת: \"עוד מעט כבר סתיו\"",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/309.wav",
+      "filename_stem": "309",
+      "uploaded_at": "2026-10-01T17:37:37.271671+00:00"
+    },
+    "67452892-3cf3-4413-b1cb-b1de0075cf08": {
+      "podcast_id": "three_who_know",
+      "title": "גמרתי להכין את כל השעורים, החיים, אלוהים, חממה, מלחמה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/310.wav",
+      "filename_stem": "310",
+      "uploaded_at": "2026-10-01T17:38:57.996349+00:00"
+    },
+    "79b850b4-ae2b-47d8-bfa1-b1df00922bbb": {
+      "podcast_id": "three_who_know",
+      "title": "יש מדוזות על החוף ופיצוץ בשכם",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/311.wav",
+      "filename_stem": "311",
+      "uploaded_at": "2026-10-01T17:40:44.111673+00:00"
+    },
+    "035032d1-a25e-4797-aa3a-b1e00081f8c1": {
+      "podcast_id": "three_who_know",
+      "title": "הן אמרו, היו שלום, אל ערבו נוטה היום ועלינו עוד הרחק לנדוד",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/312.wav",
+      "filename_stem": "312",
+      "uploaded_at": "2026-10-01T17:41:59.705155+00:00"
+    },
+    "8eab9aae-36fd-4f97-bda8-b1e100709ce6": {
+      "podcast_id": "three_who_know",
+      "title": "עגבניה עלי כידון!",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/313.wav",
+      "filename_stem": "313",
+      "uploaded_at": "2026-10-01T17:43:15.985166+00:00"
+    },
+    "84a956fd-71cd-4008-b629-b1e500921cef": {
+      "podcast_id": "three_who_know",
+      "title": "לא קריפטו ולא קריפטונייט, שטרות בקופסאות של נייק",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/314.wav",
+      "filename_stem": "314",
+      "uploaded_at": "2026-10-01T17:44:43.310491+00:00"
+    },
+    "50c1d2d1-ca83-4b4c-a850-b1e600826b11": {
+      "podcast_id": "three_who_know",
+      "title": "קול קורא לנדוד לנדוד",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/315.wav",
+      "filename_stem": "315",
+      "uploaded_at": "2026-10-01T17:45:52.107097+00:00"
+    },
+    "6b811a1b-2b9e-46b6-a71d-b1e7007ef9b8": {
+      "podcast_id": "three_who_know",
+      "title": "אני גיטרה המים מנגנים עלי",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/316.wav",
+      "filename_stem": "316",
+      "uploaded_at": "2026-10-01T17:46:55.479315+00:00"
+    },
+    "45c47960-6240-45c3-852f-b1e800762477": {
+      "podcast_id": "three_who_know",
+      "title": "בין פרחים ושיחים ממגדיר הצמחים, רק אנחנו יחד בשניים",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/317.wav",
+      "filename_stem": "317",
+      "uploaded_at": "2026-10-01T17:48:14.084422+00:00"
+    },
+    "f8d78e05-c622-4c6f-a3f7-b1ec00975de1": {
+      "podcast_id": "three_who_know",
+      "title": "קולך אלי עונה מן הסופה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/318.wav",
+      "filename_stem": "318",
+      "uploaded_at": "2026-10-01T17:49:39.959037+00:00"
+    },
+    "69b74ec2-ab23-4840-a396-b1ed00be0156": {
+      "podcast_id": "three_who_know",
+      "title": "אילו רק ידעתי לסמן לי את שביל הבריחה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/319.wav",
+      "filename_stem": "319",
+      "uploaded_at": "2026-10-01T17:50:45.930318+00:00"
+    },
+    "2fd59966-62ed-444a-9ad3-b1ee0073ac3f": {
+      "podcast_id": "three_who_know",
+      "title": "נסו להבין את התכלת, נסו להבין את הים",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/320.wav",
+      "filename_stem": "320",
+      "uploaded_at": "2026-10-01T17:52:00.344002+00:00"
+    },
+    "2ad3f96a-fa57-4131-b4bc-b1ee00c59feb": {
+      "podcast_id": "three_who_know",
+      "title": "איזה שעון בן חיל? אשר איננו נח!",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/321.wav",
+      "filename_stem": "321",
+      "uploaded_at": "2026-10-01T17:53:20.562456+00:00"
+    },
+    "a45d8d90-068a-4e58-977d-b1f300756903": {
+      "podcast_id": "three_who_know",
+      "title": "על ענפי שיטה רדה עלטה, על עליה רוח עלעל",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/322.wav",
+      "filename_stem": "322",
+      "uploaded_at": "2026-10-01T17:54:34.036765+00:00"
+    },
+    "9806abb3-85aa-480a-93a3-b1f400b24ff9": {
+      "podcast_id": "three_who_know",
+      "title": "רואים צהוב רואים שקוף",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/323.wav",
+      "filename_stem": "323",
+      "uploaded_at": "2026-10-01T17:55:39.832127+00:00"
+    },
+    "28dbe85a-552a-4957-9110-b1f50077d6ae": {
+      "podcast_id": "three_who_know",
+      "title": "אני לא צריך קרצייה שתמצוץ לי את הדם",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/324.wav",
+      "filename_stem": "324",
+      "uploaded_at": "2026-10-01T17:56:52.815636+00:00"
+    },
+    "63f03cb4-4dd7-4eb3-a071-b1f6004d0e86": {
+      "podcast_id": "three_who_know",
+      "title": "איך זה שכוכב אחד לבד מעז",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/325.wav",
+      "filename_stem": "325",
+      "uploaded_at": "2026-10-01T17:58:16.411218+00:00"
+    },
+    "8cceae7d-e8a2-48c1-b928-b1fa008001cb": {
+      "podcast_id": "three_who_know",
+      "title": "אז כמה טוב שבאת הביתה, כאילו שיצאת, יצאת רק אתמול",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/326.wav",
+      "filename_stem": "326",
+      "uploaded_at": "2026-10-01T17:59:20.829728+00:00"
+    },
+    "aceb173c-1214-418f-ad5a-b1fb0097a169": {
+      "podcast_id": "three_who_know",
+      "title": "העכביש הזה, שום סימן הוא לא נותן. הוא מעוור, הוא מכוון את התנועה בשלל גחליליות",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/327.wav",
+      "filename_stem": "327",
+      "uploaded_at": "2026-10-01T18:00:26.842473+00:00"
+    },
+    "4588b932-3baf-4a6b-8a3d-b1fc007f8f66": {
+      "podcast_id": "three_who_know",
+      "title": "אומרים גם שהמדעים עוד מעט קט והם מגיעים לפענוח סוד החיים וכל סודות היקום",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/328.wav",
+      "filename_stem": "328",
+      "uploaded_at": "2026-10-01T18:01:48.018477+00:00"
+    },
+    "895cabeb-01a4-40e8-9ad7-b1fc00b5e455": {
+      "podcast_id": "three_who_know",
+      "title": "אנחנו עוד נראה את הימים האחרים",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/329.wav",
+      "filename_stem": "329",
+      "uploaded_at": "2026-10-01T18:02:17.194620+00:00"
+    },
+    "c8e92e12-f0f5-45c9-bf9f-b201007fb0e2": {
+      "podcast_id": "three_who_know",
+      "title": "כך הולכים השותלים רון בלב ושיבא ביד",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/330.wav",
+      "filename_stem": "330",
+      "uploaded_at": "2026-10-01T18:03:31.682895+00:00"
+    },
+    "71255c4a-18a8-4232-aec6-b2040083b499": {
+      "podcast_id": "three_who_know",
+      "title": "הלב הוא טלסקופי, סדק בתקרת העננים, קרן שמש יחידה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/332.wav",
+      "filename_stem": "332",
+      "uploaded_at": "2026-10-01T18:05:33.984248+00:00"
+    },
+    "843f676a-acec-4b49-a07d-b20800954f90": {
+      "podcast_id": "three_who_know",
+      "title": "התפללי לאל השמש, אולי יש לו כוח לחמם ימים קרים",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/333.wav",
+      "filename_stem": "333",
+      "uploaded_at": "2026-10-01T18:06:46.073051+00:00"
+    },
+    "76da0635-3fb1-4cf1-87e0-b20a00948fbd": {
+      "podcast_id": "three_who_know",
+      "title": "כמו קולומבוס, כך פתאום, בספינה קלת חרטום של מפרשים",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/335.wav",
+      "filename_stem": "335",
+      "uploaded_at": "2026-10-01T18:08:35.782857+00:00"
+    },
+    "11a7feef-b010-441a-9113-b20a00a871a5": {
+      "podcast_id": "three_who_know",
+      "title": "השביל הזה מתחיל כאן",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/336.wav",
+      "filename_stem": "336",
+      "uploaded_at": "2026-10-01T18:09:07.102558+00:00"
+    },
+    "dae739b9-6c0d-4f32-b4bb-b21700b09258": {
+      "podcast_id": "three_who_know",
+      "title": "הקמטים על הפנים, על הכל יעידו",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/337.wav",
+      "filename_stem": "337",
+      "uploaded_at": "2026-10-01T18:10:15.477427+00:00"
+    },
+    "fcd7d724-78e9-41c0-87ff-b218009627c2": {
+      "podcast_id": "three_who_know",
+      "title": "אני רואה לך בעיניים, אני רואה את הכל",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/338.wav",
+      "filename_stem": "338",
+      "uploaded_at": "2026-10-01T18:11:29.101279+00:00"
+    },
+    "197e1602-8aaf-4a50-bd51-b21900d6cd48": {
+      "podcast_id": "three_who_know",
+      "title": "חידה את לי",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/339.wav",
+      "filename_stem": "339",
+      "uploaded_at": "2026-10-01T18:12:47.579956+00:00"
+    },
+    "f37cceb2-5aac-427f-a080-b21d008d071b": {
+      "podcast_id": "three_who_know",
+      "title": "כלואים בחוטים של רשת חברתית",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/340.wav",
+      "filename_stem": "340",
+      "uploaded_at": "2026-10-01T18:14:00.603456+00:00"
+    },
+    "723d133c-fc4a-4610-b879-b21e00971458": {
+      "podcast_id": "three_who_know",
+      "title": "לא להפסיק לקחת עד סוף הטיפול, כל שעה נשיקה, כל שעתיים חיבוק",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/341.wav",
+      "filename_stem": "341",
+      "uploaded_at": "2026-10-01T18:15:19.203763+00:00"
+    },
+    "d578b4f5-163d-46a2-8514-b21f007cc8ae": {
+      "podcast_id": "three_who_know",
+      "title": "אני אבחר בך ואת בי תבחרי וביחד נהיה לרוב",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/342.wav",
+      "filename_stem": "342",
+      "uploaded_at": "2026-10-01T18:16:58.252126+00:00"
+    },
+    "f8776f87-6420-4be2-bce9-b21f00bc40f6": {
+      "podcast_id": "three_who_know",
+      "title": "\"אנו נהיה הראשונים\", כה אמרנו אח אל אח",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/343.wav",
+      "filename_stem": "343",
+      "uploaded_at": "2026-10-01T18:18:08.238515+00:00"
+    },
+    "e7a37842-b422-43cd-ad26-b224009207c8": {
+      "podcast_id": "three_who_know",
+      "title": "בוא נביט בשמש, היא יודעת מה קורה, איך אפשר לזרוח כשהים מלא, ים חולה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/344.wav",
+      "filename_stem": "344",
+      "uploaded_at": "2026-10-01T18:19:19.957805+00:00"
+    },
+    "11c50530-c820-4d3d-b7cb-b22600840429": {
+      "podcast_id": "three_who_know",
+      "title": "ונותר רק הד קולך",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/346.wav",
+      "filename_stem": "346",
+      "uploaded_at": "2026-10-01T18:21:24.556730+00:00"
+    },
+    "383e2b6a-b57a-475d-a780-b22700875f28": {
+      "podcast_id": "three_who_know",
+      "title": "הכדור בידיים שלנו, אם לא נשמור, נאבד את הכל",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/347.wav",
+      "filename_stem": "347",
+      "uploaded_at": "2026-10-01T18:22:45.148112+00:00"
+    },
+    "bf34dcd0-9b72-4298-a4d4-b22b0083ed65": {
+      "podcast_id": "three_who_know",
+      "title": "טנגו צפרדעים",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/348.wav",
+      "filename_stem": "348",
+      "uploaded_at": "2026-10-01T18:23:56.394412+00:00"
+    },
+    "342f2bc5-eb55-438b-892a-b22c009b7ec0": {
+      "podcast_id": "three_who_know",
+      "title": "לפנות את השבילים כי אנחנו הפילים צועדים בסך",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/349.wav",
+      "filename_stem": "349",
+      "uploaded_at": "2026-10-01T18:25:16.409010+00:00"
+    },
+    "e79e10e8-577c-4ab7-9a64-b22c00bb6fc2": {
+      "podcast_id": "three_who_know",
+      "title": "ציירי לך שפם",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/350.wav",
+      "filename_stem": "350",
+      "uploaded_at": "2026-10-01T18:26:29.200281+00:00"
+    },
+    "1803c635-1b7b-4d3b-a417-b22e0086f12e": {
+      "podcast_id": "three_who_know",
+      "title": "הרופא אמר: \"את אמא, יש לך בת\"... היא קראה לה: נובמבר",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/351.wav",
+      "filename_stem": "351",
+      "uploaded_at": "2026-10-01T18:27:50.351425+00:00"
+    },
+    "834e1389-30d3-4b62-a1b7-b232008ce515": {
+      "podcast_id": "three_who_know",
+      "title": "שנים אני ואת בתוך מלכודת",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/352.wav",
+      "filename_stem": "352",
+      "uploaded_at": "2026-10-01T18:29:04.786383+00:00"
+    },
+    "a72918ac-3625-4de7-9505-b23200dff202": {
+      "podcast_id": "three_who_know",
+      "title": "מי מסתתר מאחורי המסכה?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/353.wav",
+      "filename_stem": "353",
+      "uploaded_at": "2026-10-01T18:30:11.886517+00:00"
+    },
+    "1bb83782-e5ef-438b-be44-b234007ca8e0": {
+      "podcast_id": "three_who_know",
+      "title": "שֵׁשׁ פָּרוֹת אֲנִי חוֹלֶבֶת, שֵׁד אֶחָד אֲנִי אוֹהֶבֶת",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/354.wav",
+      "filename_stem": "354",
+      "uploaded_at": "2026-10-01T18:31:44.541488+00:00"
+    },
+    "c8dfef09-0a7d-4662-b824-b23500c76b2a": {
+      "podcast_id": "three_who_know",
+      "title": "ההיית או חלמתי חלום?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/355.wav",
+      "filename_stem": "355",
+      "uploaded_at": "2026-10-01T18:33:00.931024+00:00"
+    },
+    "2e19a38c-a56a-402b-820e-b23900949668": {
+      "podcast_id": "three_who_know",
+      "title": "מר לי בפה כמו עץ השדה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/356.wav",
+      "filename_stem": "356",
+      "uploaded_at": "2026-10-01T18:34:11.561794+00:00"
+    },
+    "72cdb4c9-39b9-4836-b6fc-b23a009d8976": {
+      "podcast_id": "three_who_know",
+      "title": "מה את מבינה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/357.wav",
+      "filename_stem": "357",
+      "uploaded_at": "2026-10-01T18:35:29.170975+00:00"
+    },
+    "1bb94bf8-6e10-4124-ac4e-b23b009111cb": {
+      "podcast_id": "three_who_know",
+      "title": "סוף העולם בלוז",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/358.wav",
+      "filename_stem": "358",
+      "uploaded_at": "2026-10-01T18:36:46.620257+00:00"
+    },
+    "8dce0fa7-4fab-477f-8873-b23c00abcbd3": {
+      "podcast_id": "three_who_know",
+      "title": "וכל הדרך זרזירים",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/359.wav",
+      "filename_stem": "359",
+      "uploaded_at": "2026-10-01T18:38:11.634226+00:00"
+    },
+    "966f318d-080f-45af-af38-b24000df78f8": {
+      "podcast_id": "three_who_know",
+      "title": "יש מיליארד סינים שחיים ואני, מי אני? מה אני?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/360.wav",
+      "filename_stem": "360",
+      "uploaded_at": "2026-10-01T18:38:46.088826+00:00"
+    },
+    "4de506bc-602d-4789-9515-b2410083b46c": {
+      "podcast_id": "three_who_know",
+      "title": "השעון נראה כמו שרודף אחרי עצמו, במן דיוק מרגיז",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/361.wav",
+      "filename_stem": "361",
+      "uploaded_at": "2026-10-01T18:39:15.155524+00:00"
+    },
+    "20a2dde2-24e7-46c8-a0db-b242009d7b3d": {
+      "podcast_id": "three_who_know",
+      "title": "דם חם, דם חם, זה מה שכולם אומרים שיש לי",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/362.wav",
+      "filename_stem": "362",
+      "uploaded_at": "2026-10-01T18:40:01.218091+00:00"
+    },
+    "2d728837-058d-43a5-b311-b243008db341": {
+      "podcast_id": "three_who_know",
+      "title": "טנגו נועד לשניים",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/363.wav",
+      "filename_stem": "363",
+      "uploaded_at": "2026-10-01T18:40:31.583255+00:00"
+    },
+    "0a5acba7-d57d-4cee-80ce-b247006e8114": {
+      "podcast_id": "three_who_know",
+      "title": "אין סוסים שמדברים עברית, חפש באנטארטיקה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/364.wav",
+      "filename_stem": "364",
+      "uploaded_at": "2026-10-01T18:41:18.492366+00:00"
+    },
+    "4c53e953-ce04-4fff-bbbd-b24800ba9347": {
+      "podcast_id": "three_who_know",
+      "title": "בינה מלאכותית - לא עובדת בשביל אף אחד",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/365.wav",
+      "filename_stem": "365",
+      "uploaded_at": "2026-10-01T18:41:48.177665+00:00"
+    },
+    "d096edb2-ae60-43d4-b317-b249008bbeca": {
+      "podcast_id": "three_who_know",
+      "title": "מעלה מעלה מעלה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/366.wav",
+      "filename_stem": "366",
+      "uploaded_at": "2026-10-01T18:42:16.587613+00:00"
+    },
+    "996f04ee-dcc7-4b38-83bb-b24a00a37451": {
+      "podcast_id": "three_who_know",
+      "title": "חם, חם, חם על הירח",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/367.wav",
+      "filename_stem": "367",
+      "uploaded_at": "2026-10-01T18:42:45.681950+00:00"
+    },
+    "2d4532ca-e95e-47a7-93c1-b24e006f1103": {
+      "podcast_id": "three_who_know",
+      "title": "בדרך הביתה את אומרת, בסוף עוד יהיה לנו טוב",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/368.wav",
+      "filename_stem": "368",
+      "uploaded_at": "2026-10-01T18:43:15.464919+00:00"
+    },
+    "171397c7-6e53-4b04-b9ce-b24f00e58879": {
+      "podcast_id": "three_who_know",
+      "title": "שב, תנוח, אל תירא",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/369.wav",
+      "filename_stem": "369",
+      "uploaded_at": "2026-10-01T18:43:45.319831+00:00"
+    },
+    "dabb2437-5db5-4c31-a86d-b2500091a415": {
+      "podcast_id": "three_who_know",
+      "title": "לב, קצב פעימות, אי סדר, משהו בליבו סוער",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/370.wav",
+      "filename_stem": "370",
+      "uploaded_at": "2026-10-01T18:44:10.898499+00:00"
+    },
+    "48b25510-b157-4e9a-8c48-b25000ad06de": {
+      "podcast_id": "three_who_know",
+      "title": "כדור בשר!... מת לאכול כדור בשר",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/371.wav",
+      "filename_stem": "371",
+      "uploaded_at": "2026-10-01T18:44:36.903320+00:00"
+    },
+    "8da76309-b1f5-4f57-a3f6-b255008d2321": {
+      "podcast_id": "three_who_know",
+      "title": "לך אל נמלה עצל ראה דרכיה וחכם",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/372.wav",
+      "filename_stem": "372",
+      "uploaded_at": "2026-10-01T18:45:06.640913+00:00"
+    },
+    "7f03fc7c-565e-4967-b904-b25600b5030d": {
+      "podcast_id": "three_who_know",
+      "title": "אנחנו נבנה לנו יחד מגדל, שיצמח ויגבה וירקיע אל על",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/373.wav",
+      "filename_stem": "373",
+      "uploaded_at": "2026-10-01T18:45:40.447127+00:00"
+    },
+    "6bfe7ca1-551c-414f-9dbb-b2570076fda2": {
+      "podcast_id": "three_who_know",
+      "title": "דודי נתן תשורה לי, פרוטה אחת שחוקה. יודעים אתם לכבוד מה? לכבוד החנוכה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/374.wav",
+      "filename_stem": "374",
+      "uploaded_at": "2026-10-01T18:46:09.291654+00:00"
+    },
+    "11a87269-81bf-44af-b503-b2580077bf3c": {
+      "podcast_id": "three_who_know",
+      "title": "כי העולם גדול אפשר לראות בו את הכל, את שור הבר של המשיח",
+      "status": "error",
+      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "updated_at": "2026-10-01T18:46:47.188397+00:00"
+    },
+    "03d8f5d6-221a-4689-9d61-b25c00a2bf19": {
+      "podcast_id": "three_who_know",
+      "title": "חלליות קוראות לי לחזור",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/376.wav",
+      "filename_stem": "376",
+      "uploaded_at": "2026-10-01T18:47:16.568429+00:00"
+    },
+    "2768bd48-80e9-4244-82c4-b25e007d2269": {
+      "podcast_id": "three_who_know",
+      "title": "אם הייתי ביפן אני הייתי שוגון",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/377.wav",
+      "filename_stem": "377",
+      "uploaded_at": "2026-10-01T18:47:44.443658+00:00"
+    },
+    "d77b7267-8c38-4f56-bfad-b25f0077110b": {
+      "podcast_id": "three_who_know",
+      "title": "אני מרשה לעצמי עם קצת דמיון חופשי",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/378.wav",
+      "filename_stem": "378",
+      "uploaded_at": "2026-10-01T18:48:09.549554+00:00"
+    },
+    "e97f56e6-5663-484b-a4b0-b263009d9b3e": {
+      "podcast_id": "three_who_know",
+      "title": "חפש באנטארקטיקה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/379.wav",
+      "filename_stem": "379",
+      "uploaded_at": "2026-10-01T18:48:38.094291+00:00"
+    },
+    "c04961d9-70e9-41c1-8e7e-b26400d3cdc3": {
+      "podcast_id": "three_who_know",
+      "title": "מפת העולם סימנה לי שהיא רחוקה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/380.wav",
+      "filename_stem": "380",
+      "uploaded_at": "2026-10-01T18:49:07.346451+00:00"
+    },
+    "15bbd037-d26f-47d6-9995-b2650083299f": {
+      "podcast_id": "three_who_know",
+      "title": "אני אבחר בך ואת בי תבחרי וביחד נהיה לרוב",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/381.wav",
+      "filename_stem": "381",
+      "uploaded_at": "2026-10-01T18:49:31.333139+00:00"
+    },
+    "48828eae-927e-47ea-bb18-b266007e077d": {
+      "podcast_id": "three_who_know",
+      "title": "חסר לך חריף בפה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/382.wav",
+      "filename_stem": "382",
+      "uploaded_at": "2026-10-01T18:49:59.496475+00:00"
+    },
+    "dcd34235-08a9-4442-a638-b26a009e9234": {
+      "podcast_id": "three_who_know",
+      "title": "יש לי say, אני לא נוגעת במה שמזיק לי",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/383.wav",
+      "filename_stem": "383",
+      "uploaded_at": "2026-10-01T18:50:38.678002+00:00"
+    },
+    "535c8023-097e-4863-a783-b26b0083ef94": {
+      "podcast_id": "three_who_know",
+      "title": "ציפור פצועה, חזרי אלי ושובי לביתך",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/384.wav",
+      "filename_stem": "384",
+      "uploaded_at": "2026-10-01T18:51:31.169761+00:00"
+    },
+    "0735ca44-8284-4c48-a03f-b26d00c6e05b": {
+      "podcast_id": "three_who_know",
+      "title": "מין ומגדר זה אותו דבר?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/385.wav",
+      "filename_stem": "385",
+      "uploaded_at": "2026-10-01T18:51:54.920115+00:00"
+    },
+    "afbf3c20-1977-4902-b4cf-b27100986075": {
+      "podcast_id": "three_who_know",
+      "title": "בואי הביתה, האוכל כבר מוכן",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/386.wav",
+      "filename_stem": "386",
+      "uploaded_at": "2026-10-01T18:52:24.410349+00:00"
+    },
+    "4a00c53a-6250-47ce-ad06-b27200d0dd9a": {
+      "podcast_id": "three_who_know",
+      "title": "גבוה מעל המגדלים",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/387.wav",
+      "filename_stem": "387",
+      "uploaded_at": "2026-10-01T18:52:53.136943+00:00"
+    },
+    "9101f706-9395-4bf2-9644-b273009ae935": {
+      "podcast_id": "three_who_know",
+      "title": "מה אכלת בגן היום ילד מתוק שלי?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/388.wav",
+      "filename_stem": "388",
+      "uploaded_at": "2026-10-01T18:53:18.380418+00:00"
+    },
+    "2c2bbd1b-5589-4cf4-9a9e-b2740090829e": {
+      "podcast_id": "three_who_know",
+      "title": "מה שיותר עמוק יותר DeepSeek",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/389.wav",
+      "filename_stem": "389",
+      "uploaded_at": "2026-10-01T18:53:47.270576+00:00"
+    },
+    "f8c8c9ed-1662-45d3-98d8-b2780082c697": {
+      "podcast_id": "three_who_know",
+      "title": "חושב עלייך כל דקה, עם כל הלב",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/390.wav",
+      "filename_stem": "390",
+      "uploaded_at": "2026-10-01T18:54:14.712655+00:00"
+    },
+    "58cec845-5d9f-43ad-97d8-b2790097b1da": {
+      "podcast_id": "three_who_know",
+      "title": "אסטרואידים מתקרבים למגדלים של תל אביב",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/391.wav",
+      "filename_stem": "391",
+      "uploaded_at": "2026-10-01T18:54:42.002863+00:00"
+    },
+    "9d412188-1b02-40c4-bd5a-b27a006c145f": {
+      "podcast_id": "three_who_know",
+      "title": "ילדים קטנים, ילדים גדולים, ילדים טובים וילדים רעים",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/392.wav",
+      "filename_stem": "392",
+      "uploaded_at": "2026-10-01T18:55:19.954321+00:00"
+    },
+    "5455a89c-ea8f-4190-b9f1-b27a00f25147": {
+      "podcast_id": "three_who_know",
+      "title": "סוכר על הלשון שלי עכשיו",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/393.wav",
+      "filename_stem": "393",
+      "uploaded_at": "2026-10-01T18:55:58.799949+00:00"
+    },
+    "77a80ca9-9372-4596-be28-b27f007d2136": {
+      "podcast_id": "three_who_know",
+      "title": "לפעמים אני הולך לאיבוד במבוך של ספק",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/394.wav",
+      "filename_stem": "394",
+      "uploaded_at": "2026-10-01T18:56:44.637912+00:00"
+    },
+    "25d23378-f425-4dd6-b9aa-b2800099da4e": {
+      "podcast_id": "three_who_know",
+      "title": "יש לך שמש בליבך",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/395.wav",
+      "filename_stem": "395",
+      "uploaded_at": "2026-10-01T18:57:10.707223+00:00"
+    },
+    "d217222e-b6ba-42c6-9d09-b281006f7527": {
+      "podcast_id": "three_who_know",
+      "title": "פעם היינו מדברים לאט",
+      "status": "error",
+      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "updated_at": "2026-10-01T18:57:47.469411+00:00"
+    },
+    "0ba70c98-0f5f-45b8-b1f1-b28100d97910": {
+      "podcast_id": "three_who_know",
+      "title": "כי אני עירוני, אני טיפוס אורבאני",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/397.wav",
+      "filename_stem": "397",
+      "uploaded_at": "2026-10-01T18:58:18.660116+00:00"
+    },
+    "253af30f-3765-412b-b10f-b286007a99d8": {
+      "podcast_id": "three_who_know",
+      "title": "עוד בימים הראשונים של ההיסטוריה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/398.wav",
+      "filename_stem": "398",
+      "uploaded_at": "2026-10-01T18:58:54.207484+00:00"
+    },
+    "5ec774a1-0c30-4140-8e96-b287009f84cb": {
+      "podcast_id": "three_who_know",
+      "title": "לי דובון זריז וקט",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/399.wav",
+      "filename_stem": "399",
+      "uploaded_at": "2026-10-01T18:59:33.717822+00:00"
+    },
+    "83c1c4bd-c281-4744-90ae-b28800735204": {
+      "podcast_id": "three_who_know",
+      "title": "בחמש קם צייד",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/400.wav",
+      "filename_stem": "400",
+      "uploaded_at": "2026-10-01T19:00:06.832268+00:00"
     }
   },
   "next_numbers": {
@@ -16238,6 +17012,6 @@
     "20": 17,
     "24": 15,
     "41": 11,
-    "42": 301
+    "42": 401
   }
 }
