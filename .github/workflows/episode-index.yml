@@ -14,7 +14,7 @@ permissions:
 
 concurrency:
   group: podcast-state-writer
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   refresh:
