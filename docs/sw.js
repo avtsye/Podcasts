@@ -1,5 +1,5 @@
-const CACHE='podcasts-dashboard-v4';
-const CORE=['./index.html','./styles.css?v=4','./app.js?v=4','./manifest.webmanifest'];
+const CACHE='podcasts-dashboard-__BUILD_VERSION__';
+const CORE=['./manifest.webmanifest'];
 
 self.addEventListener('install',event=>{
   event.waitUntil(
@@ -36,19 +36,10 @@ self.addEventListener('fetch',event=>{
 
   if(isData || isFrontend){
     event.respondWith(
-      fetch(event.request)
-        .then(response=>{
-          const copy=response.clone();
-          caches.open(CACHE).then(c=>c.put(event.request,copy));
-          return response;
-        })
+      fetch(event.request,{cache:'no-store'})
         .catch(()=>caches.match(event.request))
     );
     return;
   }
 
-  event.respondWith(
-    caches.match(event.request)
-      .then(cached=>cached||fetch(event.request))
-  );
-});
+  event.respondWith(fetch(event.request).catch(()=>caches.match(event.request)));});
