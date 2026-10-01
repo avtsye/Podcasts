@@ -13,7 +13,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: podcast-state-writer
+  group: refresh-episode-index
   cancel-in-progress: false
 
 jobs:
