@@ -150,10 +150,12 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None, run_erro
         force_items = []
     force_targets = os.getenv("PODCAST_FORCE_TARGETS", "")
     force_count = int(os.getenv("PODCAST_FORCE_COUNT", "0") or "0")
-    force_keys = {
-        episode_key(entry)
-        for entry in list(feed.entries)[:force_count]
-    } if force_count > 0 else set()
+    force_offset = int(os.getenv("PODCAST_FORCE_OFFSET", "0") or "0")
+    force_slice = (
+        list(feed.entries)[force_offset:force_offset + force_count]
+        if force_count > 0 else []
+    )
+    force_keys = {episode_key(entry) for entry in force_slice}
     def force_match(entry, key):
         title = (entry.get("title", "") or "").strip()
         link = (entry.get("link", "") or "").strip()
