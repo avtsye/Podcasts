@@ -1,0 +1,43 @@
+name: Purge RawGitHack Cache
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "docs/**"
+      - ".github/workflows/rawgithack-purge.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge RawGitHack development cache
+        shell: bash
+        run: |
+          set -euo pipefail
+          base="https://raw.githack.com/avtsye/Podcasts/main/docs"
+          files=(
+            "index.html"
+            "app.js"
+            "styles.css"
+            "sw.js"
+            "manifest.webmanifest"
+            "episode-index.json"
+            "status.json"
+            "run-history.json"
+          )
+
+          for file in "${files[@]}"; do
+            url="${base}/${file}"
+            echo "Purging ${url}"
+            curl --fail --silent --show-error --retry 3 --retry-delay 2 \
+              -X DELETE \
+              -G \
+              --data-urlencode "url=${url}" \
+              "https://raw.githack.com/purge"
+            echo
+          done
