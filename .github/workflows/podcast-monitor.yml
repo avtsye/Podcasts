@@ -40,7 +40,7 @@ concurrency:
 
 jobs:
   monitor:
-    if: github.event_name != 'issues' || github.event.issue.author_association == 'OWNER'
+    if: github.event_name != 'issues' || (github.event.issue.author_association == 'OWNER' && !startsWith(github.event.issue.title, '[היסטוריה מלאה]'))
     runs-on: ubuntu-latest
 
     steps:
