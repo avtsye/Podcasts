@@ -131,9 +131,12 @@ jobs:
           GITHUB_API_URL: ${{ github.api_url }}
           PODCAST_HISTORY_MODE: "true"
           PODCAST_IDS: ${{ matrix.id }}
-          PODCAST_FORCE_COUNT: ${{ matrix.count }}
-          PODCAST_FORCE_OFFSET: ${{ matrix.offset }}
-          PODCAST_FORCE_TARGETS: ${{ needs.prepare.outputs.targets }}
+          PODCAST_BATCH_COUNT: ${{ matrix.count }}
+          PODCAST_BATCH_OFFSET: ${{ matrix.offset }}
+          PODCAST_MISSING_ONLY: "true"
+          PODCAST_FORCE_COUNT: "0"
+          PODCAST_FORCE_OFFSET: "0"
+          PODCAST_FORCE_TARGETS: ""
           PODCAST_FORCE_EPISODES: "[]"
         run: python -m src.monitor
       - name: Save batch state
