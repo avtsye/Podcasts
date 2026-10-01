@@ -76,6 +76,9 @@ def queue_notification(podcast, episode, drive_file):
             "title": episode["title"],
             "published": episode.get("published", ""),
             "drive_url": drive_file.get("webViewLink") or episode.get("drive_url") or "",
+            "drive_filename": episode.get("drive_filename", ""),
+            "drive_folder": episode.get("drive_folder", ""),
+            "yemos_path": episode.get("yemos_path", ""),
             "record": episode,
         }
     )
@@ -88,20 +91,44 @@ def flush_notifications():
     token, repo, api_url = _config()
     issue_number = _find_or_create_issue(token, repo, api_url)
 
-    lines = ["## 🎙️ New podcast episodes", ""]
+    header = ["## 🎙️ פרקי פודקאסט שהועלו", ""]
+    blocks = []
     for item in _PENDING:
-        lines.extend(
-            [
-                f"### {item['podcast']}",
-                f"**Episode:** {item['title']}",
-                f"**Published:** {item['published']}",
-                f"**Google Drive:** {item['drive_url']}",
-                "",
-            ]
-        )
+        drive_target = ""
+        if item.get("drive_folder") or item.get("drive_filename"):
+            drive_target = (
+                f"Podcasts/{item.get('drive_folder','')}/"
+                f"{item.get('drive_filename','')}"
+            ).rstrip("/")
+        drive_line = item.get("drive_url") or "לא זמין"
+        block = [
+            f"### {item['podcast']} — {item['title']}",
+            f"- **פורסם:** {item['published']}",
+            f"- **קובץ Drive:** {drive_target or 'לא זמין'}",
+            f"- **קישור Drive:** {drive_line}",
+        ]
+        if item.get("yemos_path"):
+            block.append(f"- **Yemos:** {item['yemos_path']}")
+        block.append("")
+        blocks.append("\n".join(block))
+
+    # GitHub comments are size-limited. Split large full-history reports
+    # into multiple comments without dropping any uploaded item.
+    comments = []
+    current = "\n".join(header)
+    for block in blocks:
+        candidate = current + block + "\n"
+        if len(candidate) > 55000 and current.strip():
+            comments.append(current)
+            current = "## 🎙️ פרקי פודקאסט שהועלו — המשך\n\n" + block + "\n"
+        else:
+            current = candidate
+    if current.strip():
+        comments.append(current)
 
     url = f"{api_url}/repos/{repo}/issues/{issue_number}/comments"
-    _request("POST", url, token, json={"body": "\n".join(lines)})
+    for body in comments:
+        _request("POST", url, token, json={"body": body})
 
     sent = [item["record"] for item in _PENDING]
     _PENDING.clear()
