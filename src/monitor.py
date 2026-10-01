@@ -142,6 +142,19 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None, run_erro
     else:
         entries = list(feed.entries[: int(settings.get("max_episodes_per_feed", 10))])
 
+    batch_offset = int(os.getenv("PODCAST_BATCH_OFFSET", "0") or "0")
+    batch_count = int(os.getenv("PODCAST_BATCH_COUNT", "0") or "0")
+    if batch_count > 0:
+        entries = entries[batch_offset:batch_offset + batch_count]
+        print(
+            f"Batch mode: processing offset {batch_offset}, "
+            f"count {len(entries)}."
+        )
+
+    missing_only = os.getenv("PODCAST_MISSING_ONLY", "false").lower() in {
+        "1", "true", "yes", "on"
+    }
+
     seen = state.setdefault("episodes", {})
     force_items = []
     try:
@@ -203,6 +216,11 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None, run_erro
         key = episode_key(entry)
         current = seen.get(key)
         previous_current = dict(current) if current else None
+        if missing_only and current and current.get("status") == "bootstrap":
+            # Bootstrap means "known to the RSS", not "uploaded".
+            # For a full-history missing-only run, process these episodes
+            # without forcing replacement of already uploaded files.
+            current = None
         yemos_record = yemos_episodes.get(key, {})
         previous_yemos_record = dict(yemos_record) if yemos_record else {}
         forced = force_match(entry, key)
