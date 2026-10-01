@@ -170,7 +170,11 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None, run_erro
     first_run = podcast_id not in feeds
     feed_had_error = False
 
-    if first_run and settings.get("bootstrap_existing_as_seen", True):
+    if (
+        first_run
+        and settings.get("bootstrap_existing_as_seen", True)
+        and not (force_items or force_count > 0)
+    ):
         for entry in entries:
             key = episode_key(entry)
             seen.setdefault(
