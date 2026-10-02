@@ -1,6 +1,619 @@
 {
-  "updated_at": "2026-10-02T05:54:59.461272+00:00",
+  "updated_at": "2026-10-02T06:56:43.927140+00:00",
   "runs": [
+    {
+      "run_id": "36973077771",
+      "run_number": "134",
+      "event": "issues",
+      "status": "success",
+      "utc_time": "2026-10-02T06:56:43.927140+00:00",
+      "israel_time": "02/10/2026 09:56",
+      "uploads": 100,
+      "feed_errors": 1,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36973077771",
+      "items": [
+        {
+          "podcast": "פשוט AI",
+          "title": "בינה מלאכותית: עשה ואל תעשה לסטארטאפים 👍 | פרק 86 עם בילי פרדו, מייסייז",
+          "drive_filename": "בינה מלאכותית_ עשה ואל תעשה לסטארטאפים 👍 _ פרק 86 עם בילי פרדו, מייסייז.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1BPGOUk9dVKi-iHbjvCg6DLWOrktoCHx6/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/1.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/1.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "כלא דמיוני: כשבינה מלאכותית פוגשת את הסיפור האישי שלי 🌼 | פרק 87 עם קטי גבעוני",
+          "drive_filename": "כלא דמיוני_ כשבינה מלאכותית פוגשת את הסיפור האישי שלי 🌼 _ פרק 87 עם קטי גבעוני.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1DVlApvgkK7G9NRvwU1vQmDtYl5M1ry0L/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/2.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/2.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "חברת אנבידיה וכיצד היא מובילה את עידן הבינה המלאכותית 🌟 | פרק 88 עם אופיר זמיר, אנבידיה",
+          "drive_filename": "חברת אנבידיה וכיצד היא מובילה את עידן הבינה המלאכותית 🌟 _ פרק 88 עם אופיר זמיר, אנבידיה.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1Eqoq8nYnsTmIvjMInKGEPmf9CJeMVWYF/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/3.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/3.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "שיווק חזק ומדויק בסושיאל בעזרת בינה מלאכותית 🍬 | פרק 89 עם סתיו מונסקי",
+          "drive_filename": "שיווק חזק ומדויק בסושיאל בעזרת בינה מלאכותית 🍬 _ פרק 89 עם סתיו מונסקי.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1A0xunpP2rf-fKQSuQdGq9nOifZHhEuvh/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/4.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/4.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "מטא (פייסבוק) והעשייה שלה בעולם הבינה המלאכותית 🔵 | פרק 90 עם רוי יבניסק, מטא",
+          "drive_filename": "מטא (פייסבוק) והעשייה שלה בעולם הבינה המלאכותית 🔵 _ פרק 90 עם רוי יבניסק, מטא.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1XbgfkuSRhBzVxCZPqsXOTFy2mXPbHxks/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/5.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/5.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "הגיע הזמן לדבר שוב על מידג'רני (ועוד מחוללי תמונות) 🌄 | פרק 91 עם מאיה אלאב נחשון",
+          "drive_filename": "הגיע הזמן לדבר שוב על מידג'רני (ועוד מחוללי תמונות) 🌄 _ פרק 91 עם מאיה אלאב נחשון.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1069CzumV9TLO3KhM0qrtLXu9ClL9nvEo/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/6.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/6.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "מס שלילי לכל אזרח? תיאוריית היו.בי.איי בעקבות מהפכת הבינה המלאכותית 👥 | פרק 92 עם עידן ארץ (UBI)",
+          "drive_filename": "מס שלילי לכל אזרח_ תיאוריית היו.בי.איי בעקבות מהפכת הבינה המלאכותית 👥 _ פרק 92 עם עידן ארץ (UBI).mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1rkwokSqduk4HiSTOJ7AaRzOnBe7dlKPq/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/7.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/7.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "בינה מלאכותית והשפעתה על עולם הקריפטו 💲 | פרק 93 עם בן סמוחה",
+          "drive_filename": "בינה מלאכותית והשפעתה על עולם הקריפטו 💲 _ פרק 93 עם בן סמוחה.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1GxTSW2Kp79uI3KjV7Okj5HpetmTA0Yx8/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/8.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/8.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "בינה מלאכותית (רק) לאנשי תוכנה ומפתחים? 💾 | פרק 94 עם גלעד שוהם",
+          "drive_filename": "בינה מלאכותית (רק) לאנשי תוכנה ומפתחים_ 💾 _ פרק 94 עם גלעד שוהם.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1f8WRBZ_yYDYTqWZa95ExfRSHp5bQ0a74/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/9.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/9.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "חדשות ועדכונים על עולם הבינה המלאכותית - דצמבר 2024 | פרק 95 סולו",
+          "drive_filename": "חדשות ועדכונים על עולם הבינה המלאכותית - דצמבר 2024 _ פרק 95 סולו.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1d4waHsksCcVPlIRjIe7_fRLFib92s2UC/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/10.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/10.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "איך בינה מלאכותית נתנה לי בעיטה בתחת 🦵 | פרק 96 עם אפרת ימין",
+          "drive_filename": "איך בינה מלאכותית נתנה לי בעיטה בתחת 🦵 _ פרק 96 עם אפרת ימין.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/12X5XotOpnXtCNY_6zdI1d-Trl0cq38Jh/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/11.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/11.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "מאסטרים או מחרטטים? על \"המומחים\"בעולמות הבינה המלאכותית 👀 | פרק 97 עם עידו בר גיל",
+          "drive_filename": "מאסטרים או מחרטטים_ על _המומחים_בעולמות הבינה המלאכותית 👀 _ פרק 97 עם עידו בר גיל.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1ENC1mB45JpZHdkFE-iXInwPOPbFKJQ46/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/12.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/12.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "דו״ח מבקר המדינה: האם ישראל מוכנה לעתיד הבינה המלאכותית? 🤷🏻‍♂️ | פרק 98 עם דניאל ג'ייקובס",
+          "drive_filename": "דו״ח מבקר המדינה_ האם ישראל מוכנה לעתיד הבינה המלאכותית_ 🤷🏻‍♂️ _ פרק 98 עם דניאל ג'ייקובס.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1rlcwqjjKdNNjwkWvwUExsG2MK0q83w9S/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/13.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/13.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "העיתונאי שרצה לפטר את כל העיתונאים 📰 | פרק 99 עם אור אליעז",
+          "drive_filename": "העיתונאי שרצה לפטר את כל העיתונאים 📰 _ פרק 99 עם אור אליעז.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1aLh76YfnYu6c2a4WLFH9h5o_aijjyFKw/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/14.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/14.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "סיכום שנתיים מרגשות ומדהימות מהזווית שלי - בני פרבר 🎉 | פרק 100! עם יוסי בהר",
+          "drive_filename": "סיכום שנתיים מרגשות ומדהימות מהזווית שלי - בני פרבר 🎉 _ פרק 100! עם יוסי בהר.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1-kS4XysJWS-uCvoJswQeefk64DXgoP_9/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/15.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/15.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "בינה מלאכותית בעולמות התקשורת הקולית והטלפוניה 📠 | פרק 101 עם וויסנטר",
+          "drive_filename": "בינה מלאכותית בעולמות התקשורת הקולית והטלפוניה 📠 _ פרק 101 עם וויסנטר.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1_7eNQQxaQYKjL694KE-GWtzSS9Xw6n10/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/16.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/16.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "כל הפומו בעולמות הבינה המלאכותית ואיך להתמודד איתו 😬 | פרק 102 עם שימי דביר",
+          "drive_filename": "כל הפומו בעולמות הבינה המלאכותית ואיך להתמודד איתו 😬 _ פרק 102 עם שימי דביר.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1tb4x6RmMqaNpOfPaWq6L60Yr_s_-ghVL/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/17.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/17.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "בינה מלאכותית, שבבים, ומה שביניהם 💽 | פרק 103 עם גיא גיחון, אפלייד מטיריאלס",
+          "drive_filename": "בינה מלאכותית, שבבים, ומה שביניהם 💽 _ פרק 103 עם גיא גיחון, אפלייד מטיריאלס.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1x_kuJtahLvgleJE4PP6rp-NiSMzrVpzi/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/18.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/18.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "בינה מלאכותית, עולם הבריאות ומה שביניהם 💊 | פרק 104 עם הדס ביטרן, מייקרוסופט",
+          "drive_filename": "בינה מלאכותית, עולם הבריאות ומה שביניהם 💊 _ פרק 104 עם הדס ביטרן, מייקרוסופט.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1XtnhNJLe_EnzMkH308ig3BF11Dr-_uoj/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/19.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/19.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "בינה מלאכותית, סקאוטינג וכדורגל ⚽️ | פרק 105 עם רון דור",
+          "drive_filename": "בינה מלאכותית, סקאוטינג וכדורגל ⚽️ _ פרק 105 עם רון דור.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1sni4E-h8qwfWY9MukVaBPwZIc5qQKgfy/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/20.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/20.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "תכירו עידן חדש במנועי החיפוש: כיצד להופיע בתשובות של צ'אטג'יפיטי 🔍 | פרק106 עם עידן שמואל, חברת סטרא דיגיטל",
+          "drive_filename": "תכירו עידן חדש במנועי החיפוש_ כיצד להופיע בתשובות של צ'אטג'יפיטי 🔍 _ פרק106 עם עידן שמואל, חברת סטרא דיגיטל.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1rdhA1_k31ov6fS2gY9rdvVMJjceSLQtU/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/21.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/21.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "חדשות ועדכונים על עולם הבינה המלאכותית - מרץ 2025 | פרק 107 סולו",
+          "drive_filename": "חדשות ועדכונים על עולם הבינה המלאכותית - מרץ 2025 _ פרק 107 סולו.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1w9Wx6BHRwEyXXWI8QXNyXcTgghmnetNQ/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/22.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/22.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "בינה מלאכותית בעולמות הבנקאות והפיננסים 💳 | פרק 108 עם אייל גפני, מנכ״ל וואן זירו",
+          "drive_filename": "בינה מלאכותית בעולמות הבנקאות והפיננסים 💳 _ פרק 108 עם אייל גפני, מנכ״ל וואן זירו.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1_lkSJuyZshy-9Qgchl0Oj5lGWYpYqYlq/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/23.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/23.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "להוביל את מהפכת הבינה המלאכותית בלי שורת קוד אחת 🧭 | פרק 109 עם אופיר ורוני רביניאן",
+          "drive_filename": "להוביל את מהפכת הבינה המלאכותית בלי שורת קוד אחת 🧭 _ פרק 109 עם אופיר ורוני רביניאן.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1m1Ci3YVW4LJQnbMzLACt9iyVpM0WpJIh/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/24.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/24.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "בתים חכמים בעידן הבינה המלאכותית 🏡 | פרק 110 עם קובי שקד, ניסקו סמארט",
+          "drive_filename": "בתים חכמים בעידן הבינה המלאכותית 🏡 _ פרק 110 עם קובי שקד, ניסקו סמארט.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/16Dqi7DjFmGz9Kzv8yUdj1ZtOZjLIGS77/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/25.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/25.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "וייב קודינג בעידן הבינה המלאכותית 👓 | פרק 111 עם אביץ היקר",
+          "drive_filename": "וייב קודינג בעידן הבינה המלאכותית 👓 _ פרק 111 עם אביץ היקר.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1kXbEY0e5EPFWb6lcYtYxCoiqh0teCxpF/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/26.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/26.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "מיאמי, יזמות ובינה מלאכותית: המסע שלי 🧣 | פרק 112 עם שי כהן (פרק באנגלית!)",
+          "drive_filename": "מיאמי, יזמות ובינה מלאכותית_ המסע שלי 🧣 _ פרק 112 עם שי כהן (פרק באנגלית!).mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1dGuQyFB-ppybycqZvicZwRSzNRlgJA-3/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/27.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/27.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "הפער בין הרצון לביצוע: האתגרים בהטמעת בינה מלאכותית 🌆 | פרק 113 עם יודי בר און, קליידו",
+          "drive_filename": "הפער בין הרצון לביצוע_ האתגרים בהטמעת בינה מלאכותית 🌆 _ פרק 113 עם יודי בר און, קליידו.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1uCm3B7mlexacYyHUXiX8re1J5sur8OjG/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/28.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/28.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "קייסטאדי - בניית צ'אטבוט מבוסס בינה מלאכותית, הדור הבא 🎆 | פרק 114 עם אלעד יגל ונטלי יעקובוסון",
+          "drive_filename": "קייסטאדי - בניית צ'אטבוט מבוסס בינה מלאכותית, הדור הבא 🎆 _ פרק 114 עם אלעד יגל ונטלי יעקובוסון.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1Ygdc_3jSi949qtRw5XVCgU_FY0ZrcOkk/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/29.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/29.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "בינה מלאכותית משתלטת על ענף הפרסום 🔻 | פרק 115 עם עדי שפק, פריון",
+          "drive_filename": "בינה מלאכותית משתלטת על ענף הפרסום 🔻 _ פרק 115 עם עדי שפק, פריון.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1xu7CqFie4KSXv8V6cgeN20ow18aOZTvZ/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/30.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/30.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "ההכרזות הגדולות של חברת גוגל - מאי 2025 💡 | פרק 116 עם אביתר יצחק",
+          "drive_filename": "ההכרזות הגדולות של חברת גוגל - מאי 2025 💡 _ פרק 116 עם אביתר יצחק.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1KIHxcoPDHk10YDkSpfxY84bDjL9ActKM/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/31.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/31.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "בואו נדבר רגע על קופיילוט של מיקרוסופט ✈️ | פרק 117 עם שי גורמן, מיקרוסופט",
+          "drive_filename": "בואו נדבר רגע על קופיילוט של מיקרוסופט ✈️ _ פרק 117 עם שי גורמן, מיקרוסופט.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1UNSPauybzxrQ6HF29zsIrTau3mMfGDz3/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/32.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/32.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "שמישהו יסביר לי כבר מה זה 🛰️ | פרק 118 עם אלעד עמרני - MCP",
+          "drive_filename": "שמישהו יסביר לי כבר מה זה 🛰️ _ פרק 118 עם אלעד עמרני - MCP.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1srRDo3X7YwYJqMJsoPjlAdBPGLnrCHaH/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/33.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/33.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "ניהול לקוחות יעיל בעזרת בינה מלאכותית 🗃️ | פרק 119 עם אמיר שגב, פיירברי",
+          "drive_filename": "ניהול לקוחות יעיל בעזרת בינה מלאכותית 🗃️ _ פרק 119 עם אמיר שגב, פיירברי.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1mH3ft10o53Vt5y3f7a5GdRaKRK8ldxCf/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/34.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/34.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "המלחמה הקרה שמביאה איתה מהפכת הבינה המלאכותית ⚠️ | פרק 120 עם ד\"ר רועי צזנה",
+          "drive_filename": "המלחמה הקרה שמביאה איתה מהפכת הבינה המלאכותית ⚠️ _ פרק 120 עם ד_ר רועי צזנה.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1GbvQYD98vtElIuDxDkkxSsjJdQyBEAME/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/35.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/35.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "פרק כלי הבינה המלאכותית הגדול 3 😎 | פרק 122 עם שירה ויינברג הראל",
+          "drive_filename": "פרק כלי הבינה המלאכותית הגדול 3 😎 _ פרק 122 עם שירה ויינברג הראל.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1OBFuwgo0AdekZ0pCdqJYVVEog4TNvjEJ/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/36.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/36.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "המהפכה השקטה בכיתות בית הספר 👨‍🏫 | פרק 123 עם ד\"ר תומר סיימון, מיקרוסופט",
+          "drive_filename": "המהפכה השקטה בכיתות בית הספר 👨‍🏫 _ פרק 123 עם ד_ר תומר סיימון, מיקרוסופט.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1foAB4abycnwfWRZcEUeajhCmNtcW5FwB/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/37.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/37.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "איך דואגים לפוקוס בעידן של עודף מידע ⏳ | פרק 124 עם מיכל מיקמיק ונדר",
+          "drive_filename": "איך דואגים לפוקוס בעידן של עודף מידע ⏳ _ פרק 124 עם מיכל מיקמיק ונדר.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1nAfz5-CD3d20kZgxTuerBg7VyYcZOmpt/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/38.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/38.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "כשצעצועים הופכים חכמים: משחקים בעידן הבינה המלאכותית 🎲 | פרק 125 עם נעמה וייס",
+          "drive_filename": "כשצעצועים הופכים חכמים_ משחקים בעידן הבינה המלאכותית 🎲 _ פרק 125 עם נעמה וייס.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1IKBYb719V9nQqZjvLja2eKe3mm4yDHUi/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/39.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/39.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "פיתוח יצירתיות ולמידה אצל ילדים בעזרת בינה מלאכותית 🚸 | פרק 126 עם עידית חורשי ברק",
+          "drive_filename": "פיתוח יצירתיות ולמידה אצל ילדים בעזרת בינה מלאכותית 🚸 _ פרק 126 עם עידית חורשי ברק.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1_1mAfN1Bs_Ca7EGMadk3omJYS_Asl88I/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/40.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/40.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "כשבינה מלאכותית פוגשת את עולם הספרות 📚 | פרק 127 עם יהודה ניב, ספרי ניב\\ספיינס",
+          "drive_filename": "כשבינה מלאכותית פוגשת את עולם הספרות 📚 _ פרק 127 עם יהודה ניב, ספרי ניב_ספיינס.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1CHYZ3_8ehXlQHfRvQHsma3uQy6ZtJM2T/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/41.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/41.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "אלכס הורמוזי הישראלי - איך לנצח בעולם הדיגיטל בעזרת בינה מלאכותית 🧲 | פרק 128 עם שלו יפרח",
+          "drive_filename": "אלכס הורמוזי הישראלי - איך לנצח בעולם הדיגיטל בעזרת בינה מלאכותית 🧲 _ פרק 128 עם שלו יפרח.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1jtbpP58fLDRiVtZO9zO7wan4eVsI5Cvk/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/42.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/42.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "משפחת בינה מלאכותית 👩‍👦‍👦 | פרק 129 עם משפחת טל-מאור",
+          "drive_filename": "משפחת בינה מלאכותית 👩‍👦‍👦 _ פרק 129 עם משפחת טל-מאור.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1fyOkRtLxcr2g1B0j9ydp-riqNMQzUoNH/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/43.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/43.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "תוך 4 חודשים לעסק (שנבנה בעזרת בינה מלאכותית) של מיליון דולר 💲 | פרק 130 עם יונתן אטיאס",
+          "drive_filename": "תוך 4 חודשים לעסק (שנבנה בעזרת בינה מלאכותית) של מיליון דולר 💲 _ פרק 130 עם יונתן אטיאס.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1Pv7nBdgg48jPNjhVQcu6gWSG09ezaI4O/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/44.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/44.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "העתיד של השיחה: בוטים קוליים ועוזרים דיגיטליים ☎️ | פרק 131 עם רומי אלעמי, מנכ\"ל וויספין",
+          "drive_filename": "העתיד של השיחה_ בוטים קוליים ועוזרים דיגיטליים ☎️ _ פרק 131 עם רומי אלעמי, מנכ_ל וויספין.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1j6FJyE62BO9PDXMvKP84e4rBS7po9cZU/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/45.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/45.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "כיצד הופכים את כלי הבינה המלאכותית לארגז עבודה אמיתי 🎁 | פרק 132 עם ויקי גרונר",
+          "drive_filename": "כיצד הופכים את כלי הבינה המלאכותית לארגז עבודה אמיתי 🎁 _ פרק 132 עם ויקי גרונר.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1pp4x7VcQr3Bf8vugkYyef8yXJJmDzxqB/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/46.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/46.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "בינה מלאכותית בשילוב הבישול שלכם במטבח 👨‍🍳 | פרק 133 עם יהודה מוסקוביץ",
+          "drive_filename": "בינה מלאכותית בשילוב הבישול שלכם במטבח 👨‍🍳 _ פרק 133 עם יהודה מוסקוביץ.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1sM-KDQmbswAQVxazGPWt6E1R5yGlv1yN/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/47.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/47.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "מהישן לחדש: ככה תהפכו כל חברה ״מיושנת״ למתקדמת בעזרת בינה מלאכותית 👔 | פרק 134 עם דוד בלסם",
+          "drive_filename": "מהישן לחדש_ ככה תהפכו כל חברה ״מיושנת״ למתקדמת בעזרת בינה מלאכותית 👔 _ פרק 134 עם דוד בלסם.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1q3HiLfn7b7VvzZ2CIwDVyawkGdnDVdQC/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/48.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/48.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "כיצד בינה מלאכותית משתלבת בלפטופים ובמחשבים 💻 | פרק 135 עם גיא טמיר",
+          "drive_filename": "כיצד בינה מלאכותית משתלבת בלפטופים ובמחשבים 💻 _ פרק 135 עם גיא טמיר.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/18VxH9pCf7PW5ZiNNEpuKStCae2uIkYa6/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/49.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/49.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "כיצד בינה מלאכותית משתלבת בצבא 🟩 | פרק 136 עם רס\"ן ד', חטיבת הבינה המלאכותית בצה\"ל",
+          "drive_filename": "כיצד בינה מלאכותית משתלבת בצבא 🟩 _ פרק 136 עם רס_ן ד', חטיבת הבינה המלאכותית בצה_ל.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1XgwS4NcYp-ghBzNYEqD_AHvjmsd0r4BT/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/50.wav"
+          ],
+          "yemos_path": "ivr2:/1/55/50.wav"
+        }
+      ]
+    },
     {
       "run_id": "36970230047",
       "run_number": "132",
