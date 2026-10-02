@@ -71,25 +71,57 @@ def download(url, target, timeout):
         "Accept": "audio/*,*/*;q=0.8",
         "Accept-Language": "he-IL,he;q=0.9,en;q=0.7",
     }
+
+    candidates = [url]
     if parsed.hostname and parsed.hostname.endswith("hubhopper.com"):
         headers["Referer"] = "https://hubhopper.com/"
+        headers["Origin"] = "https://hubhopper.com"
 
-    with requests.get(
-        url,
-        stream=True,
-        timeout=(30, read_timeout),
-        headers=headers,
-        allow_redirects=True,
-    ) as response:
-        response.raise_for_status()
-        with open(target, "wb") as output:
-            for chunk in response.iter_content(chunk_size=1024 * 1024):
-                if time.monotonic() - started > timeout:
-                    raise TimeoutError(
-                        f"Episode download exceeded {timeout} seconds."
-                    )
-                if chunk:
-                    output.write(chunk)
+        # Hubhopper enclosure URLs sometimes contain short-lived/cache query
+        # parameters. GitHub-hosted runners can receive 403 for that exact URL
+        # even though the underlying media path is still valid. Retry the same
+        # media path without the query string before treating the episode as
+        # failed.
+        if parsed.query:
+            clean_url = parsed._replace(query="").geturl()
+            if clean_url not in candidates:
+                candidates.append(clean_url)
+
+    last_error = None
+    for candidate in candidates:
+        try:
+            with requests.get(
+                candidate,
+                stream=True,
+                timeout=(30, read_timeout),
+                headers=headers,
+                allow_redirects=True,
+            ) as response:
+                response.raise_for_status()
+                with open(target, "wb") as output:
+                    for chunk in response.iter_content(chunk_size=1024 * 1024):
+                        if time.monotonic() - started > timeout:
+                            raise TimeoutError(
+                                f"Episode download exceeded {timeout} seconds."
+                            )
+                        if chunk:
+                            output.write(chunk)
+                if candidate != url:
+                    print("Hubhopper fallback download succeeded without query parameters.")
+                return
+        except requests.HTTPError as exc:
+            last_error = exc
+            status = getattr(exc.response, "status_code", None)
+            if status == 403 and candidate != candidates[-1]:
+                print(
+                    "Hubhopper media URL returned 403; "
+                    "retrying without transient query parameters."
+                )
+                continue
+            raise
+
+    if last_error:
+        raise last_error
 
 
 def notify_existing_uploaded(podcast, record, notifications):
