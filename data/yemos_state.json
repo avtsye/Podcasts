@@ -20086,6 +20086,806 @@
       "path": "ivr2:/1/42/800.wav",
       "filename_stem": "800",
       "uploaded_at": "2026-10-02T02:27:08.884886+00:00"
+    },
+    "111d06a4-907f-47b5-a768-adea00a6c6d0": {
+      "podcast_id": "three_who_know",
+      "title": "חללית תנסה לפגוע באסטרואיד ולשנות את מסלולו",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/801.wav",
+      "filename_stem": "801",
+      "uploaded_at": "2026-10-02T02:28:49.996687+00:00"
+    },
+    "fa4a8b30-2036-4b6b-a8c6-adee00b7c6ce": {
+      "podcast_id": "three_who_know",
+      "title": "המנגנון הביולוגי שגורם לעייפות",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/802.wav",
+      "filename_stem": "802",
+      "uploaded_at": "2026-10-02T02:30:01.826497+00:00"
+    },
+    "e44c467e-6bcf-4719-aa09-adef00d3f7fe": {
+      "podcast_id": "three_who_know",
+      "title": "מצמצמים מינון בלי לפגוע ביעילות",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/803.wav",
+      "filename_stem": "803",
+      "uploaded_at": "2026-10-02T02:31:27.265490+00:00"
+    },
+    "0ac0d85d-3d60-487c-858f-adf0010aaaf1": {
+      "podcast_id": "three_who_know",
+      "title": "ספיישל חנוכה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/804.wav",
+      "filename_stem": "804",
+      "uploaded_at": "2026-10-02T02:32:51.926400+00:00"
+    },
+    "3a70f16a-db08-47f2-a397-adf100992ee6": {
+      "podcast_id": "three_who_know",
+      "title": "פלסטר במקום תפרים",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/805.wav",
+      "filename_stem": "805",
+      "uploaded_at": "2026-10-02T02:34:17.632174+00:00"
+    },
+    "a951e7cb-d201-4b06-9595-adf600872404": {
+      "podcast_id": "three_who_know",
+      "title": "תרופה לטיפול בתסמינים של אוטיזם ואלצהיימר",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/806.wav",
+      "filename_stem": "806",
+      "uploaded_at": "2026-10-02T02:35:36.576744+00:00"
+    },
+    "1d3f6cd7-a6ab-4a36-bf30-adf700c5902f": {
+      "podcast_id": "three_who_know",
+      "title": "מה הקשר בין חיידקי המעיים לשעה בה אנחנו מתעוררים בבוקר?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/807.wav",
+      "filename_stem": "807",
+      "uploaded_at": "2026-10-02T02:36:50.732738+00:00"
+    },
+    "7cce8589-f044-4e20-93e5-adf800b1b360": {
+      "podcast_id": "three_who_know",
+      "title": "המקום שבו שנה נמשכת רק 8 שעות",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/808.wav",
+      "filename_stem": "808",
+      "uploaded_at": "2026-10-02T02:38:08.799206+00:00"
+    },
+    "75c4a914-4499-4c1e-b28c-adfc00a840ef": {
+      "podcast_id": "three_who_know",
+      "title": "למה משמינים כשמפסיקים לעשן?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/809.wav",
+      "filename_stem": "809",
+      "uploaded_at": "2026-10-02T02:39:20.721415+00:00"
+    },
+    "bc52c8f3-c44f-4fb9-853f-adfd013f8e82": {
+      "podcast_id": "three_who_know",
+      "title": "מנטרים את מערכת החיסון",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/810.wav",
+      "filename_stem": "810",
+      "uploaded_at": "2026-10-02T02:40:44.740758+00:00"
+    },
+    "9f75f5b7-d1d5-46d2-bbb4-adfe00b2207a": {
+      "podcast_id": "three_who_know",
+      "title": "הפתרון לדיכאון? חמצן",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/811.wav",
+      "filename_stem": "811",
+      "uploaded_at": "2026-10-02T02:42:14.027898+00:00"
+    },
+    "4abeee50-b83d-4c4c-97b6-adff00e79f89": {
+      "podcast_id": "three_who_know",
+      "title": "קוראים מחשבות של מדוזות",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/812.wav",
+      "filename_stem": "812",
+      "uploaded_at": "2026-10-02T02:43:47.306707+00:00"
+    },
+    "9123ac59-f907-4ce8-b329-ae0300aeccfe": {
+      "podcast_id": "three_who_know",
+      "title": "מנתחי מוח ומהנדסי טילים לא חכמים יותר מהאדם הממוצע",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/813.wav",
+      "filename_stem": "813",
+      "uploaded_at": "2026-10-02T02:45:12.622953+00:00"
+    },
+    "a8675328-7e6f-4668-aba2-ae0400be86fe": {
+      "podcast_id": "three_who_know",
+      "title": "נוסחת טיקטוק נחשפת",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/814.wav",
+      "filename_stem": "814",
+      "uploaded_at": "2026-10-02T02:46:30.505249+00:00"
+    },
+    "23ed2b91-feb7-421d-918f-ae0500a87a76": {
+      "podcast_id": "three_who_know",
+      "title": "מדענים עוקבים בדאגה אחר \"קרחון יום הדין\"",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/815.wav",
+      "filename_stem": "815",
+      "uploaded_at": "2026-10-02T02:47:47.531098+00:00"
+    },
+    "dac2b7c6-3e2f-4a15-87cd-ae0600a33319": {
+      "podcast_id": "three_who_know",
+      "title": "חוקרים הנשימו חזירים דרך המעי",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/816.wav",
+      "filename_stem": "816",
+      "uploaded_at": "2026-10-02T02:49:05.130491+00:00"
+    },
+    "a3768d96-878e-4de8-bda6-ae0a008eb9f8": {
+      "podcast_id": "three_who_know",
+      "title": "משלושה יוצא אחד",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/817.wav",
+      "filename_stem": "817",
+      "uploaded_at": "2026-10-02T02:50:31.044181+00:00"
+    },
+    "2d07670e-003a-46f9-acc9-ae5000bfbbad": {
+      "podcast_id": "three_who_know",
+      "title": "האם הדרך להתקדם בקריירה היא באמצעות שקרים?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/818.wav",
+      "filename_stem": "818",
+      "uploaded_at": "2026-10-02T02:51:54.004877+00:00"
+    },
+    "8e2f8cbd-7462-4b99-8fb5-ae5100daa45b": {
+      "podcast_id": "three_who_know",
+      "title": "גם מערכת החיסון בוחרת את הקרבות שלה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/819.wav",
+      "filename_stem": "819",
+      "uploaded_at": "2026-10-02T02:53:10.072997+00:00"
+    },
+    "c5ad2535-5e8e-4fe1-acf8-ae5200b4e12d": {
+      "podcast_id": "three_who_know",
+      "title": "שלוש שיודעות: תוכנית בסימן יום האישה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/820.wav",
+      "filename_stem": "820",
+      "uploaded_at": "2026-10-02T02:54:33.857440+00:00"
+    },
+    "a7635cb5-dd1d-479b-b310-ae5300a4d1e2": {
+      "podcast_id": "three_who_know",
+      "title": "לראשונה מאז שנות ה-80: מקרה של פוליו בישראל",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/821.wav",
+      "filename_stem": "821",
+      "uploaded_at": "2026-10-02T02:55:57.899882+00:00"
+    },
+    "960b544b-02e3-4b78-ba3f-ae5700a78803": {
+      "podcast_id": "three_who_know",
+      "title": "חוט שדרה אנושי פותח במעבדה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/822.wav",
+      "filename_stem": "822",
+      "uploaded_at": "2026-10-02T02:57:16.777205+00:00"
+    },
+    "b73f206d-c6e6-4b66-b579-ae58009c1f48": {
+      "podcast_id": "three_who_know",
+      "title": "שינויים הורמונליים ואלצהיימר",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/823.wav",
+      "filename_stem": "823",
+      "uploaded_at": "2026-10-02T02:58:37.264805+00:00"
+    },
+    "5099cc37-865f-4460-80b8-ae59009956f3": {
+      "podcast_id": "three_who_know",
+      "title": "מוכנים לרמות כדי להרוויח כסף?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/824.wav",
+      "filename_stem": "824",
+      "uploaded_at": "2026-10-02T02:59:53.037769+00:00"
+    },
+    "9dd4c0b4-e8d4-44f4-9091-ae5a00e05147": {
+      "podcast_id": "three_who_know",
+      "title": "קסדות VR יגנו מפני הידרדרות קוגניטיבית",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/825.wav",
+      "filename_stem": "825",
+      "uploaded_at": "2026-10-02T03:01:27.406601+00:00"
+    },
+    "6e856ec2-cdc4-47d2-af37-ae5b00b5ddd7": {
+      "podcast_id": "three_who_know",
+      "title": "ספיישל פורים",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/826.wav",
+      "filename_stem": "826",
+      "uploaded_at": "2026-10-02T03:02:48.948087+00:00"
+    },
+    "089499b3-7bf3-4c86-90ce-ae5e00c7b2b7": {
+      "podcast_id": "three_who_know",
+      "title": "האם טמפרטורה גבוהה יכולה להאיץ את קצב האבולוציה?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/827.wav",
+      "filename_stem": "827",
+      "uploaded_at": "2026-10-02T03:04:09.621618+00:00"
+    },
+    "0bd33f70-3ffd-4b1e-901e-ae5f00aa4476": {
+      "podcast_id": "three_who_know",
+      "title": "קטלוג הצבעים של החיים בקרח",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/828.wav",
+      "filename_stem": "828",
+      "uploaded_at": "2026-10-02T03:05:21.682954+00:00"
+    },
+    "5180adbe-de84-4c8f-8a19-ae60009aeb31": {
+      "podcast_id": "three_who_know",
+      "title": "תיקון גנטי לריאות",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/829.wav",
+      "filename_stem": "829",
+      "uploaded_at": "2026-10-02T03:06:36.162681+00:00"
+    },
+    "b22838d7-b050-4d51-8890-ae6100a1a8a5": {
+      "podcast_id": "three_who_know",
+      "title": "לנטרל את מחסום הדם-מוח",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/830.wav",
+      "filename_stem": "830",
+      "uploaded_at": "2026-10-02T03:07:52.044735+00:00"
+    },
+    "dba1ca47-d6ac-4c7d-b00f-ae6500a5963e": {
+      "podcast_id": "three_who_know",
+      "title": "השתל במוח שיאפשר למשותקים לתקשר עם הסביבה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/831.wav",
+      "filename_stem": "831",
+      "uploaded_at": "2026-10-02T03:09:09.038541+00:00"
+    },
+    "898d08e7-00fb-44eb-be5b-ae6600a490fe": {
+      "podcast_id": "three_who_know",
+      "title": "איך נוצרים גלים בים?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/832.wav",
+      "filename_stem": "832",
+      "uploaded_at": "2026-10-02T03:10:41.066668+00:00"
+    },
+    "8d3995fb-6923-4181-ba13-ae6700a90e84": {
+      "podcast_id": "three_who_know",
+      "title": "להבין דיבור בעזרת מגע",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/833.wav",
+      "filename_stem": "833",
+      "uploaded_at": "2026-10-02T03:12:00.692289+00:00"
+    },
+    "b164f0ef-9cab-43a5-b639-ae680094d0a3": {
+      "podcast_id": "three_who_know",
+      "title": "לראשונה: חלקיקי מיקרופלסטיק נמצאו בדם אדם",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/834.wav",
+      "filename_stem": "834",
+      "uploaded_at": "2026-10-02T03:13:19.645347+00:00"
+    },
+    "f4ee4587-79c1-44dd-a323-ae6c007a7a1f": {
+      "podcast_id": "three_who_know",
+      "title": "ארס של חלזונות יטפל בכאב",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/835.wav",
+      "filename_stem": "835",
+      "uploaded_at": "2026-10-02T03:14:41.926348+00:00"
+    },
+    "fea285c0-9333-40ca-9885-ae6d01066f36": {
+      "podcast_id": "three_who_know",
+      "title": "שמירה על הסביבה עוברת במשפחה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/836.wav",
+      "filename_stem": "836",
+      "uploaded_at": "2026-10-02T03:15:55.860694+00:00"
+    },
+    "20ac3ad9-0b6b-4a8c-8e3b-ae6e00851a93": {
+      "podcast_id": "three_who_know",
+      "title": "האם תנועות מחאה אלימות הן אפקטיביות?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/837.wav",
+      "filename_stem": "837",
+      "uploaded_at": "2026-10-02T03:17:18.019329+00:00"
+    },
+    "9660591a-5d6b-4f5e-ab29-ae6f009395e1": {
+      "podcast_id": "three_who_know",
+      "title": "האם אצה היא המפתח לצמצום ההתחממות הגלובלית?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/838.wav",
+      "filename_stem": "838",
+      "uploaded_at": "2026-10-02T03:18:45.995737+00:00"
+    },
+    "1d98a589-026f-415e-80d7-ae7300eb4eb1": {
+      "podcast_id": "three_who_know",
+      "title": "האם יש קשר בין נטילת אנטיביוטיקה לירידה קוגניטיבית?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/839.wav",
+      "filename_stem": "839",
+      "uploaded_at": "2026-10-02T03:20:05.019764+00:00"
+    },
+    "9ff96687-0b54-456c-9a53-ae740096ace4": {
+      "podcast_id": "three_who_know",
+      "title": "צריכה קבועה של קנאביס וירידה ב-IQ",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/840.wav",
+      "filename_stem": "840",
+      "uploaded_at": "2026-10-02T03:21:23.697033+00:00"
+    },
+    "930ed9b6-fc5c-496e-af31-ae7500c18de0": {
+      "podcast_id": "three_who_know",
+      "title": "הושלם פענוח הגנום האנושי",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/841.wav",
+      "filename_stem": "841",
+      "uploaded_at": "2026-10-02T03:22:49.168564+00:00"
+    },
+    "02227976-142b-43a3-a785-ae760085ad3c": {
+      "podcast_id": "three_who_know",
+      "title": "איך נעזור למי שאנו מקנאים בו?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/842.wav",
+      "filename_stem": "842",
+      "uploaded_at": "2026-10-02T03:23:58.572512+00:00"
+    },
+    "80f68bf7-e6ba-4eed-9d7f-ae7a00b08072": {
+      "podcast_id": "three_who_know",
+      "title": "עושים שריר: אבן דרך נוספת בפיתוח בשר מתורבת",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/843.wav",
+      "filename_stem": "843",
+      "uploaded_at": "2026-10-02T03:25:16.145594+00:00"
+    },
+    "01b86d87-f15b-42ca-9edd-ae7b00779db8": {
+      "podcast_id": "three_who_know",
+      "title": "התגלה כוכב \"בייבי צדק\"",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/844.wav",
+      "filename_stem": "844",
+      "uploaded_at": "2026-10-02T03:26:38.440677+00:00"
+    },
+    "be8873c8-6573-42b3-95d4-ae7c00b7bab3": {
+      "podcast_id": "three_who_know",
+      "title": "איך זיכרונות מאוחסנים?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/845.wav",
+      "filename_stem": "845",
+      "uploaded_at": "2026-10-02T03:27:52.772302+00:00"
+    },
+    "1d9fdbd5-1386-4529-bdc3-ae7d0092d9e4": {
+      "podcast_id": "three_who_know",
+      "title": "החום הקיצוני במגמת עלייה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/846.wav",
+      "filename_stem": "846",
+      "uploaded_at": "2026-10-02T03:29:03.245961+00:00"
+    },
+    "754041d3-c10f-4802-b918-ae81009f1f91": {
+      "podcast_id": "three_who_know",
+      "title": "מחקר רחב היקף: אין הבדל בין נוגדי דיכאון לפלצבו",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/847.wav",
+      "filename_stem": "847",
+      "uploaded_at": "2026-10-02T03:30:17.649076+00:00"
+    },
+    "9c817c27-f4e1-4005-8b7c-ae8200ad7014": {
+      "podcast_id": "three_who_know",
+      "title": "היכן בדיוק התפתח המין שלנו?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/848.wav",
+      "filename_stem": "848",
+      "uploaded_at": "2026-10-02T03:31:54.236015+00:00"
+    },
+    "43420394-37a9-4e41-9622-ae8300a5f87a": {
+      "podcast_id": "three_who_know",
+      "title": "קפאין יכול לטפל בהפרעות קשב וריכוז?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/849.wav",
+      "filename_stem": "849",
+      "uploaded_at": "2026-10-02T03:33:06.461521+00:00"
+    },
+    "c2dd7e7e-4ed3-49f7-a3fe-ae84009f1af5": {
+      "podcast_id": "three_who_know",
+      "title": "תיעוד התנגשות בין שתי גלקסיות",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/850.wav",
+      "filename_stem": "850",
+      "uploaded_at": "2026-10-02T03:34:27.874209+00:00"
+    },
+    "12506a82-bd43-4dd3-9ac8-ae8800d7af7b": {
+      "podcast_id": "three_who_know",
+      "title": "תדפיס לי שונית",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/851.wav",
+      "filename_stem": "851",
+      "uploaded_at": "2026-10-02T03:35:35.620786+00:00"
+    },
+    "0ccce77f-5ec6-4e5d-b076-ae8900a4b68a": {
+      "podcast_id": "three_who_know",
+      "title": "המים שמגיעים מכדור הארץ לירח",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/852.wav",
+      "filename_stem": "852",
+      "uploaded_at": "2026-10-02T03:36:53.858321+00:00"
+    },
+    "464115e5-4205-49e3-b804-ae8a00f17b5a": {
+      "podcast_id": "three_who_know",
+      "title": "האם שנת חורף היא הפתרון לעצירת הזדקנות?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/853.wav",
+      "filename_stem": "853",
+      "uploaded_at": "2026-10-02T03:38:07.477491+00:00"
+    },
+    "a4e42d47-b14e-4e11-88ce-ae8f00dd4757": {
+      "podcast_id": "three_who_know",
+      "title": "על פנינים, אלצהיימר ושנת צוהריים",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/854.wav",
+      "filename_stem": "854",
+      "uploaded_at": "2026-10-02T03:39:28.437688+00:00"
+    },
+    "990258b8-e90a-4031-8ab2-ae9000a928ca": {
+      "podcast_id": "three_who_know",
+      "title": "מטאוריטים ומערכת ההפעלה אנדרואיד",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/855.wav",
+      "filename_stem": "855",
+      "uploaded_at": "2026-10-02T03:40:43.250356+00:00"
+    },
+    "b69da003-b9ae-4e6a-9389-ae9100cd3220": {
+      "podcast_id": "three_who_know",
+      "title": "הגודל כן קובע",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/856.wav",
+      "filename_stem": "856",
+      "uploaded_at": "2026-10-02T03:42:11.377697+00:00"
+    },
+    "2d01c828-5a39-4df3-a892-ae940079dc10": {
+      "podcast_id": "three_who_know",
+      "title": "\"אפקט איינשטיין\"",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/857.wav",
+      "filename_stem": "857",
+      "uploaded_at": "2026-10-02T03:43:30.295218+00:00"
+    },
+    "a7699a83-ace5-4c9c-92b2-ae9600abbd6b": {
+      "podcast_id": "three_who_know",
+      "title": "החור השחור המאסיבי בלב הגלקסיה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/858.wav",
+      "filename_stem": "858",
+      "uploaded_at": "2026-10-02T03:44:52.355304+00:00"
+    },
+    "495a4de8-6200-4a61-bee1-ae970100e3d2": {
+      "podcast_id": "three_who_know",
+      "title": "צום מאריך חיים",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/859.wav",
+      "filename_stem": "859",
+      "uploaded_at": "2026-10-02T03:46:19.410031+00:00"
+    },
+    "84a1a003-063b-4a78-8eed-ae9800b5acc9": {
+      "podcast_id": "three_who_know",
+      "title": "האם שבט של הוביטים חי בג'ונגלים באינדונזיה?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/860.wav",
+      "filename_stem": "860",
+      "uploaded_at": "2026-10-02T03:47:26.104538+00:00"
+    },
+    "dc4c56d1-ce93-404c-a197-ae9900ecef69": {
+      "podcast_id": "three_who_know",
+      "title": "הדג שמציג סוג אחר של אבהות",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/861.wav",
+      "filename_stem": "861",
+      "uploaded_at": "2026-10-02T03:48:49.481409+00:00"
+    },
+    "7890143d-dff6-4465-8973-ae9d00b27300": {
+      "podcast_id": "three_who_know",
+      "title": "כך תדעו אם משקרים לכם",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/862.wav",
+      "filename_stem": "862",
+      "uploaded_at": "2026-10-02T03:50:09.276696+00:00"
+    },
+    "bb06d08d-ed20-4d96-92a0-ae9f00b6fb0e": {
+      "podcast_id": "three_who_know",
+      "title": "תרופות נוגדות כאב עלולות דווקא להחמיר את המצב",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/863.wav",
+      "filename_stem": "863",
+      "uploaded_at": "2026-10-02T03:51:40.944318+00:00"
+    },
+    "de473baf-99f0-4ab7-9151-ae9f00ba7fa0": {
+      "podcast_id": "three_who_know",
+      "title": "חתולים זוכרים את שמות חבריהם ובעליהם",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/864.wav",
+      "filename_stem": "864",
+      "uploaded_at": "2026-10-02T03:52:54.552200+00:00"
+    },
+    "fbdbfe81-9db3-451e-89c6-aea0007c464d": {
+      "podcast_id": "three_who_know",
+      "title": "מחשב פעל במשך חצי שנה בעזרת אצות",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/865.wav",
+      "filename_stem": "865",
+      "uploaded_at": "2026-10-02T03:54:14.116947+00:00"
+    },
+    "e21e7866-0559-4b23-bd67-aea400bb0f26": {
+      "podcast_id": "three_who_know",
+      "title": "השיניים הנוצצות של בני המאיה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/866.wav",
+      "filename_stem": "866",
+      "uploaded_at": "2026-10-02T03:55:50.443717+00:00"
+    },
+    "f54bda2c-2b69-41f9-bdab-aea6009bed39": {
+      "podcast_id": "three_who_know",
+      "title": "שינויי האקלים מפריעים לשינה שלנו",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/867.wav",
+      "filename_stem": "867",
+      "uploaded_at": "2026-10-02T03:57:23.611773+00:00"
+    },
+    "07d48145-f548-4dbc-adef-aea6009dc6ab": {
+      "podcast_id": "three_who_know",
+      "title": "פאנלים סולאריים שעובדים גם בלילה?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/868.wav",
+      "filename_stem": "868",
+      "uploaded_at": "2026-10-02T03:58:42.356250+00:00"
+    },
+    "f6d77e2a-d48e-486f-b4ac-aea7008d94b8": {
+      "podcast_id": "three_who_know",
+      "title": "הנוגדן הממוחשב הראשון",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/869.wav",
+      "filename_stem": "869",
+      "uploaded_at": "2026-10-02T03:59:57.532239+00:00"
+    },
+    "e86faf1a-17bb-4b31-baf7-aeac00ec728f": {
+      "podcast_id": "three_who_know",
+      "title": "תיאוריית הקשר של חיידקי המעי",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/870.wav",
+      "filename_stem": "870",
+      "uploaded_at": "2026-10-02T04:01:18.738228+00:00"
+    },
+    "14376d6a-ace0-40de-bc53-aead009e15f9": {
+      "podcast_id": "three_who_know",
+      "title": "לשוחח עם המתים",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/871.wav",
+      "filename_stem": "871",
+      "uploaded_at": "2026-10-02T04:02:33.906619+00:00"
+    },
+    "e5461eae-ebe7-4d95-9ccb-aeae009c8a60": {
+      "podcast_id": "three_who_know",
+      "title": "טלסקופ החלל גאיה זיהה שני כוכבי לכת חדשים",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/872.wav",
+      "filename_stem": "872",
+      "uploaded_at": "2026-10-02T04:03:46.158450+00:00"
+    },
+    "29deff72-e7bf-45b1-a7a3-aeb20093fe74": {
+      "podcast_id": "three_who_know",
+      "title": "לאבחן מחלות בחלל באמצעות מערכת הקריספר",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/873.wav",
+      "filename_stem": "873",
+      "uploaded_at": "2026-10-02T04:05:01.149336+00:00"
+    },
+    "1ede5d40-bf35-4ba8-b8d6-aeb300b5b98c": {
+      "podcast_id": "three_who_know",
+      "title": "מה צריך לעשות כדי לשמור על המגוון הביולוגי בכדור הארץ?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/874.wav",
+      "filename_stem": "874",
+      "uploaded_at": "2026-10-02T04:06:26.778784+00:00"
+    },
+    "9db1a49c-3ece-47db-a330-aeb400a514de": {
+      "podcast_id": "three_who_know",
+      "title": "ראיות לשימוש באש לפני יותר מ-800 אלף שנים",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/875.wav",
+      "filename_stem": "875",
+      "uploaded_at": "2026-10-02T04:07:45.354653+00:00"
+    },
+    "91eabe73-35a3-4c62-8cef-aeb500915531": {
+      "podcast_id": "three_who_know",
+      "title": "יותר בריא לישון בשניים",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/876.wav",
+      "filename_stem": "876",
+      "uploaded_at": "2026-10-02T04:08:53.509324+00:00"
+    },
+    "ba1d4a07-4dd8-44fd-aded-aeb900951818": {
+      "podcast_id": "three_who_know",
+      "title": "המלך הקשוח והקפדן מנורבגיה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/877.wav",
+      "filename_stem": "877",
+      "uploaded_at": "2026-10-02T04:10:11.483275+00:00"
+    },
+    "977d2351-5e6c-4a1e-be0e-aeba00f65f26": {
+      "podcast_id": "three_who_know",
+      "title": "המקור של מגפת המוות השחור",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/878.wav",
+      "filename_stem": "878",
+      "uploaded_at": "2026-10-02T04:11:26.222457+00:00"
+    },
+    "a4ce6ce0-f979-46cd-818c-aebb00888af1": {
+      "podcast_id": "three_who_know",
+      "title": "אופטימיות מאריכה חיים",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/879.wav",
+      "filename_stem": "879",
+      "uploaded_at": "2026-10-02T04:12:45.000277+00:00"
+    },
+    "783ac434-dec7-464d-bf66-aec000bb78c6": {
+      "podcast_id": "three_who_know",
+      "title": "שינויי האקלים עלולים לפגוע בייצור הקטשופ",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/880.wav",
+      "filename_stem": "880",
+      "uploaded_at": "2026-10-02T04:13:57.241395+00:00"
+    },
+    "7c4fe300-7c09-4ea3-9fa5-aec000c108e9": {
+      "podcast_id": "three_who_know",
+      "title": "מריח כמו תחילתה של ידידות מופלאה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/881.wav",
+      "filename_stem": "881",
+      "uploaded_at": "2026-10-02T04:15:15.827451+00:00"
+    },
+    "e17960ef-9462-4904-bfff-aec10071d4cb": {
+      "podcast_id": "three_who_know",
+      "title": "איך מסקרים את משבר האקלים בתקשורת הישראלית?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/882.wav",
+      "filename_stem": "882",
+      "uploaded_at": "2026-10-02T04:16:28.948720+00:00"
+    },
+    "2ddd93be-e057-4548-8d62-aec2007b70bf": {
+      "podcast_id": "three_who_know",
+      "title": "זוהה החיידק הגדול ביותר בעולם",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/883.wav",
+      "filename_stem": "883",
+      "uploaded_at": "2026-10-02T04:17:47.584011+00:00"
+    },
+    "036d0666-2862-4082-b87e-aec300ac2bbb": {
+      "podcast_id": "three_who_know",
+      "title": "איך חיידק שורד במים? תופס טרמפ על פלסטיק",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/884.wav",
+      "filename_stem": "884",
+      "uploaded_at": "2026-10-02T04:19:02.977107+00:00"
+    },
+    "6da7bc5d-5c6b-4913-a3e5-aec900bc163a": {
+      "podcast_id": "three_who_know",
+      "title": "חוקרים הצליחו לגדל צמחים בחשיכה מוחלטת",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/885.wav",
+      "filename_stem": "885",
+      "uploaded_at": "2026-10-02T04:20:14.641264+00:00"
+    },
+    "63d80740-f4ad-4fb6-8a8a-aec900c2370a": {
+      "podcast_id": "three_who_know",
+      "title": "הטיפול שמצעיר את העור",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/886.wav",
+      "filename_stem": "886",
+      "uploaded_at": "2026-10-02T04:21:45.452175+00:00"
+    },
+    "8eb0321e-86fb-4baf-a0c4-aeca006b44d3": {
+      "podcast_id": "three_who_know",
+      "title": "ניסוי ראשון בשקל הדיגיטלי",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/887.wav",
+      "filename_stem": "887",
+      "uploaded_at": "2026-10-02T04:23:09.732582+00:00"
+    },
+    "edd2d2d5-0d17-4f48-bef5-aece0077308d": {
+      "podcast_id": "three_who_know",
+      "title": "מבנה העצמות של אסטרונאוטים משתנה בחלל לצמיתות",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/888.wav",
+      "filename_stem": "888",
+      "uploaded_at": "2026-10-02T04:24:34.791606+00:00"
+    },
+    "15348081-3f39-4378-997c-aed000b84ab1": {
+      "podcast_id": "three_who_know",
+      "title": "התמונה העתיקה ביותר של היקום",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/889.wav",
+      "filename_stem": "889",
+      "uploaded_at": "2026-10-02T04:25:56.145104+00:00"
+    },
+    "fc72d4b0-9651-476f-a1b0-aed100d2c32a": {
+      "podcast_id": "three_who_know",
+      "title": "על קקי של דולפינים ואלמוגים",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/890.wav",
+      "filename_stem": "890",
+      "uploaded_at": "2026-10-02T04:27:18.510042+00:00"
+    },
+    "8ed1ca20-cca5-43cd-b6fe-aed100dce385": {
+      "podcast_id": "three_who_know",
+      "title": "גנים ניאנדרטליים יכולים לחזות תגובה לתרופות",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/891.wav",
+      "filename_stem": "891",
+      "uploaded_at": "2026-10-02T04:28:27.134979+00:00"
+    },
+    "8a99c957-bdb3-4862-97d9-aed500b413bb": {
+      "podcast_id": "three_who_know",
+      "title": "רעבים יותר בשמש",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/892.wav",
+      "filename_stem": "892",
+      "uploaded_at": "2026-10-02T04:29:47.875452+00:00"
+    },
+    "eb73f95b-c01a-4d23-9190-aed700a409a8": {
+      "podcast_id": "three_who_know",
+      "title": "קולטים צלילים גם כשישנים",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/893.wav",
+      "filename_stem": "893",
+      "uploaded_at": "2026-10-02T04:31:04.616079+00:00"
+    },
+    "17563f2b-51bb-48eb-8e13-aed700aa7a24": {
+      "podcast_id": "three_who_know",
+      "title": "האם ייתכן שחרקים חשים כאב בדיוק כמונו?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/894.wav",
+      "filename_stem": "894",
+      "uploaded_at": "2026-10-02T04:32:23.708313+00:00"
+    },
+    "b3827d59-e782-4d26-8816-aed800b9476b": {
+      "podcast_id": "three_who_know",
+      "title": "יותר ציד - יותר חזירי בר",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/895.wav",
+      "filename_stem": "895",
+      "uploaded_at": "2026-10-02T04:33:31.556508+00:00"
+    },
+    "cbbb7a9d-2a8c-4cdc-800d-aedc00b25bb7": {
+      "podcast_id": "three_who_know",
+      "title": "האם הנדסה בקריספר מגדילה את הסיכוי לסרטן?",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/896.wav",
+      "filename_stem": "896",
+      "uploaded_at": "2026-10-02T04:34:45.923275+00:00"
+    },
+    "1b6ebca8-5acd-43db-97e9-aedd008a4d83": {
+      "podcast_id": "three_who_know",
+      "title": "לייצר דלק מחיידקים",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/897.wav",
+      "filename_stem": "897",
+      "uploaded_at": "2026-10-02T04:35:52.998897+00:00"
+    },
+    "4b0aa705-effd-4593-aa55-aede00b6b1c6": {
+      "podcast_id": "three_who_know",
+      "title": "רצח תאים",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/898.wav",
+      "filename_stem": "898",
+      "uploaded_at": "2026-10-02T04:36:57.607547+00:00"
+    },
+    "ca9517d7-aa07-42a7-921d-aedf009348c7": {
+      "podcast_id": "three_who_know",
+      "title": "לחזות את רעידת האדמה הבאה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/899.wav",
+      "filename_stem": "899",
+      "uploaded_at": "2026-10-02T04:38:15.915887+00:00"
+    },
+    "b4f60f82-030f-4fe4-8192-aeea00afd56a": {
+      "podcast_id": "three_who_know",
+      "title": "פינגווינים מתאימים את קולם לסביבה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/900.wav",
+      "filename_stem": "900",
+      "uploaded_at": "2026-10-02T04:39:35.939944+00:00"
     }
   },
   "next_numbers": {
@@ -20121,6 +20921,6 @@
     "20": 17,
     "24": 15,
     "41": 11,
-    "42": 801
+    "42": 901
   }
 }
