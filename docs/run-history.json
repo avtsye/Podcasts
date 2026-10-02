@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-10-02T11:29:43.344114+00:00",
+  "updated_at": "2026-10-02T12:44:50.441113+00:00",
   "runs": [
+    {
+      "run_id": "37008212255",
+      "run_number": "137",
+      "event": "schedule",
+      "status": "failure",
+      "utc_time": "2026-10-02T12:44:50.441113+00:00",
+      "israel_time": "02/10/2026 15:44",
+      "uploads": 1,
+      "feed_errors": 1,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37008212255",
+      "items": [
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1257 - פרופ׳ דידי פביאן וסרטן העין",
+          "drive_filename": "פרק #1257 - פרופ׳ דידי פביאן וסרטן העין.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1o_e9Mi2vbafIKsjSwvfhSAB9S_oTQGNe/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1016.wav"
+          ],
+          "yemos_path": "ivr2:/1/2/1016.wav"
+        }
+      ]
+    },
     {
       "run_id": "36995570516",
       "run_number": "136",
