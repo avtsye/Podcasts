@@ -130,7 +130,10 @@ def _upload_small(source, destination, token):
 
 def _upload_large(source, destination, token):
     total_size = source.stat().st_size
-    remote_filename = destination.rsplit("/", 1)[-1]
+    # Fine Uploader/Yemos expects qqfilename to be the original uploaded file name,
+    # not the destination name. The destination remains numeric (e.g. 12.wav),
+    # while qqfilename must describe the source bytes (usually an .mp3 file).
+    remote_filename = source.name
     total_parts = (total_size + CHUNK_SIZE - 1) // CHUNK_SIZE
     upload_uuid = str(uuid4())
 
