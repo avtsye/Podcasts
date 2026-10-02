@@ -21702,6 +21702,877 @@
       "path": "ivr2:/1/55/100.wav",
       "filename_stem": "100",
       "uploaded_at": "2026-10-02T06:56:39.323785+00:00"
+    },
+    "https://api.spreaker.com/episode/47125129": {
+      "podcast_id": "osim_software",
+      "title": "אש ותמרות עשן בפרודקשן [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/1.wav",
+      "filename_stem": "1",
+      "uploaded_at": "2026-10-02T10:28:43.159725+00:00"
+    },
+    "https://api.spreaker.com/episode/47244126": {
+      "podcast_id": "osim_software",
+      "title": "ענן לא גדל על העצים - Above the Google Cloud [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/2.wav",
+      "filename_stem": "2",
+      "uploaded_at": "2026-10-02T10:29:09.384496+00:00"
+    },
+    "https://api.spreaker.com/episode/47357417": {
+      "podcast_id": "osim_software",
+      "title": "לסגור את החוב: מפרקים את החוב הטכני [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/3.wav",
+      "filename_stem": "3",
+      "uploaded_at": "2026-10-02T10:29:29.638043+00:00"
+    },
+    "https://api.spreaker.com/episode/47468714": {
+      "podcast_id": "osim_software",
+      "title": "מה-Data Center לענן - Above the Google Cloud [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/4.wav",
+      "filename_stem": "4",
+      "uploaded_at": "2026-10-02T10:29:50.948600+00:00"
+    },
+    "https://api.spreaker.com/episode/47687615": {
+      "podcast_id": "osim_software",
+      "title": "המפתח האנליסט [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/5.wav",
+      "filename_stem": "5",
+      "uploaded_at": "2026-10-02T10:30:10.967774+00:00"
+    },
+    "https://api.spreaker.com/episode/47889432": {
+      "podcast_id": "osim_software",
+      "title": "מכונת המשאלות הקטנה [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-10-02T10:30:38.100985+00:00"
+    },
+    "https://api.spreaker.com/episode/47991859": {
+      "podcast_id": "osim_software",
+      "title": "מחברים את הפאזל עם CDP [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-10-02T10:31:03.918107+00:00"
+    },
+    "https://api.spreaker.com/episode/48059869": {
+      "podcast_id": "osim_software",
+      "title": "אם לפיקאסו היה כרטיס מסך [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-10-02T10:31:34.016678+00:00"
+    },
+    "https://api.spreaker.com/episode/48222288": {
+      "podcast_id": "osim_software",
+      "title": "פרק שמומלץ לשמוע [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-10-02T10:32:14.942145+00:00"
+    },
+    "https://api.spreaker.com/episode/48411826": {
+      "podcast_id": "osim_software",
+      "title": "הלוחש לקוונטים: תכנות באי-ודאות [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-10-02T10:32:42.030048+00:00"
+    },
+    "https://api.spreaker.com/episode/48723418": {
+      "podcast_id": "osim_software",
+      "title": "בין פיתוח למוצר: סודות מזירת הקרב [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/11.wav",
+      "filename_stem": "11",
+      "uploaded_at": "2026-10-02T10:33:04.717004+00:00"
+    },
+    "https://api.spreaker.com/episode/48896607": {
+      "podcast_id": "osim_software",
+      "title": "נגישות בתוכנה: רחוק ממה שדמיינתם [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/12.wav",
+      "filename_stem": "12",
+      "uploaded_at": "2026-10-02T10:33:36.921499+00:00"
+    },
+    "https://api.spreaker.com/episode/48966579": {
+      "podcast_id": "osim_software",
+      "title": "חוויית מפתחים: אופטימיזציה של הנאה [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/13.wav",
+      "filename_stem": "13",
+      "uploaded_at": "2026-10-02T10:34:01.231787+00:00"
+    },
+    "https://api.spreaker.com/episode/49121840": {
+      "podcast_id": "osim_software",
+      "title": "מחוץ לקוד: מה באמת הופך מפתחים למעולים? [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/14.wav",
+      "filename_stem": "14",
+      "uploaded_at": "2026-10-02T10:34:31.517826+00:00"
+    },
+    "https://api.spreaker.com/episode/49299590": {
+      "podcast_id": "osim_software",
+      "title": "קומנדו דאטה: איסוף מידע בעידן של פרטיות [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/15.wav",
+      "filename_stem": "15",
+      "uploaded_at": "2026-10-02T10:34:53.262095+00:00"
+    },
+    "https://api.spreaker.com/episode/49457187": {
+      "podcast_id": "osim_software",
+      "title": "עננים במבצע: איך חוסכים על מכונה וירטואלית? [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/16.wav",
+      "filename_stem": "16",
+      "uploaded_at": "2026-10-02T10:35:18.302220+00:00"
+    },
+    "https://api.spreaker.com/episode/49611832": {
+      "podcast_id": "osim_software",
+      "title": "פשוט זה בטוח: יריב בש נגד למידת מכונה [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/17.wav",
+      "filename_stem": "17",
+      "uploaded_at": "2026-10-02T10:36:04.581521+00:00"
+    },
+    "https://api.spreaker.com/episode/49801076": {
+      "podcast_id": "osim_software",
+      "title": "ועכשיו עם רגש: צלילה לשפה חדשה [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/18.wav",
+      "filename_stem": "18",
+      "uploaded_at": "2026-10-02T10:36:35.287553+00:00"
+    },
+    "https://api.spreaker.com/episode/49994731": {
+      "podcast_id": "osim_software",
+      "title": "ספרייה בהכנס: היתרון הצבאי של קוד פתוח [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/19.wav",
+      "filename_stem": "19",
+      "uploaded_at": "2026-10-02T10:36:56.582614+00:00"
+    },
+    "https://api.spreaker.com/episode/50118555": {
+      "podcast_id": "osim_software",
+      "title": "אחד בשביל כולם: גישה עדכנית ל-API [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/20.wav",
+      "filename_stem": "20",
+      "uploaded_at": "2026-10-02T10:37:20.164493+00:00"
+    },
+    "https://api.spreaker.com/episode/50224233": {
+      "podcast_id": "osim_software",
+      "title": "להחליף סיגנל: איך בר-זיק שורד מיתון [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/21.wav",
+      "filename_stem": "21",
+      "uploaded_at": "2026-10-02T10:37:49.108738+00:00"
+    },
+    "https://api.spreaker.com/episode/50448611": {
+      "podcast_id": "osim_software",
+      "title": "ברגל ימין: הכל על אונבורדינג [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/22.wav",
+      "filename_stem": "22",
+      "uploaded_at": "2026-10-02T10:38:14.157322+00:00"
+    },
+    "https://api.spreaker.com/episode/50523824": {
+      "podcast_id": "osim_software",
+      "title": "מהפכה בפיתוח: DevOps Culture [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/23.wav",
+      "filename_stem": "23",
+      "uploaded_at": "2026-10-02T10:38:42.153941+00:00"
+    },
+    "https://api.spreaker.com/episode/50693829": {
+      "podcast_id": "osim_software",
+      "title": "לתמחר את החופש: החיים כפרילנסר [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/24.wav",
+      "filename_stem": "24",
+      "uploaded_at": "2026-10-02T10:39:09.110126+00:00"
+    },
+    "https://api.spreaker.com/episode/50812904": {
+      "podcast_id": "osim_software",
+      "title": "פיתוח קשוח: איך בונים מערכת שלא נופלת? [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/25.wav",
+      "filename_stem": "25",
+      "uploaded_at": "2026-10-02T10:39:39.318824+00:00"
+    },
+    "https://api.spreaker.com/episode/51053640": {
+      "podcast_id": "osim_software",
+      "title": "בינה אסתטית: פלישת מסנתזי התמונות [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/26.wav",
+      "filename_stem": "26",
+      "uploaded_at": "2026-10-02T10:40:04.920325+00:00"
+    },
+    "https://api.spreaker.com/episode/51239110": {
+      "podcast_id": "osim_software",
+      "title": "פחמן משודרג: שפת התכנות החדשה של גוגל [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/27.wav",
+      "filename_stem": "27",
+      "uploaded_at": "2026-10-02T10:40:28.440323+00:00"
+    },
+    "https://api.spreaker.com/episode/51534546": {
+      "podcast_id": "osim_software",
+      "title": "סמוראי קוד: ללמוד לבד ולהתקבל בלי ניסיון [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/28.wav",
+      "filename_stem": "28",
+      "uploaded_at": "2026-10-02T10:40:56.954262+00:00"
+    },
+    "https://api.spreaker.com/episode/51669067": {
+      "podcast_id": "osim_software",
+      "title": "אינדיאנה ג׳ונס והלולאה האינסופית [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/29.wav",
+      "filename_stem": "29",
+      "uploaded_at": "2026-10-02T10:41:40.571818+00:00"
+    },
+    "https://api.spreaker.com/episode/51810210": {
+      "podcast_id": "osim_software",
+      "title": "חיים בסימולציה: פיתוח תוכנה למעבדים עתידיים [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/30.wav",
+      "filename_stem": "30",
+      "uploaded_at": "2026-10-02T10:42:01.302683+00:00"
+    },
+    "https://api.spreaker.com/episode/51979459": {
+      "podcast_id": "osim_software",
+      "title": "אופטימיזציה לראיון עבודה [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/31.wav",
+      "filename_stem": "31",
+      "uploaded_at": "2026-10-02T10:42:36.069511+00:00"
+    },
+    "https://api.spreaker.com/episode/52152263": {
+      "podcast_id": "osim_software",
+      "title": "שפה על-אנושית: ים פלג מדבר עם מכונות [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/32.wav",
+      "filename_stem": "32",
+      "uploaded_at": "2026-10-02T10:43:03.001175+00:00"
+    },
+    "https://api.spreaker.com/episode/52282818": {
+      "podcast_id": "osim_software",
+      "title": "מה הלו״ז: פיתוח ועמידה בזמנים [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/33.wav",
+      "filename_stem": "33",
+      "uploaded_at": "2026-10-02T10:43:27.763298+00:00"
+    },
+    "https://api.spreaker.com/episode/52398432": {
+      "podcast_id": "osim_software",
+      "title": "לעבור טיורינג: האם תוכנות מסוגלות לחשוב? [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/34.wav",
+      "filename_stem": "34",
+      "uploaded_at": "2026-10-02T10:43:54.313146+00:00"
+    },
+    "https://api.spreaker.com/episode/52508980": {
+      "podcast_id": "osim_software",
+      "title": "תכנות להמונים: איך להרוויח מקורסים דיגיטליים [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/35.wav",
+      "filename_stem": "35",
+      "uploaded_at": "2026-10-02T10:44:16.027387+00:00"
+    },
+    "https://api.spreaker.com/episode/52660507": {
+      "podcast_id": "osim_software",
+      "title": "לשחות עם הזרם: עיבוד בזמן אמת [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/36.wav",
+      "filename_stem": "36",
+      "uploaded_at": "2026-10-02T10:44:40.392072+00:00"
+    },
+    "https://api.spreaker.com/episode/52779733": {
+      "podcast_id": "osim_software",
+      "title": "מה בעצם עשינו? על כוחה של פגישת הרטרו [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/37.wav",
+      "filename_stem": "37",
+      "uploaded_at": "2026-10-02T10:45:06.524416+00:00"
+    },
+    "https://api.spreaker.com/episode/53118283": {
+      "podcast_id": "osim_software",
+      "title": "חלום מלאכותי: השגרירה של OpenAI [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/38.wav",
+      "filename_stem": "38",
+      "uploaded_at": "2026-10-02T10:45:31.058110+00:00"
+    },
+    "https://api.spreaker.com/episode/53277997": {
+      "podcast_id": "osim_software",
+      "title": "לשבור את המטריקס: האקינג כתפיסת עולם [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/39.wav",
+      "filename_stem": "39",
+      "uploaded_at": "2026-10-02T10:45:57.439436+00:00"
+    },
+    "https://api.spreaker.com/episode/53523791": {
+      "podcast_id": "osim_software",
+      "title": "עשרת הדיברות של התכנות ההישרדותי [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/40.wav",
+      "filename_stem": "40",
+      "uploaded_at": "2026-10-02T10:46:25.594449+00:00"
+    },
+    "https://api.spreaker.com/episode/53714013": {
+      "podcast_id": "osim_software",
+      "title": "כסף: מה *לא* תעשו בשבילו?  [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/41.wav",
+      "filename_stem": "41",
+      "uploaded_at": "2026-10-02T10:46:55.421676+00:00"
+    },
+    "https://api.spreaker.com/episode/53884447": {
+      "podcast_id": "osim_software",
+      "title": "לפתח עם צ׳ט ג׳יפיטי: חלק ראשון [עושים תוכנה]",
+      "status": "error",
+      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "updated_at": "2026-10-02T10:47:31.457649+00:00"
+    },
+    "https://api.spreaker.com/episode/54021309": {
+      "podcast_id": "osim_software",
+      "title": "לפתח עם צ'ט ג'יפיטי: חלק שני [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/43.wav",
+      "filename_stem": "43",
+      "uploaded_at": "2026-10-02T10:48:01.463882+00:00"
+    },
+    "https://api.spreaker.com/episode/54322440": {
+      "podcast_id": "osim_software",
+      "title": "הובלה ללא סמכות: איך להיות IC? [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/44.wav",
+      "filename_stem": "44",
+      "uploaded_at": "2026-10-02T10:48:26.464393+00:00"
+    },
+    "https://api.spreaker.com/episode/55371812": {
+      "podcast_id": "osim_software",
+      "title": "הרוח באלגוריתם: גוף, נפש ומכונה [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/45.wav",
+      "filename_stem": "45",
+      "uploaded_at": "2026-10-02T10:48:50.083906+00:00"
+    },
+    "https://api.spreaker.com/episode/56040848": {
+      "podcast_id": "osim_software",
+      "title": "הספורט החדש: הורדת עלויות ענן [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/46.wav",
+      "filename_stem": "46",
+      "uploaded_at": "2026-10-02T10:49:14.220040+00:00"
+    },
+    "https://api.spreaker.com/episode/56207161": {
+      "podcast_id": "osim_software",
+      "title": "להתגונן מן העתיד: סכנת הפיצוח הקוונטי [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/47.wav",
+      "filename_stem": "47",
+      "uploaded_at": "2026-10-02T10:49:41.975127+00:00"
+    },
+    "https://api.spreaker.com/episode/56397423": {
+      "podcast_id": "osim_software",
+      "title": "מאיפה נכנסים אל הקוד הפתוח? [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/48.wav",
+      "filename_stem": "48",
+      "uploaded_at": "2026-10-02T10:50:07.300105+00:00"
+    },
+    "https://api.spreaker.com/episode/56552872": {
+      "podcast_id": "osim_software",
+      "title": "יצאנו לחפש מנועים - חלק ראשון [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/49.wav",
+      "filename_stem": "49",
+      "uploaded_at": "2026-10-02T10:50:48.069868+00:00"
+    },
+    "https://api.spreaker.com/episode/56674029": {
+      "podcast_id": "osim_software",
+      "title": "יצאנו לחפש מנועים - חלק שני [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/50.wav",
+      "filename_stem": "50",
+      "uploaded_at": "2026-10-02T10:51:11.225291+00:00"
+    },
+    "https://api.spreaker.com/episode/56938677": {
+      "podcast_id": "osim_software",
+      "title": "פרק מיוחד: כך הקמנו את גיטהאב [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/51.wav",
+      "filename_stem": "51",
+      "uploaded_at": "2026-10-02T10:51:41.388651+00:00"
+    },
+    "https://api.spreaker.com/episode/57239601": {
+      "podcast_id": "osim_software",
+      "title": "האם ניתן למדל את הנפש? [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/52.wav",
+      "filename_stem": "52",
+      "uploaded_at": "2026-10-02T10:52:08.692091+00:00"
+    },
+    "https://api.spreaker.com/episode/57431767": {
+      "podcast_id": "osim_software",
+      "title": "ספגטי ברוטב קובול [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/53.wav",
+      "filename_stem": "53",
+      "uploaded_at": "2026-10-02T10:52:24.256986+00:00"
+    },
+    "https://api.spreaker.com/episode/57626966": {
+      "podcast_id": "osim_software",
+      "title": "שפות התכנות המוזרות ביותר בעולם [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/54.wav",
+      "filename_stem": "54",
+      "uploaded_at": "2026-10-02T10:52:37.167123+00:00"
+    },
+    "https://api.spreaker.com/episode/57890143": {
+      "podcast_id": "osim_software",
+      "title": "העתיד שאחרי הסערה ב-OpenAI [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/55.wav",
+      "filename_stem": "55",
+      "uploaded_at": "2026-10-02T10:53:25.305511+00:00"
+    },
+    "https://api.spreaker.com/episode/58122073": {
+      "podcast_id": "osim_software",
+      "title": "מה האמריקאים רוצים מאיתנו? [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/56.wav",
+      "filename_stem": "56",
+      "uploaded_at": "2026-10-02T10:53:51.610193+00:00"
+    },
+    "https://api.spreaker.com/episode/58182517": {
+      "podcast_id": "osim_software",
+      "title": "איך הופכים מוצר פנימי לכוח-על? [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/57.wav",
+      "filename_stem": "57",
+      "uploaded_at": "2026-10-02T10:54:41.605133+00:00"
+    },
+    "https://api.spreaker.com/episode/58574107": {
+      "podcast_id": "osim_software",
+      "title": "הכי נגיש בעולם [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/58.wav",
+      "filename_stem": "58",
+      "uploaded_at": "2026-10-02T10:55:11.666853+00:00"
+    },
+    "https://api.spreaker.com/episode/58815599": {
+      "podcast_id": "osim_software",
+      "title": "הצצה למוחו של ארכיטקט [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/59.wav",
+      "filename_stem": "59",
+      "uploaded_at": "2026-10-02T10:55:58.744595+00:00"
+    },
+    "https://api.spreaker.com/episode/59087893": {
+      "podcast_id": "osim_software",
+      "title": "האם Go היא השפה המושלמת לעידן ה-AI? [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/60.wav",
+      "filename_stem": "60",
+      "uploaded_at": "2026-10-02T10:56:25.540581+00:00"
+    },
+    "https://api.spreaker.com/episode/59238292": {
+      "podcast_id": "osim_software",
+      "title": "בוים על-ידי מכונה [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/61.wav",
+      "filename_stem": "61",
+      "uploaded_at": "2026-10-02T10:56:53.551769+00:00"
+    },
+    "https://api.spreaker.com/episode/59392246": {
+      "podcast_id": "osim_software",
+      "title": "קוד ריוויו: החוקים הלא כתובים [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/62.wav",
+      "filename_stem": "62",
+      "uploaded_at": "2026-10-02T10:57:24.571661+00:00"
+    },
+    "https://api.spreaker.com/episode/59749426": {
+      "podcast_id": "osim_software",
+      "title": "פסגת הפחד: איך לקדם את ה-AI בתוך הארגון [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/63.wav",
+      "filename_stem": "63",
+      "uploaded_at": "2026-10-02T10:57:55.833137+00:00"
+    },
+    "https://api.spreaker.com/episode/60184895": {
+      "podcast_id": "osim_software",
+      "title": "מכונות דוברות עברית [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/64.wav",
+      "filename_stem": "64",
+      "uploaded_at": "2026-10-02T10:58:26.110397+00:00"
+    },
+    "https://api.spreaker.com/episode/60401558": {
+      "podcast_id": "osim_software",
+      "title": "לקודד את הרגש [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/65.wav",
+      "filename_stem": "65",
+      "uploaded_at": "2026-10-02T10:58:55.158563+00:00"
+    },
+    "https://api.spreaker.com/episode/60699553": {
+      "podcast_id": "osim_software",
+      "title": "גוד דאמיט, למה לא גיביתי? [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/66.wav",
+      "filename_stem": "66",
+      "uploaded_at": "2026-10-02T10:59:24.800826+00:00"
+    },
+    "https://api.spreaker.com/episode/60835169": {
+      "podcast_id": "osim_software",
+      "title": "הסודות והטקסים של גילדת מפתחים [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/67.wav",
+      "filename_stem": "67",
+      "uploaded_at": "2026-10-02T10:59:56.790511+00:00"
+    },
+    "https://api.spreaker.com/episode/61070972": {
+      "podcast_id": "osim_software",
+      "title": "למצוא נפט עם מודלי שפה גדולים [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/68.wav",
+      "filename_stem": "68",
+      "uploaded_at": "2026-10-02T11:00:26.579434+00:00"
+    },
+    "https://api.spreaker.com/episode/61318482": {
+      "podcast_id": "osim_software",
+      "title": "האם שפה הודית עתיקה ניבאה את הבינה המלאכותית? [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/69.wav",
+      "filename_stem": "69",
+      "uploaded_at": "2026-10-02T11:00:40.480861+00:00"
+    },
+    "https://api.spreaker.com/episode/62088035": {
+      "podcast_id": "osim_software",
+      "title": "בר-זיק מדבר עם עציצים [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/70.wav",
+      "filename_stem": "70",
+      "uploaded_at": "2026-10-02T11:01:13.126076+00:00"
+    },
+    "https://api.spreaker.com/episode/62596506": {
+      "podcast_id": "osim_software",
+      "title": "כיפת הברזל של מודלי השפה [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/71.wav",
+      "filename_stem": "71",
+      "uploaded_at": "2026-10-02T11:01:36.649589+00:00"
+    },
+    "https://api.spreaker.com/episode/63046732": {
+      "podcast_id": "osim_software",
+      "title": "מחילות ארנב בפתח תקווה [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/73.wav",
+      "filename_stem": "73",
+      "uploaded_at": "2026-10-02T11:03:10.900539+00:00"
+    },
+    "https://api.spreaker.com/episode/63167599": {
+      "podcast_id": "osim_software",
+      "title": "מאב טיפוס למוצר: האתגר הסמוי של אפליקציות בינה מלאכותית [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/74.wav",
+      "filename_stem": "74",
+      "uploaded_at": "2026-10-02T11:03:34.267500+00:00"
+    },
+    "https://api.spreaker.com/episode/63281558": {
+      "podcast_id": "osim_software",
+      "title": "עצור, נשום, המשך: התמודדות עם משברים בהייטק [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/75.wav",
+      "filename_stem": "75",
+      "uploaded_at": "2026-10-02T11:04:31.531340+00:00"
+    },
+    "https://api.spreaker.com/episode/63714551": {
+      "podcast_id": "osim_software",
+      "title": "להפסיק לכתוב קוד מאפס [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/76.wav",
+      "filename_stem": "76",
+      "uploaded_at": "2026-10-02T11:05:21.244673+00:00"
+    },
+    "https://api.spreaker.com/episode/64169122": {
+      "podcast_id": "osim_software",
+      "title": "מג׳וניור עד דיירקטור- סולם ההתקדמות בעולם הפיתוח [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/77.wav",
+      "filename_stem": "77",
+      "uploaded_at": "2026-10-02T11:05:51.298436+00:00"
+    },
+    "https://api.spreaker.com/episode/64517693": {
+      "podcast_id": "osim_software",
+      "title": "מפתחי indie - העתיד של עולם היזמות? [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/78.wav",
+      "filename_stem": "78",
+      "uploaded_at": "2026-10-02T11:06:22.550417+00:00"
+    },
+    "https://api.spreaker.com/episode/64773005": {
+      "podcast_id": "osim_software",
+      "title": "מה הופך תשתית למנוע? [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/79.wav",
+      "filename_stem": "79",
+      "uploaded_at": "2026-10-02T11:06:46.314916+00:00"
+    },
+    "https://api.spreaker.com/episode/65048403": {
+      "podcast_id": "osim_software",
+      "title": "סוף לצילום בוידאו? יצירה באמצעות AI [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/80.wav",
+      "filename_stem": "80",
+      "uploaded_at": "2026-10-02T11:07:36.797735+00:00"
+    },
+    "https://api.spreaker.com/episode/65608542": {
+      "podcast_id": "osim_software",
+      "title": "להציל צוות פיתוח שבור [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/81.wav",
+      "filename_stem": "81",
+      "uploaded_at": "2026-10-02T11:08:03.062509+00:00"
+    },
+    "https://api.spreaker.com/episode/65997750": {
+      "podcast_id": "osim_software",
+      "title": "שוד הקריפטו הגדול בהיסטוריה [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/82.wav",
+      "filename_stem": "82",
+      "uploaded_at": "2026-10-02T11:08:50.923784+00:00"
+    },
+    "https://api.spreaker.com/episode/66280777": {
+      "podcast_id": "osim_software",
+      "title": "לבחור Frontend Framework ב2025 [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/83.wav",
+      "filename_stem": "83",
+      "uploaded_at": "2026-10-02T11:10:11.032067+00:00"
+    },
+    "https://api.spreaker.com/episode/66706542": {
+      "podcast_id": "osim_software",
+      "title": "לבנות ביום, ליצור בלילה: הקריירה החדשה של עולם הטק? [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/84.wav",
+      "filename_stem": "84",
+      "uploaded_at": "2026-10-02T11:11:31.116587+00:00"
+    },
+    "https://api.spreaker.com/episode/67143171": {
+      "podcast_id": "osim_software",
+      "title": "איך מפתח קלאסי הופך לקוונטי [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/85.wav",
+      "filename_stem": "85",
+      "uploaded_at": "2026-10-02T11:11:55.125810+00:00"
+    },
+    "https://api.spreaker.com/episode/67320022": {
+      "podcast_id": "osim_software",
+      "title": "המהפכה שמשנה את עולם הפיתוח [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/86.wav",
+      "filename_stem": "86",
+      "uploaded_at": "2026-10-02T11:13:29.818892+00:00"
+    },
+    "https://api.spreaker.com/episode/67489128": {
+      "podcast_id": "osim_software",
+      "title": "קוד אדום בהייטק [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/87.wav",
+      "filename_stem": "87",
+      "uploaded_at": "2026-10-02T11:13:48.542246+00:00"
+    },
+    "https://api.spreaker.com/episode/67652835": {
+      "podcast_id": "osim_software",
+      "title": "שלושה לילות ששינו את האינטרנט [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/88.wav",
+      "filename_stem": "88",
+      "uploaded_at": "2026-10-02T11:14:16.867015+00:00"
+    },
+    "https://api.spreaker.com/episode/67774684": {
+      "podcast_id": "osim_software",
+      "title": "מאחורי הקלעים של הבורד [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/89.wav",
+      "filename_stem": "89",
+      "uploaded_at": "2026-10-02T11:14:39.958110+00:00"
+    },
+    "https://api.spreaker.com/episode/67841738": {
+      "podcast_id": "osim_software",
+      "title": "סודות ההצפנה העתיקים [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/90.wav",
+      "filename_stem": "90",
+      "uploaded_at": "2026-10-02T11:15:04.934907+00:00"
+    },
+    "https://api.spreaker.com/episode/68215021": {
+      "podcast_id": "osim_software",
+      "title": "[עושים תוכנה] מתחת למכסה מנוע של AI",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/91.wav",
+      "filename_stem": "91",
+      "uploaded_at": "2026-10-02T11:15:30.008087+00:00"
+    },
+    "https://api.spreaker.com/episode/68285718": {
+      "podcast_id": "osim_software",
+      "title": "Gong מטמיעים AI למפתחים [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/92.wav",
+      "filename_stem": "92",
+      "uploaded_at": "2026-10-02T11:16:17.587763+00:00"
+    },
+    "https://api.spreaker.com/episode/68498229": {
+      "podcast_id": "osim_software",
+      "title": "מלכודת המולטי קלאוד [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/93.wav",
+      "filename_stem": "93",
+      "uploaded_at": "2026-10-02T11:16:40.453212+00:00"
+    },
+    "https://api.spreaker.com/episode/68655171": {
+      "podcast_id": "osim_software",
+      "title": "קרסר - המדריך השלם [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/94.wav",
+      "filename_stem": "94",
+      "uploaded_at": "2026-10-02T11:17:24.807365+00:00"
+    },
+    "https://api.spreaker.com/episode/69071194": {
+      "podcast_id": "osim_software",
+      "title": "React2Shell [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/95.wav",
+      "filename_stem": "95",
+      "uploaded_at": "2026-10-02T11:17:42.827716+00:00"
+    },
+    "https://api.spreaker.com/episode/69223229": {
+      "podcast_id": "osim_software",
+      "title": "איך הקומפיילר הפך לאויב שלנו [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/96.wav",
+      "filename_stem": "96",
+      "uploaded_at": "2026-10-02T11:18:08.017823+00:00"
+    },
+    "https://api.spreaker.com/episode/69354292": {
+      "podcast_id": "osim_software",
+      "title": "Manager README [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/97.wav",
+      "filename_stem": "97",
+      "uploaded_at": "2026-10-02T11:18:53.316393+00:00"
+    },
+    "https://api.spreaker.com/episode/69580686": {
+      "podcast_id": "osim_software",
+      "title": "קלוד קוד [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/98.wav",
+      "filename_stem": "98",
+      "uploaded_at": "2026-10-02T11:19:52.297333+00:00"
+    },
+    "https://api.spreaker.com/episode/69876370": {
+      "podcast_id": "osim_software",
+      "title": "בינה מלאכותית 2026. מה מצפה לנו? [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/99.wav",
+      "filename_stem": "99",
+      "uploaded_at": "2026-10-02T11:20:42.646852+00:00"
+    },
+    "https://api.spreaker.com/episode/70211784": {
+      "podcast_id": "osim_software",
+      "title": "בינה מלאכותית בפרודקשן: מציאות מול דמיון  [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/100.wav",
+      "filename_stem": "100",
+      "uploaded_at": "2026-10-02T11:21:30.581985+00:00"
+    },
+    "https://api.spreaker.com/episode/71112876": {
+      "podcast_id": "osim_software",
+      "title": "כשאייג׳נטים נשברים [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/101.wav",
+      "filename_stem": "101",
+      "uploaded_at": "2026-10-02T11:22:13.919017+00:00"
+    },
+    "https://api.spreaker.com/episode/72041423": {
+      "podcast_id": "osim_software",
+      "title": "איך באמת מריצים LLM בסקייל עצום? [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/102.wav",
+      "filename_stem": "102",
+      "uploaded_at": "2026-10-02T11:23:09.855547+00:00"
+    },
+    "https://api.spreaker.com/episode/72260061": {
+      "podcast_id": "osim_software",
+      "title": "הAI לא טועה אתם פשוט משתמשים בו לא נכון [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/103.wav",
+      "filename_stem": "103",
+      "uploaded_at": "2026-10-02T11:24:45.624362+00:00"
+    },
+    "https://api.spreaker.com/episode/72546264": {
+      "podcast_id": "osim_software",
+      "title": "הגיע הזמן ל־Skill [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/104.wav",
+      "filename_stem": "104",
+      "uploaded_at": "2026-10-02T11:25:29.658924+00:00"
+    },
+    "https://api.spreaker.com/episode/72727014": {
+      "podcast_id": "osim_software",
+      "title": "[עושים תוכנה] AI, פיטורים וקריירה בעולם משתנה",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/105.wav",
+      "filename_stem": "105",
+      "uploaded_at": "2026-10-02T11:26:48.412548+00:00"
+    },
+    "https://api.spreaker.com/episode/73055202": {
+      "podcast_id": "osim_software",
+      "title": "האם זה מותו של ה-UI?  | מור חננוביץ׳ [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/106.wav",
+      "filename_stem": "106",
+      "uploaded_at": "2026-10-02T11:27:15.138095+00:00"
+    },
+    "https://api.spreaker.com/episode/73336395": {
+      "podcast_id": "osim_software",
+      "title": "Second Brain ו- LLM wiki | דנה ממן  [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/107.wav",
+      "filename_stem": "107",
+      "uploaded_at": "2026-10-02T11:28:02.965356+00:00"
+    },
+    "https://api.spreaker.com/episode/74120527": {
+      "podcast_id": "osim_software",
+      "title": "לוקאלי בדפדפן | גיל פינק [עושים תוכנה] AI",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/108.wav",
+      "filename_stem": "108",
+      "uploaded_at": "2026-10-02T11:28:49.139761+00:00"
+    },
+    "https://api.spreaker.com/episode/74755735": {
+      "podcast_id": "osim_software",
+      "title": "האם המתמטיקה נפלה לידי ה-Ai?  | ד\"ר מייק ארליכסון [עושים תוכנה[",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/109.wav",
+      "filename_stem": "109",
+      "uploaded_at": "2026-10-02T11:29:14.361123+00:00"
+    },
+    "https://api.spreaker.com/episode/75276645": {
+      "podcast_id": "osim_software",
+      "title": "צבא של Assistants - הסיפור של NanoClawֿֿ | גבריאל כהן [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/110.wav",
+      "filename_stem": "110",
+      "uploaded_at": "2026-10-02T11:29:41.089696+00:00"
     }
   },
   "next_numbers": {
@@ -21738,6 +22609,7 @@
     "24": 15,
     "41": 11,
     "42": 901,
-    "55": 101
+    "55": 101,
+    "43": 111
   }
 }

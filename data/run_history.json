@@ -1,6 +1,617 @@
 {
-  "updated_at": "2026-10-02T06:56:43.927140+00:00",
+  "updated_at": "2026-10-02T11:29:43.344114+00:00",
   "runs": [
+    {
+      "run_id": "36995570516",
+      "run_number": "136",
+      "event": "issues",
+      "status": "failure",
+      "utc_time": "2026-10-02T11:29:43.344114+00:00",
+      "israel_time": "02/10/2026 14:29",
+      "uploads": 109,
+      "feed_errors": 1,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36995570516",
+      "items": [
+        {
+          "podcast": "עושים תוכנה",
+          "title": "אש ותמרות עשן בפרודקשן [עושים תוכנה]",
+          "drive_filename": "אש ותמרות עשן בפרודקשן [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1OnuGHj7j2AM2uPPkp9zsQkRZdc2TuEKD/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/1.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/1.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "ענן לא גדל על העצים - Above the Google Cloud [עושים תוכנה]",
+          "drive_filename": "ענן לא גדל על העצים - Above the Google Cloud [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1xDgEyLeSmwZw9o5z5E_rfGJzIWosU_bm/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/2.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/2.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "לסגור את החוב: מפרקים את החוב הטכני [עושים תוכנה]",
+          "drive_filename": "לסגור את החוב_ מפרקים את החוב הטכני [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1jsl-G_XY-PPCNkockBQOAF7UZ8WvgsIG/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/3.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/3.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "מה-Data Center לענן - Above the Google Cloud [עושים תוכנה]",
+          "drive_filename": "מה-Data Center לענן - Above the Google Cloud [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1oSlnq-VrFID_Ts0Dq2AfDzjQx4-R9gHw/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/4.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/4.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "המפתח האנליסט [עושים תוכנה]",
+          "drive_filename": "המפתח האנליסט [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1N95Qg7VFTYNWGnuqdzcHEcPoMsDclyZU/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/5.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/5.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "מכונת המשאלות הקטנה [עושים תוכנה]",
+          "drive_filename": "מכונת המשאלות הקטנה [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1jD86R4ZCwBRQrSPiQP9FNq8JcwIJvo6a/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/6.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/6.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "מחברים את הפאזל עם CDP [עושים תוכנה]",
+          "drive_filename": "מחברים את הפאזל עם CDP [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1oMjKf8VoUpJmRs--VPEIjYgkqd4O5HfE/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/7.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/7.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "אם לפיקאסו היה כרטיס מסך [עושים תוכנה]",
+          "drive_filename": "אם לפיקאסו היה כרטיס מסך [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/199xuWMY-q63BF8IvKXCOYmAv4N-gpT-n/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/8.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/8.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "פרק שמומלץ לשמוע [עושים תוכנה]",
+          "drive_filename": "פרק שמומלץ לשמוע [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1JfTshDtxbK8beMWr_vnhf1AMvzFVug7C/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/9.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/9.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "הלוחש לקוונטים: תכנות באי-ודאות [עושים תוכנה]",
+          "drive_filename": "הלוחש לקוונטים_ תכנות באי-ודאות [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1c4LEY-Z6eLmfc72vfmLoIP73iSdFzEvw/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/10.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/10.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "בין פיתוח למוצר: סודות מזירת הקרב [עושים תוכנה]",
+          "drive_filename": "בין פיתוח למוצר_ סודות מזירת הקרב [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1TIFY8re7m5UVy-s-uFiYzB1N_0ZCTZof/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/11.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/11.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "נגישות בתוכנה: רחוק ממה שדמיינתם [עושים תוכנה]",
+          "drive_filename": "נגישות בתוכנה_ רחוק ממה שדמיינתם [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/18L8oRHQIJq-TdkVRY6eo1D5VTDBKbSOC/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/12.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/12.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "חוויית מפתחים: אופטימיזציה של הנאה [עושים תוכנה]",
+          "drive_filename": "חוויית מפתחים_ אופטימיזציה של הנאה [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1h6a8ulxH8q-Cbw9aTwMOhG8gzjiK72b7/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/13.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/13.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "מחוץ לקוד: מה באמת הופך מפתחים למעולים? [עושים תוכנה]",
+          "drive_filename": "מחוץ לקוד_ מה באמת הופך מפתחים למעולים_ [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/14-_9Cfu9ILdeXJoVKzu_w_Cx_Ni4ub8W/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/14.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/14.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "קומנדו דאטה: איסוף מידע בעידן של פרטיות [עושים תוכנה]",
+          "drive_filename": "קומנדו דאטה_ איסוף מידע בעידן של פרטיות [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1BZqe-BWh1B-3lkeaeh8oAbR5Nw79gpNI/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/15.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/15.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "עננים במבצע: איך חוסכים על מכונה וירטואלית? [עושים תוכנה]",
+          "drive_filename": "עננים במבצע_ איך חוסכים על מכונה וירטואלית_ [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1aPswq8vNS9swTXtCPvoGolGzGdjWD2g-/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/16.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/16.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "פשוט זה בטוח: יריב בש נגד למידת מכונה [עושים תוכנה]",
+          "drive_filename": "פשוט זה בטוח_ יריב בש נגד למידת מכונה [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1eDV9_BbW5v4X1yc0bE71sjk4oikS0Ast/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/17.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/17.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "ועכשיו עם רגש: צלילה לשפה חדשה [עושים תוכנה]",
+          "drive_filename": "ועכשיו עם רגש_ צלילה לשפה חדשה [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1y4Zs-54vkK_tDIdESoYYEPgMbT_88zqD/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/18.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/18.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "ספרייה בהכנס: היתרון הצבאי של קוד פתוח [עושים תוכנה]",
+          "drive_filename": "ספרייה בהכנס_ היתרון הצבאי של קוד פתוח [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/17u0r4fDG1T0w6fOxWM95qCdRAFz5_nXI/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/19.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/19.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "אחד בשביל כולם: גישה עדכנית ל-API [עושים תוכנה]",
+          "drive_filename": "אחד בשביל כולם_ גישה עדכנית ל-API [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1y-pBH0ZWyfEEWCMsJNZ-ELIsPA1QgtQS/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/20.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/20.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "להחליף סיגנל: איך בר-זיק שורד מיתון [עושים תוכנה]",
+          "drive_filename": "להחליף סיגנל_ איך בר-זיק שורד מיתון [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1i8_PgubgbEml_xwQW2axlIvkx5wiGtgL/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/21.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/21.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "ברגל ימין: הכל על אונבורדינג [עושים תוכנה]",
+          "drive_filename": "ברגל ימין_ הכל על אונבורדינג [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1evOEz6zJPyZX_6MWAHdBYX3ol0t5VJ--/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/22.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/22.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "מהפכה בפיתוח: DevOps Culture [עושים תוכנה]",
+          "drive_filename": "מהפכה בפיתוח_ DevOps Culture [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1mquT6MmTLkRU2qu4FG66-pGJ06wQSdOT/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/23.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/23.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "לתמחר את החופש: החיים כפרילנסר [עושים תוכנה]",
+          "drive_filename": "לתמחר את החופש_ החיים כפרילנסר [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/13UNQ-s_2QHO0GEFSfQYyVwU8nWze5xK8/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/24.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/24.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "פיתוח קשוח: איך בונים מערכת שלא נופלת? [עושים תוכנה]",
+          "drive_filename": "פיתוח קשוח_ איך בונים מערכת שלא נופלת_ [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/17nQ5EwGTFkUMTqZbv93qF0tb16N8-xyp/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/25.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/25.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "בינה אסתטית: פלישת מסנתזי התמונות [עושים תוכנה]",
+          "drive_filename": "בינה אסתטית_ פלישת מסנתזי התמונות [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1P4t8EtKcRqMOBoJGNS7__wCdOGh43Z_h/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/26.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/26.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "פחמן משודרג: שפת התכנות החדשה של גוגל [עושים תוכנה]",
+          "drive_filename": "פחמן משודרג_ שפת התכנות החדשה של גוגל [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1XNfpngg55A_j_S1gB3FUxLxQlM5tMh2M/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/27.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/27.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "סמוראי קוד: ללמוד לבד ולהתקבל בלי ניסיון [עושים תוכנה]",
+          "drive_filename": "סמוראי קוד_ ללמוד לבד ולהתקבל בלי ניסיון [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1drEGOmPvy3g0KPY-6AHU6chvwUu9HCeN/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/28.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/28.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "אינדיאנה ג׳ונס והלולאה האינסופית [עושים תוכנה]",
+          "drive_filename": "אינדיאנה ג׳ונס והלולאה האינסופית [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1Nk2lFuMTFyYhpLuyCvN7xM-HFmVhBAtM/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/29.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/29.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "חיים בסימולציה: פיתוח תוכנה למעבדים עתידיים [עושים תוכנה]",
+          "drive_filename": "חיים בסימולציה_ פיתוח תוכנה למעבדים עתידיים [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1WrDBSCoZ59O8n3VLxfdUcf_0rhpiNxb7/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/30.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/30.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "אופטימיזציה לראיון עבודה [עושים תוכנה]",
+          "drive_filename": "אופטימיזציה לראיון עבודה [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1xI4hu2efPkDYt8IhsjXSipcEuktJ388V/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/31.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/31.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "שפה על-אנושית: ים פלג מדבר עם מכונות [עושים תוכנה]",
+          "drive_filename": "שפה על-אנושית_ ים פלג מדבר עם מכונות [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1Flen9DHva1Z1hyuZHM890WTyaDMfhTYr/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/32.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/32.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "מה הלו״ז: פיתוח ועמידה בזמנים [עושים תוכנה]",
+          "drive_filename": "מה הלו״ז_ פיתוח ועמידה בזמנים [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1Fbr_Eq8yPMXTvVhAQiqtvQB8pk2wb8py/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/33.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/33.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "לעבור טיורינג: האם תוכנות מסוגלות לחשוב? [עושים תוכנה]",
+          "drive_filename": "לעבור טיורינג_ האם תוכנות מסוגלות לחשוב_ [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1_0Ickev-Iy4fnb967-A7HLRgZYNrbRan/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/34.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/34.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "תכנות להמונים: איך להרוויח מקורסים דיגיטליים [עושים תוכנה]",
+          "drive_filename": "תכנות להמונים_ איך להרוויח מקורסים דיגיטליים [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1_QK_j9Yy5lelJnOzngtH98R6hBJxRFO0/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/35.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/35.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "לשחות עם הזרם: עיבוד בזמן אמת [עושים תוכנה]",
+          "drive_filename": "לשחות עם הזרם_ עיבוד בזמן אמת [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1UirjItpL1TGP7DrsAZBuWG1hxz7xh8ge/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/36.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/36.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "מה בעצם עשינו? על כוחה של פגישת הרטרו [עושים תוכנה]",
+          "drive_filename": "מה בעצם עשינו_ על כוחה של פגישת הרטרו [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1bAcGs-NZ1IOG857D0I4ePh5LJxVmWmqr/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/37.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/37.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "חלום מלאכותי: השגרירה של OpenAI [עושים תוכנה]",
+          "drive_filename": "חלום מלאכותי_ השגרירה של OpenAI [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1qmtRpmJDmw_zMap-Knv1XbrX0icX7STz/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/38.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/38.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "לשבור את המטריקס: האקינג כתפיסת עולם [עושים תוכנה]",
+          "drive_filename": "לשבור את המטריקס_ האקינג כתפיסת עולם [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1WvLW1yK-7hvjLmwRwTi1jO3fP6PowH5w/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/39.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/39.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "עשרת הדיברות של התכנות ההישרדותי [עושים תוכנה]",
+          "drive_filename": "עשרת הדיברות של התכנות ההישרדותי [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1XQBoVA1z_5G3alyWZ3JUeFtnAJOz-z1j/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/40.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/40.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "כסף: מה *לא* תעשו בשבילו?  [עושים תוכנה]",
+          "drive_filename": "כסף_ מה _לא_ תעשו בשבילו_ [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1wHmEpz-bhH1Y6-E6d98NiWUv6H5bSsXP/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/41.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/41.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "לפתח עם צ׳ט ג׳יפיטי: חלק ראשון [עושים תוכנה]",
+          "drive_filename": "לפתח עם צ׳ט ג׳יפיטי_ חלק ראשון [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1esvqrRTEzrbrcMLfdV6zvoOhUwGCY3J3/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive"
+          ]
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "לפתח עם צ'ט ג'יפיטי: חלק שני [עושים תוכנה]",
+          "drive_filename": "לפתח עם צ'ט ג'יפיטי_ חלק שני [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/11YuNr9PO1-6w5bI-7ihlHqqTWxgoigQk/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/43.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/43.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "הובלה ללא סמכות: איך להיות IC? [עושים תוכנה]",
+          "drive_filename": "הובלה ללא סמכות_ איך להיות IC_ [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/15UxkCMdHm8X7ec2Jgqo0SWdZspdcmUZZ/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/44.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/44.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "הרוח באלגוריתם: גוף, נפש ומכונה [עושים תוכנה]",
+          "drive_filename": "הרוח באלגוריתם_ גוף, נפש ומכונה [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1xGfV0XBYwWBa2opGMj31AC2PjItNxb8T/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/45.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/45.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "הספורט החדש: הורדת עלויות ענן [עושים תוכנה]",
+          "drive_filename": "הספורט החדש_ הורדת עלויות ענן [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/15PKYHCwCWp1zP09JBrMk7VYLQZcllBAI/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/46.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/46.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "להתגונן מן העתיד: סכנת הפיצוח הקוונטי [עושים תוכנה]",
+          "drive_filename": "להתגונן מן העתיד_ סכנת הפיצוח הקוונטי [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1d9UqROUEyD3Kg69oUHLPUlTNKt614n-C/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/47.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/47.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "מאיפה נכנסים אל הקוד הפתוח? [עושים תוכנה]",
+          "drive_filename": "מאיפה נכנסים אל הקוד הפתוח_ [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1pipC_SpXRCFE0DK62zVZd8hL2GB4GwJr/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/48.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/48.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "יצאנו לחפש מנועים - חלק ראשון [עושים תוכנה]",
+          "drive_filename": "יצאנו לחפש מנועים - חלק ראשון [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1GOpH-Kf6c5NfBo8Xj1NR9IzLGkAZmzNI/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/49.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/49.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "יצאנו לחפש מנועים - חלק שני [עושים תוכנה]",
+          "drive_filename": "יצאנו לחפש מנועים - חלק שני [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1Z6wjIZz1s9STyk-zAhMX1WLvetspubGE/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/50.wav"
+          ],
+          "yemos_path": "ivr2:/1/43/50.wav"
+        }
+      ]
+    },
     {
       "run_id": "36973077771",
       "run_number": "134",
