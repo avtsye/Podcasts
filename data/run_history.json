@@ -1,6 +1,43 @@
 {
-  "updated_at": "2026-10-01T14:16:11.813657+00:00",
+  "updated_at": "2026-10-02T05:54:59.461272+00:00",
   "runs": [
+    {
+      "run_id": "36970230047",
+      "run_number": "132",
+      "event": "schedule",
+      "status": "failure",
+      "utc_time": "2026-10-02T05:54:59.461272+00:00",
+      "israel_time": "02/10/2026 08:54",
+      "uploads": 2,
+      "feed_errors": 1,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36970230047",
+      "items": [
+        {
+          "podcast": "מנועי הכסף",
+          "title": "״אייג׳נט אישי? להתנסות - כן, לתת גישה להכול - ממש לא״",
+          "drive_filename": "״אייג׳נט אישי_ להתנסות - כן, לתת גישה להכול - ממש לא״.mp3",
+          "drive_folder": "מנועי הכסף",
+          "drive_url": "https://drive.google.com/file/d/1hClUXHqIrIOhN0dp-XWmxeGtaVEitzvB/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/7/12.wav"
+          ],
+          "yemos_path": "ivr2:/1/7/12.wav"
+        },
+        {
+          "podcast": "מגזין מעריב",
+          "title": "\"זה נתן לנו כוחות על\": החברה שעברה מגיימינג לשדה הקרב",
+          "drive_filename": "_זה נתן לנו כוחות על_ החברה שעברה מגיימינג לשדה הקרב.mp3",
+          "drive_folder": "מגזין מעריב",
+          "drive_url": "https://drive.google.com/file/d/1Rmc5LBOS9J4hsQkLAn3xhBjPaNpb2IF0/view?usp=drivesdk",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/15/13.wav"
+          ],
+          "yemos_path": "ivr2:/1/15/13.wav"
+        }
+      ]
+    },
     {
       "run_id": "36835229435",
       "run_number": "124",

@@ -12898,7 +12898,7 @@
       "status": "error",
       "filename_stem": "12",
       "error": "UploadFile finalization retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-10-01T06:02:16.521857+00:00"
+      "updated_at": "2026-10-02T05:53:18.896555+00:00"
     },
     "fce2f130-a008-4409-82ed-b4c600540483": {
       "podcast_id": "startup_for_startup",
@@ -20886,6 +20886,22 @@
       "path": "ivr2:/1/42/900.wav",
       "filename_stem": "900",
       "uploaded_at": "2026-10-02T04:39:35.939944+00:00"
+    },
+    "ddd2b24c-20e1-431c-a42f-b4d600c6bc60": {
+      "podcast_id": "money_engines",
+      "title": "״אייג׳נט אישי? להתנסות - כן, לתת גישה להכול - ממש לא״",
+      "status": "uploaded",
+      "path": "ivr2:/1/7/12.wav",
+      "filename_stem": "12",
+      "uploaded_at": "2026-10-02T05:54:05.588418+00:00"
+    },
+    "2b9ffe38-2598-4449-bfe2-b4d300bd9b64": {
+      "podcast_id": "maariv_magazine",
+      "title": "\"זה נתן לנו כוחות על\": החברה שעברה מגיימינג לשדה הקרב",
+      "status": "uploaded",
+      "path": "ivr2:/1/15/13.wav",
+      "filename_stem": "13",
+      "uploaded_at": "2026-10-02T05:54:27.123031+00:00"
     }
   },
   "next_numbers": {
@@ -20895,7 +20911,7 @@
     "4": 15,
     "5": 12,
     "6": 288,
-    "7": 12,
+    "7": 13,
     "8": 12,
     "9": 49,
     "10": 11,
@@ -20903,7 +20919,7 @@
     "12": 11,
     "13": 11,
     "14": 5,
-    "15": 13,
+    "15": 14,
     "16": 12,
     "17": 12,
     "18": 11,
@@ -20914,7 +20930,7 @@
     "25": 9,
     "26": 175,
     "27": 13,
-    "37": 271,
+    "37": 280,
     "38": 11,
     "39": 9,
     "40": 7,
