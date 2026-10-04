@@ -753,11 +753,19 @@ def main():
         raise SystemExit("All selected podcast feeds failed: " + details)
 
     if run_errors:
+        allow_partial = os.getenv("PODCAST_ALLOW_PARTIAL_SUCCESS", "false").lower() in {
+            "1", "true", "yes", "on"
+        }
         print(
             f"PARTIAL SUCCESS: {len(run_errors)} episode/target error(s) "
             "were recorded and will be retried with backoff. "
-            "Completed uploads remain successful and can still be reported."
+            "Completed uploads remain available for reporting."
         )
+        if not allow_partial:
+            raise SystemExit(
+                f"Run completed with {len(run_errors)} episode/target error(s). "
+                "See CURRENT RUN ERRORS above."
+            )
 
 
 if __name__ == "__main__":
