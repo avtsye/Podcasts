@@ -74,7 +74,7 @@ jobs:
           from pathlib import Path
 
           config = json.loads(Path("config/podcasts.json").read_text(encoding="utf-8"))
-          required = ["GOOGLE_TOKEN_JSON", "GITHUB_TOKEN", "GITHUB_REPOSITORY"]
+          required = ["GOOGLE_TOKEN_JSON", "YEMOS_TOKEN", "GITHUB_TOKEN", "GITHUB_REPOSITORY"]
           missing = [name for name in required if not os.getenv(name)]
 
           if missing:
@@ -155,6 +155,7 @@ jobs:
           gh issue comment "$ISSUE_NUMBER" --body "✅ הרשימה עודכנה ב-Issue הקבוע: #24"
 
       - name: Monitor RSS feeds
+        id: monitor_step
         env:
           GOOGLE_TOKEN_JSON: ${{ secrets.GOOGLE_TOKEN_JSON }}
           YEMOS_TOKEN: ${{ secrets.YEMOS_TOKEN }}
@@ -171,7 +172,7 @@ jobs:
         run: python -m src.monitor
 
       - name: Notify Yemos about new podcast uploads
-        if: success() && (github.event_name != 'issues' || steps.parse_request.outputs.kind == 'download' || steps.parse_request.outputs.kind == 'redownload')
+        if: always() && steps.monitor_step.outcome != 'skipped' && (github.event_name != 'issues' || steps.parse_request.outputs.kind == 'download' || steps.parse_request.outputs.kind == 'redownload')
         env:
           YEMOS_TOKEN: ${{ secrets.YEMOS_TOKEN }}
         run: python -m src.yemos_run_report
