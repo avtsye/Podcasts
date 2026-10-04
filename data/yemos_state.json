@@ -12898,7 +12898,7 @@
       "status": "error",
       "filename_stem": "12",
       "error": "UploadFile finalization retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-10-04T00:41:54.525462+00:00"
+      "updated_at": "2026-10-04T06:59:55.678404+00:00"
     },
     "fce2f130-a008-4409-82ed-b4c600540483": {
       "podcast_id": "startup_for_startup",
@@ -22581,10 +22581,26 @@
       "path": "ivr2:/1/2/1016.wav",
       "filename_stem": "1016",
       "uploaded_at": "2026-10-02T12:43:15.971606+00:00"
+    },
+    "a2fbfd16-e103-4ca3-8cf0-b4d800a3c3b9": {
+      "podcast_id": "ehad_beyom",
+      "title": "אמא של ליבי",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2653.wav",
+      "filename_stem": "2653",
+      "uploaded_at": "2026-10-04T06:59:15.889119+00:00"
+    },
+    "bab9e2d0-ca1b-44db-903f-8a5d2917b6e9": {
+      "podcast_id": "pashut_ai",
+      "title": "לראשונה בישראל: בחירות בעידן הבינה המלאכותית 🗳️ | פרק 187 עם שגיא פומרנצבלום",
+      "status": "uploaded",
+      "path": "ivr2:/1/55/101.wav",
+      "filename_stem": "101",
+      "uploaded_at": "2026-10-04T07:01:07.533794+00:00"
     }
   },
   "next_numbers": {
-    "1": 2653,
+    "1": 2654,
     "2": 1017,
     "3": 11,
     "4": 15,
@@ -22609,7 +22625,7 @@
     "25": 9,
     "26": 175,
     "27": 13,
-    "37": 361,
+    "37": 370,
     "38": 11,
     "39": 9,
     "40": 7,
@@ -22617,7 +22633,7 @@
     "24": 15,
     "41": 11,
     "42": 901,
-    "55": 101,
+    "55": 102,
     "43": 111
   }
 }
