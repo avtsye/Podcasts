@@ -284,7 +284,7 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None, run_erro
         and not (force_items or force_count > 0)
     ):
         for entry in entries:
-            key = episode_key(entry)
+            key = episode_key(entry, podcast_id)
             seen.setdefault(
                 key,
                 {
