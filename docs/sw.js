@@ -1,4 +1,4 @@
-const CACHE='podcasts-dashboard-5';
+const CACHE='podcasts-dashboard-6';
 const CORE=['./manifest.webmanifest'];
 
 self.addEventListener('install',event=>{
