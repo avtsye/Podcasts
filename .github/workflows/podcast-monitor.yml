@@ -168,6 +168,7 @@ jobs:
           PODCAST_FORCE_EPISODES: ${{ github.event_name == 'issues' && steps.parse_request.outputs.episodes || '[]' }}
           PODCAST_FORCE_COUNT: ${{ github.event_name == 'issues' && steps.parse_request.outputs.force_count || '0' }}
           PODCAST_FORCE_TARGETS: ${{ github.event_name == 'issues' && steps.parse_request.outputs.targets || '' }}
+          PODCAST_ALLOW_PARTIAL_SUCCESS: ${{ github.event_name == 'schedule' && 'true' || 'false' }}
         if: github.event_name != 'issues' || steps.parse_request.outputs.kind == 'download' || steps.parse_request.outputs.kind == 'redownload'
         run: python -m src.monitor
 
@@ -211,15 +212,17 @@ jobs:
           cfg = json.loads(cfg_path.read_text(encoding="utf-8")) if cfg_path.exists() else {"podcasts":[]}
           feeds = state.get("feeds", {})
           episodes = state.get("episodes", {})
+          run_errors = json.loads(Path("data/run_errors.json").read_text(encoding="utf-8")) if Path("data/run_errors.json").exists() else []
           active = [p for p in cfg.get("podcasts", []) if p.get("enabled", True)]
           errors = [(p.get("name",p.get("id","")), feeds.get(p.get("id",""),{}).get("last_error")) for p in active]
           errors = [(n,e) for n,e in errors if e]
           now = datetime.now(timezone.utc).astimezone(ZoneInfo("Asia/Jerusalem")).strftime("%d/%m/%Y %H:%M")
-          status = "✅ הסתיימה בהצלחה" if os.environ.get("JOB_STATUS") == "success" else "❌ הסתיימה עם שגיאה"
+          status = ("⚠️ הסתיימה חלקית" if run_errors else "✅ הסתיימה בהצלחה") if os.environ.get("JOB_STATUS") == "success" else "❌ הסתיימה עם שגיאה"
           print(f"### {status} — {now}\n")
           print(f"- פודקאסטים פעילים: **{len(active)}**")
           print(f"- פרקים במצב המעקב: **{len(episodes)}**")
           print(f"- פידים עם שגיאה אחרונה: **{len(errors)}**")
+          print(f"- שגיאות פרק/יעד בריצה: **{len(run_errors)}**")
           if errors:
               print("\n**שגיאות:**")
               for name,error in errors[:10]:
