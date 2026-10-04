@@ -5,7 +5,7 @@ import os
 import re
 import tempfile
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -29,12 +29,52 @@ def load_config():
     return json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
 
 
-def episode_key(entry):
+def episode_identity(entry):
     value = (entry.get("id") or entry.get("guid") or "").strip()
     if value:
         return value
     fallback = enclosure_url(entry) or entry.get("link") or entry.get("title", "")
     return hashlib.sha256(fallback.encode("utf-8")).hexdigest()
+
+
+def episode_key(entry, podcast_id=None):
+    """Return a collision-safe key while keeping legacy GUID compatibility."""
+    base = episode_identity(entry)
+    return f"{podcast_id}:{base}" if podcast_id else base
+
+
+RETRY_DELAYS = (3600, 6 * 3600, 24 * 3600, 72 * 3600)
+
+
+def retry_due(record):
+    retry_at = (record or {}).get("next_retry")
+    if not retry_at:
+        return True
+    try:
+        return datetime.fromisoformat(retry_at) <= datetime.now(timezone.utc)
+    except (TypeError, ValueError):
+        return True
+
+
+def retry_fields(previous):
+    attempts = int((previous or {}).get("attempt_count", 0) or 0) + 1
+    delay = RETRY_DELAYS[min(attempts - 1, len(RETRY_DELAYS) - 1)]
+    return {
+        "attempt_count": attempts,
+        "next_retry": (datetime.now(timezone.utc) + timedelta(seconds=delay)).isoformat(),
+    }
+
+
+def migrate_legacy_record(store, entry, podcast_id):
+    """Move a pre-namespaced episode key without causing duplicate uploads."""
+    key = episode_key(entry, podcast_id)
+    legacy_key = episode_key(entry)
+    if key not in store and legacy_key in store:
+        legacy = store.get(legacy_key) or {}
+        legacy_pid = legacy.get("podcast_id")
+        if legacy_pid in (None, "", podcast_id):
+            store[key] = store.pop(legacy_key)
+    return key, store.get(key)
 
 
 def enclosure_url(entry):
@@ -164,15 +204,34 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None, run_erro
 
     history_mode = os.getenv("PODCAST_HISTORY_MODE", "false").lower() in {"1", "true", "yes", "on"}
     requested_count = int(os.getenv("PODCAST_COUNT", "0") or "0")
+    all_entries = list(feed.entries)
+    seen = state.setdefault("episodes", {})
 
     if history_mode:
-        entries = list(feed.entries)
+        entries = all_entries
         print(f"History mode: RSS exposes {len(entries)} episodes for this feed.")
     elif requested_count > 0:
-        entries = list(feed.entries[:requested_count])
+        entries = all_entries[:requested_count]
         print(f"Latest mode: checking the newest {len(entries)} episodes for this feed.")
     else:
-        entries = list(feed.entries[: int(settings.get("max_episodes_per_feed", 10))])
+        min_scan = max(1, int(settings.get("max_episodes_per_feed", 10)))
+        max_scan = max(min_scan, int(settings.get("max_scan_per_feed", 500)))
+        entries = []
+        for candidate in all_entries[:max_scan]:
+            entries.append(candidate)
+            new_key = episode_key(candidate, podcast_id)
+            legacy_key = episode_key(candidate)
+            known = seen.get(new_key) or seen.get(legacy_key)
+            if (
+                len(entries) >= min_scan
+                and known
+                and known.get("status") not in {"error"}
+            ):
+                break
+        print(
+            f"Incremental scan: checking {len(entries)} episode(s) "
+            f"(minimum {min_scan}, cap {max_scan})."
+        )
 
     batch_offset = int(os.getenv("PODCAST_BATCH_OFFSET", "0") or "0")
     batch_count = int(os.getenv("PODCAST_BATCH_COUNT", "0") or "0")
@@ -187,7 +246,6 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None, run_erro
         "1", "true", "yes", "on"
     }
 
-    seen = state.setdefault("episodes", {})
     force_items = []
     try:
         force_items = json.loads(os.getenv("PODCAST_FORCE_EPISODES", "[]") or "[]")
@@ -200,12 +258,12 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None, run_erro
         list(feed.entries)[force_offset:force_offset + force_count]
         if force_count > 0 else []
     )
-    force_keys = {episode_key(entry) for entry in force_slice}
+    force_keys = {episode_key(entry, podcast_id) for entry in force_slice}
     def force_match(entry, key):
         title = (entry.get("title", "") or "").strip()
         link = (entry.get("link", "") or "").strip()
         audio = (enclosure_url(entry) or "").strip()
-        candidates = {key, title, link, audio}
+        candidates = {key, episode_key(entry), title, link, audio}
         folded = {value.casefold() for value in candidates if value}
         return key in force_keys or any(
             item.strip() in candidates or item.strip().casefold() in folded
@@ -245,17 +303,24 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None, run_erro
     new_count = 0
 
     for entry in reversed(entries):
-        key = episode_key(entry)
-        current = seen.get(key)
+        key, current = migrate_legacy_record(seen, entry, podcast_id)
+        legacy_key = episode_key(entry)
         previous_current = dict(current) if current else None
         if missing_only and current and current.get("status") == "bootstrap":
             # Bootstrap means "known to the RSS", not "uploaded".
             # For a full-history missing-only run, process these episodes
             # without forcing replacement of already uploaded files.
             current = None
-        yemos_record = yemos_episodes.get(key, {})
+        _, yemos_record = migrate_legacy_record(yemos_episodes, entry, podcast_id)
+        yemos_record = yemos_record or {}
         previous_yemos_record = dict(yemos_record) if yemos_record else {}
         forced = force_match(entry, key)
+        if current and current.get("status") == "error" and not forced and not retry_due(current):
+            print(
+                f"Retry backoff active: {current.get('title', key)} "
+                f"until {current.get('next_retry')}."
+            )
+            continue
         explicit_force_request = bool(force_items or force_count > 0)
         if explicit_force_request and not forced:
             continue
@@ -305,7 +370,10 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None, run_erro
             and settings.get("yemos_enabled", True)
             and yemos_record.get("status") != "uploaded"
             and audio_url
-            and (force_yemos or not explicit_force_request)
+            and (
+                force_yemos
+                or (not explicit_force_request and retry_due(yemos_record))
+            )
         ):
             filename = safe_filename(title, audio_url)
             branch = podcast.get("yemos_branch", "1")
@@ -371,6 +439,7 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None, run_erro
                     "filename_stem": yemos_number,
                     "error": str(exc),
                     "updated_at": utc_now(),
+                    **retry_fields(previous_yemos_record),
                 }
                 save_yemos_state(yemos_state)
                 print(f"WARNING: Yemos retry failed for {title}: {exc}")
@@ -511,6 +580,7 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None, run_erro
                             "status": "error",
                             "error": str(exc),
                             "updated_at": utc_now(),
+                            **retry_fields(previous_yemos_record),
                         }
                         save_yemos_state(yemos_state)
                         record["yemos_status"] = "error"
@@ -545,6 +615,7 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None, run_erro
                 "status": "error",
                 "error": str(exc),
                 "updated_at": utc_now(),
+                **retry_fields(previous_current),
             }
             feeds.setdefault(podcast_id, {})["last_error"] = str(exc)
             save_state(state)
@@ -642,9 +713,10 @@ def main():
         raise SystemExit("All selected podcast feeds failed: " + details)
 
     if run_errors:
-        raise SystemExit(
-            f"Run completed with {len(run_errors)} episode/target error(s). "
-            "See CURRENT RUN ERRORS above."
+        print(
+            f"PARTIAL SUCCESS: {len(run_errors)} episode/target error(s) "
+            "were recorded and will be retried with backoff. "
+            "Completed uploads remain successful and can still be reported."
         )
 
 
