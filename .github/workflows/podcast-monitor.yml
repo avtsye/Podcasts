@@ -45,7 +45,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           ref: main
 
@@ -53,7 +53,7 @@ jobs:
         run: git pull --ff-only origin main
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: "pip"
@@ -74,7 +74,7 @@ jobs:
           from pathlib import Path
 
           config = json.loads(Path("config/podcasts.json").read_text(encoding="utf-8"))
-          required = ["GOOGLE_TOKEN_JSON", "GITHUB_TOKEN", "GITHUB_REPOSITORY"]
+          required = ["GOOGLE_TOKEN_JSON", "YEMOS_TOKEN", "GITHUB_TOKEN", "GITHUB_REPOSITORY"]
           missing = [name for name in required if not os.getenv(name)]
 
           if missing:
@@ -155,6 +155,7 @@ jobs:
           gh issue comment "$ISSUE_NUMBER" --body "✅ הרשימה עודכנה ב-Issue הקבוע: #24"
 
       - name: Monitor RSS feeds
+        id: monitor_step
         env:
           GOOGLE_TOKEN_JSON: ${{ secrets.GOOGLE_TOKEN_JSON }}
           YEMOS_TOKEN: ${{ secrets.YEMOS_TOKEN }}
@@ -167,11 +168,12 @@ jobs:
           PODCAST_FORCE_EPISODES: ${{ github.event_name == 'issues' && steps.parse_request.outputs.episodes || '[]' }}
           PODCAST_FORCE_COUNT: ${{ github.event_name == 'issues' && steps.parse_request.outputs.force_count || '0' }}
           PODCAST_FORCE_TARGETS: ${{ github.event_name == 'issues' && steps.parse_request.outputs.targets || '' }}
+          PODCAST_ALLOW_PARTIAL_SUCCESS: ${{ github.event_name == 'schedule' && 'true' || 'false' }}
         if: github.event_name != 'issues' || steps.parse_request.outputs.kind == 'download' || steps.parse_request.outputs.kind == 'redownload'
         run: python -m src.monitor
 
       - name: Notify Yemos about new podcast uploads
-        if: success() && (github.event_name != 'issues' || steps.parse_request.outputs.kind == 'download' || steps.parse_request.outputs.kind == 'redownload')
+        if: always() && steps.monitor_step.outcome != 'skipped' && (github.event_name != 'issues' || steps.parse_request.outputs.kind == 'download' || steps.parse_request.outputs.kind == 'redownload')
         env:
           YEMOS_TOKEN: ${{ secrets.YEMOS_TOKEN }}
         run: python -m src.yemos_run_report
@@ -210,15 +212,17 @@ jobs:
           cfg = json.loads(cfg_path.read_text(encoding="utf-8")) if cfg_path.exists() else {"podcasts":[]}
           feeds = state.get("feeds", {})
           episodes = state.get("episodes", {})
+          run_errors = json.loads(Path("data/run_errors.json").read_text(encoding="utf-8")) if Path("data/run_errors.json").exists() else []
           active = [p for p in cfg.get("podcasts", []) if p.get("enabled", True)]
           errors = [(p.get("name",p.get("id","")), feeds.get(p.get("id",""),{}).get("last_error")) for p in active]
           errors = [(n,e) for n,e in errors if e]
           now = datetime.now(timezone.utc).astimezone(ZoneInfo("Asia/Jerusalem")).strftime("%d/%m/%Y %H:%M")
-          status = "✅ הסתיימה בהצלחה" if os.environ.get("JOB_STATUS") == "success" else "❌ הסתיימה עם שגיאה"
+          status = ("⚠️ הסתיימה חלקית" if run_errors else "✅ הסתיימה בהצלחה") if os.environ.get("JOB_STATUS") == "success" else "❌ הסתיימה עם שגיאה"
           print(f"### {status} — {now}\n")
           print(f"- פודקאסטים פעילים: **{len(active)}**")
           print(f"- פרקים במצב המעקב: **{len(episodes)}**")
           print(f"- פידים עם שגיאה אחרונה: **{len(errors)}**")
+          print(f"- שגיאות פרק/יעד בריצה: **{len(run_errors)}**")
           if errors:
               print("\n**שגיאות:**")
               for name,error in errors[:10]:

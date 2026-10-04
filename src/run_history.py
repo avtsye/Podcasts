@@ -54,15 +54,15 @@ def update_issue(entries):
         "",
         "העמוד מתעדכן אוטומטית ומציג את 20 הריצות האחרונות.",
         "",
-        "| זמן בישראל | סוג | מצב | פרקים שהועלו | פודקאסטים עם שגיאה |",
-        "|---|---|---|---:|---:|",
+        "| זמן בישראל | סוג | מצב | פרקים שהועלו | שגיאות יעד/פרק | פודקאסטים עם שגיאה |",
+        "|---|---|---|---:|---:|---:|",
     ]
     for entry in entries[:20]:
-        icon = "✅" if entry.get("status") == "success" else "❌"
+        icon = "⚠️" if entry.get("partial") else ("✅" if entry.get("status") == "success" else "❌")
         lines.append(
             f"| {entry.get('israel_time','')} | {entry.get('event','')} | "
             f"{icon} {entry.get('status','')} | {entry.get('uploads',0)} | "
-            f"{entry.get('feed_errors',0)} |"
+            f"{entry.get('target_errors',0)} | {entry.get('feed_errors',0)} |"
         )
     body = "\n".join(lines) + "\n"
 
@@ -86,6 +86,7 @@ def update_issue(entries):
 def main():
     state = read_json(Path("data/state.json"), {"feeds": {}})
     manifest = read_json(Path("data/run_uploads.json"), [])
+    run_errors = read_json(Path("data/run_errors.json"), [])
     feeds = state.get("feeds", {})
     errors = [key for key, value in feeds.items() if value.get("last_error")]
 
@@ -100,6 +101,8 @@ def main():
         "israel_time": local.strftime("%d/%m/%Y %H:%M"),
         "uploads": len(manifest),
         "feed_errors": len(errors),
+        "target_errors": len(run_errors),
+        "partial": bool(manifest and run_errors),
         "run_url": os.getenv("RUN_URL", ""),
         "items": manifest[:50],
     }

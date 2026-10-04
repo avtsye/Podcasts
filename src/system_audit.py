@@ -156,6 +156,7 @@ except Exception as exc:
 
 print("== RSS feeds ==")
 rss_counts = {}
+media_warnings = []
 for p in podcasts:
     if not p.get("enabled", True):
         continue
@@ -166,6 +167,59 @@ for p in podcasts:
         fail(f"{p['name']}: active RSS returned 0 episodes")
     else:
         print(f"RSS OK: {p['name']}: {count}")
+
+    # RSS parsing alone is not enough: a feed may be healthy while its audio
+    # CDN rejects GitHub-hosted runners. Probe only the newest enclosure and
+    # request a single byte so the audit remains lightweight.
+    if parsed.entries:
+        entry = parsed.entries[0]
+        audio = None
+        for enclosure in entry.get("enclosures") or []:
+            audio = enclosure.get("href") or enclosure.get("url")
+            if audio:
+                break
+        if audio:
+            try:
+                probe = requests.get(
+                    audio,
+                    headers={
+                        "Range": "bytes=0-0",
+                        "User-Agent": (
+                            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                            "AppleWebKit/537.36 Chrome/154 Safari/537.36"
+                        ),
+                        "Accept": "audio/*,*/*;q=0.8",
+                    },
+                    stream=True,
+                    allow_redirects=True,
+                    timeout=(10, 20),
+                )
+                if probe.status_code >= 400:
+                    msg = f"{p['name']}: newest media probe returned HTTP {probe.status_code}"
+                    media_warnings.append(msg)
+                    warn(msg)
+                else:
+                    print(f"MEDIA OK: {p['name']}: HTTP {probe.status_code}")
+                probe.close()
+            except Exception as exc:
+                msg = f"{p['name']}: newest media probe failed: {exc}"
+                media_warnings.append(msg)
+                warn(msg)
+
+print("== Yemos path invariants ==")
+try:
+    from src.yemos import _build_destination
+    if _build_destination("7.wav", "2") != "ivr2:/1/2/7.wav":
+        fail("Yemos numeric destination invariant failed")
+    try:
+        _build_destination("bad-name.wav", "2")
+    except Exception:
+        pass
+    else:
+        fail("Yemos accepted a non-numeric audio filename")
+    print("Yemos path invariants OK")
+except Exception as exc:
+    fail(f"Yemos path invariant check failed: {exc}")
 
 print("== Public episode index ==")
 index = read_json(INDEX)
