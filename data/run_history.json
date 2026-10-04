@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-04T20:01:27.113927+00:00",
+  "updated_at": "2026-10-04T21:33:57.026814+00:00",
   "runs": [
+    {
+      "run_id": "37236448637",
+      "run_number": "152",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-04T21:33:57.026814+00:00",
+      "israel_time": "05/10/2026 00:33",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37236448637",
+      "items": [
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1258 - ח״כ אפרת רייטן",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1017.wav"
+          ],
+          "drive_filename": "פרק #1258 - ח״כ אפרת רייטן.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1Gf5QTJ1zrrUhjnJ-bh09xYQrAKJ5xmnZ/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1017.wav"
+        },
+        {
+          "podcast": "חיים של אחרים",
+          "title": "חיים של אחרים | 04.10.26",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/17/12.wav"
+          ],
+          "drive_filename": "חיים של אחרים _ 04.10.26.mp3",
+          "drive_folder": "חיים של אחרים",
+          "drive_url": "https://drive.google.com/file/d/1Vi6Qn-PjL5-D_66VtGLMjSETehQkdLVe/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/17/12.wav"
+        }
+      ]
+    },
     {
       "run_id": "37230411343",
       "run_number": "151",
