@@ -19191,14 +19191,6 @@
       "filename_stem": "90",
       "uploaded_at": "2026-10-02T06:52:47.857877+00:00"
     },
-    "bf74c4ed-4aeb-40f4-95ec-83e76001850e": {
-      "podcast_id": "pashut_ai",
-      "title": "שוק התעסוקה ומיסוי על סוכני בינה מלאכותית(?) 📠 | פרק 177 עם אפרת בכר-נתנאל, מכון מוזאיק",
-      "status": "uploaded",
-      "path": "ivr2:/1/55/91.wav",
-      "filename_stem": "91",
-      "uploaded_at": "2026-10-02T06:53:09.774432+00:00"
-    },
     "https://api.spreaker.com/episode/47125129": {
       "podcast_id": "osim_software",
       "title": "אש ותמרות עשן בפרודקשן [עושים תוכנה]",
@@ -20308,9 +20300,9 @@
       "status": "error",
       "filename_stem": "12",
       "error": "UploadFile finalization query retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-10-04T12:05:08.499310+00:00",
-      "attempt_count": 1,
-      "next_retry": "2026-10-04T13:05:08.499340+00:00"
+      "updated_at": "2026-10-04T13:14:38.267823+00:00",
+      "attempt_count": 2,
+      "next_retry": "2026-10-04T19:14:38.267844+00:00"
     },
     "hatshuva:https://api.spreaker.com/episode/69401998": {
       "podcast_id": "hatshuva",
@@ -22808,6 +22800,14 @@
       "path": "ivr2:/1/55/101.wav",
       "filename_stem": "101",
       "uploaded_at": "2026-10-04T07:01:07.533794+00:00"
+    },
+    "pashut_ai:bf74c4ed-4aeb-40f4-95ec-83e76001850e": {
+      "podcast_id": "pashut_ai",
+      "title": "שוק התעסוקה ומיסוי על סוכני בינה מלאכותית(?) 📠 | פרק 177 עם אפרת בכר-נתנאל, מכון מוזאיק",
+      "status": "uploaded",
+      "path": "ivr2:/1/55/91.wav",
+      "filename_stem": "91",
+      "uploaded_at": "2026-10-02T06:53:09.774432+00:00"
     }
   },
   "next_numbers": {
