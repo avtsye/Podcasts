@@ -1,5 +1,6 @@
 import os
 import re
+import time
 from pathlib import Path
 from uuid import uuid4
 
@@ -130,12 +131,16 @@ def _upload_small(source, destination, token):
 
 def _upload_large(source, destination, token):
     total_size = source.stat().st_size
-    # Fine Uploader/Yemos expects qqfilename to be the original uploaded file name,
-    # not the destination name. The destination remains numeric (e.g. 12.wav),
-    # while qqfilename must describe the source bytes (usually an .mp3 file).
-    remote_filename = source.name
     total_parts = (total_size + CHUNK_SIZE - 1) // CHUNK_SIZE
     upload_uuid = str(uuid4())
+
+    # qqfilename is only Fine Uploader metadata; the real destination is the
+    # numeric WAV path above. Keep this metadata ASCII-only because Yemos'
+    # chunk finalizer may reject Hebrew, emoji or punctuation in qqfilename.
+    suffix = source.suffix.lower()
+    if not re.fullmatch(r"\.[a-z0-9]{1,8}", suffix):
+        suffix = ".mp3"
+    remote_filename = f"podcast-{upload_uuid}{suffix}"
 
     offset = 0
 
@@ -217,22 +222,36 @@ def _upload_large(source, destination, token):
             operation="UploadFile finalization",
         )
     except YemosError as exc:
-        # Reuse the already-uploaded chunks and retry finalization once.
-        # Some Yemos deployments handle the join parameters more reliably
-        # in the query string, and this also avoids re-uploading large files.
+        # Reuse the uploaded chunks. Retry the documented ?done request with
+        # identical form data after a short delay; some deployments need time
+        # to persist the final chunk before joining.
         print(
             f"Yemos upload: finalization failed ({exc}); "
-            "retrying finalization with query parameters."
+            "retrying the join after a short delay."
         )
+        time.sleep(2)
         retry = requests.post(
-            f"{API_BASE}/UploadFile",
-            params={"done": "", **final_params},
+            f"{API_BASE}/UploadFile?done",
+            data=final_params,
             timeout=(30, 1800),
         )
-        return _parse_response(
-            retry,
-            operation="UploadFile finalization retry",
-        )
+        try:
+            return _parse_response(
+                retry,
+                operation="UploadFile finalization retry",
+            )
+        except YemosError:
+            # Last compatibility fallback: a few deployments parse the join
+            # metadata from the query string instead of the form body.
+            query_retry = requests.post(
+                f"{API_BASE}/UploadFile?done",
+                params=final_params,
+                timeout=(30, 1800),
+            )
+            return _parse_response(
+                query_retry,
+                operation="UploadFile finalization query retry",
+            )
 
 
 def upload_audio(local_path, podcast_name, filename, branch="1"):
