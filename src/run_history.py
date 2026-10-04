@@ -58,7 +58,7 @@ def update_issue(entries):
         "|---|---|---|---:|---:|---:|",
     ]
     for entry in entries[:20]:
-        icon = "✅" if entry.get("status") == "success" else "❌"
+        icon = "⚠️" if entry.get("partial") else ("✅" if entry.get("status") == "success" else "❌")
         lines.append(
             f"| {entry.get('israel_time','')} | {entry.get('event','')} | "
             f"{icon} {entry.get('status','')} | {entry.get('uploads',0)} | "
