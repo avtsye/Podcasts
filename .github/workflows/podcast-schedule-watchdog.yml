@@ -1,0 +1,107 @@
+name: Podcast Schedule Watchdog
+
+on:
+  schedule:
+    # Four independent chances per hour. The watchdog only dispatches the
+    # monitor when no automatic monitor run has started recently.
+    - cron: "3,18,33,48 * * * *"
+  workflow_dispatch:
+
+permissions:
+  actions: read
+  contents: write
+
+concurrency:
+  group: podcast-schedule-watchdog
+  cancel-in-progress: true
+
+jobs:
+  ensure-hourly-monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check latest automatic monitor and recover if stale
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          API_URL: ${{ github.api_url }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import urllib.request
+          from datetime import datetime, timezone
+
+          repo = os.environ["REPO"]
+          api = os.environ["API_URL"].rstrip("/")
+          token = os.environ["GH_TOKEN"]
+          headers = {
+              "Accept": "application/vnd.github+json",
+              "Authorization": f"Bearer {token}",
+              "X-GitHub-Api-Version": "2022-11-28",
+              "User-Agent": "podcast-schedule-watchdog",
+          }
+
+          def request(method, url, payload=None):
+              data = None if payload is None else json.dumps(payload).encode("utf-8")
+              req = urllib.request.Request(url, data=data, headers=headers, method=method)
+              with urllib.request.urlopen(req, timeout=30) as response:
+                  body = response.read()
+                  return json.loads(body) if body else None
+
+          runs = request(
+              "GET",
+              f"{api}/repos/{repo}/actions/runs?per_page=100",
+          ).get("workflow_runs", [])
+
+          auto_events = {"schedule", "repository_dispatch"}
+          monitor_runs = [
+              run for run in runs
+              if run.get("name") == "Podcast Monitor"
+              and run.get("event") in auto_events
+          ]
+
+          now = datetime.now(timezone.utc)
+          recent = None
+          for run in monitor_runs:
+              raw = run.get("run_started_at") or run.get("created_at")
+              if not raw:
+                  continue
+              started = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+              age_minutes = (now - started).total_seconds() / 60
+              if recent is None or age_minutes < recent[0]:
+                  recent = (age_minutes, run)
+
+          # Keep the monitor close to hourly without creating duplicate runs.
+          # A 65-minute threshold leaves enough room for normal GitHub cron
+          # jitter while still recovering quickly from missed schedule events.
+          if recent and recent[0] < 65:
+              age, run = recent
+              print(
+                  f"Automatic Podcast Monitor is healthy: "
+                  f"latest run #{run.get('run_number')} started {age:.1f} minutes ago."
+              )
+              raise SystemExit(0)
+
+          if recent:
+              print(
+                  f"Latest automatic Podcast Monitor is stale "
+                  f"({recent[0]:.1f} minutes old). Dispatching recovery run."
+              )
+          else:
+              print("No recent automatic Podcast Monitor run found. Dispatching recovery run.")
+
+          request(
+              "POST",
+              f"{api}/repos/{repo}/dispatches",
+              {
+                  "event_type": "podcast_manual",
+                  "client_payload": {
+                      "mode": "latest",
+                      "count": "0",
+                      "podcasts": "",
+                      "source": "schedule-watchdog",
+                  },
+              },
+          )
+          print("Recovery repository_dispatch sent successfully.")
+          PY
