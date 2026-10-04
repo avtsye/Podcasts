@@ -659,7 +659,9 @@ def main():
     run_uploads = []
     run_errors = []
     manifest_path = Path("data/run_uploads.json")
+    errors_path = Path("data/run_errors.json")
     manifest_path.write_text("[]\n", encoding="utf-8")
+    errors_path.write_text("[]\n", encoding="utf-8")
 
     for podcast in podcasts:
         try:
@@ -668,6 +670,10 @@ def main():
             )
             manifest_path.write_text(
                 json.dumps(run_uploads, ensure_ascii=False, indent=2) + "\n",
+                encoding="utf-8",
+            )
+            errors_path.write_text(
+                json.dumps(run_errors, ensure_ascii=False, indent=2) + "\n",
                 encoding="utf-8",
             )
         except Exception as exc:
@@ -693,6 +699,14 @@ def main():
 
     save_state(state)
     save_yemos_state(yemos_state)
+    manifest_path.write_text(
+        json.dumps(run_uploads, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    errors_path.write_text(
+        json.dumps(run_errors, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
 
     print(
         f"Podcast monitor finished: {total_processed} episode(s) processed, "
