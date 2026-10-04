@@ -1,6 +1,331 @@
 {
-  "updated_at": "2026-10-04T07:01:09.274964+00:00",
+  "updated_at": "2026-10-04T12:17:50.393643+00:00",
   "runs": [
+    {
+      "run_id": "37200840957",
+      "run_number": "147",
+      "event": "repository_dispatch",
+      "status": "failure",
+      "utc_time": "2026-10-04T12:17:50.393643+00:00",
+      "israel_time": "04/10/2026 15:17",
+      "uploads": 26,
+      "feed_errors": 1,
+      "target_errors": 12,
+      "partial": true,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37200840957",
+      "items": [
+        {
+          "podcast": "ילדין",
+          "title": "ילדין - פרק 1 - לחיצת היד",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/370.wav"
+          ],
+          "drive_filename": "ילדין - פרק 1 - לחיצת היד.mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/1EcCIxLNBxBqk3uth0VjzXpnDA01zKJzh/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/370.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "ילדין פרק 2 - זיהום בים",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/371.wav"
+          ],
+          "drive_filename": "ילדין פרק 2 - זיהום בים.mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/1s57Y8slYi71w82mcMTJCR21MT0ehzKvW/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/371.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "ילדין - פרק 3 - בית העץ",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/372.wav"
+          ],
+          "drive_filename": "ילדין - פרק 3 - בית העץ.mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/1I28MjbPTvtfV80KCMJrSvgfkBfnbQn2F/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/372.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "ילדין - פרק 4 - ההפגנה או להציל את הדיונה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/373.wav"
+          ],
+          "drive_filename": "ילדין - פרק 4 - ההפגנה או להציל את הדיונה.mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/1Cd5cX469qCZY1jv92cgA7rIxqhHSfA8d/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/373.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "ילדין - פרק 5 - חלון שבור",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/374.wav"
+          ],
+          "drive_filename": "ילדין - פרק 5 - חלון שבור.mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/1x_LZ-L096QcWjpkHmwcGwgsANDOAGS8u/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/374.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "ילדין - פרק 6 - גניבת האיגואנה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/375.wav"
+          ],
+          "drive_filename": "ילדין - פרק 6 - גניבת האיגואנה.mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/1rrBFJRsWHUXY8Mt-khlMFn15F4qJ3OVA/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/375.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "ילדין - החוזה מבוטל במכולת ( עונה 2, פרק 1)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/376.wav"
+          ],
+          "drive_filename": "ילדין - החוזה מבוטל במכולת ( עונה 2, פרק 1).mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/1vi0xbzAYgt-CrJqz5nUKNchzzYXjn7sz/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/376.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "ילדין - צרות בלונה פארק (עונה 2, פרק 2)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/377.wav"
+          ],
+          "drive_filename": "ילדין - צרות בלונה פארק (עונה 2, פרק 2).mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/1BkOCW9yLn6hPk58XKCrZDin7Pk-DGr4D/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/377.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "משחק מחשב (עונה 2, פרק 3)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/378.wav"
+          ],
+          "drive_filename": "משחק מחשב (עונה 2, פרק 3).mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/12DOaMoSvBS_NZASfpXyBGtYhPkXblmSF/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/378.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "המתנפח - (עונה 2, פרק 4)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/379.wav"
+          ],
+          "drive_filename": "המתנפח - (עונה 2, פרק 4).mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/1G0i_ztQhPj-y4p8LcLTtWS9-h66QIn8m/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/379.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "המשפט - (עונה 2, פרק 5)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/380.wav"
+          ],
+          "drive_filename": "המשפט - (עונה 2, פרק 5).mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/1E_RewUDEeAw7YkKS_oRk0Yz2lBSCUC-N/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/380.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "הפיצה - (עונה 2, פרק 6)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/381.wav"
+          ],
+          "drive_filename": "הפיצה - (עונה 2, פרק 6).mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/1Uxeu5yEzL6H5bwPuc2wuxCw8AxgLxq9Z/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/381.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "מיץ טוב (עונה 3, פרק 1)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/382.wav"
+          ],
+          "drive_filename": "מיץ טוב (עונה 3, פרק 1).mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/188wo65uRIwPo3m7nPus7UpWvQR9XHIdh/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/382.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "מאלף גן החיות (עונה 3, פרק 2)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/383.wav"
+          ],
+          "drive_filename": "מאלף גן החיות (עונה 3, פרק 2).mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/1UgT1P_Tz_moFTLKvoZf1K11WJ9oqmkup/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/383.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "רובין הוד (עונה 3, פרק 3)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/384.wav"
+          ],
+          "drive_filename": "רובין הוד (עונה 3, פרק 3).mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/1WoXvKYSs7B0HdbYg-tzhbIjcA6JNz0rf/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/384.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "מתיחה בקולנוע (עונה 3, פרק 4)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/385.wav"
+          ],
+          "drive_filename": "מתיחה בקולנוע (עונה 3, פרק 4).mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/1ZvE_tIq2J8xID0AxgX0BYSqJvsL0Uo5S/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/385.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "מירוץ סוסי הפוני (עונה 3, פרק 5)",
+          "destinations": [
+            "Google Drive"
+          ],
+          "drive_filename": "מירוץ סוסי הפוני (עונה 3, פרק 5).mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/1cLawGCEnwmVur9m3VrVSO6-__lDKlkMB/view?usp=drivesdk"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "הקרמבו (עונה 3, פרק 6)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/387.wav"
+          ],
+          "drive_filename": "הקרמבו (עונה 3, פרק 6).mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/1D0A7V5gMbnXuoc4WGie4ytFJWAks5xOY/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/387.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "ילדין חוזרת! - 15.8 עולים לאוויר עם עונה 4",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/388.wav"
+          ],
+          "drive_filename": "ילדין חוזרת! - 15.8 עולים לאוויר עם עונה 4.mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/1HE_zIJhFzeFUKRirpbywxmsMm4EQvy80/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/388.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "תחרות כתיבה (עונה 4, פרק 1)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/389.wav"
+          ],
+          "drive_filename": "תחרות כתיבה (עונה 4, פרק 1).mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/118H4dJdlKMTTS12EoXElr-yedhZZ597F/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/389.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "באדי הכלב (עונה 4, פרק 2)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/390.wav"
+          ],
+          "drive_filename": "באדי הכלב (עונה 4, פרק 2).mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/1DUIHV6sdNsCSR8e62ynsNdkvW8q5DV6N/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/390.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "יואב מודה באשמה (עונה 4, פרק 3)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/391.wav"
+          ],
+          "drive_filename": "יואב מודה באשמה (עונה 4, פרק 3).mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/1zG5HIDDwB-i147qkHrPl4mH27auQkF-V/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/391.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "הילדים מבקשים חנינה (פרק 4, עונה 4)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/392.wav"
+          ],
+          "drive_filename": "הילדים מבקשים חנינה (פרק 4, עונה 4).mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/1NEDlvBKpzlMm3hdpP1dbcJ5xJTKZb_qW/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/392.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "דוכן הלימונדה (עונה 4, פרק 5)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/393.wav"
+          ],
+          "drive_filename": "דוכן הלימונדה (עונה 4, פרק 5).mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/1OuO8RkXXw-fRxR7STV4VvnrB2-ZR8UQ2/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/393.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "הפרק בו תום ומאיה רבים (עונה 4, פרק 6)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/394.wav"
+          ],
+          "drive_filename": "הפרק בו תום ומאיה רבים (עונה 4, פרק 6).mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/1bMVs7IiQZqObrYkKgplWfDNtIBPIY68o/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/394.wav"
+        },
+        {
+          "podcast": "שלושה שיודעים",
+          "title": "כל הדרכים הן מובילות לרומא?",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/42/901.wav"
+          ],
+          "drive_filename": "כל הדרכים הן מובילות לרומא_.mp3",
+          "drive_folder": "שלושה שיודעים",
+          "drive_url": "https://drive.google.com/file/d/1KRzuLKh0b8MvzQXkMZEEPsKrIA0kpPhV/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/42/901.wav"
+        }
+      ]
+    },
     {
       "run_id": "37184383850",
       "run_number": "146",
