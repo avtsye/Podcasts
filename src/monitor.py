@@ -195,6 +195,9 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None, run_erro
     settings = config.get("settings", {})
     notifications = config.get("notifications", {})
     podcast_id = podcast["id"]
+    requested_targets = os.getenv("PODCAST_TARGETS", "").strip()
+    allow_drive = not requested_targets or "Drive" in requested_targets
+    allow_yemos = not requested_targets or "Yemos" in requested_targets
 
     print(f"Checking: {podcast['name']}")
     feed = feedparser.parse(podcast["rss"])
@@ -367,6 +370,7 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None, run_erro
         if (
             current
             and current.get("drive_file_id")
+            and allow_yemos
             and settings.get("yemos_enabled", True)
             and yemos_record.get("status") != "uploaded"
             and audio_url
@@ -478,8 +482,10 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None, run_erro
 
         filename = safe_filename(title, audio_url)
         branch = podcast.get("yemos_branch", "1")
-        yemos_number = str(next_yemos_number(yemos_state, branch))
-        yemos_filename = f"{yemos_number}.wav"
+        yemos_number = yemos_record.get("filename_stem")
+        if allow_yemos and yemos_record.get("status") != "uploaded" and not yemos_number:
+            yemos_number = str(next_yemos_number(yemos_state, branch))
+        yemos_filename = f"{yemos_number}.wav" if yemos_number else None
 
         try:
             with tempfile.TemporaryDirectory(prefix="podcast_") as temp_dir:
@@ -492,54 +498,69 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None, run_erro
                     int(settings.get("download_timeout_seconds", 1800)),
                 )
 
-                print("Uploading to Google Drive...")
-                drive_file = upload_audio(
-                    local_path,
-                    podcast.get("drive_folder") or podcast["name"],
-                    filename,
-                    settings.get("drive_root_folder", "Podcasts"),
-                    episode_key=key,
-                    podcast_id=podcast_id,
-                    force_replace=force_drive,
-                )
-
+                drive_file = {}
                 record = {
                     "podcast_id": podcast_id,
                     "title": title,
                     "published": entry.get("published", ""),
                     "audio_url": audio_url,
-                    "drive_file_id": drive_file.get("id"),
-                    "drive_url": drive_file.get("webViewLink"),
-                    "drive_filename": filename,
-                    "drive_folder": podcast.get("drive_folder") or podcast["name"],
-                    "status": "uploaded",
-                    "notification_status": "pending",
+                    "status": "yemos_only" if not allow_drive else "uploaded",
+                    "notification_status": "disabled" if not allow_drive else "pending",
                     "yemos_status": "pending",
                     "processed_at": utc_now(),
                 }
-                if force_drive_only:
-                    if previous_yemos_record.get("status") == "uploaded":
-                        record["yemos_status"] = "uploaded"
-                        record["yemos_path"] = previous_yemos_record.get("path")
-                    elif previous_current and previous_current.get("yemos_status"):
-                        record["yemos_status"] = previous_current.get("yemos_status")
-                        if previous_current.get("yemos_path"):
-                            record["yemos_path"] = previous_current.get("yemos_path")
-                seen[key] = record
                 run_item = {
                     "podcast": podcast.get("name", ""),
                     "title": title,
-                    "drive_filename": filename,
-                    "drive_folder": podcast.get("drive_folder") or podcast["name"],
-                    "drive_url": drive_file.get("webViewLink") or "",
-                    "destinations": ["Google Drive"],
+                    "destinations": [],
                 }
-                run_uploads.append(run_item)
+
+                if allow_drive:
+                    print("Uploading to Google Drive...")
+                    drive_file = upload_audio(
+                        local_path,
+                        podcast.get("drive_folder") or podcast["name"],
+                        filename,
+                        settings.get("drive_root_folder", "Podcasts"),
+                        episode_key=key,
+                        podcast_id=podcast_id,
+                        force_replace=force_drive,
+                    )
+                    record.update({
+                        "drive_file_id": drive_file.get("id"),
+                        "drive_url": drive_file.get("webViewLink"),
+                        "drive_filename": filename,
+                        "drive_folder": podcast.get("drive_folder") or podcast["name"],
+                    })
+                    run_item.update({
+                        "drive_filename": filename,
+                        "drive_folder": podcast.get("drive_folder") or podcast["name"],
+                        "drive_url": drive_file.get("webViewLink") or "",
+                    })
+                    run_item["destinations"].append("Google Drive")
+
+                if yemos_record.get("status") == "uploaded" and not force_yemos:
+                    record["yemos_status"] = "uploaded"
+                    record["yemos_path"] = yemos_record.get("path")
+                elif previous_yemos_record.get("status") == "uploaded" and force_drive_only:
+                    record["yemos_status"] = "uploaded"
+                    record["yemos_path"] = previous_yemos_record.get("path")
+                elif previous_current and previous_current.get("yemos_status") and force_drive_only:
+                    record["yemos_status"] = previous_current.get("yemos_status")
+                    if previous_current.get("yemos_path"):
+                        record["yemos_path"] = previous_current.get("yemos_path")
+
+                seen[key] = record
                 feeds.setdefault(podcast_id, {})["last_checked"] = utc_now()
                 feeds[podcast_id]["last_error"] = None
                 save_state(state)
 
-                if settings.get("yemos_enabled", True) and not force_drive_only:
+                if (
+                    allow_yemos
+                    and settings.get("yemos_enabled", True)
+                    and not force_drive_only
+                    and (force_yemos or yemos_record.get("status") != "uploaded")
+                ):
                     try:
                         print(f"Uploading to Yemos: {title} as {yemos_filename}")
                         yemos_file = upload_yemos_audio(
@@ -586,17 +607,22 @@ def process_feed(podcast, config, state, yemos_state, run_uploads=None, run_erro
                         record["yemos_status"] = "error"
                         record["yemos_error"] = str(exc)
                         print(f"WARNING: Yemos upload failed for {title}: {exc}")
-                elif not force_drive_only:
-                    record["yemos_status"] = "disabled"
+                elif not force_drive_only and not allow_yemos:
+                    if yemos_record.get("status") != "uploaded":
+                        record["yemos_status"] = "disabled"
 
                 save_state(state)
 
-            if notifications.get("enabled", True):
+                if run_item["destinations"]:
+                    run_uploads.append(run_item)
+
+            if allow_drive and drive_file.get("id") and notifications.get("enabled", True):
                 queue_notification(podcast, record, drive_file)
                 print(f"Notification queued: {title}")
 
             save_state(state)
-            new_count += 1
+            if run_item["destinations"]:
+                new_count += 1
             print(f"Done: {title}")
 
         except Exception as exc:
