@@ -6,6 +6,10 @@ on:
     # monitor when no automatic monitor run has started recently.
     - cron: "3,18,33,48 * * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/podcast-schedule-watchdog.yml"
 
 permissions:
   actions: read
