@@ -22824,13 +22824,55 @@
       "path": "ivr2:/1/17/12.wav",
       "filename_stem": "12",
       "uploaded_at": "2026-10-04T21:33:34.236448+00:00"
+    },
+    "ehad_beyom:b4443b21-5352-4165-a998-b4d900e5bce8": {
+      "podcast_id": "ehad_beyom",
+      "title": "הניצול משכונת הכרם",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2654.wav",
+      "filename_stem": "2654",
+      "uploaded_at": "2026-10-05T07:07:27.816324+00:00"
+    },
+    "osim_tech:https://api.spreaker.com/episode/75283543": {
+      "podcast_id": "osim_tech",
+      "title": "ש.ח.  שמענו שנפטרת, האם זה נכון? [עושים טכנולוגיה]",
+      "status": "error",
+      "error": "UploadFile finalization query retry failed: Invalid file identifier or file name.",
+      "updated_at": "2026-10-05T07:08:14.938466+00:00",
+      "attempt_count": 1,
+      "next_retry": "2026-10-05T08:08:14.938488+00:00"
+    },
+    "osim_historia:https://api.spreaker.com/episode/75567734": {
+      "podcast_id": "osim_historia",
+      "title": "ישראל קסטנר - בוגד או גיבור? [עושים היסטוריה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/27/13.wav",
+      "filename_stem": "13",
+      "uploaded_at": "2026-10-05T07:09:51.095150+00:00"
+    },
+    "three_who_know:ec12c959-7304-43ef-a0d0-b4da00517c09": {
+      "podcast_id": "three_who_know",
+      "title": "שבי איתי עד שאגדל",
+      "status": "error",
+      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "updated_at": "2026-10-05T07:10:32.551311+00:00",
+      "attempt_count": 1,
+      "next_retry": "2026-10-05T08:10:32.551338+00:00"
+    },
+    "hatzolelet:f4fea73f-231e-4204-af6d-b4d900cf57df": {
+      "podcast_id": "hatzolelet",
+      "title": "האם ההייטק הישראלי בורח לחו\"ל? שיחה עם יו\"ר רשות החדשנות | פרק 389",
+      "status": "uploaded",
+      "path": "ivr2:/1/50/1.wav",
+      "filename_stem": "1",
+      "uploaded_at": "2026-10-05T07:11:05.662741+00:00"
     }
   },
   "next_numbers": {
-    "1": 2654,
+    "1": 2655,
     "2": 1018,
     "3": 11,
-    "4": 15,
+    "4": 16,
     "5": 12,
     "6": 288,
     "7": 13,
@@ -22851,7 +22893,7 @@
     "23": 13,
     "25": 9,
     "26": 175,
-    "27": 13,
+    "27": 14,
     "37": 425,
     "38": 11,
     "39": 9,
@@ -22859,8 +22901,9 @@
     "20": 17,
     "24": 15,
     "41": 11,
-    "42": 902,
+    "42": 903,
     "55": 102,
-    "43": 111
+    "43": 111,
+    "50": 2
   }
 }
