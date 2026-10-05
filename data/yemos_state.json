@@ -22839,9 +22839,9 @@
       "status": "error",
       "filename_stem": "16",
       "error": "UploadFile finalization query retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-10-05T08:45:56.974962+00:00",
-      "attempt_count": 2,
-      "next_retry": "2026-10-05T14:45:56.974982+00:00"
+      "updated_at": "2026-10-05T16:06:12.140835+00:00",
+      "attempt_count": 3,
+      "next_retry": "2026-10-06T16:06:12.140856+00:00"
     },
     "osim_historia:https://api.spreaker.com/episode/75567734": {
       "podcast_id": "osim_historia",
@@ -22866,6 +22866,14 @@
       "path": "ivr2:/1/50/1.wav",
       "filename_stem": "1",
       "uploaded_at": "2026-10-05T07:11:05.662741+00:00"
+    },
+    "al_halal:Buzzsprout-19908477": {
+      "podcast_id": "al_halal",
+      "title": "פרק 77, חלק ב' - נשים בחלל",
+      "status": "uploaded",
+      "path": "ivr2:/1/52/1.wav",
+      "filename_stem": "1",
+      "uploaded_at": "2026-10-05T16:06:54.718085+00:00"
     }
   },
   "next_numbers": {
@@ -22904,6 +22912,7 @@
     "42": 904,
     "55": 102,
     "43": 111,
-    "50": 2
+    "50": 2,
+    "52": 2
   }
 }

@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-05T08:47:07.520472+00:00",
+  "updated_at": "2026-10-05T16:07:00.302683+00:00",
   "runs": [
+    {
+      "run_id": "37338012648",
+      "run_number": "157",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-05T16:07:00.302683+00:00",
+      "israel_time": "05/10/2026 19:07",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 1,
+      "partial": true,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37338012648",
+      "items": [
+        {
+          "podcast": "על-חלל",
+          "title": "פרק 77, חלק ב' - נשים בחלל",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/52/1.wav"
+          ],
+          "drive_filename": "פרק 77, חלק ב' - נשים בחלל.mp3",
+          "drive_folder": "על-חלל",
+          "drive_url": "https://drive.google.com/file/d/1594fjNMddw7T7rE10RXzFGltDWaP0N8f/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/52/1.wav"
+        }
+      ]
+    },
     {
       "run_id": "37285604141",
       "run_number": "156",
