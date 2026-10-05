@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-10-05T07:11:13.238644+00:00",
+  "updated_at": "2026-10-05T08:47:07.520472+00:00",
   "runs": [
+    {
+      "run_id": "37285604141",
+      "run_number": "156",
+      "event": "repository_dispatch",
+      "status": "failure",
+      "utc_time": "2026-10-05T08:47:07.520472+00:00",
+      "israel_time": "05/10/2026 11:47",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 1,
+      "partial": true,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37285604141",
+      "items": [
+        {
+          "podcast": "שלושה שיודעים",
+          "title": "שבי איתי עד שאגדל",
+          "yemos_path": "ivr2:/1/42/903.wav",
+          "destinations": [
+            "ימות המשיח ivr2:/1/42/903.wav"
+          ]
+        }
+      ]
+    },
     {
       "run_id": "37275920066",
       "run_number": "155",

@@ -22837,10 +22837,11 @@
       "podcast_id": "osim_tech",
       "title": "ש.ח.  שמענו שנפטרת, האם זה נכון? [עושים טכנולוגיה]",
       "status": "error",
+      "filename_stem": "16",
       "error": "UploadFile finalization query retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-10-05T07:08:14.938466+00:00",
-      "attempt_count": 1,
-      "next_retry": "2026-10-05T08:08:14.938488+00:00"
+      "updated_at": "2026-10-05T08:45:56.974962+00:00",
+      "attempt_count": 2,
+      "next_retry": "2026-10-05T14:45:56.974982+00:00"
     },
     "osim_historia:https://api.spreaker.com/episode/75567734": {
       "podcast_id": "osim_historia",
@@ -22853,11 +22854,10 @@
     "three_who_know:ec12c959-7304-43ef-a0d0-b4da00517c09": {
       "podcast_id": "three_who_know",
       "title": "שבי איתי עד שאגדל",
-      "status": "error",
-      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "updated_at": "2026-10-05T07:10:32.551311+00:00",
-      "attempt_count": 1,
-      "next_retry": "2026-10-05T08:10:32.551338+00:00"
+      "status": "uploaded",
+      "path": "ivr2:/1/42/903.wav",
+      "filename_stem": "903",
+      "uploaded_at": "2026-10-05T08:46:56.952980+00:00"
     },
     "hatzolelet:f4fea73f-231e-4204-af6d-b4d900cf57df": {
       "podcast_id": "hatzolelet",
@@ -22872,7 +22872,7 @@
     "1": 2655,
     "2": 1018,
     "3": 11,
-    "4": 16,
+    "4": 17,
     "5": 12,
     "6": 288,
     "7": 13,
@@ -22901,7 +22901,7 @@
     "20": 17,
     "24": 15,
     "41": 11,
-    "42": 903,
+    "42": 904,
     "55": 102,
     "43": 111,
     "50": 2
