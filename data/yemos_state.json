@@ -22962,6 +22962,23 @@
       "path": "ivr2:/1/37/434.wav",
       "filename_stem": "434",
       "uploaded_at": "2026-10-06T03:05:30.572266+00:00"
+    },
+    "maariv_magazine:b98c1ab8-4d35-496b-b799-b4c800e6d917": {
+      "podcast_id": "maariv_magazine",
+      "title": "\"הוא המיידוף של הפוליטיקה הישראלית\": ח\"כ קרויזר סוגר חשבון – ומבקר גם את נתניהו",
+      "status": "uploaded",
+      "path": "ivr2:/1/15/14.wav",
+      "filename_stem": "14",
+      "uploaded_at": "2026-10-06T10:25:20.788565+00:00"
+    },
+    "three_who_know:11ef95df-398c-47ab-a1b0-b4db00595a05": {
+      "podcast_id": "three_who_know",
+      "title": "האור שמאיר עליי",
+      "status": "error",
+      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "updated_at": "2026-10-06T10:26:14.177916+00:00",
+      "attempt_count": 1,
+      "next_retry": "2026-10-06T11:26:14.177939+00:00"
     }
   },
   "next_numbers": {
@@ -22979,7 +22996,7 @@
     "12": 11,
     "13": 11,
     "14": 5,
-    "15": 14,
+    "15": 15,
     "16": 12,
     "17": 13,
     "18": 11,
@@ -22997,7 +23014,7 @@
     "20": 17,
     "24": 15,
     "41": 11,
-    "42": 904,
+    "42": 905,
     "55": 102,
     "43": 111,
     "50": 2,

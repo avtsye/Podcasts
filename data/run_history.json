@@ -1,6 +1,43 @@
 {
-  "updated_at": "2026-10-06T03:05:47.861087+00:00",
+  "updated_at": "2026-10-06T10:26:25.924692+00:00",
   "runs": [
+    {
+      "run_id": "37449513900",
+      "run_number": "161",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-06T10:26:25.924692+00:00",
+      "israel_time": "06/10/2026 13:26",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 1,
+      "partial": true,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37449513900",
+      "items": [
+        {
+          "podcast": "מגזין מעריב",
+          "title": "\"הוא המיידוף של הפוליטיקה הישראלית\": ח\"כ קרויזר סוגר חשבון – ומבקר גם את נתניהו",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/15/14.wav"
+          ],
+          "drive_filename": "_הוא המיידוף של הפוליטיקה הישראלית_ ח_כ קרויזר סוגר חשבון – ומבקר גם את נתניהו.mp3",
+          "drive_folder": "מגזין מעריב",
+          "drive_url": "https://drive.google.com/file/d/1L4I4AJungWmKdGrbbJ0ex7R1B2ZYtgMi/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/15/14.wav"
+        },
+        {
+          "podcast": "שלושה שיודעים",
+          "title": "האור שמאיר עליי",
+          "destinations": [
+            "Google Drive"
+          ],
+          "drive_filename": "האור שמאיר עליי.mp3",
+          "drive_folder": "שלושה שיודעים",
+          "drive_url": "https://drive.google.com/file/d/1tRaS6RYS2MkyYEGd5z_fBQPX41oRjwzr/view?usp=drivesdk"
+        }
+      ]
+    },
     {
       "run_id": "37407025743",
       "run_number": "160",
