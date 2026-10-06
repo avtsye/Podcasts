@@ -22839,9 +22839,9 @@
       "status": "error",
       "filename_stem": "16",
       "error": "UploadFile finalization query retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-10-05T16:06:12.140835+00:00",
-      "attempt_count": 3,
-      "next_retry": "2026-10-06T16:06:12.140856+00:00"
+      "updated_at": "2026-10-06T16:55:28.802516+00:00",
+      "attempt_count": 4,
+      "next_retry": "2026-10-09T16:55:28.802538+00:00"
     },
     "osim_historia:https://api.spreaker.com/episode/75567734": {
       "podcast_id": "osim_historia",
@@ -22974,11 +22974,10 @@
     "three_who_know:11ef95df-398c-47ab-a1b0-b4db00595a05": {
       "podcast_id": "three_who_know",
       "title": "האור שמאיר עליי",
-      "status": "error",
-      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "updated_at": "2026-10-06T10:26:14.177916+00:00",
-      "attempt_count": 1,
-      "next_retry": "2026-10-06T11:26:14.177939+00:00"
+      "status": "uploaded",
+      "path": "ivr2:/1/42/905.wav",
+      "filename_stem": "905",
+      "uploaded_at": "2026-10-06T16:56:12.830517+00:00"
     }
   },
   "next_numbers": {
@@ -23014,7 +23013,7 @@
     "20": 17,
     "24": 15,
     "41": 11,
-    "42": 905,
+    "42": 906,
     "55": 102,
     "43": 111,
     "50": 2,
