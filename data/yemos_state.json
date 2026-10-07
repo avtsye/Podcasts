@@ -22978,10 +22978,26 @@
       "path": "ivr2:/1/42/905.wav",
       "filename_stem": "905",
       "uploaded_at": "2026-10-06T16:56:12.830517+00:00"
+    },
+    "ehad_beyom:13d2ac46-cc42-4b86-9e68-b4db0146a156": {
+      "podcast_id": "ehad_beyom",
+      "title": "יום שלא נגמר",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2656.wav",
+      "filename_stem": "2656",
+      "uploaded_at": "2026-10-07T07:07:22.358758+00:00"
+    },
+    "three_who_know:b1fbb44d-5b91-4b3f-bc3c-b4db00c907df": {
+      "podcast_id": "three_who_know",
+      "title": "כל כך מפחיד להיות אילן בזמן שלילה פה יורד",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/906.wav",
+      "filename_stem": "906",
+      "uploaded_at": "2026-10-07T07:08:26.739424+00:00"
     }
   },
   "next_numbers": {
-    "1": 2656,
+    "1": 2657,
     "2": 1018,
     "3": 11,
     "4": 17,
@@ -23013,7 +23029,7 @@
     "20": 17,
     "24": 15,
     "41": 11,
-    "42": 906,
+    "42": 907,
     "55": 102,
     "43": 111,
     "50": 2,
