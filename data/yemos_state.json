@@ -23034,6 +23034,22 @@
       "path": "ivr2:/1/43/111.wav",
       "filename_stem": "111",
       "uploaded_at": "2026-10-08T06:13:45.756086+00:00"
+    },
+    "money_engines:b4e1581a-736e-4df1-8e1a-b4dd00be80d5": {
+      "podcast_id": "money_engines",
+      "title": "כבר לא רק צרפת: משבר החובות העולמי מאיים על הכלכלה",
+      "status": "uploaded",
+      "path": "ivr2:/1/7/13.wav",
+      "filename_stem": "13",
+      "uploaded_at": "2026-10-08T13:36:22.295165+00:00"
+    },
+    "yaldin:https://hubhopper.com/episode/bhyrwt-wnh-6-prq-2": {
+      "podcast_id": "yaldin",
+      "title": "בחירות (עונה 6, פרק 2)",
+      "status": "uploaded",
+      "path": "ivr2:/1/37/435.wav",
+      "filename_stem": "435",
+      "uploaded_at": "2026-10-08T13:36:52.159102+00:00"
     }
   },
   "next_numbers": {
@@ -23043,7 +23059,7 @@
     "4": 17,
     "5": 12,
     "6": 288,
-    "7": 13,
+    "7": 14,
     "8": 12,
     "9": 49,
     "10": 11,
@@ -23062,7 +23078,7 @@
     "25": 9,
     "26": 176,
     "27": 14,
-    "37": 435,
+    "37": 436,
     "38": 11,
     "39": 9,
     "40": 7,

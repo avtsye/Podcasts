@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-08T09:03:10.674509+00:00",
+  "updated_at": "2026-10-08T13:37:07.828051+00:00",
   "runs": [
+    {
+      "run_id": "37785547717",
+      "run_number": "178",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-10-08T13:37:07.828051+00:00",
+      "israel_time": "08/10/2026 16:37",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37785547717",
+      "items": [
+        {
+          "podcast": "מנועי הכסף",
+          "title": "כבר לא רק צרפת: משבר החובות העולמי מאיים על הכלכלה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/7/13.wav"
+          ],
+          "drive_filename": "כבר לא רק צרפת_ משבר החובות העולמי מאיים על הכלכלה.mp3",
+          "drive_folder": "מנועי הכסף",
+          "drive_url": "https://drive.google.com/file/d/1aasjwWIX5J_tZx3EnJtewC3zpeRF0076/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/7/13.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "בחירות (עונה 6, פרק 2)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/435.wav"
+          ],
+          "drive_filename": "בחירות (עונה 6, פרק 2).mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/1O5qFtB2QxcoXi3y51Nu-8u4vP_6dcqux/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/435.wav"
+        }
+      ]
+    },
     {
       "run_id": "37753894231",
       "run_number": "177",
