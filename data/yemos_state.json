@@ -23050,6 +23050,14 @@
       "path": "ivr2:/1/37/435.wav",
       "filename_stem": "435",
       "uploaded_at": "2026-10-08T13:36:52.159102+00:00"
+    },
+    "ear_catcher:632b711c-8391-414b-bf23-b4dd00e1d5a3": {
+      "podcast_id": "ear_catcher",
+      "title": "בין הראשונות בעולם שפרסמו ב-ChatGPT! פרק 453 עם הילה גיל, סמנכ\"לית השיווק של Natural Intelligence",
+      "status": "uploaded",
+      "path": "ivr2:/1/24/15.wav",
+      "filename_stem": "15",
+      "uploaded_at": "2026-10-08T16:33:32.114655+00:00"
     }
   },
   "next_numbers": {
@@ -23083,7 +23091,7 @@
     "39": 9,
     "40": 7,
     "20": 18,
-    "24": 15,
+    "24": 16,
     "41": 11,
     "42": 907,
     "55": 102,

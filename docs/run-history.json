@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-08T13:37:07.828051+00:00",
+  "updated_at": "2026-10-08T16:33:51.858456+00:00",
   "runs": [
+    {
+      "run_id": "37809552636",
+      "run_number": "179",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-08T16:33:51.858456+00:00",
+      "israel_time": "08/10/2026 19:33",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37809552636",
+      "items": [
+        {
+          "podcast": "Ear Catcher",
+          "title": "בין הראשונות בעולם שפרסמו ב-ChatGPT! פרק 453 עם הילה גיל, סמנכ\"לית השיווק של Natural Intelligence",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/24/15.wav"
+          ],
+          "drive_filename": "בין הראשונות בעולם שפרסמו ב-ChatGPT! פרק 453 עם הילה גיל, סמנכ_לית השיווק של Natural Intelligence.mp3",
+          "drive_folder": "Ear Catcher",
+          "drive_url": "https://drive.google.com/file/d/1bCOI1fVzyXrpVfY2MSQCIURFSjvf2J9y/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/24/15.wav"
+        }
+      ]
+    },
     {
       "run_id": "37785547717",
       "run_number": "178",
