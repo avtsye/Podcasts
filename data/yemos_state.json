@@ -23010,10 +23010,34 @@
       "path": "ivr2:/1/15/15.wav",
       "filename_stem": "15",
       "uploaded_at": "2026-10-07T20:14:03.877449+00:00"
+    },
+    "ehad_beyom:fdf9e597-f2bd-464d-acf6-b4dc01726066": {
+      "podcast_id": "ehad_beyom",
+      "title": "על זה הבחירות: שוויון בנטל",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2657.wav",
+      "filename_stem": "2657",
+      "uploaded_at": "2026-10-08T06:12:05.376447+00:00"
+    },
+    "historia_ktaim:https://hubhopper.com/episode/601-tyly-ktp-hmrwt-wnhytwt-dny-sdwn-hyh-sm": {
+      "podcast_id": "historia_ktaim",
+      "title": "601: טילי כתף המראות ונחיתות - דני סעדון היה שם",
+      "status": "uploaded",
+      "path": "ivr2:/1/26/175.wav",
+      "filename_stem": "175",
+      "uploaded_at": "2026-10-08T06:12:41.422800+00:00"
+    },
+    "osim_software:https://api.spreaker.com/episode/75594918": {
+      "podcast_id": "osim_software",
+      "title": "פרק ספיישל: ג'וניורים, תעסוקה ואפוקליפסות ה-AI [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/111.wav",
+      "filename_stem": "111",
+      "uploaded_at": "2026-10-08T06:13:45.756086+00:00"
     }
   },
   "next_numbers": {
-    "1": 2657,
+    "1": 2658,
     "2": 1018,
     "3": 11,
     "4": 17,
@@ -23036,7 +23060,7 @@
     "22": 23,
     "23": 13,
     "25": 9,
-    "26": 175,
+    "26": 176,
     "27": 14,
     "37": 435,
     "38": 11,
@@ -23047,7 +23071,7 @@
     "41": 11,
     "42": 907,
     "55": 102,
-    "43": 111,
+    "43": 112,
     "50": 2,
     "52": 2
   }

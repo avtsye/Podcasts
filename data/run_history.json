@@ -1,6 +1,57 @@
 {
-  "updated_at": "2026-10-08T01:59:34.934062+00:00",
+  "updated_at": "2026-10-08T06:13:57.905882+00:00",
   "runs": [
+    {
+      "run_id": "37736259602",
+      "run_number": "176",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-10-08T06:13:57.905882+00:00",
+      "israel_time": "08/10/2026 09:13",
+      "uploads": 3,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37736259602",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "על זה הבחירות: שוויון בנטל",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2657.wav"
+          ],
+          "drive_filename": "על זה הבחירות_ שוויון בנטל.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/1AlJ2o1l7D_6pbJDtrn8Tv7b6G29RuTqE/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2657.wav"
+        },
+        {
+          "podcast": "היסטוריה עם יובל מלחי - קטעים",
+          "title": "601: טילי כתף המראות ונחיתות - דני סעדון היה שם",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/26/175.wav"
+          ],
+          "drive_filename": "601_ טילי כתף המראות ונחיתות - דני סעדון היה שם.mp3",
+          "drive_folder": "היסטוריה עם יובל מלחי - קטעים",
+          "drive_url": "https://drive.google.com/file/d/1zF5x8D8fM6UwPx9ZQUrimNIaIW9gkUoZ/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/26/175.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "פרק ספיישל: ג'וניורים, תעסוקה ואפוקליפסות ה-AI [עושים תוכנה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/111.wav"
+          ],
+          "drive_filename": "פרק ספיישל_ ג'וניורים, תעסוקה ואפוקליפסות ה-AI [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1ADv2EnX_oMEDZ7avz5tzoQu6JNf6xDWp/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/43/111.wav"
+        }
+      ]
+    },
     {
       "run_id": "37715585876",
       "run_number": "175",
