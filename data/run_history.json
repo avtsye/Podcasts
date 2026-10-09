@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-09T05:38:52.867054+00:00",
+  "updated_at": "2026-10-09T09:13:12.967944+00:00",
   "runs": [
+    {
+      "run_id": "37909675045",
+      "run_number": "185",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-09T09:13:12.967944+00:00",
+      "israel_time": "09/10/2026 12:13",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37909675045",
+      "items": [
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1259 - פרופ׳ נדב כהן ולמידת מכונה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1018.wav"
+          ],
+          "drive_filename": "פרק #1259 - פרופ׳ נדב כהן ולמידת מכונה.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/176T3lybyuKy3b093TPvFuyGdfOnO1JS3/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1018.wav"
+        }
+      ]
+    },
     {
       "run_id": "37889523235",
       "run_number": "184",

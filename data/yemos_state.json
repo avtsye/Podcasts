@@ -23058,11 +23058,19 @@
       "path": "ivr2:/1/24/15.wav",
       "filename_stem": "15",
       "uploaded_at": "2026-10-08T16:33:32.114655+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/4228ab3d-ba3f-3bda-a163-9ca091ec57a0": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1259 - פרופ׳ נדב כהן ולמידת מכונה",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1018.wav",
+      "filename_stem": "1018",
+      "uploaded_at": "2026-10-09T09:12:48.180506+00:00"
     }
   },
   "next_numbers": {
     "1": 2658,
-    "2": 1018,
+    "2": 1019,
     "3": 11,
     "4": 17,
     "5": 12,
