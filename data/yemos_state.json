@@ -22839,9 +22839,9 @@
       "status": "error",
       "filename_stem": "16",
       "error": "UploadFile finalization query retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-10-06T16:55:28.802516+00:00",
-      "attempt_count": 4,
-      "next_retry": "2026-10-09T16:55:28.802538+00:00"
+      "updated_at": "2026-10-09T18:23:53.996585+00:00",
+      "attempt_count": 5,
+      "next_retry": "2026-10-12T18:23:53.996606+00:00"
     },
     "osim_historia:https://api.spreaker.com/episode/75567734": {
       "podcast_id": "osim_historia",
