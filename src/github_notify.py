@@ -76,6 +76,7 @@ def queue_notification(podcast, episode, drive_file):
             "title": episode["title"],
             "published": episode.get("published", ""),
             "drive_url": drive_file.get("webViewLink") or episode.get("drive_url") or "",
+            "drive_file_id": drive_file.get("id") or episode.get("drive_file_id") or "",
             "drive_filename": episode.get("drive_filename", ""),
             "drive_folder": episode.get("drive_folder", ""),
             "yemos_path": episode.get("yemos_path", ""),
@@ -100,7 +101,7 @@ def flush_notifications():
                 f"Podcasts/{item.get('drive_folder','')}/"
                 f"{item.get('drive_filename','')}"
             ).rstrip("/")
-        drive_line = item.get("drive_url") or "לא זמין"
+        drive_line = item.get("drive_url") or (f"https://drive.google.com/file/d/{item['drive_file_id']}/view" if item.get("drive_file_id") else "לא זמין")
         block = [
             f"### {item['podcast']} — {item['title']}",
             f"- **פורסם:** {item['published']}",
