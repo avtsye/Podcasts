@@ -23098,11 +23098,19 @@
       "path": "ivr2:/1/55/102.wav",
       "filename_stem": "102",
       "uploaded_at": "2026-10-11T07:16:20.389408+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/3c1d6985-6402-3988-bdd8-e9906af9a11c": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1260 - יוני צרויה ולושה",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1019.wav",
+      "filename_stem": "1019",
+      "uploaded_at": "2026-10-11T08:58:25.735885+00:00"
     }
   },
   "next_numbers": {
     "1": 2659,
-    "2": 1019,
+    "2": 1020,
     "3": 11,
     "4": 17,
     "5": 12,
