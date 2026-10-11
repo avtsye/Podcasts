@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-11T18:58:16.185632+00:00",
+  "updated_at": "2026-10-11T20:21:56.235667+00:00",
   "runs": [
+    {
+      "run_id": "38171793467",
+      "run_number": "207",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-11T20:21:56.235667+00:00",
+      "israel_time": "11/10/2026 23:21",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38171793467",
+      "items": [
+        {
+          "podcast": "חיים של אחרים",
+          "title": "חיים של אחרים | 11.10.26",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/17/14.wav"
+          ],
+          "drive_filename": "חיים של אחרים _ 11.10.26.mp3",
+          "drive_folder": "חיים של אחרים",
+          "drive_url": "https://drive.google.com/file/d/15RxUHpCUMbeKv7WjDl2L7Am15Nwo8L9g/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/17/14.wav"
+        }
+      ]
+    },
     {
       "run_id": "38165971978",
       "run_number": "206",
@@ -5028,27 +5055,6 @@
       "feed_errors": 2,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36363831166",
       "items": []
-    },
-    {
-      "run_id": "36354629997",
-      "run_number": "95",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-09-27T22:17:57.973625+00:00",
-      "israel_time": "28/09/2026 01:17",
-      "uploads": 1,
-      "feed_errors": 2,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36354629997",
-      "items": [
-        {
-          "podcast": "גיקונומי",
-          "title": "פרק #1255 - אבישי עובדיה וקריסת שוק הנדל״ן",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/2/12.wav"
-          ]
-        }
-      ]
     }
   ]
 }
