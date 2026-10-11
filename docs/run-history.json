@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-11T08:59:04.056155+00:00",
+  "updated_at": "2026-10-11T14:08:16.886965+00:00",
   "runs": [
+    {
+      "run_id": "38145909109",
+      "run_number": "204",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-10-11T14:08:16.886965+00:00",
+      "israel_time": "11/10/2026 17:08",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38145909109",
+      "items": []
+    },
     {
       "run_id": "38126635654",
       "run_number": "203",
@@ -5031,82 +5045,6 @@
       "feed_errors": 2,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36324585620",
       "items": []
-    },
-    {
-      "run_id": "36306838740",
-      "run_number": "92",
-      "event": "issues",
-      "status": "success",
-      "utc_time": "2026-09-27T08:43:08.605996+00:00",
-      "israel_time": "27/09/2026 11:43",
-      "uploads": 8,
-      "feed_errors": 2,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36306838740",
-      "items": [
-        {
-          "podcast": "אחד ביום",
-          "title": "והמועמדים לבחירות 2026 הם...",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/1/1304.wav"
-          ]
-        },
-        {
-          "podcast": "אחד ביום",
-          "title": "מרד הסוכנים",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/1/1305.wav"
-          ]
-        },
-        {
-          "podcast": "אחד ביום",
-          "title": "למה בריטניה הטילה סנקציות?",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/1/1306.wav"
-          ]
-        },
-        {
-          "podcast": "אחד ביום",
-          "title": "גורם ההפתעה",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/1/1307.wav"
-          ]
-        },
-        {
-          "podcast": "אחד ביום",
-          "title": "שפה משותפת",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/1/1308.wav"
-          ]
-        },
-        {
-          "podcast": "אחד ביום",
-          "title": "מצב האזנה עם עמית סגל: אהוד אולמרט והסודות מאחורי תקיפת הכור הסורי",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/1/1309.wav"
-          ]
-        },
-        {
-          "podcast": "עושים טכנולוגיה",
-          "title": "מה הבעיה שלי עם אפל [עושים טכנולוגיה] ש.ח.",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "Startup for Startup",
-          "title": "368: איך יוצרים פריקשן שעוזר למשתמשים לאמץ את המוצר שלנו",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/6/12.wav"
-          ]
-        }
-      ]
     }
   ]
 }
