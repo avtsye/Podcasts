@@ -23114,10 +23114,34 @@
       "path": "ivr2:/1/17/14.wav",
       "filename_stem": "14",
       "uploaded_at": "2026-10-11T20:21:35.852237+00:00"
+    },
+    "ehad_beyom:89430d34-0aa0-4600-92a6-b4e1000b86b2": {
+      "podcast_id": "ehad_beyom",
+      "title": "על זה הבחירות: הכלכלה",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2659.wav",
+      "filename_stem": "2659",
+      "uploaded_at": "2026-10-12T07:25:37.517732+00:00"
+    },
+    "three_who_know:04457d33-31b4-4f08-8b33-b4e100469d9b": {
+      "podcast_id": "three_who_know",
+      "title": "החתול שמיל הוא משהו לא רגיל",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/908.wav",
+      "filename_stem": "908",
+      "uploaded_at": "2026-10-12T07:26:29.325622+00:00"
+    },
+    "osim_heshbon:https://api.spreaker.com/episode/75698287": {
+      "podcast_id": "osim_heshbon",
+      "title": "עושים חשבון בקלפי: המדריך הכלכלי למצביע [עושים חשבון]",
+      "status": "uploaded",
+      "path": "ivr2:/1/51/1.wav",
+      "filename_stem": "1",
+      "uploaded_at": "2026-10-12T07:27:41.636135+00:00"
     }
   },
   "next_numbers": {
-    "1": 2659,
+    "1": 2660,
     "2": 1020,
     "3": 11,
     "4": 17,
@@ -23149,10 +23173,11 @@
     "20": 18,
     "24": 16,
     "41": 11,
-    "42": 908,
+    "42": 909,
     "55": 103,
     "43": 112,
     "50": 2,
-    "52": 2
+    "52": 2,
+    "51": 2
   }
 }

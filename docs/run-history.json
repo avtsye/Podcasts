@@ -1,6 +1,57 @@
 {
-  "updated_at": "2026-10-12T01:50:02.664499+00:00",
+  "updated_at": "2026-10-12T07:27:48.138305+00:00",
   "runs": [
+    {
+      "run_id": "38217581271",
+      "run_number": "211",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-12T07:27:48.138305+00:00",
+      "israel_time": "12/10/2026 10:27",
+      "uploads": 3,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38217581271",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "על זה הבחירות: הכלכלה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2659.wav"
+          ],
+          "drive_filename": "על זה הבחירות_ הכלכלה.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/1o55HWXwfNv-t2Eti0ZbfiAsUxVsvZPfq/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2659.wav"
+        },
+        {
+          "podcast": "שלושה שיודעים",
+          "title": "החתול שמיל הוא משהו לא רגיל",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/42/908.wav"
+          ],
+          "drive_filename": "החתול שמיל הוא משהו לא רגיל.mp3",
+          "drive_folder": "שלושה שיודעים",
+          "drive_url": "https://drive.google.com/file/d/17Q-CuTMvPUwQstgXBoGlkJ6wnksZG8xL/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/42/908.wav"
+        },
+        {
+          "podcast": "עושים חשבון",
+          "title": "עושים חשבון בקלפי: המדריך הכלכלי למצביע [עושים חשבון]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/51/1.wav"
+          ],
+          "drive_filename": "עושים חשבון בקלפי_ המדריך הכלכלי למצביע [עושים חשבון].mp3",
+          "drive_folder": "עושים חשבון",
+          "drive_url": "https://drive.google.com/file/d/1V1cejqh_wKU86iccALKF-bEkLV4GgOpR/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/51/1.wav"
+        }
+      ]
+    },
     {
       "run_id": "38193364234",
       "run_number": "210",
@@ -5012,27 +5063,6 @@
           "destinations": [
             "Google Drive",
             "ימות המשיח ivr2:/1/26/170.wav"
-          ]
-        }
-      ]
-    },
-    {
-      "run_id": "36466400762",
-      "run_number": "99",
-      "event": "issues",
-      "status": "success",
-      "utc_time": "2026-09-28T18:37:26.008573+00:00",
-      "israel_time": "28/09/2026 21:37",
-      "uploads": 1,
-      "feed_errors": 3,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36466400762",
-      "items": [
-        {
-          "podcast": "היסטוריה עם יובל מלחי - קטעים",
-          "title": "590: מבצע אנטבה - חלק 1",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/26/161.wav"
           ]
         }
       ]
