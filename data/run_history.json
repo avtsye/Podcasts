@@ -1,6 +1,617 @@
 {
-  "updated_at": "2026-10-12T08:57:42.582738+00:00",
+  "updated_at": "2026-10-12T15:32:14.164081+00:00",
   "runs": [
+    {
+      "run_id": "38265180532",
+      "run_number": "213",
+      "event": "issues",
+      "status": "failure",
+      "utc_time": "2026-10-12T15:32:14.164081+00:00",
+      "israel_time": "12/10/2026 18:32",
+      "uploads": 110,
+      "feed_errors": 0,
+      "target_errors": 6,
+      "partial": true,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38265180532",
+      "items": [
+        {
+          "podcast": "התשובה",
+          "title": "פרסי נובל נגד מדליות אולימפיות [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/12.wav"
+          ],
+          "drive_filename": "פרסי נובל נגד מדליות אולימפיות [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1WgoDg6wcILTKNG2RENv7ttwwqpBA4NRA/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/12.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "מי כתב את העתידות של בזוקה? [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/13.wav"
+          ],
+          "drive_filename": "מי כתב את העתידות של בזוקה_ [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1nLwISed0Mm27nMMasrSoj5pF6FhZONVm/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/13.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "בזוקה 2: החקירה נמשכת [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/14.wav"
+          ],
+          "drive_filename": "בזוקה 2_ החקירה נמשכת [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1cq4ciRKHGz-pGCLy3qU9u3bQWmq1h7x8/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/14.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "כדורגל בותיקן ועוד השלמות ותיקונים [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/15.wav"
+          ],
+          "drive_filename": "כדורגל בותיקן ועוד השלמות ותיקונים [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1I-79MDmzzN0mQRurgGIve1Jv0DC3lLKF/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/15.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "איך לנצח באבן נייר ומספריים? [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/16.wav"
+          ],
+          "drive_filename": "איך לנצח באבן נייר ומספריים_ [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1b01UczomcsFLvZ4Eho295kOgpVZsuAiR/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/16.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "בונוס: המנצח בין השתיים [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/17.wav"
+          ],
+          "drive_filename": "בונוס_ המנצח בין השתיים [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1-hIREkjr8tMMwuImlR5FyzB5Zy_MRVAs/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/17.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "מה יקרה כשהקרחונים ימסו? [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/18.wav"
+          ],
+          "drive_filename": "מה יקרה כשהקרחונים ימסו_ [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1x0jX81AImSrPOvSb0ZpJyybeAL_kxwD0/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/18.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "האם הירובריין קיים? [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/19.wav"
+          ],
+          "drive_filename": "האם הירובריין קיים_ [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1Z5mlYyrNHgnwJ9-Te-mlMbrhQJeyoCZp/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/19.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "הצורה של העולם (שידור מעודכן) [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/20.wav"
+          ],
+          "drive_filename": "הצורה של העולם (שידור מעודכן) [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1hVW_RDzoO2cX1-RXKbdgOlTd1Ycyp3Nw/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/20.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "למה למטר יש אורך של מטר? [התשובה]",
+          "destinations": [
+            "Google Drive"
+          ],
+          "drive_filename": "למה למטר יש אורך של מטר_ [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1RKrBLFLBmW_IlLRJ_EsjyM7wH4vcatD1/view?usp=drivesdk"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "איך להתגונן מאסטרואידים? [התשובה]",
+          "destinations": [
+            "Google Drive"
+          ],
+          "drive_filename": "איך להתגונן מאסטרואידים_ [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1heFKTUlVu-sp6uuEc1rGUr73pA_h-vAd/view?usp=drivesdk"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "אז מה הייתה השאלה - סיכום 2021 [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/23.wav"
+          ],
+          "drive_filename": "אז מה הייתה השאלה - סיכום 2021 [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1CNnwCgKcVUmAhN6HmlUnRAszyyCauxkT/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/23.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "מי באמת גילה את אמריקה? (שידור מעודכן) [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/24.wav"
+          ],
+          "drive_filename": "מי באמת גילה את אמריקה_ (שידור מעודכן) [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1l50SGvxUPRCr99SYkNESAyt4AY5LUc7q/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/24.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "כמה ימים יש בשבוע? (שידור מעודכן) [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/25.wav"
+          ],
+          "drive_filename": "כמה ימים יש בשבוע_ (שידור מעודכן) [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1c-8SeOfmMy5FWbxqAskP9P_qBIcfjQVt/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/25.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "תיכף יבוא שקמיסט ועוד השלמות ותיקונים [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/26.wav"
+          ],
+          "drive_filename": "תיכף יבוא שקמיסט ועוד השלמות ותיקונים [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1ZGiaFFxk8nXLn0oUbvdbbJCfwor_mXY1/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/26.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "מי באמת היה הראשון שהקיף את העולם? חלק א' [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/27.wav"
+          ],
+          "drive_filename": "מי באמת היה הראשון שהקיף את העולם_ חלק א' [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1ArJc9XCckF7o6_V-DaI9sIJIkXwQbJfr/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/27.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "הצד הרחוק של העולם: מי באמת היה הראשון שהקיף את העולם? חלק ב' [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/28.wav"
+          ],
+          "drive_filename": "הצד הרחוק של העולם_ מי באמת היה הראשון שהקיף את העולם_ חלק ב' [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/16N64AXDwcbsbx4kCEFP3sfjbPErE3tLe/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/28.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "מאיפה הגיעו סימני הפיסוק? [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/29.wav"
+          ],
+          "drive_filename": "מאיפה הגיעו סימני הפיסוק_ [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1mOPrEh7n_6tDFhb57jt00KMzQLgCZecH/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/29.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "בונוס: עוד כמה מילים על האיש שהקיף את העולם [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/30.wav"
+          ],
+          "drive_filename": "בונוס_ עוד כמה מילים על האיש שהקיף את העולם [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1tSoGSYVVeLh9ucJ5IdeUIorrZN4rYlPp/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/30.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "בשביל מה בכלל צריך מחשב קוונטי? [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/31.wav"
+          ],
+          "drive_filename": "בשביל מה בכלל צריך מחשב קוונטי_ [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1Og81eaQ1XJWamyw0rDhB-UyFkz4w1wvA/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/31.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "דלתות או גלגלים? [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/32.wav"
+          ],
+          "drive_filename": "דלתות או גלגלים_ [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/18pd_fU4JYJMxmqCPdR7SBtS0yidONnAS/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/32.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "לאן נעלמה מורן? [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/33.wav"
+          ],
+          "drive_filename": "לאן נעלמה מורן_ [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/12T_qjEkIlQkShjnRvgc0YWo_Lvx2uVWC/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/33.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "איפה החייזרים? (שידור חוזר) [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/34.wav"
+          ],
+          "drive_filename": "איפה החייזרים_ (שידור חוזר) [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1lo7eaiajoFp2oXUC2mm-I4Uq2jbUeZlA/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/34.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "האנושות נגד בייבי שארק [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/35.wav"
+          ],
+          "drive_filename": "האנושות נגד בייבי שארק [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1Tc9EBVPZLmnrjGgJPfdf-aGrHf3KKotr/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/35.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "מורן מכה שנית: עוד סיפורי שמות [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/36.wav"
+          ],
+          "drive_filename": "מורן מכה שנית_ עוד סיפורי שמות [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1tNV1tXChihUgJ1LAArB8hgxX9K5IW5qT/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/36.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "השבלייה: חידה היסטורית [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/37.wav"
+          ],
+          "drive_filename": "השבלייה_ חידה היסטורית [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1VURLk_8R1tLDpvYxiURjCbBzozyg7jSz/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/37.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "למה לסבתא אין גלגלים? [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/38.wav"
+          ],
+          "drive_filename": "למה לסבתא אין גלגלים_ [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1T5jFKPoEWHH542jLuodf1er5EhAyk6H6/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/38.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "מיכל והגלגוחים ועוד השלמות ותיקונים [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/39.wav"
+          ],
+          "drive_filename": "מיכל והגלגוחים ועוד השלמות ותיקונים [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1as7XlLOWgtykS6A_9_nIw6H3LjDr3mlz/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/39.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "בונוס: תמאם שוד - התשובה(?) [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/40.wav"
+          ],
+          "drive_filename": "בונוס_ תמאם שוד - התשובה(_) [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/18GZvZ4dhjxNvOb5rYQk1543KqV0gvuqO/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/40.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "איך לא להיות אפיפיור [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/41.wav"
+          ],
+          "drive_filename": "איך לא להיות אפיפיור [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1E_F9Z1ChJ25UPnXA0TXXIlvi4MVWl656/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/41.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "למה נוסעים בצד ימין? (שידור מעודכן) [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/42.wav"
+          ],
+          "drive_filename": "למה נוסעים בצד ימין_ (שידור מעודכן) [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1_Vw2DLaq_tRjta1VcwB7tDiMY6Reo4Jf/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/42.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "למה לאוכל רע יש טעם טוב? (שידור חוזר) [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/43.wav"
+          ],
+          "drive_filename": "למה לאוכל רע יש טעם טוב_ (שידור חוזר) [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1EMFLf3jCrq5ezV0AphGDKE4xY4LZZpOG/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/43.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "תעלומת הפנינה הסמואית [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/44.wav"
+          ],
+          "drive_filename": "תעלומת הפנינה הסמואית [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1-M926F0GaiNb30LzHuayNWj69U3-R1Vt/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/44.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "האם אנחנו חיים בסימולציה? [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/45.wav"
+          ],
+          "drive_filename": "האם אנחנו חיים בסימולציה_ [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1CCjwyrjb9yUOdcyM_F6QwwEEYQlZ5ciD/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/45.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "אחלה או סבבה? [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/46.wav"
+          ],
+          "drive_filename": "אחלה או סבבה_ [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1LLF4bqMdpkerc8sS0WKVENiMf8yiQMUW/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/46.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "ועכשיו התוצאות: אחלה או סבבה? [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/47.wav"
+          ],
+          "drive_filename": "ועכשיו התוצאות_ אחלה או סבבה_ [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1J9Y8E4_Tw2Lluwxfvvc0c6H7XL4IAZ5f/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/47.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "איך להגיע לאולימפיאדה במינימום מאמץ? [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/48.wav"
+          ],
+          "drive_filename": "איך להגיע לאולימפיאדה במינימום מאמץ_ [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1sXeYcNLZRTNvlTbWrtMMzH04TAus1mXh/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/48.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "[התשובה] כל הכסף בעולם (שידור חוזר)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/49.wav"
+          ],
+          "drive_filename": "[התשובה] כל הכסף בעולם (שידור חוזר).mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1eub5W1KTYBNK3ekLqtFNEGOBtixS7LwS/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/49.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "היה מבול? [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/50.wav"
+          ],
+          "drive_filename": "היה מבול_ [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1MWhZ-PSm9aJTswT5CLswOF3l5EPgAjG_/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/50.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "איזה טעם יש ללמבדה? [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/51.wav"
+          ],
+          "drive_filename": "איזה טעם יש ללמבדה_ [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1NzOA9lYUflr78jMqUXd1N-LWsS15XAYE/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/51.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "פרק השנה 2022 [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/52.wav"
+          ],
+          "drive_filename": "פרק השנה 2022 [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1XeW4_vwwrNakJ99Homa-l3OUq9s_g9xQ/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/52.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "מה הצבע של אטום? [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/53.wav"
+          ],
+          "drive_filename": "מה הצבע של אטום_ [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1UVKZwhxgIxc_zarD7R3CCUybnlE3_CQd/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/53.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "השאלה שאי אפשר לכתוב (שידור חוזר) [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/54.wav"
+          ],
+          "drive_filename": "השאלה שאי אפשר לכתוב (שידור חוזר) [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1rfSF-Ql7CkTBpe1dOE4-DUBBdEKr1oVu/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/54.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "איך להזיז (קצת) את כדור הארץ? [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/55.wav"
+          ],
+          "drive_filename": "איך להזיז (קצת) את כדור הארץ_ [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/12pkCYte6ma3e9wHDkcGL-s0XGPXYYDwu/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/55.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "מה השעה (ואיפה?) [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/56.wav"
+          ],
+          "drive_filename": "מה השעה (ואיפה_) [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1na4ht-psCNSVEr38rZXGWhcR8MSBorty/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/56.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "מי רצח את אדווין דרוד? חלק א' [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/57.wav"
+          ],
+          "drive_filename": "מי רצח את אדווין דרוד_ חלק א' [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1NWJFyC5wObaV01qnIzq5WrE4RUFHGa6j/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/57.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "מי רצח את אדווין דרוד? חלק ב' [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/58.wav"
+          ],
+          "drive_filename": "מי רצח את אדווין דרוד_ חלק ב' [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1eGYdxW9rxkosAxFAuwwnO6QoE3UGmAat/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/58.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "השאלה האחרת שאי אפשר לכתוב ועוד השלמות ותיקונים [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/59.wav"
+          ],
+          "drive_filename": "השאלה האחרת שאי אפשר לכתוב ועוד השלמות ותיקונים [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1fTx26ko5HBtQObd9qYUs4eWvYZ-I1_UZ/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/59.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "מה אוכלות החיות? [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/60.wav"
+          ],
+          "drive_filename": "מה אוכלות החיות_ [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1kx7wghGX4Ob-fqourYdqFSLRc2_V1J48/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/60.wav"
+        },
+        {
+          "podcast": "התשובה",
+          "title": "למה פוליטיקאים גבוהים? [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/61.wav"
+          ],
+          "drive_filename": "למה פוליטיקאים גבוהים_ [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/168s1V__lZZd_VjmKeWOjaeG75ik69hD1/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/61.wav"
+        }
+      ]
+    },
     {
       "run_id": "38226718699",
       "run_number": "212",
@@ -4971,27 +5582,6 @@
           "destinations": [
             "Google Drive",
             "ימות המשיח ivr2:/1/8/11.wav"
-          ]
-        }
-      ]
-    },
-    {
-      "run_id": "36467167813",
-      "run_number": "101",
-      "event": "issues",
-      "status": "success",
-      "utc_time": "2026-09-28T18:43:42.804169+00:00",
-      "israel_time": "28/09/2026 21:43",
-      "uploads": 1,
-      "feed_errors": 3,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36467167813",
-      "items": [
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "שלוש נקודות ציון היסטוריות בדרך אל גורדי השחקים",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/21/11.wav"
           ]
         }
       ]

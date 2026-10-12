@@ -32,14 +32,6 @@
       "filename_stem": "9",
       "uploaded_at": "2026-09-24T20:10:03.059892+00:00"
     },
-    "https://api.spreaker.com/episode/69241835": {
-      "podcast_id": "hatshuva",
-      "title": "מאיפה הגיעו החתולים? [התשובה]",
-      "status": "uploaded",
-      "path": "ivr2:/1/5/6.wav",
-      "filename_stem": "6",
-      "uploaded_at": "2026-09-24T20:16:59.995389+00:00"
-    },
     "849acc4c-606b-471e-90d0-b48d011c3b36": {
       "podcast_id": "startup_for_startup",
       "title": "359: איך מגדירים, מגייסים ומודדים מפתחים בעידן ה-AI",
@@ -9954,86 +9946,6 @@
       "updated_at": "2026-10-12T00:36:22.715095+00:00",
       "attempt_count": 6,
       "next_retry": "2026-10-15T00:36:22.715119+00:00"
-    },
-    "hatshuva:https://api.spreaker.com/episode/69401998": {
-      "podcast_id": "hatshuva",
-      "title": "פרק השנה 2025 [התשובה]",
-      "status": "uploaded",
-      "path": "ivr2:/1/5/7.wav",
-      "filename_stem": "7",
-      "uploaded_at": "2026-09-24T20:17:11.201214+00:00"
-    },
-    "hatshuva:https://api.spreaker.com/episode/69760438": {
-      "podcast_id": "hatshuva",
-      "title": "הירו [התשובה]",
-      "status": "uploaded",
-      "path": "ivr2:/1/5/8.wav",
-      "filename_stem": "8",
-      "uploaded_at": "2026-09-24T20:18:11.413621+00:00"
-    },
-    "hatshuva:https://api.spreaker.com/episode/70249445": {
-      "podcast_id": "hatshuva",
-      "title": "איפה המקל של גבי ודבי? [התשובה]",
-      "status": "uploaded",
-      "path": "ivr2:/1/5/9.wav",
-      "filename_stem": "9",
-      "uploaded_at": "2026-09-24T20:18:29.706904+00:00"
-    },
-    "hatshuva:https://api.spreaker.com/episode/71195396": {
-      "podcast_id": "hatshuva",
-      "title": "למה צפון מקדוניה? [התשובה]",
-      "status": "uploaded",
-      "path": "ivr2:/1/5/10.wav",
-      "filename_stem": "10",
-      "uploaded_at": "2026-09-24T20:19:01.411841+00:00"
-    },
-    "hatshuva:https://api.spreaker.com/episode/71746941": {
-      "podcast_id": "hatshuva",
-      "title": "בנג: מה היה לפני המפץ הגדול? [התשובה]",
-      "status": "uploaded",
-      "path": "ivr2:/1/5/1.wav",
-      "filename_stem": "1",
-      "uploaded_at": "2026-09-24T10:55:19.232564+00:00"
-    },
-    "hatshuva:https://api.spreaker.com/episode/72175479": {
-      "podcast_id": "hatshuva",
-      "title": "הדבר הכי מעניין שקרה אי פעם במדינה המשעממת ביותר בעולם [התשובה]",
-      "status": "uploaded",
-      "path": "ivr2:/1/5/2.wav",
-      "filename_stem": "2",
-      "uploaded_at": "2026-09-24T10:55:32.209311+00:00"
-    },
-    "hatshuva:https://api.spreaker.com/episode/72560973": {
-      "podcast_id": "hatshuva",
-      "title": "האם הכפתור של הרמזור באמת עובד? [התשובה]",
-      "status": "uploaded",
-      "path": "ivr2:/1/5/3.wav",
-      "filename_stem": "3",
-      "uploaded_at": "2026-09-24T10:55:52.915382+00:00"
-    },
-    "hatshuva:https://api.spreaker.com/episode/73190487": {
-      "podcast_id": "hatshuva",
-      "title": "ממה עשוי הטלפון שלי? [התשובה]",
-      "status": "uploaded",
-      "path": "ivr2:/1/5/4.wav",
-      "filename_stem": "4",
-      "uploaded_at": "2026-09-24T10:56:09.663058+00:00"
-    },
-    "hatshuva:https://api.spreaker.com/episode/74189234": {
-      "podcast_id": "hatshuva",
-      "title": "מהו באמת היצור הכי גדול בעולם? [התשובה]",
-      "status": "uploaded",
-      "path": "ivr2:/1/5/5.wav",
-      "filename_stem": "5",
-      "uploaded_at": "2026-09-24T10:56:27.404929+00:00"
-    },
-    "hatshuva:https://api.spreaker.com/episode/75426573": {
-      "podcast_id": "hatshuva",
-      "title": "סיזיפוס [התשובה]",
-      "status": "uploaded",
-      "path": "ivr2:/1/5/11.wav",
-      "filename_stem": "11",
-      "uploaded_at": "2026-09-30T06:48:05.307157+00:00"
     },
     "startup_for_startup:b93b8925-0d61-4f88-8d4d-b49400eb0eca": {
       "podcast_id": "startup_for_startup",
@@ -23138,6 +23050,900 @@
       "path": "ivr2:/1/51/1.wav",
       "filename_stem": "1",
       "uploaded_at": "2026-10-12T07:27:41.636135+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/46110494": {
+      "podcast_id": "hatshuva",
+      "title": "פרסי נובל נגד מדליות אולימפיות [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/12.wav",
+      "filename_stem": "12",
+      "uploaded_at": "2026-10-12T14:45:45.100585+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/46298483": {
+      "podcast_id": "hatshuva",
+      "title": "מי כתב את העתידות של בזוקה? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/13.wav",
+      "filename_stem": "13",
+      "uploaded_at": "2026-10-12T14:46:13.338491+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/46496275": {
+      "podcast_id": "hatshuva",
+      "title": "בזוקה 2: החקירה נמשכת [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/14.wav",
+      "filename_stem": "14",
+      "uploaded_at": "2026-10-12T14:46:33.072309+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/46647599": {
+      "podcast_id": "hatshuva",
+      "title": "כדורגל בותיקן ועוד השלמות ותיקונים [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/15.wav",
+      "filename_stem": "15",
+      "uploaded_at": "2026-10-12T14:46:58.321996+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/46814706": {
+      "podcast_id": "hatshuva",
+      "title": "איך לנצח באבן נייר ומספריים? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/16.wav",
+      "filename_stem": "16",
+      "uploaded_at": "2026-10-12T14:47:23.725956+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/46920580": {
+      "podcast_id": "hatshuva",
+      "title": "בונוס: המנצח בין השתיים [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/17.wav",
+      "filename_stem": "17",
+      "uploaded_at": "2026-10-12T14:47:38.914278+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/47027329": {
+      "podcast_id": "hatshuva",
+      "title": "מה יקרה כשהקרחונים ימסו? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/18.wav",
+      "filename_stem": "18",
+      "uploaded_at": "2026-10-12T14:48:05.190839+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/47258967": {
+      "podcast_id": "hatshuva",
+      "title": "האם הירובריין קיים? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/19.wav",
+      "filename_stem": "19",
+      "uploaded_at": "2026-10-12T14:48:33.384938+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/47477887": {
+      "podcast_id": "hatshuva",
+      "title": "הצורה של העולם (שידור מעודכן) [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/20.wav",
+      "filename_stem": "20",
+      "uploaded_at": "2026-10-12T14:49:00.766014+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/47699517": {
+      "podcast_id": "hatshuva",
+      "title": "למה למטר יש אורך של מטר? [התשובה]",
+      "status": "error",
+      "error": "UploadFile finalization query retry failed: Invalid file identifier or file name.",
+      "updated_at": "2026-10-12T14:49:27.349417+00:00",
+      "attempt_count": 1,
+      "next_retry": "2026-10-12T15:49:27.349438+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/47902033": {
+      "podcast_id": "hatshuva",
+      "title": "איך להתגונן מאסטרואידים? [התשובה]",
+      "status": "error",
+      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "updated_at": "2026-10-12T14:50:10.159944+00:00",
+      "attempt_count": 1,
+      "next_retry": "2026-10-12T15:50:10.159968+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/48071616": {
+      "podcast_id": "hatshuva",
+      "title": "אז מה הייתה השאלה - סיכום 2021 [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/23.wav",
+      "filename_stem": "23",
+      "uploaded_at": "2026-10-12T14:50:24.397314+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/48234916": {
+      "podcast_id": "hatshuva",
+      "title": "מי באמת גילה את אמריקה? (שידור מעודכן) [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/24.wav",
+      "filename_stem": "24",
+      "uploaded_at": "2026-10-12T14:50:45.418619+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/48423002": {
+      "podcast_id": "hatshuva",
+      "title": "כמה ימים יש בשבוע? (שידור מעודכן) [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/25.wav",
+      "filename_stem": "25",
+      "uploaded_at": "2026-10-12T14:51:19.503989+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/48625121": {
+      "podcast_id": "hatshuva",
+      "title": "תיכף יבוא שקמיסט ועוד השלמות ותיקונים [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/26.wav",
+      "filename_stem": "26",
+      "uploaded_at": "2026-10-12T14:51:32.688261+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/48723240": {
+      "podcast_id": "hatshuva",
+      "title": "מי באמת היה הראשון שהקיף את העולם? חלק א' [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/27.wav",
+      "filename_stem": "27",
+      "uploaded_at": "2026-10-12T14:52:00.316454+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/48895507": {
+      "podcast_id": "hatshuva",
+      "title": "הצד הרחוק של העולם: מי באמת היה הראשון שהקיף את העולם? חלק ב' [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/28.wav",
+      "filename_stem": "28",
+      "uploaded_at": "2026-10-12T14:52:32.445659+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/49053978": {
+      "podcast_id": "hatshuva",
+      "title": "מאיפה הגיעו סימני הפיסוק? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/29.wav",
+      "filename_stem": "29",
+      "uploaded_at": "2026-10-12T14:52:55.136210+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/49131678": {
+      "podcast_id": "hatshuva",
+      "title": "בונוס: עוד כמה מילים על האיש שהקיף את העולם [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/30.wav",
+      "filename_stem": "30",
+      "uploaded_at": "2026-10-12T14:53:11.556118+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/49310914": {
+      "podcast_id": "hatshuva",
+      "title": "בשביל מה בכלל צריך מחשב קוונטי? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/31.wav",
+      "filename_stem": "31",
+      "uploaded_at": "2026-10-12T14:53:41.277066+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/49464822": {
+      "podcast_id": "hatshuva",
+      "title": "דלתות או גלגלים? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/32.wav",
+      "filename_stem": "32",
+      "uploaded_at": "2026-10-12T14:54:05.474793+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/49621630": {
+      "podcast_id": "hatshuva",
+      "title": "לאן נעלמה מורן? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/33.wav",
+      "filename_stem": "33",
+      "uploaded_at": "2026-10-12T14:54:39.551688+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/49810000": {
+      "podcast_id": "hatshuva",
+      "title": "איפה החייזרים? (שידור חוזר) [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/34.wav",
+      "filename_stem": "34",
+      "uploaded_at": "2026-10-12T14:55:04.060333+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/49997579": {
+      "podcast_id": "hatshuva",
+      "title": "האנושות נגד בייבי שארק [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/35.wav",
+      "filename_stem": "35",
+      "uploaded_at": "2026-10-12T14:55:35.460497+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/50181636": {
+      "podcast_id": "hatshuva",
+      "title": "מורן מכה שנית: עוד סיפורי שמות [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/36.wav",
+      "filename_stem": "36",
+      "uploaded_at": "2026-10-12T14:56:00.534857+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/50306792": {
+      "podcast_id": "hatshuva",
+      "title": "השבלייה: חידה היסטורית [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/37.wav",
+      "filename_stem": "37",
+      "uploaded_at": "2026-10-12T14:56:26.213745+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/50531695": {
+      "podcast_id": "hatshuva",
+      "title": "למה לסבתא אין גלגלים? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/38.wav",
+      "filename_stem": "38",
+      "uploaded_at": "2026-10-12T14:56:48.452354+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/50701527": {
+      "podcast_id": "hatshuva",
+      "title": "מיכל והגלגוחים ועוד השלמות ותיקונים [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/39.wav",
+      "filename_stem": "39",
+      "uploaded_at": "2026-10-12T14:57:03.374923+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/50723854": {
+      "podcast_id": "hatshuva",
+      "title": "בונוס: תמאם שוד - התשובה(?) [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/40.wav",
+      "filename_stem": "40",
+      "uploaded_at": "2026-10-12T14:57:26.194210+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/50852112": {
+      "podcast_id": "hatshuva",
+      "title": "איך לא להיות אפיפיור [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/41.wav",
+      "filename_stem": "41",
+      "uploaded_at": "2026-10-12T14:57:58.516982+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/50992628": {
+      "podcast_id": "hatshuva",
+      "title": "למה נוסעים בצד ימין? (שידור מעודכן) [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/42.wav",
+      "filename_stem": "42",
+      "uploaded_at": "2026-10-12T14:58:41.238371+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/51146907": {
+      "podcast_id": "hatshuva",
+      "title": "למה לאוכל רע יש טעם טוב? (שידור חוזר) [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/43.wav",
+      "filename_stem": "43",
+      "uploaded_at": "2026-10-12T14:59:15.024867+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/51266741": {
+      "podcast_id": "hatshuva",
+      "title": "תעלומת הפנינה הסמואית [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/44.wav",
+      "filename_stem": "44",
+      "uploaded_at": "2026-10-12T14:59:43.405208+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/51450095": {
+      "podcast_id": "hatshuva",
+      "title": "האם אנחנו חיים בסימולציה? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/45.wav",
+      "filename_stem": "45",
+      "uploaded_at": "2026-10-12T15:00:10.622595+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/51534430": {
+      "podcast_id": "hatshuva",
+      "title": "אחלה או סבבה? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/46.wav",
+      "filename_stem": "46",
+      "uploaded_at": "2026-10-12T15:00:21.218141+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/51658086": {
+      "podcast_id": "hatshuva",
+      "title": "ועכשיו התוצאות: אחלה או סבבה? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/47.wav",
+      "filename_stem": "47",
+      "uploaded_at": "2026-10-12T15:00:46.607671+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/51808826": {
+      "podcast_id": "hatshuva",
+      "title": "איך להגיע לאולימפיאדה במינימום מאמץ? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/48.wav",
+      "filename_stem": "48",
+      "uploaded_at": "2026-10-12T15:01:19.002433+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/51957422": {
+      "podcast_id": "hatshuva",
+      "title": "[התשובה] כל הכסף בעולם (שידור חוזר)",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/49.wav",
+      "filename_stem": "49",
+      "uploaded_at": "2026-10-12T15:01:38.368372+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/52092395": {
+      "podcast_id": "hatshuva",
+      "title": "היה מבול? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/50.wav",
+      "filename_stem": "50",
+      "uploaded_at": "2026-10-12T15:02:04.445228+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/52217262": {
+      "podcast_id": "hatshuva",
+      "title": "איזה טעם יש ללמבדה? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/51.wav",
+      "filename_stem": "51",
+      "uploaded_at": "2026-10-12T15:03:34.300028+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/52327321": {
+      "podcast_id": "hatshuva",
+      "title": "פרק השנה 2022 [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/52.wav",
+      "filename_stem": "52",
+      "uploaded_at": "2026-10-12T15:03:49.537278+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/52446710": {
+      "podcast_id": "hatshuva",
+      "title": "מה הצבע של אטום? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/53.wav",
+      "filename_stem": "53",
+      "uploaded_at": "2026-10-12T15:04:11.231306+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/52575361": {
+      "podcast_id": "hatshuva",
+      "title": "השאלה שאי אפשר לכתוב (שידור חוזר) [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/54.wav",
+      "filename_stem": "54",
+      "uploaded_at": "2026-10-12T15:04:28.740402+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/52717852": {
+      "podcast_id": "hatshuva",
+      "title": "איך להזיז (קצת) את כדור הארץ? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/55.wav",
+      "filename_stem": "55",
+      "uploaded_at": "2026-10-12T15:05:05.543471+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/52854985": {
+      "podcast_id": "hatshuva",
+      "title": "מה השעה (ואיפה?) [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/56.wav",
+      "filename_stem": "56",
+      "uploaded_at": "2026-10-12T15:05:27.784477+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/53173808": {
+      "podcast_id": "hatshuva",
+      "title": "מי רצח את אדווין דרוד? חלק א' [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/57.wav",
+      "filename_stem": "57",
+      "uploaded_at": "2026-10-12T15:05:52.556177+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/53342301": {
+      "podcast_id": "hatshuva",
+      "title": "מי רצח את אדווין דרוד? חלק ב' [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/58.wav",
+      "filename_stem": "58",
+      "uploaded_at": "2026-10-12T15:06:17.369956+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/53483652": {
+      "podcast_id": "hatshuva",
+      "title": "השאלה האחרת שאי אפשר לכתוב ועוד השלמות ותיקונים [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/59.wav",
+      "filename_stem": "59",
+      "uploaded_at": "2026-10-12T15:06:34.072845+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/53621508": {
+      "podcast_id": "hatshuva",
+      "title": "מה אוכלות החיות? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/60.wav",
+      "filename_stem": "60",
+      "uploaded_at": "2026-10-12T15:06:58.474873+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/53739988": {
+      "podcast_id": "hatshuva",
+      "title": "למה פוליטיקאים גבוהים? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/61.wav",
+      "filename_stem": "61",
+      "uploaded_at": "2026-10-12T15:07:18.932178+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/53947935": {
+      "podcast_id": "hatshuva",
+      "title": "האם גרגמל יהודי? (ש.ח.) [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/62.wav",
+      "filename_stem": "62",
+      "uploaded_at": "2026-10-12T15:07:41.896067+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/54097186": {
+      "podcast_id": "hatshuva",
+      "title": "מי ינצח: האנושות או הנמלים? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/63.wav",
+      "filename_stem": "63",
+      "uploaded_at": "2026-10-12T15:08:20.233583+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/54516052": {
+      "podcast_id": "hatshuva",
+      "title": "המגדל התלוי באויר [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/64.wav",
+      "filename_stem": "64",
+      "uploaded_at": "2026-10-12T15:08:42.053491+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/55795867": {
+      "podcast_id": "hatshuva",
+      "title": "עגבניה: פרי או ירק? (עם העיר הזאת) [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/65.wav",
+      "filename_stem": "65",
+      "uploaded_at": "2026-10-12T15:08:56.224269+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/56086042": {
+      "podcast_id": "hatshuva",
+      "title": "אנחנו יותר קטנים או יותר גדולים? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/66.wav",
+      "filename_stem": "66",
+      "uploaded_at": "2026-10-12T15:09:23.205854+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/56306208": {
+      "podcast_id": "hatshuva",
+      "title": "האם נשאר מה לגלות? (ש.ח.) [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/67.wav",
+      "filename_stem": "67",
+      "uploaded_at": "2026-10-12T15:09:41.549435+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/56454562": {
+      "podcast_id": "hatshuva",
+      "title": "מה הקטע עם הוראות הבטיחות במטוסים? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/68.wav",
+      "filename_stem": "68",
+      "uploaded_at": "2026-10-12T15:10:06.187880+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/56602728": {
+      "podcast_id": "hatshuva",
+      "title": "מאיפה בא יונתן הקטן? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/69.wav",
+      "filename_stem": "69",
+      "uploaded_at": "2026-10-12T15:10:33.695439+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/56761434": {
+      "podcast_id": "hatshuva",
+      "title": "הפתקים: סיפור אימה [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/70.wav",
+      "filename_stem": "70",
+      "uploaded_at": "2026-10-12T15:10:58.211753+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/56936379": {
+      "podcast_id": "hatshuva",
+      "title": "החנוכיה של גרגמל ועוד השלמות ותיקונים [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/71.wav",
+      "filename_stem": "71",
+      "uploaded_at": "2026-10-12T15:11:14.662275+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/57154087": {
+      "podcast_id": "hatshuva",
+      "title": "האם כל הכלבים מדברים אותה שפה? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/72.wav",
+      "filename_stem": "72",
+      "uploaded_at": "2026-10-12T15:11:35.025104+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/57364720": {
+      "podcast_id": "hatshuva",
+      "title": "לאן באמת נעלמות הגרביים? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/73.wav",
+      "filename_stem": "73",
+      "uploaded_at": "2026-10-12T15:11:59.131802+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/57616188": {
+      "podcast_id": "hatshuva",
+      "title": "למה מונופול הוא משחק גרוע? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/74.wav",
+      "filename_stem": "74",
+      "uploaded_at": "2026-10-12T15:12:23.758601+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/57903812": {
+      "podcast_id": "hatshuva",
+      "title": "מיהו האדם הממוצע ביותר בעולם? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/75.wav",
+      "filename_stem": "75",
+      "uploaded_at": "2026-10-12T15:12:51.947865+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/58114991": {
+      "podcast_id": "hatshuva",
+      "title": "מאיפה באים חדי קרן? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/76.wav",
+      "filename_stem": "76",
+      "uploaded_at": "2026-10-12T15:13:14.958203+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/58230714": {
+      "podcast_id": "hatshuva",
+      "title": "האם יש חדי קרן בישראל? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/77.wav",
+      "filename_stem": "77",
+      "uploaded_at": "2026-10-12T15:13:37.210243+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/58393004": {
+      "podcast_id": "hatshuva",
+      "title": "פרק השנה 2023 [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/78.wav",
+      "filename_stem": "78",
+      "uploaded_at": "2026-10-12T15:13:53.642816+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/58999960": {
+      "podcast_id": "hatshuva",
+      "title": "האם אפשר לסמוך על ויקיפדיה? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/79.wav",
+      "filename_stem": "79",
+      "uploaded_at": "2026-10-12T15:14:24.753553+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/59161354": {
+      "podcast_id": "hatshuva",
+      "title": "האנציקלופדיה הבלתי גמורה [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/80.wav",
+      "filename_stem": "80",
+      "uploaded_at": "2026-10-12T15:14:55.372963+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/59329041": {
+      "podcast_id": "hatshuva",
+      "title": "מה באמת הרג את הדינוזאורים? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/81.wav",
+      "filename_stem": "81",
+      "uploaded_at": "2026-10-12T15:15:21.097283+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/59880339": {
+      "podcast_id": "hatshuva",
+      "title": "למה אנחנו לא מקשיבים לאקדמיה ללשון העברית? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/82.wav",
+      "filename_stem": "82",
+      "uploaded_at": "2026-10-12T15:15:46.429949+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/60098037": {
+      "podcast_id": "hatshuva",
+      "title": "למה דווקא 60? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/83.wav",
+      "filename_stem": "83",
+      "uploaded_at": "2026-10-12T15:16:14.568206+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/60416129": {
+      "podcast_id": "hatshuva",
+      "title": "ענפן פלמוני ועוד השלמות ותיקונים [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/84.wav",
+      "filename_stem": "84",
+      "uploaded_at": "2026-10-12T15:16:31.465894+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/60554326": {
+      "podcast_id": "hatshuva",
+      "title": "למה לגברים יש פטמות? (שידור מעודכן) [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/85.wav",
+      "filename_stem": "85",
+      "uploaded_at": "2026-10-12T15:16:49.256472+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/60688701": {
+      "podcast_id": "hatshuva",
+      "title": "מהי המדינה הכי משעממת (בקטע טוב) בעולם? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/86.wav",
+      "filename_stem": "86",
+      "uploaded_at": "2026-10-12T15:17:17.171292+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/60917036": {
+      "podcast_id": "hatshuva",
+      "title": "מי היא באמת האישה הזקנה בעולם? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/87.wav",
+      "filename_stem": "87",
+      "uploaded_at": "2026-10-12T15:17:39.477364+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/61078070": {
+      "podcast_id": "hatshuva",
+      "title": "למה פרסומות למשחקים בטלפון כל כך מוזרות? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/88.wav",
+      "filename_stem": "88",
+      "uploaded_at": "2026-10-12T15:18:08.403371+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/61230140": {
+      "podcast_id": "hatshuva",
+      "title": "איך לייבש ידיים (ולהישאר בחיים) [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/89.wav",
+      "filename_stem": "89",
+      "uploaded_at": "2026-10-12T15:18:32.608588+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/62157335": {
+      "podcast_id": "hatshuva",
+      "title": "שמונים יום או פחות, חלק א' [התשובה]",
+      "status": "error",
+      "error": "UploadFile finalization query retry failed: Invalid file identifier or file name.",
+      "updated_at": "2026-10-12T15:19:03.525793+00:00",
+      "attempt_count": 1,
+      "next_retry": "2026-10-12T16:19:03.525810+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/62356436": {
+      "podcast_id": "hatshuva",
+      "title": "שמונים יום או פחות, חלק ב' [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/91.wav",
+      "filename_stem": "91",
+      "uploaded_at": "2026-10-12T15:19:29.732651+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/62602551": {
+      "podcast_id": "hatshuva",
+      "title": "שניה זה הרבה או מעט? [התשובה]",
+      "status": "error",
+      "error": "UploadFile finalization query retry failed: Invalid file identifier or file name.",
+      "updated_at": "2026-10-12T15:20:05.616212+00:00",
+      "attempt_count": 1,
+      "next_retry": "2026-10-12T16:20:05.616232+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/62688948": {
+      "podcast_id": "hatshuva",
+      "title": "אני יכול להסביר. [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/93.wav",
+      "filename_stem": "93",
+      "uploaded_at": "2026-10-12T15:20:13.657902+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/63023241": {
+      "podcast_id": "hatshuva",
+      "title": "רגליים או עיניים? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/94.wav",
+      "filename_stem": "94",
+      "uploaded_at": "2026-10-12T15:20:34.690338+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/63533121": {
+      "podcast_id": "hatshuva",
+      "title": "מה היה הסיפור עם באג 2000? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/95.wav",
+      "filename_stem": "95",
+      "uploaded_at": "2026-10-12T15:21:06.272343+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/63683811": {
+      "podcast_id": "hatshuva",
+      "title": "מצב התשובה: פרק השנה 2024 [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/96.wav",
+      "filename_stem": "96",
+      "uploaded_at": "2026-10-12T15:21:21.041715+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/64446055": {
+      "podcast_id": "hatshuva",
+      "title": "למה חזירי ים? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/97.wav",
+      "filename_stem": "97",
+      "uploaded_at": "2026-10-12T15:21:42.959989+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/65049200": {
+      "podcast_id": "hatshuva",
+      "title": "איך עושים דרקון? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/98.wav",
+      "filename_stem": "98",
+      "uploaded_at": "2026-10-12T15:22:10.946828+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/65597444": {
+      "podcast_id": "hatshuva",
+      "title": "איך לעוף (ואיך, בכל זאת, עושים דרקון) [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/99.wav",
+      "filename_stem": "99",
+      "uploaded_at": "2026-10-12T15:22:34.562148+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/65767000": {
+      "podcast_id": "hatshuva",
+      "title": "האם שני ילדים עוקבים אחריי? [התשובה]",
+      "status": "error",
+      "error": "UploadFile finalization query retry failed: Invalid file identifier or file name.",
+      "updated_at": "2026-10-12T15:23:03.991318+00:00",
+      "attempt_count": 1,
+      "next_retry": "2026-10-12T16:23:03.991338+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/66055774": {
+      "podcast_id": "hatshuva",
+      "title": "הילדים המצחקקים מכים שנית - עדכון [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/101.wav",
+      "filename_stem": "101",
+      "uploaded_at": "2026-10-12T15:23:11.793011+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/66181278": {
+      "podcast_id": "hatshuva",
+      "title": "לוצי: מה בעצם הקטע עם אבולוציה? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/102.wav",
+      "filename_stem": "102",
+      "uploaded_at": "2026-10-12T15:23:33.500022+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/66523880": {
+      "podcast_id": "hatshuva",
+      "title": "לוצי 2: האם האבולוציה נגמרה? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/103.wav",
+      "filename_stem": "103",
+      "uploaded_at": "2026-10-12T15:23:54.022584+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/66896226": {
+      "podcast_id": "hatshuva",
+      "title": "לוצי 3: הקוף עם מכונת הכתיבה [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/104.wav",
+      "filename_stem": "104",
+      "uploaded_at": "2026-10-12T15:24:33.437057+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/67237312": {
+      "podcast_id": "hatshuva",
+      "title": "האם אפשר למות מצחוק? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/105.wav",
+      "filename_stem": "105",
+      "uploaded_at": "2026-10-12T15:24:54.877422+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/67435247": {
+      "podcast_id": "hatshuva",
+      "title": "הקבר עם סימן השאלה [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/106.wav",
+      "filename_stem": "106",
+      "uploaded_at": "2026-10-12T15:25:30.683746+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/67757423": {
+      "podcast_id": "hatshuva",
+      "title": "מאיפה הגיעה שירלי? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/107.wav",
+      "filename_stem": "107",
+      "uploaded_at": "2026-10-12T15:25:57.610451+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/67879028": {
+      "podcast_id": "hatshuva",
+      "title": "איך לייבש את הים התיכון? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/108.wav",
+      "filename_stem": "108",
+      "uploaded_at": "2026-10-12T15:26:21.534017+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/68237322": {
+      "podcast_id": "hatshuva",
+      "title": "למה יש יותר מדי צירופי מקרים? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/109.wav",
+      "filename_stem": "109",
+      "uploaded_at": "2026-10-12T15:26:45.808389+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/68818645": {
+      "podcast_id": "hatshuva",
+      "title": "מתי יבוא הוולרמן? (רמיקס) [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/110.wav",
+      "filename_stem": "110",
+      "uploaded_at": "2026-10-12T15:27:08.412416+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/69076436": {
+      "podcast_id": "hatshuva",
+      "title": "ספינת החלל חגית: קולו של הקוסמוס [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/111.wav",
+      "filename_stem": "111",
+      "uploaded_at": "2026-10-12T15:27:16.567310+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/69241835": {
+      "podcast_id": "hatshuva",
+      "title": "מאיפה הגיעו החתולים? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-09-24T20:16:59.995389+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/69401998": {
+      "podcast_id": "hatshuva",
+      "title": "פרק השנה 2025 [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-10-12T15:27:31.959293+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/69760438": {
+      "podcast_id": "hatshuva",
+      "title": "הירו [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-10-12T15:28:49.098973+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/70249445": {
+      "podcast_id": "hatshuva",
+      "title": "איפה המקל של גבי ודבי? [התשובה]",
+      "status": "error",
+      "error": "UploadFile finalization query retry failed: Invalid file identifier or file name.",
+      "updated_at": "2026-10-12T15:29:18.980074+00:00",
+      "attempt_count": 1,
+      "next_retry": "2026-10-12T16:29:18.980092+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/71195396": {
+      "podcast_id": "hatshuva",
+      "title": "למה צפון מקדוניה? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-10-12T15:29:39.206909+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/71746941": {
+      "podcast_id": "hatshuva",
+      "title": "בנג: מה היה לפני המפץ הגדול? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/1.wav",
+      "filename_stem": "1",
+      "uploaded_at": "2026-10-12T15:30:04.537852+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/72175479": {
+      "podcast_id": "hatshuva",
+      "title": "הדבר הכי מעניין שקרה אי פעם במדינה המשעממת ביותר בעולם [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/2.wav",
+      "filename_stem": "2",
+      "uploaded_at": "2026-10-12T15:30:23.609232+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/72560973": {
+      "podcast_id": "hatshuva",
+      "title": "האם הכפתור של הרמזור באמת עובד? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/3.wav",
+      "filename_stem": "3",
+      "uploaded_at": "2026-10-12T15:30:51.830269+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/73190487": {
+      "podcast_id": "hatshuva",
+      "title": "ממה עשוי הטלפון שלי? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/4.wav",
+      "filename_stem": "4",
+      "uploaded_at": "2026-10-12T15:31:14.206197+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/74189234": {
+      "podcast_id": "hatshuva",
+      "title": "מהו באמת היצור הכי גדול בעולם? [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/5.wav",
+      "filename_stem": "5",
+      "uploaded_at": "2026-10-12T15:31:37.442928+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/75426573": {
+      "podcast_id": "hatshuva",
+      "title": "סיזיפוס [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/11.wav",
+      "filename_stem": "11",
+      "uploaded_at": "2026-10-12T15:32:08.025136+00:00"
     }
   },
   "next_numbers": {
@@ -23145,7 +23951,7 @@
     "2": 1020,
     "3": 11,
     "4": 17,
-    "5": 12,
+    "5": 112,
     "6": 288,
     "7": 14,
     "8": 12,
