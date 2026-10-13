@@ -12402,9 +12402,9 @@
       "status": "error",
       "filename_stem": "16",
       "error": "UploadFile finalization query retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-10-09T18:23:53.996585+00:00",
-      "attempt_count": 5,
-      "next_retry": "2026-10-12T18:23:53.996606+00:00"
+      "updated_at": "2026-10-13T00:46:03.299511+00:00",
+      "attempt_count": 6,
+      "next_retry": "2026-10-16T00:46:03.299532+00:00"
     },
     "osim_historia:https://api.spreaker.com/episode/75567734": {
       "podcast_id": "osim_historia",
@@ -23886,9 +23886,9 @@
       "status": "error",
       "filename_stem": "112",
       "error": "UploadFile finalization query retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-10-12T17:59:27.172274+00:00",
-      "attempt_count": 2,
-      "next_retry": "2026-10-12T23:59:27.172294+00:00"
+      "updated_at": "2026-10-13T00:46:34.316206+00:00",
+      "attempt_count": 3,
+      "next_retry": "2026-10-14T00:46:34.316234+00:00"
     },
     "hatshuva:https://api.spreaker.com/episode/71195396": {
       "podcast_id": "hatshuva",
@@ -23945,6 +23945,14 @@
       "path": "ivr2:/1/5/11.wav",
       "filename_stem": "11",
       "uploaded_at": "2026-10-12T15:32:08.025136+00:00"
+    },
+    "haim_aherim:9a94b572-f2f4-4179-bede-b4e1014bca35": {
+      "podcast_id": "haim_aherim",
+      "title": "חיים של אחרים | 12.10.26",
+      "status": "uploaded",
+      "path": "ivr2:/1/17/15.wav",
+      "filename_stem": "15",
+      "uploaded_at": "2026-10-13T00:47:34.307580+00:00"
     }
   },
   "next_numbers": {
@@ -23964,7 +23972,7 @@
     "14": 5,
     "15": 16,
     "16": 12,
-    "17": 15,
+    "17": 16,
     "18": 11,
     "19": 11,
     "21": 266,
