@@ -23977,11 +23977,19 @@
       "path": "ivr2:/1/42/909.wav",
       "filename_stem": "909",
       "uploaded_at": "2026-10-13T07:47:37.360488+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/786681f2-e139-354e-911d-b98137d47bb4": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1261 - פרופ׳ יניב ארליך ופיתוחים בעולם התרופות",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1020.wav",
+      "filename_stem": "1020",
+      "uploaded_at": "2026-10-13T15:19:43.473115+00:00"
     }
   },
   "next_numbers": {
     "1": 2661,
-    "2": 1020,
+    "2": 1021,
     "3": 11,
     "4": 17,
     "5": 113,
