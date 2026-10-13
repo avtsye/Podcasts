@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T10:26:37.012353+00:00",
+  "updated_at": "2026-10-13T18:11:15.974618+00:00",
   "podcasts": [
     {
       "id": "ehad_beyom",
@@ -9,7 +9,7 @@
       "yemos_branch": "1",
       "category": "חדשות ואקטואליה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:13.795892+00:00",
+      "last_checked": "2026-10-13T16:03:09.273397+00:00",
       "episode_count": 1347
     },
     {
@@ -20,7 +20,7 @@
       "yemos_branch": "2",
       "category": "טכנולוגיה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:15.260425+00:00",
+      "last_checked": "2026-10-13T16:03:11.733411+00:00",
       "episode_count": 999
     },
     {
@@ -31,7 +31,7 @@
       "yemos_branch": "3",
       "category": "תרבות ופנאי",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:16.030423+00:00",
+      "last_checked": "2026-10-13T16:03:12.767761+00:00",
       "episode_count": 497
     },
     {
@@ -42,7 +42,7 @@
       "yemos_branch": "4",
       "category": "טכנולוגיה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:16.653715+00:00",
+      "last_checked": "2026-10-13T16:03:13.338891+00:00",
       "episode_count": 183
     },
     {
@@ -53,7 +53,7 @@
       "yemos_branch": "5",
       "category": "תרבות ופנאי",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:17.283355+00:00",
+      "last_checked": "2026-10-13T16:03:14.121161+00:00",
       "episode_count": 175
     },
     {
@@ -64,7 +64,7 @@
       "yemos_branch": "6",
       "category": "טכנולוגיה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:18.567187+00:00",
+      "last_checked": "2026-10-13T16:03:16.063857+00:00",
       "episode_count": 429
     },
     {
@@ -75,7 +75,7 @@
       "yemos_branch": "7",
       "category": "כלכלה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:18.993810+00:00",
+      "last_checked": "2026-10-13T16:03:16.616607+00:00",
       "episode_count": 100
     },
     {
@@ -86,7 +86,7 @@
       "yemos_branch": "8",
       "category": "היסטוריה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:19.650232+00:00",
+      "last_checked": "2026-10-13T16:03:17.391632+00:00",
       "episode_count": 297
     },
     {
@@ -97,7 +97,7 @@
       "yemos_branch": "9",
       "category": "תרבות ופנאי",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:20.030620+00:00",
+      "last_checked": "2026-10-13T16:03:17.843794+00:00",
       "episode_count": 48
     },
     {
@@ -108,7 +108,7 @@
       "yemos_branch": "10",
       "category": "היסטוריה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:20.512680+00:00",
+      "last_checked": "2026-10-13T16:03:18.447239+00:00",
       "episode_count": 151
     },
     {
@@ -119,7 +119,7 @@
       "yemos_branch": "11",
       "category": "מדע",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:20.906892+00:00",
+      "last_checked": "2026-10-13T16:03:18.910467+00:00",
       "episode_count": 58
     },
     {
@@ -130,7 +130,7 @@
       "yemos_branch": "12",
       "category": "טכנולוגיה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:21.318337+00:00",
+      "last_checked": "2026-10-13T16:03:19.883999+00:00",
       "episode_count": 20
     },
     {
@@ -141,7 +141,7 @@
       "yemos_branch": "13",
       "category": "כלכלה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:21.714573+00:00",
+      "last_checked": "2026-10-13T16:03:20.259600+00:00",
       "episode_count": 20
     },
     {
@@ -152,7 +152,7 @@
       "yemos_branch": "14",
       "category": "כלכלה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:22.071847+00:00",
+      "last_checked": "2026-10-13T16:03:20.661360+00:00",
       "episode_count": 4
     },
     {
@@ -163,7 +163,7 @@
       "yemos_branch": "15",
       "category": "חדשות ואקטואליה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:22.503594+00:00",
+      "last_checked": "2026-10-13T16:03:21.151697+00:00",
       "episode_count": 100
     },
     {
@@ -174,7 +174,7 @@
       "yemos_branch": "16",
       "category": "טכנולוגיה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:22.870472+00:00",
+      "last_checked": "2026-10-13T16:03:21.546507+00:00",
       "episode_count": 11
     },
     {
@@ -185,7 +185,7 @@
       "yemos_branch": "17",
       "category": "תרבות ופנאי",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:24.046646+00:00",
+      "last_checked": "2026-10-13T16:03:23.273085+00:00",
       "episode_count": 1178
     },
     {
@@ -196,7 +196,7 @@
       "yemos_branch": "18",
       "category": "כלכלה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:24.569205+00:00",
+      "last_checked": "2026-10-13T16:03:23.655410+00:00",
       "episode_count": 11
     },
     {
@@ -207,7 +207,7 @@
       "yemos_branch": "19",
       "category": "כלכלה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:25.087501+00:00",
+      "last_checked": "2026-10-13T16:03:24.227162+00:00",
       "episode_count": 81
     },
     {
@@ -218,7 +218,7 @@
       "yemos_branch": "20",
       "category": "חדשות ואקטואליה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:25.894602+00:00",
+      "last_checked": "2026-10-13T16:03:25.016351+00:00",
       "episode_count": 310
     },
     {
@@ -229,7 +229,7 @@
       "yemos_branch": "21",
       "category": "מדע",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:26.474293+00:00",
+      "last_checked": "2026-10-13T16:03:25.545576+00:00",
       "episode_count": 119
     },
     {
@@ -240,7 +240,7 @@
       "yemos_branch": "22",
       "category": "טכנולוגיה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:26.848464+00:00",
+      "last_checked": "2026-10-13T16:03:25.955824+00:00",
       "episode_count": 23
     },
     {
@@ -251,7 +251,7 @@
       "yemos_branch": "23",
       "category": "תרבות ופנאי",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:27.338006+00:00",
+      "last_checked": "2026-10-13T16:03:26.522528+00:00",
       "episode_count": 264
     },
     {
@@ -262,7 +262,7 @@
       "yemos_branch": "24",
       "category": "תרבות ופנאי",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:28.427068+00:00",
+      "last_checked": "2026-10-13T16:03:28.186018+00:00",
       "episode_count": 431
     },
     {
@@ -273,7 +273,7 @@
       "yemos_branch": "25",
       "category": "היסטוריה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:28.791358+00:00",
+      "last_checked": "2026-10-13T16:03:28.619447+00:00",
       "episode_count": 8
     },
     {
@@ -284,7 +284,7 @@
       "yemos_branch": "26",
       "category": "היסטוריה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:29.229551+00:00",
+      "last_checked": "2026-10-13T16:03:29.169804+00:00",
       "episode_count": 300
     },
     {
@@ -295,7 +295,7 @@
       "yemos_branch": "27",
       "category": "היסטוריה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:30.117536+00:00",
+      "last_checked": "2026-10-13T16:03:30.022661+00:00",
       "episode_count": 284
     },
     {
@@ -306,7 +306,7 @@
       "yemos_branch": "37",
       "category": "תרבות ופנאי",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:30.249214+00:00",
+      "last_checked": "2026-10-13T16:03:30.185845+00:00",
       "episode_count": 37
     },
     {
@@ -317,7 +317,7 @@
       "yemos_branch": "38",
       "category": "היסטוריה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:30.375340+00:00",
+      "last_checked": "2026-10-13T16:03:30.341519+00:00",
       "episode_count": 31
     },
     {
@@ -328,7 +328,7 @@
       "yemos_branch": "39",
       "category": "תרבות ופנאי",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:30.589126+00:00",
+      "last_checked": "2026-10-13T16:03:30.779991+00:00",
       "episode_count": 8
     },
     {
@@ -339,7 +339,7 @@
       "yemos_branch": "40",
       "category": "תרבות ופנאי",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:30.695103+00:00",
+      "last_checked": "2026-10-13T16:03:30.902767+00:00",
       "episode_count": 6
     },
     {
@@ -350,7 +350,7 @@
       "yemos_branch": "41",
       "category": "מדע",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:30.819974+00:00",
+      "last_checked": "2026-10-13T16:03:31.038150+00:00",
       "episode_count": 18
     },
     {
@@ -361,7 +361,7 @@
       "yemos_branch": "42",
       "category": "מדע",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:32.966611+00:00",
+      "last_checked": "2026-10-13T16:03:34.464093+00:00",
       "episode_count": 1873
     },
     {
@@ -372,7 +372,7 @@
       "yemos_branch": "43",
       "category": "טכנולוגיה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:33.603456+00:00",
+      "last_checked": "2026-10-13T16:03:35.223944+00:00",
       "episode_count": 202
     },
     {
@@ -383,7 +383,7 @@
       "yemos_branch": "44",
       "category": "מדע",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:33.953666+00:00",
+      "last_checked": "2026-10-13T16:03:35.637562+00:00",
       "episode_count": 19
     },
     {
@@ -394,7 +394,7 @@
       "yemos_branch": "45",
       "category": "היסטוריה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:35.293041+00:00",
+      "last_checked": "2026-10-13T16:03:36.925496+00:00",
       "episode_count": 316
     },
     {
@@ -405,7 +405,7 @@
       "yemos_branch": "46",
       "category": "היסטוריה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:35.637089+00:00",
+      "last_checked": "2026-10-13T16:03:37.352108+00:00",
       "episode_count": 30
     },
     {
@@ -416,7 +416,7 @@
       "yemos_branch": "47",
       "category": "היסטוריה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:36.026515+00:00",
+      "last_checked": "2026-10-13T16:03:37.955940+00:00",
       "episode_count": 224
     },
     {
@@ -427,7 +427,7 @@
       "yemos_branch": "48",
       "category": "היסטוריה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:36.199046+00:00",
+      "last_checked": "2026-10-13T16:03:38.145459+00:00",
       "episode_count": 50
     },
     {
@@ -438,7 +438,7 @@
       "yemos_branch": "49",
       "category": "היסטוריה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:36.934077+00:00",
+      "last_checked": "2026-10-13T16:03:38.595038+00:00",
       "episode_count": 101
     },
     {
@@ -449,7 +449,7 @@
       "yemos_branch": "50",
       "category": "כלכלה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:37.824246+00:00",
+      "last_checked": "2026-10-13T16:03:40.059811+00:00",
       "episode_count": 502
     },
     {
@@ -460,7 +460,7 @@
       "yemos_branch": "51",
       "category": "כלכלה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:38.399979+00:00",
+      "last_checked": "2026-10-13T16:03:40.609575+00:00",
       "episode_count": 169
     },
     {
@@ -471,7 +471,7 @@
       "yemos_branch": "52",
       "category": "מדע",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:39.113347+00:00",
+      "last_checked": "2026-10-13T16:03:41.135912+00:00",
       "episode_count": 86
     },
     {
@@ -482,7 +482,7 @@
       "yemos_branch": "53",
       "category": "מדע",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:39.766656+00:00",
+      "last_checked": "2026-10-13T16:03:41.622376+00:00",
       "episode_count": 113
     },
     {
@@ -493,7 +493,7 @@
       "yemos_branch": "54",
       "category": "מדע",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:40.091484+00:00",
+      "last_checked": "2026-10-13T16:03:42.108181+00:00",
       "episode_count": 181
     },
     {
@@ -504,7 +504,7 @@
       "yemos_branch": "55",
       "category": "טכנולוגיה",
       "feed_error": "",
-      "last_checked": "2026-10-13T07:48:40.659583+00:00",
+      "last_checked": "2026-10-13T16:03:43.091536+00:00",
       "episode_count": 187
     }
   ],
