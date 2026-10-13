@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-13T16:03:43.639870+00:00",
+  "updated_at": "2026-10-13T20:50:44.392411+00:00",
   "runs": [
+    {
+      "run_id": "38465625415",
+      "run_number": "220",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-10-13T20:50:44.392411+00:00",
+      "israel_time": "13/10/2026 23:50",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38465625415",
+      "items": [
+        {
+          "podcast": "מגזין מעריב",
+          "title": "מעל הליגה - פרק 48 | מועמדת חדשה לאליפות?",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/15/16.wav"
+          ],
+          "drive_filename": "מעל הליגה - פרק 48 _ מועמדת חדשה לאליפות_.mp3",
+          "drive_folder": "מגזין מעריב",
+          "drive_url": "https://drive.google.com/file/d/1R1FrhRJvzyiN0SiE20FD9sFxKL0GLO1J/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/15/16.wav"
+        },
+        {
+          "podcast": "חיים של אחרים",
+          "title": "חיים של אחרים | 13.10.26",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/17/16.wav"
+          ],
+          "drive_filename": "חיים של אחרים _ 13.10.26.mp3",
+          "drive_folder": "חיים של אחרים",
+          "drive_url": "https://drive.google.com/file/d/1h-toDD-Hcf16zYpncjQQ0ww96DgACC6x/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/17/16.wav"
+        }
+      ]
+    },
     {
       "run_id": "38427261676",
       "run_number": "219",
@@ -4502,369 +4541,6 @@
       "uploads": 115,
       "feed_errors": 1,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36559174531",
-      "items": [
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "נופים עוצרי נשימה במערכת השמש",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "תופעות מזג אוויר מדהימות על כוכבי לכת אחרים",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "גופים לא מוכרים במערכת השמש",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "הדברים שהשארנו מאחור על הירח",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "נחיתות קשות והתרסקויות",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "כיצד נוכל ליישב כוכבי לכת מחוץ למערכת השמש?",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "שאלות בלתי פתורות בחקר היקום",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "תיאוריות ביולוגיות שהופרכו",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "רעיונות משונים על תורשה",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "שאריות אבולוציוניות אצל בני אדם",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "דברים שלא ידעתם על הדנ\"א",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "צמחים ובעלי חיים ארסיים",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "תעלומות ביולוגיות שאין להן תשובות (עדיין)",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "טיפולים רפואיים שקשה להאמין שנעשו בעבר",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "רעיונות רפואיים מוקדמים",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "תיאוריות רפואיות גזעניות ופוגעניות",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "הדם - הנוזל המופלא, חלק א'",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "כיצד מגן הגוף על עצמו מפני חיידקים ווירוסים - חלק א'",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "כיצד מגן הגוף על עצמו מפני חיידקים ווירוסים - חלק ב'",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "איך מצליחים חיידקים ווירוסים להתגבר על הגנות הגוף?",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "סוגי סמים שונים, וכיצד הם משפיעים על גופנו",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "הפרעות שינה משונות",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "מחלות מסתוריות שאין להן הסבר",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "תעלומות מסקרנות אודות גוף האדם",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "סיבות לכך שניוטון הוא המדען החשוב ביותר בהיסטוריה",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "הסברים פשוטים לרעיונות של תורת היחסות - חלק א'",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "הסברים פשוטים לרעיונות של תורת היחסות - חלק ב'",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "מודלים שגויים של האטום",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "עקרונות חשובים (ומוזרים) של תורת הקוונטים - חלק א'",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "עקרונות חשובים (ומוזרים) של תורת הקוונטים - חלק ב'",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "פרדוקסים משונים של מסע בזמן",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "תופעות משונות שמתרחשות קרוב לאפס המוחלט",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "המצאות חשובות בדרך אל המחשב",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "עקרונות בסיסיים של מחשבים",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "מחקרים מדעיים מפתיעים בעולמות וירטואליים",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "וירוסי מחשב שעשו היסטוריה",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "כמה חישובים מוטעים של גיל כדור הארץ (וחישוב אחד נכון)",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "צעדים חשובים בדרך לגילוי תיאוריית נדידת היבשות",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "התפרצויות הרסניות של הרי געש - חלק א'",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "התפרצויות הרי געש הרסניות - חלק ב'",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "משלחות מחקר אחר ערים מיתולוגיות",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "מסעות נועזים אל קרקעית הים, חלק א'",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "מסעות נועזים אל קרקעית הים, חלק ב'",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "מינרלים יוצאי דופן",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "זיהומים מסוכנים באטמוספירה",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "תעתועי שמש משונים",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "עקרונות האלכימיה",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "מדענים אשר עיצבו את הכימיה המודרנית",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "קשרים כימיים בין אטומים",
-          "destinations": [
-            "Google Drive"
-          ]
-        },
-        {
-          "podcast": "האוניברסיטה הקטנה של המדעים",
-          "title": "תכונות מרתקות של המים",
-          "destinations": [
-            "Google Drive"
-          ]
-        }
-      ]
-    },
-    {
-      "run_id": "36557955621",
-      "run_number": "108",
-      "event": "issues",
-      "status": "success",
-      "utc_time": "2026-09-29T10:56:14.804381+00:00",
-      "israel_time": "29/09/2026 13:56",
-      "uploads": 109,
-      "feed_errors": 2,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36557955621",
       "items": [
         {
           "podcast": "האוניברסיטה הקטנה של המדעים",
