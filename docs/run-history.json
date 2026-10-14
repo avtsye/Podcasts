@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-14T04:27:55.514667+00:00",
+  "updated_at": "2026-10-14T06:15:53.837819+00:00",
   "runs": [
+    {
+      "run_id": "38520990783",
+      "run_number": "225",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-14T06:15:53.837819+00:00",
+      "israel_time": "14/10/2026 09:15",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38520990783",
+      "items": [
+        {
+          "podcast": "שלושה שיודעים",
+          "title": "הסם המסוכן - הופך כל מלאך לשטן",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/42/910.wav"
+          ],
+          "drive_filename": "הסם המסוכן - הופך כל מלאך לשטן.mp3",
+          "drive_folder": "שלושה שיודעים",
+          "drive_url": "https://drive.google.com/file/d/1jY-QsR42s_DCT4-G3WXBsIE0RiWn1G6C/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/42/910.wav"
+        },
+        {
+          "podcast": "הצוללת",
+          "title": "\"ירדתי על ברך והתחננתי שתחזור\": שיחה על החיים ועל המוות עם פרופ' גיל סיגל\"",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/50/2.wav"
+          ],
+          "drive_filename": "_ירדתי על ברך והתחננתי שתחזור_ שיחה על החיים ועל המוות עם פרופ' גיל סיגל_.mp3",
+          "drive_folder": "הצוללת",
+          "drive_url": "https://drive.google.com/file/d/1v53tnQUSnR_Ln1Uq17-ibKbAKSZkSexQ/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/50/2.wav"
+        }
+      ]
+    },
     {
       "run_id": "38511377419",
       "run_number": "224",
@@ -4537,35 +4576,6 @@
       "feed_errors": 1,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36724267279",
       "items": []
-    },
-    {
-      "run_id": "36680007364",
-      "run_number": "114",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-09-30T06:49:02.954195+00:00",
-      "israel_time": "30/09/2026 09:49",
-      "uploads": 2,
-      "feed_errors": 1,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36680007364",
-      "items": [
-        {
-          "podcast": "אחד ביום",
-          "title": "המהפכה של יהודה אטלס",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/1/1312.wav"
-          ]
-        },
-        {
-          "podcast": "התשובה",
-          "title": "סיזיפוס [התשובה]",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/5/11.wav"
-          ]
-        }
-      ]
     }
   ]
 }
