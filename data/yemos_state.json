@@ -23886,9 +23886,9 @@
       "status": "error",
       "filename_stem": "112",
       "error": "UploadFile finalization query retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-10-13T00:46:34.316206+00:00",
-      "attempt_count": 3,
-      "next_retry": "2026-10-14T00:46:34.316234+00:00"
+      "updated_at": "2026-10-14T01:15:50.902034+00:00",
+      "attempt_count": 4,
+      "next_retry": "2026-10-17T01:15:50.902054+00:00"
     },
     "hatshuva:https://api.spreaker.com/episode/71195396": {
       "podcast_id": "hatshuva",
