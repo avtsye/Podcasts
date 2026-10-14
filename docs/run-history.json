@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-14T01:16:18.852361+00:00",
+  "updated_at": "2026-10-14T04:27:55.514667+00:00",
   "runs": [
+    {
+      "run_id": "38511377419",
+      "run_number": "224",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-10-14T04:27:55.514667+00:00",
+      "israel_time": "14/10/2026 07:27",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38511377419",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "על זה הבחירות: הסכסוך הישראלי-פלסטיני",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2661.wav"
+          ],
+          "drive_filename": "על זה הבחירות_ הסכסוך הישראלי-פלסטיני.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/1EoGkq6Tc81aPe17v6IoV18zcu2u8SBie/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2661.wav"
+        },
+        {
+          "podcast": "חיות כיס",
+          "title": "פרק 361: מי רוצה להיות שר האוצר הבא?",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/3/11.wav"
+          ],
+          "drive_filename": "פרק 361_ מי רוצה להיות שר האוצר הבא_.mp3",
+          "drive_folder": "חיות כיס",
+          "drive_url": "https://drive.google.com/file/d/1Pma4mJiY3NAPvOwYUS7fdueLESbnP3cx/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/3/11.wav"
+        }
+      ]
+    },
     {
       "run_id": "38494693945",
       "run_number": "223",
@@ -4524,27 +4563,6 @@
           "destinations": [
             "Google Drive",
             "ימות המשיח ivr2:/1/5/11.wav"
-          ]
-        }
-      ]
-    },
-    {
-      "run_id": "36650661249",
-      "run_number": "113",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-09-30T00:33:13.912739+00:00",
-      "israel_time": "30/09/2026 03:33",
-      "uploads": 1,
-      "feed_errors": 1,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36650661249",
-      "items": [
-        {
-          "podcast": "גיקונומי",
-          "title": "פרק #1256 -  יאיר מירון",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/2/16.wav"
           ]
         }
       ]
