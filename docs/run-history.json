@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-14T06:15:53.837819+00:00",
+  "updated_at": "2026-10-14T09:42:08.331545+00:00",
   "runs": [
+    {
+      "run_id": "38544098591",
+      "run_number": "226",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-10-14T09:42:08.331545+00:00",
+      "israel_time": "14/10/2026 12:42",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38544098591",
+      "items": [
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "עתיד, כסף וקטסטרופה: אתם שאלתם - אנחנו עונים",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/18.wav"
+          ],
+          "drive_filename": "עתיד, כסף וקטסטרופה_ אתם שאלתם - אנחנו עונים.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1n1qLOaGOIxInkgX5FxV8Nz-EDl1Br5fQ/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/18.wav"
+        }
+      ]
+    },
     {
       "run_id": "38520990783",
       "run_number": "225",
@@ -4563,18 +4590,6 @@
       "uploads": 0,
       "feed_errors": 2,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36757373076",
-      "items": []
-    },
-    {
-      "run_id": "36724267279",
-      "run_number": "115",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-09-30T13:49:31.445004+00:00",
-      "israel_time": "30/09/2026 16:49",
-      "uploads": 0,
-      "feed_errors": 1,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/36724267279",
       "items": []
     }
   ]

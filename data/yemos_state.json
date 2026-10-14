@@ -24033,6 +24033,14 @@
       "path": "ivr2:/1/50/2.wav",
       "filename_stem": "2",
       "uploaded_at": "2026-10-14T06:15:47.460508+00:00"
+    },
+    "zman_sheavodtem:c04c04dd-7646-4a5c-bcaa-b4e3008e4696": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "עתיד, כסף וקטסטרופה: אתם שאלתם - אנחנו עונים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/18.wav",
+      "filename_stem": "18",
+      "uploaded_at": "2026-10-14T09:41:48.150289+00:00"
     }
   },
   "next_numbers": {
@@ -24065,7 +24073,7 @@
     "38": 11,
     "39": 9,
     "40": 7,
-    "20": 18,
+    "20": 19,
     "24": 16,
     "41": 11,
     "42": 911,
