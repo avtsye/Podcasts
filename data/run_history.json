@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-16T05:07:51.272356+00:00",
+  "updated_at": "2026-10-16T07:15:03.145811+00:00",
   "runs": [
+    {
+      "run_id": "38865928935",
+      "run_number": "245",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-16T07:15:03.145811+00:00",
+      "israel_time": "16/10/2026 10:15",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38865928935",
+      "items": []
+    },
     {
       "run_id": "38854091161",
       "run_number": "244",
@@ -3079,18 +3093,6 @@
           "yemos_path": "ivr2:/1/55/101.wav"
         }
       ]
-    },
-    {
-      "run_id": "37165690081",
-      "run_number": "145",
-      "event": "schedule",
-      "status": "failure",
-      "utc_time": "2026-10-04T00:42:48.103813+00:00",
-      "israel_time": "04/10/2026 03:42",
-      "uploads": 0,
-      "feed_errors": 1,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37165690081",
-      "items": []
     }
   ]
 }
