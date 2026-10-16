@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-15T22:24:30.901660+00:00",
+  "updated_at": "2026-10-16T00:40:38.877231+00:00",
   "runs": [
+    {
+      "run_id": "38830661228",
+      "run_number": "242",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-10-16T00:40:38.877231+00:00",
+      "israel_time": "16/10/2026 03:40",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38830661228",
+      "items": [
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1262 - שי גיל ותעופה אזרחית",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1021.wav"
+          ],
+          "drive_filename": "פרק #1262 - שי גיל ותעופה אזרחית.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1wNF6MPkl377B_AICDYE74aP59gOK4XOY/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1021.wav"
+        }
+      ]
+    },
     {
       "run_id": "38816727380",
       "run_number": "241",
@@ -3059,18 +3086,6 @@
       "uploads": 0,
       "feed_errors": 1,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37142489275",
-      "items": []
-    },
-    {
-      "run_id": "37126140462",
-      "run_number": "142",
-      "event": "schedule",
-      "status": "failure",
-      "utc_time": "2026-10-03T13:27:29.082406+00:00",
-      "israel_time": "03/10/2026 16:27",
-      "uploads": 0,
-      "feed_errors": 1,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37126140462",
       "items": []
     }
   ]

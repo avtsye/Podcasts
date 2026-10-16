@@ -24081,11 +24081,19 @@
       "path": "ivr2:/1/7/14.wav",
       "filename_stem": "14",
       "uploaded_at": "2026-10-15T10:00:34.967111+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/b4f3735e-e283-366c-a0e5-d586bca366c5": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1262 - שי גיל ותעופה אזרחית",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1021.wav",
+      "filename_stem": "1021",
+      "uploaded_at": "2026-10-16T00:40:00.866525+00:00"
     }
   },
   "next_numbers": {
     "1": 2663,
-    "2": 1021,
+    "2": 1022,
     "3": 12,
     "4": 17,
     "5": 113,
