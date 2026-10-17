@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-17T09:26:07.504004+00:00",
+  "updated_at": "2026-10-17T12:21:20.946928+00:00",
   "runs": [
+    {
+      "run_id": "39032135283",
+      "run_number": "256",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-10-17T12:21:20.946928+00:00",
+      "israel_time": "17/10/2026 15:21",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39032135283",
+      "items": []
+    },
     {
       "run_id": "39021068509",
       "run_number": "255",
@@ -2652,29 +2666,6 @@
           "drive_folder": "על-חלל",
           "drive_url": "https://drive.google.com/file/d/1594fjNMddw7T7rE10RXzFGltDWaP0N8f/view?usp=drivesdk",
           "yemos_path": "ivr2:/1/52/1.wav"
-        }
-      ]
-    },
-    {
-      "run_id": "37285604141",
-      "run_number": "156",
-      "event": "repository_dispatch",
-      "status": "failure",
-      "utc_time": "2026-10-05T08:47:07.520472+00:00",
-      "israel_time": "05/10/2026 11:47",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 1,
-      "partial": true,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37285604141",
-      "items": [
-        {
-          "podcast": "שלושה שיודעים",
-          "title": "שבי איתי עד שאגדל",
-          "yemos_path": "ivr2:/1/42/903.wav",
-          "destinations": [
-            "ימות המשיח ivr2:/1/42/903.wav"
-          ]
         }
       ]
     }
