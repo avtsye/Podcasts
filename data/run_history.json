@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-18T11:14:17.455353+00:00",
+  "updated_at": "2026-10-18T13:53:44.158163+00:00",
   "runs": [
+    {
+      "run_id": "39133493964",
+      "run_number": "270",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-10-18T13:53:44.158163+00:00",
+      "israel_time": "18/10/2026 16:53",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39133493964",
+      "items": []
+    },
     {
       "run_id": "39122321876",
       "run_number": "269",
@@ -2514,33 +2528,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37653012057",
       "items": []
-    },
-    {
-      "run_id": "37637688945",
-      "run_number": "170",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-07T14:35:03.965194+00:00",
-      "israel_time": "07/10/2026 17:35",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37637688945",
-      "items": [
-        {
-          "podcast": "בזמן שעבדתם",
-          "title": "מטריקס 2026: הסוכנים עוברים לעולם האמיתי",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/20/17.wav"
-          ],
-          "drive_filename": "מטריקס 2026_ הסוכנים עוברים לעולם האמיתי.mp3",
-          "drive_folder": "בזמן שעבדתם",
-          "drive_url": "https://drive.google.com/file/d/1nO55ErnLcVK4VZZGFuylkU5lOawRQYQV/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/20/17.wav"
-        }
-      ]
     }
   ]
 }
