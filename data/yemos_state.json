@@ -24113,6 +24113,22 @@
       "path": "ivr2:/1/55/103.wav",
       "filename_stem": "103",
       "uploaded_at": "2026-10-18T05:59:25.264214+00:00"
+    },
+    "maariv_magazine:44f3c7b9-b06e-4f51-9e72-b49d00ae3126": {
+      "podcast_id": "maariv_magazine",
+      "title": "לבורסה לא אכפת בכמה קניתם\": המלכודת שמפילה גם את המשקיעים המנוסים ביותר",
+      "status": "uploaded",
+      "path": "ivr2:/1/15/17.wav",
+      "filename_stem": "17",
+      "uploaded_at": "2026-10-18T09:56:29.184755+00:00"
+    },
+    "maariv_magazine:9727cf7a-eeb8-48c7-bd87-b4e000a03b2f": {
+      "podcast_id": "maariv_magazine",
+      "title": "אחרי שתבע אישית את רונן בר: קב\"ט הנובה תוקף - \"ישלם בכלא עד סוף חייו\"",
+      "status": "uploaded",
+      "path": "ivr2:/1/15/18.wav",
+      "filename_stem": "18",
+      "uploaded_at": "2026-10-18T09:57:36.533823+00:00"
     }
   },
   "next_numbers": {
@@ -24130,7 +24146,7 @@
     "12": 11,
     "13": 11,
     "14": 5,
-    "15": 17,
+    "15": 19,
     "16": 12,
     "17": 18,
     "18": 11,
