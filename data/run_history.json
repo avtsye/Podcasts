@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-18T09:58:01.091405+00:00",
+  "updated_at": "2026-10-18T11:14:17.455353+00:00",
   "runs": [
+    {
+      "run_id": "39122321876",
+      "run_number": "269",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-18T11:14:17.455353+00:00",
+      "israel_time": "18/10/2026 14:14",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39122321876",
+      "items": [
+        {
+          "podcast": "מנועי הכסף",
+          "title": "החרם שעוד לא ראינו - ולמה הוא הכי מסוכן לישראל",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/7/15.wav"
+          ],
+          "drive_filename": "החרם שעוד לא ראינו - ולמה הוא הכי מסוכן לישראל.mp3",
+          "drive_folder": "מנועי הכסף",
+          "drive_url": "https://drive.google.com/file/d/14L8oKXlZuNHHylAwQeXd9ORU1QsaDQIB/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/7/15.wav"
+        }
+      ]
+    },
     {
       "run_id": "39117247121",
       "run_number": "268",
@@ -2514,20 +2541,6 @@
           "yemos_path": "ivr2:/1/20/17.wav"
         }
       ]
-    },
-    {
-      "run_id": "37595740471",
-      "run_number": "169",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-07T08:44:51.505490+00:00",
-      "israel_time": "07/10/2026 11:44",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37595740471",
-      "items": []
     }
   ]
 }
