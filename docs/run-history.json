@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-18T19:27:49.182589+00:00",
+  "updated_at": "2026-10-18T20:51:14.511539+00:00",
   "runs": [
+    {
+      "run_id": "39164988025",
+      "run_number": "275",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-18T20:51:14.511539+00:00",
+      "israel_time": "18/10/2026 23:51",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39164988025",
+      "items": [
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1263 - תומר פרסיקו",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1022.wav"
+          ],
+          "drive_filename": "פרק #1263 - תומר פרסיקו.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1t1RoZ42bkFl6o9usaOdgR55ka3KfDfGO/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1022.wav"
+        },
+        {
+          "podcast": "חיים של אחרים",
+          "title": "חיים של אחרים | 18.10.26",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/17/18.wav"
+          ],
+          "drive_filename": "חיים של אחרים _ 18.10.26.mp3",
+          "drive_folder": "חיים של אחרים",
+          "drive_url": "https://drive.google.com/file/d/1CLcMGeEeZ2bHfxA9gF7WX-I41zL-i6vM/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/17/18.wav"
+        }
+      ]
+    },
     {
       "run_id": "39158822269",
       "run_number": "274",
@@ -2514,20 +2553,6 @@
           "yemos_path": "ivr2:/1/43/111.wav"
         }
       ]
-    },
-    {
-      "run_id": "37715585876",
-      "run_number": "175",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-08T01:59:34.934062+00:00",
-      "israel_time": "08/10/2026 04:59",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37715585876",
-      "items": []
     }
   ]
 }
