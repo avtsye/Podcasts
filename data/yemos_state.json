@@ -24097,6 +24097,22 @@
       "path": "ivr2:/1/1/2663.wav",
       "filename_stem": "2663",
       "uploaded_at": "2026-10-18T05:38:37.729789+00:00"
+    },
+    "three_who_know:1a8f7559-9802-41c9-8772-b4e7005d57d8": {
+      "podcast_id": "three_who_know",
+      "title": "רק אל עצמי לדבר ידעתי",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/911.wav",
+      "filename_stem": "911",
+      "uploaded_at": "2026-10-18T05:58:58.916511+00:00"
+    },
+    "pashut_ai:eec9d672-c169-4f7a-84d1-f2fb276aee1d": {
+      "podcast_id": "pashut_ai",
+      "title": "הגיע הזמן לדבר על אינסטינקט! 🕵️ | פרק 189 עם שרית אברבוך אליה (Instinct)",
+      "status": "uploaded",
+      "path": "ivr2:/1/55/103.wav",
+      "filename_stem": "103",
+      "uploaded_at": "2026-10-18T05:59:25.264214+00:00"
     }
   },
   "next_numbers": {
@@ -24132,8 +24148,8 @@
     "20": 19,
     "24": 17,
     "41": 11,
-    "42": 911,
-    "55": 103,
+    "42": 912,
+    "55": 104,
     "43": 112,
     "50": 3,
     "52": 2,

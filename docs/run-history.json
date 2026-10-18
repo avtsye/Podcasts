@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-18T05:39:59.453005+00:00",
+  "updated_at": "2026-10-18T05:59:28.686835+00:00",
   "runs": [
+    {
+      "run_id": "39102340374",
+      "run_number": "267",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-18T05:59:28.686835+00:00",
+      "israel_time": "18/10/2026 08:59",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39102340374",
+      "items": [
+        {
+          "podcast": "שלושה שיודעים",
+          "title": "רק אל עצמי לדבר ידעתי",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/42/911.wav"
+          ],
+          "drive_filename": "רק אל עצמי לדבר ידעתי.mp3",
+          "drive_folder": "שלושה שיודעים",
+          "drive_url": "https://drive.google.com/file/d/1_u4BRHDynAv-vobghBP9Ba-OxSYBu5gx/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/42/911.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "הגיע הזמן לדבר על אינסטינקט! 🕵️ | פרק 189 עם שרית אברבוך אליה (Instinct)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/103.wav"
+          ],
+          "drive_filename": "הגיע הזמן לדבר על אינסטינקט! 🕵️ _ פרק 189 עם שרית אברבוך אליה (Instinct).mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/18-xRogPc4oGEXhW6POZLynPw63OHhWyw/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/55/103.wav"
+        }
+      ]
+    },
     {
       "run_id": "39101210497",
       "run_number": "266",
@@ -2489,20 +2528,6 @@
           "yemos_path": "ivr2:/1/42/906.wav"
         }
       ]
-    },
-    {
-      "run_id": "37557853309",
-      "run_number": "167",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-07T01:36:06.294539+00:00",
-      "israel_time": "07/10/2026 04:36",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37557853309",
-      "items": []
     }
   ]
 }
