@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-18T01:07:27.470723+00:00",
+  "updated_at": "2026-10-18T05:39:59.453005+00:00",
   "runs": [
+    {
+      "run_id": "39101210497",
+      "run_number": "266",
+      "event": "repository_dispatch",
+      "status": "failure",
+      "utc_time": "2026-10-18T05:39:59.453005+00:00",
+      "israel_time": "18/10/2026 08:39",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 1,
+      "partial": true,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39101210497",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "העם הנבחר: שיחה עם יאיר שרקי",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2663.wav"
+          ],
+          "drive_filename": "העם הנבחר_ שיחה עם יאיר שרקי.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/14FIBTa36v2K1zx8oNujhaQNR6cUij3X9/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2663.wav"
+        }
+      ]
+    },
     {
       "run_id": "39085269101",
       "run_number": "265",
@@ -2475,20 +2502,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37557853309",
-      "items": []
-    },
-    {
-      "run_id": "37554842812",
-      "run_number": "166",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-07T01:00:29.962145+00:00",
-      "israel_time": "07/10/2026 04:00",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37554842812",
       "items": []
     }
   ]

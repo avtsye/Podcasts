@@ -9943,9 +9943,9 @@
       "status": "error",
       "filename_stem": "12",
       "error": "UploadFile finalization query retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-10-15T04:46:51.927976+00:00",
-      "attempt_count": 7,
-      "next_retry": "2026-10-18T04:46:51.927996+00:00"
+      "updated_at": "2026-10-18T05:39:11.549834+00:00",
+      "attempt_count": 8,
+      "next_retry": "2026-10-21T05:39:11.549864+00:00"
     },
     "startup_for_startup:b93b8925-0d61-4f88-8d4d-b49400eb0eca": {
       "podcast_id": "startup_for_startup",
@@ -24089,10 +24089,18 @@
       "path": "ivr2:/1/2/1021.wav",
       "filename_stem": "1021",
       "uploaded_at": "2026-10-16T00:40:00.866525+00:00"
+    },
+    "ehad_beyom:9818741d-a34f-4f46-92ee-b4e6011a3e5d": {
+      "podcast_id": "ehad_beyom",
+      "title": "העם הנבחר: שיחה עם יאיר שרקי",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2663.wav",
+      "filename_stem": "2663",
+      "uploaded_at": "2026-10-18T05:38:37.729789+00:00"
     }
   },
   "next_numbers": {
-    "1": 2663,
+    "1": 2664,
     "2": 1022,
     "3": 12,
     "4": 17,
