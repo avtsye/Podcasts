@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-18T14:38:49.135287+00:00",
+  "updated_at": "2026-10-18T17:13:46.280456+00:00",
   "runs": [
+    {
+      "run_id": "39148490304",
+      "run_number": "272",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-10-18T17:13:46.280456+00:00",
+      "israel_time": "18/10/2026 20:13",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39148490304",
+      "items": [
+        {
+          "podcast": "סקרנית",
+          "title": "הפודקאסט הזה הוא לא אמיתי",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/11/11.wav"
+          ],
+          "drive_filename": "הפודקאסט הזה הוא לא אמיתי.mp3",
+          "drive_folder": "סקרנית",
+          "drive_url": "https://drive.google.com/file/d/1FDvNIAhEi9n_IWCErLX-olSszuDitmoH/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/11/11.wav"
+        }
+      ]
+    },
     {
       "run_id": "39136867446",
       "run_number": "271",
@@ -2501,33 +2528,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37693381839",
       "items": []
-    },
-    {
-      "run_id": "37680218127",
-      "run_number": "172",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-07T20:14:31.154560+00:00",
-      "israel_time": "07/10/2026 23:14",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37680218127",
-      "items": [
-        {
-          "podcast": "מגזין מעריב",
-          "title": "עופר טלקר | מחצית בשכונה, פרק 63",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/15/15.wav"
-          ],
-          "drive_filename": "עופר טלקר _ מחצית בשכונה, פרק 63.mp3",
-          "drive_folder": "מגזין מעריב",
-          "drive_url": "https://drive.google.com/file/d/1BTDT64bmDWRdRXOIp1lebtOT_l4wcJCp/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/15/15.wav"
-        }
-      ]
     }
   ]
 }
