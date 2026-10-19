@@ -24193,6 +24193,14 @@
       "path": "ivr2:/1/43/112.wav",
       "filename_stem": "112",
       "uploaded_at": "2026-10-19T07:01:43.047057+00:00"
+    },
+    "al_halal:Buzzsprout-19985065": {
+      "podcast_id": "al_halal",
+      "title": "פרק 78 - Creation Space",
+      "status": "uploaded",
+      "path": "ivr2:/1/52/2.wav",
+      "filename_stem": "2",
+      "uploaded_at": "2026-10-19T20:09:59.686449+00:00"
     }
   },
   "next_numbers": {
@@ -24232,7 +24240,7 @@
     "55": 104,
     "43": 113,
     "50": 3,
-    "52": 2,
+    "52": 3,
     "51": 2
   }
 }
