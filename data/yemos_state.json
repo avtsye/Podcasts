@@ -12402,9 +12402,9 @@
       "status": "error",
       "filename_stem": "16",
       "error": "UploadFile finalization query retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-10-16T01:25:26.813616+00:00",
-      "attempt_count": 7,
-      "next_retry": "2026-10-19T01:25:26.813636+00:00"
+      "updated_at": "2026-10-19T06:59:00.467336+00:00",
+      "attempt_count": 8,
+      "next_retry": "2026-10-22T06:59:00.467353+00:00"
     },
     "osim_historia:https://api.spreaker.com/episode/75567734": {
       "podcast_id": "osim_historia",
@@ -24161,10 +24161,42 @@
       "path": "ivr2:/1/17/18.wav",
       "filename_stem": "18",
       "uploaded_at": "2026-10-18T20:50:53.053988+00:00"
+    },
+    "ehad_beyom:4ee53119-f884-4aeb-92dd-b4e7017a08ec": {
+      "podcast_id": "ehad_beyom",
+      "title": "על זה הבחירות: ביטחון אישי",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2664.wav",
+      "filename_stem": "2664",
+      "uploaded_at": "2026-10-19T06:58:26.951675+00:00"
+    },
+    "osim_historia:https://api.spreaker.com/episode/75851626": {
+      "podcast_id": "osim_historia",
+      "title": "חטיפת הסרג׳נטים [עושים היסטוריה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/27/14.wav",
+      "filename_stem": "14",
+      "uploaded_at": "2026-10-19T07:00:22.660573+00:00"
+    },
+    "three_who_know:5dc3f172-455a-4dd6-99da-b4e800588fb5": {
+      "podcast_id": "three_who_know",
+      "title": "יש לי ציפור קטנה באוזן",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/912.wav",
+      "filename_stem": "912",
+      "uploaded_at": "2026-10-19T07:00:56.887248+00:00"
+    },
+    "osim_software:https://api.spreaker.com/episode/75847250": {
+      "podcast_id": "osim_software",
+      "title": "Loop Engineering | תמיר דרשר [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/112.wav",
+      "filename_stem": "112",
+      "uploaded_at": "2026-10-19T07:01:43.047057+00:00"
     }
   },
   "next_numbers": {
-    "1": 2664,
+    "1": 2665,
     "2": 1023,
     "3": 12,
     "4": 17,
@@ -24188,7 +24220,7 @@
     "23": 14,
     "25": 9,
     "26": 176,
-    "27": 14,
+    "27": 15,
     "37": 436,
     "38": 11,
     "39": 9,
@@ -24196,9 +24228,9 @@
     "20": 19,
     "24": 17,
     "41": 11,
-    "42": 912,
+    "42": 913,
     "55": 104,
-    "43": 112,
+    "43": 113,
     "50": 3,
     "52": 2,
     "51": 2
