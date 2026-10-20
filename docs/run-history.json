@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-20T00:24:36.133876+00:00",
+  "updated_at": "2026-10-20T02:10:49.634117+00:00",
   "runs": [
+    {
+      "run_id": "39357333729",
+      "run_number": "286",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-10-20T02:10:49.634117+00:00",
+      "israel_time": "20/10/2026 05:10",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39357333729",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "לאן נעלמו הנשים?",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2665.wav"
+          ],
+          "drive_filename": "לאן נעלמו הנשים_.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/1dMZJm1ccNUDt_nu6Ioe06pl-jk9pj_L9/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2665.wav"
+        },
+        {
+          "podcast": "Startup for Startup",
+          "title": "371: לפרסם בצ'אט GPT - איך בונים ערוץ מרקטינג שאין לו עדיין פלייבוק?",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/6/289.wav"
+          ],
+          "drive_filename": "371_ לפרסם בצ'אט GPT - איך בונים ערוץ מרקטינג שאין לו עדיין פלייבוק_.mp3",
+          "drive_folder": "Startup for Startup",
+          "drive_url": "https://drive.google.com/file/d/1JtP7UOghHGidLqwIcr7d3FVAq0EL4Zau/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/6/289.wav"
+        }
+      ]
+    },
     {
       "run_id": "39347386696",
       "run_number": "285",
@@ -2525,20 +2564,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37957901819",
-      "items": []
-    },
-    {
-      "run_id": "37927935034",
-      "run_number": "186",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-09T12:07:46.353914+00:00",
-      "israel_time": "09/10/2026 15:07",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37927935034",
       "items": []
     }
   ]
