@@ -1,6 +1,619 @@
 {
-  "updated_at": "2026-10-20T20:41:29.544176+00:00",
+  "updated_at": "2026-10-20T23:55:55.199983+00:00",
   "runs": [
+    {
+      "run_id": "39501261312",
+      "run_number": "293",
+      "event": "issues",
+      "status": "failure",
+      "utc_time": "2026-10-20T23:55:55.199983+00:00",
+      "israel_time": "21/10/2026 02:55",
+      "uploads": 309,
+      "feed_errors": 0,
+      "target_errors": 8,
+      "partial": true,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39501261312",
+      "items": [
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "בזמן שעבדתם: פרק 1 - מי החברות הגדולות שמרוויחות ממשבר הקורונה?",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/19.wav"
+          ],
+          "drive_filename": "בזמן שעבדתם_ פרק 1 - מי החברות הגדולות שמרוויחות ממשבר הקורונה_.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1zP95v28G6D4PezUupwHlSjYECtHLtD2F/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/19.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "בזמן שעבדתם: פרק 2 - איך קרה שפודקאסטים שווים עכשיו מיליוני דולרים?",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/20.wav"
+          ],
+          "drive_filename": "בזמן שעבדתם_ פרק 2 - איך קרה שפודקאסטים שווים עכשיו מיליוני דולרים_.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1jBhLzSwhNj6MF3FRR5q4WON9qAiwb-hk/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/20.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "בזמן שעבדתם: פרק 3 - מתי תוכלו לטוס לחלל וכמה זה יעלה לכם?",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/21.wav"
+          ],
+          "drive_filename": "בזמן שעבדתם_ פרק 3 - מתי תוכלו לטוס לחלל וכמה זה יעלה לכם_.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1-p3HORITH-WxETgcVEKYaHegzyt-5rNX/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/21.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "בזמן שעבדתם: פרק 4 - כך אילון מאסק הרוויח 700 מיליון דולר ברגע",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/22.wav"
+          ],
+          "drive_filename": "בזמן שעבדתם_ פרק 4 - כך אילון מאסק הרוויח 700 מיליון דולר ברגע.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1y8MlqqgCCjvtSRnTvr35woliSfMD2gNp/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/22.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "בזמן שעבדתם: פרק 5 - מהפיכת שירות התשלומים בסמארטפונים",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/23.wav"
+          ],
+          "drive_filename": "בזמן שעבדתם_ פרק 5 - מהפיכת שירות התשלומים בסמארטפונים.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1t20gcG8zlhHGbWI4SRItvWxm7s9X8aNZ/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/23.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "בזמן שעבדתם: פרק 6 - ג'ף בזוס שילם מיליארד דולר על הצעצוע החדש שלו",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/24.wav"
+          ],
+          "drive_filename": "בזמן שעבדתם_ פרק 6 - ג'ף בזוס שילם מיליארד דולר על הצעצוע החדש שלו.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1-v6flUQ70i4s--wt9XDd-3P47_HrDy9D/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/24.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "בזמן שעבדתם: פרק 7 - ההדלפה הכי גדולה של מסמכי FBI והחרם המתמשך על פייסבוק",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/25.wav"
+          ],
+          "drive_filename": "בזמן שעבדתם_ פרק 7 - ההדלפה הכי גדולה של מסמכי FBI והחרם המתמשך על פייסבוק.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1fNW7hcuyCspI4Gr97ygi2mMpG5rjqdSn/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/25.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "?למה פייסבוק וגוגל כל כך אוהבות פייק ניוז :בזמן שעבדתם פרק 8",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/26.wav"
+          ],
+          "drive_filename": "_למה פייסבוק וגוגל כל כך אוהבות פייק ניוז _בזמן שעבדתם פרק 8.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1DsCY18H7mJGthhXXdegppuugZyphkOYX/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/26.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "בזמן שעבדתם – פרק 9",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/27.wav"
+          ],
+          "drive_filename": "בזמן שעבדתם – פרק 9.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1eNHfAbN5mMbiqwCQH5FrpDAeG_7oD8FB/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/27.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "בזמן שעבדתם: פרק 10",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/28.wav"
+          ],
+          "drive_filename": "בזמן שעבדתם_ פרק 10.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1yxcgpn8SJ1HKxsWwVKdvclTVhGSAtBKi/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/28.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "בזמן שעבדתם: פרק 11",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/29.wav"
+          ],
+          "drive_filename": "בזמן שעבדתם_ פרק 11.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1CLW3vl7NxY69zEdoa1W_IZdGFMBklLFy/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/29.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "בזמן שעבדתם: פרק 12 | הווידאוקאסט של דרור גלוברמן ודני פלד",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/30.wav"
+          ],
+          "drive_filename": "בזמן שעבדתם_ פרק 12 _ הווידאוקאסט של דרור גלוברמן ודני פלד.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1XM_pngTy_yzLvckDRGznlXRACtbdnCTE/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/30.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "בזמן שעבדתם: פרק 13 | הווידאוקאסט של דרור גלוברמן ודני פלד",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/31.wav"
+          ],
+          "drive_filename": "בזמן שעבדתם_ פרק 13 _ הווידאוקאסט של דרור גלוברמן ודני פלד.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1K2ra-fsxh-pZzNAoY7XcqDC1NjUJpGpC/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/31.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "בזמן שעבדתם, פרק 14: ג'ף בזוס רוצה לקנות את הנשמה שלכם",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/32.wav"
+          ],
+          "drive_filename": "בזמן שעבדתם, פרק 14_ ג'ף בזוס רוצה לקנות את הנשמה שלכם.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1BWaEMjR5TGxfzzqhFelSaOi8OPET1v4q/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/32.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "בזמן שעבדתם: פרק 15 | הווידאוקאסט של דרור גלוברמן ודני פלד",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/33.wav"
+          ],
+          "drive_filename": "בזמן שעבדתם_ פרק 15 _ הווידאוקאסט של דרור גלוברמן ודני פלד.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/18edkEeHU9dNJB3TTXiBtUpCZQwKNAD4K/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/33.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "מקניות ועד מגורים: ההשפעות של הקורונה על העולם",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/34.wav"
+          ],
+          "drive_filename": "מקניות ועד מגורים_ ההשפעות של הקורונה על העולם.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1u4UCiX7BekXLpvPJcUNpspHlL_RHPP5x/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/34.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "הבאנדל החדש של אפל: לא גימיק שיווקי, אלא אסטרטגיה גאונית",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/35.wav"
+          ],
+          "drive_filename": "הבאנדל החדש של אפל_ לא גימיק שיווקי, אלא אסטרטגיה גאונית.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/17kkXYWGvTPOD46xiwSD5h-XPVUWzc4YF/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/35.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "ענף הגיימינג בענן צומח בקצב מסחרר, והאיש העשיר בעולם לא נשאר מחוץ לחגיגה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/36.wav"
+          ],
+          "drive_filename": "ענף הגיימינג בענן צומח בקצב מסחרר, והאיש העשיר בעולם לא נשאר מחוץ לחגיגה.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1AiF2QIinK9rSqR15xb9mFBVHGTw7axyX/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/36.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "אחרי הרחפן שממפה את הבית, ג'ף בזוס חשף שירות חדש שישתלט לכם על החיים",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/37.wav"
+          ],
+          "drive_filename": "אחרי הרחפן שממפה את הבית, ג'ף בזוס חשף שירות חדש שישתלט לכם על החיים.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1O6lkIsZWzXXym2XkkksV-itrWn0yQeyo/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/37.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "עושים לכם סדר בבלגן: דו\"ח הקונגרס נגד ענקיות הטכנולוגיה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/38.wav"
+          ],
+          "drive_filename": "עושים לכם סדר בבלגן_ דו_ח הקונגרס נגד ענקיות הטכנולוגיה.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1oFnKpk6l0tZrYNgRh2Qp5kJqlXSwx53W/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/38.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "כולנו מכרנו את נשמתנו לוואטסאפ ולגוגל, אבל יש תקווה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/39.wav"
+          ],
+          "drive_filename": "כולנו מכרנו את נשמתנו לוואטסאפ ולגוגל, אבל יש תקווה.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1UTDAICuL1LLNP7EGIv8xkwRDXAK8JS5B/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/39.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "אחרי שנים של הפסדים, וואטסאפ סוף סוף אימצה מודל כלכלי",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/40.wav"
+          ],
+          "drive_filename": "אחרי שנים של הפסדים, וואטסאפ סוף סוף אימצה מודל כלכלי.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/13fwE7KPcFGAJiiBpwGISxfTXG3hlrq4E/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/40.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "ארבעת המופלאים של עולם הטכנולוגיה שוברים שיאים",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/41.wav"
+          ],
+          "drive_filename": "ארבעת המופלאים של עולם הטכנולוגיה שוברים שיאים.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1POkhu2iMQqpEcRyXHFvmq3_eDs4bJfSA/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/41.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "התנפצה לרסיסים: כך הסתיימה ההנפקה החלומית של ג'ק מא",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/42.wav"
+          ],
+          "drive_filename": "התנפצה לרסיסים_ כך הסתיימה ההנפקה החלומית של ג'ק מא.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1fIKxZFpE9_iRXxO5ZGVgu_EMKFtfFOSc/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/42.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "החברה הישראלית שהולכת לשבור שיאים בנאסד\"ק",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/43.wav"
+          ],
+          "drive_filename": "החברה הישראלית שהולכת לשבור שיאים בנאסד_ק.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1sCOPdWf_C04-WjoXuk3o6_Y3HUFuMcB-/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/43.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "הקאמבק התמוה של מאריסה מאייר",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/44.wav"
+          ],
+          "drive_filename": "הקאמבק התמוה של מאריסה מאייר.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1bvk3hU5WaqOuKQxCoAR8GoGFfeP_TEyJ/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/44.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "בזמן הקורונה: המהלך המפתיע של ג'ף בזוס",
+          "destinations": [
+            "Google Drive"
+          ],
+          "drive_filename": "בזמן הקורונה_ המהלך המפתיע של ג'ף בזוס.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1uTeOwBKhnOynzkQROp3KMsyltyOLJcDm/view?usp=drivesdk"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "אמריקה נגד פייסבוק",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/46.wav"
+          ],
+          "drive_filename": "אמריקה נגד פייסבוק.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1gZnkDaTzWFz2Xy9kwY75BWEu9_NX6y-i/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/46.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "מתקפת הסייבר שמשגעת את ארה\"ב",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/47.wav"
+          ],
+          "drive_filename": "מתקפת הסייבר שמשגעת את ארה_ב.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1TwZuE1Rm1evLExtvgOQH1oRUt5pQP592/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/47.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "אחרי ההנפקה שנעצרה: צרות נוספות לג׳ק מא",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/48.wav"
+          ],
+          "drive_filename": "אחרי ההנפקה שנעצרה_ צרות נוספות לג׳ק מא.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1_YVHT2V2Qj_ttvLk3FB8P73_ZkcZHeLp/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/48.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "תחל שנה וברכותיה: 7 הדברים החשובים ביותר שיקרו ב-2021",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/49.wav"
+          ],
+          "drive_filename": "תחל שנה וברכותיה_ 7 הדברים החשובים ביותר שיקרו ב-2021.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1HGdLPR_fyAvHFZ-ARs3UVsuJ7c_gH2Ta/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/49.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "חושבים שבישראל משלמים הרבה מיסים? תחשבו שוב",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/50.wav"
+          ],
+          "drive_filename": "חושבים שבישראל משלמים הרבה מיסים_ תחשבו שוב.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1YIYVOLQ-lnu759MMRCIiFURSAmcQ03AQ/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/50.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "CES 2021: מסכמים את תערוכת הטכנולוגיה הגדולה בעולם",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/51.wav"
+          ],
+          "drive_filename": "CES 2021_ מסכמים את תערוכת הטכנולוגיה הגדולה בעולם.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1GhZPe312olfqhctTfAeSeohwg4kRFgdS/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/51.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "?אינטל החליפה מנכ\"ל. האם זה יעזור לה להתאושש",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/52.wav"
+          ],
+          "drive_filename": "_אינטל החליפה מנכ_ל. האם זה יעזור לה להתאושש.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1VE_bMbIpE6Ic-PZ9EXu-xryCe69uNhFE/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/52.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "האם המהלך של אפל יוביל לנפילת פייסבוק?",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/53.wav"
+          ],
+          "drive_filename": "האם המהלך של אפל יוביל לנפילת פייסבוק_.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1lnk2DlJgcJHM8AtcyAwLoSLBGr2OomMx/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/53.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "בזמן שעבדתם >>הרשת החברתית שרוצה לתפוס את מקומה של טיקטוק",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/54.wav"
+          ],
+          "drive_filename": "בזמן שעבדתם _הרשת החברתית שרוצה לתפוס את מקומה של טיקטוק.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1Jji0BERz9FhCGsuPa4OyhlvdNI9RJr-k/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/54.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "בזמן שעבדתם >> מארק צוקרברג: \"אנחנו צריכים להכאיב לאפל\"",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/55.wav"
+          ],
+          "drive_filename": "בזמן שעבדתם _ מארק צוקרברג_ _אנחנו צריכים להכאיב לאפל_.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1oiLBo3hz8XSZKt5aKvotcYOlvk2S-1wh/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/55.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "צוקרברג התקפל מול אוסטרליה. מה יקרה עכשיו?",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/56.wav"
+          ],
+          "drive_filename": "צוקרברג התקפל מול אוסטרליה. מה יקרה עכשיו_.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1bj3EeXRy47PahT0CABYjXXEninn2T_Xh/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/56.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "המם שנמכר ביותר מחצי מיליון דולר",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/57.wav"
+          ],
+          "drive_filename": "המם שנמכר ביותר מחצי מיליון דולר.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1ffyOXtndHujpIkuEFV1BBfqJJ_ScWnQq/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/57.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "צוקרברג משליך את יהבו על המשקפיים החכמים. מה הוא מתכנן?",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/59.wav"
+          ],
+          "drive_filename": "צוקרברג משליך את יהבו על המשקפיים החכמים. מה הוא מתכנן_.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1I3W_SRuw-c1ngRB_-w0Db_-qqRPnlK1I/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/59.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "האישה שגורמת לג'ף בזוס ולמארק צוקרברג להזיע",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/60.wav"
+          ],
+          "drive_filename": "האישה שגורמת לג'ף בזוס ולמארק צוקרברג להזיע.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1RZGiBxFsodCd0hccQexoAxXuyJc74ZRh/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/60.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "המחסור בצ'יפים גובה קורבן נוסף. מתי הוא ייגמר?",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/61.wav"
+          ],
+          "drive_filename": "המחסור בצ'יפים גובה קורבן נוסף. מתי הוא ייגמר_.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1cCaARNzVTtic5XEsEW_rmUsQ_0PB1ThL/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/61.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "גוגל שולפת את הג'וקר שלה. המטרה: חברת הסטרימרים \"רוקו\"",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/62.wav"
+          ],
+          "drive_filename": "גוגל שולפת את הג'וקר שלה. המטרה_ חברת הסטרימרים _רוקו_.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1arYWLW2p4dtxQXGn3WUEszVj3360QZbt/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/62.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "כולם עליו: הביטקוין משתולל, ולא רק בגלל אילון מאסק",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/63.wav"
+          ],
+          "drive_filename": "כולם עליו_ הביטקוין משתולל, ולא רק בגלל אילון מאסק.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1sJJV3FP42jg1CPUepxN7-GGRpReSdMyx/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/63.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "כולם הספידו את וואווי. עכשיו היא חוזרת למגרש",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/64.wav"
+          ],
+          "drive_filename": "כולם הספידו את וואווי. עכשיו היא חוזרת למגרש.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1EnVx9Lv8oA25GhpBP6dIkpnmw6rLVVqN/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/64.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "ג׳ק דורסי רוצה לבטל את הבנקים. הוא לא היחיד",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/65.wav"
+          ],
+          "drive_filename": "ג׳ק דורסי רוצה לבטל את הבנקים. הוא לא היחיד.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1A9DGG88vv1meybqdN_hntbMEVkiffTwu/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/65.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "עזבו את הקו האדום. אפשר להגיע מחיפה לת\"א תוך 5 דקות",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/66.wav"
+          ],
+          "drive_filename": "עזבו את הקו האדום. אפשר להגיע מחיפה לת_א תוך 5 דקות.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1ElAqkPbRQ2lj0RZZegbCtNMH9i-yGJtV/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/66.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "אפל מסתערת על עולם הבריאות. האם היא תשנה אותו מן היסוד?",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/67.wav"
+          ],
+          "drive_filename": "אפל מסתערת על עולם הבריאות. האם היא תשנה אותו מן היסוד_.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1vsLz7CANHrh1zpym3fcfOj4hWgEondss/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/67.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "הניצחון הגדול של פייסבוק בבית המשפט",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/68.wav"
+          ],
+          "drive_filename": "הניצחון הגדול של פייסבוק בבית המשפט.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/16gFUQXEEk1FwnNdoxqOJffUersrv9XHz/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/68.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "״יוני הגדול״: החודש ההיסטורי של ההייטק הישראלי",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/69.wav"
+          ],
+          "drive_filename": "״יוני הגדול״_ החודש ההיסטורי של ההייטק הישראלי.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1VXPCFN0m30fY4Kq4cnK_osLoEAyb0ISD/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/69.wav"
+        }
+      ]
+    },
     {
       "run_id": "39493870631",
       "run_number": "292",
@@ -2613,20 +3226,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38038254815",
-      "items": []
-    },
-    {
-      "run_id": "38033596223",
-      "run_number": "193",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-10T07:12:50.325526+00:00",
-      "israel_time": "10/10/2026 10:12",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38033596223",
       "items": []
     }
   ]

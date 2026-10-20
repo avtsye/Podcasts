@@ -806,30 +806,6 @@
       "filename_stem": "11",
       "uploaded_at": "2026-09-28T21:00:08.643188+00:00"
     },
-    "9d3151ea-8be8-41d0-a9c1-ae0501839d66": {
-      "podcast_id": "zman_sheavodtem",
-      "title": "רוח של שינוי: מה עתיד לקרות בשוק העבודה",
-      "status": "uploaded",
-      "path": "ivr2:/1/20/14.wav",
-      "filename_stem": "14",
-      "uploaded_at": "2026-09-28T21:00:31.333204+00:00"
-    },
-    "c1293696-bc02-4c5e-b9ec-af2c0074c803": {
-      "podcast_id": "zman_sheavodtem",
-      "title": "הפרקים האהובים: רוח של שינוי: מה עתיד לקרות בשוק העבודה",
-      "status": "uploaded",
-      "path": "ivr2:/1/20/15.wav",
-      "filename_stem": "15",
-      "uploaded_at": "2026-09-28T21:00:58.081729+00:00"
-    },
-    "af61869f-e682-4f99-a925-b12b000f5cf2": {
-      "podcast_id": "zman_sheavodtem",
-      "title": "אוטוטו? תמונת מצב של הרכבים האוטונומיים בשוק",
-      "status": "uploaded",
-      "path": "ivr2:/1/20/16.wav",
-      "filename_stem": "16",
-      "uploaded_at": "2026-09-28T21:01:19.575531+00:00"
-    },
     "36ceef57-5e4d-427e-85ae-b05a00dfa1a3": {
       "podcast_id": "ear_catcher",
       "title": "איך מפצחים את טיקטוק? פרק 320 לייב(!) עם ‎⁨רעות כהן, ⁩מנהלת הפעילות העסקית של טיקטוק בשוק המקומי",
@@ -11019,86 +10995,6 @@
       "filename_stem": "5",
       "uploaded_at": "2026-09-24T11:24:20.069690+00:00"
     },
-    "zman_sheavodtem:57222af8-9c52-457d-8fcc-b48700f54f24": {
-      "podcast_id": "zman_sheavodtem",
-      "title": "להמציא את הכדור מחדש",
-      "status": "uploaded",
-      "path": "ivr2:/1/20/1.wav",
-      "filename_stem": "1",
-      "uploaded_at": "2026-09-27T02:12:09.383807+00:00"
-    },
-    "zman_sheavodtem:636c150f-454a-4108-b636-b48f008fccd2": {
-      "podcast_id": "zman_sheavodtem",
-      "title": "סטארט-אפ ניישן או סעד ניישן: מי יפרנס אותנו כשהבינה המלאכותית תעשה הכל?",
-      "status": "uploaded",
-      "path": "ivr2:/1/20/2.wav",
-      "filename_stem": "2",
-      "uploaded_at": "2026-09-27T02:12:51.792445+00:00"
-    },
-    "zman_sheavodtem:24e649d1-e15c-47f5-a4f4-b49501562f07": {
-      "podcast_id": "zman_sheavodtem",
-      "title": "מפצל מסלול מחדש: איך מתכוננים לתרחישים מנוגדים?",
-      "status": "uploaded",
-      "path": "ivr2:/1/20/3.wav",
-      "filename_stem": "3",
-      "uploaded_at": "2026-09-27T02:13:22.655611+00:00"
-    },
-    "zman_sheavodtem:ad51db29-4530-40db-870e-b49d008b2764": {
-      "podcast_id": "zman_sheavodtem",
-      "title": "הפרקים האהובים: עמה ספר!",
-      "status": "uploaded",
-      "path": "ivr2:/1/20/4.wav",
-      "filename_stem": "4",
-      "uploaded_at": "2026-09-27T02:14:07.798018+00:00"
-    },
-    "zman_sheavodtem:a4ba2e07-7ed3-4fb0-880e-b4a4009432f4": {
-      "podcast_id": "zman_sheavodtem",
-      "title": "הפרקים האהובים: בינה מלאכותית ברה מז'ור",
-      "status": "uploaded",
-      "path": "ivr2:/1/20/5.wav",
-      "filename_stem": "5",
-      "uploaded_at": "2026-09-27T02:14:33.678964+00:00"
-    },
-    "zman_sheavodtem:9f3b9763-a81c-4f7e-8259-b4b101769620": {
-      "podcast_id": "zman_sheavodtem",
-      "title": "הפרקים האהובים: ממדפים לשרתים- המהפכה הטכנולוגית של וולמארט",
-      "status": "uploaded",
-      "path": "ivr2:/1/20/11.wav",
-      "filename_stem": "11",
-      "uploaded_at": "2026-09-27T08:16:25.698689+00:00"
-    },
-    "zman_sheavodtem:ad0f2437-8952-41f7-a2e3-b4b900866924": {
-      "podcast_id": "zman_sheavodtem",
-      "title": "פרק חדש! כשהסוכנים יצאו משליטה: הצצה לתוך המוח של המכונה",
-      "status": "uploaded",
-      "path": "ivr2:/1/20/7.wav",
-      "filename_stem": "7",
-      "uploaded_at": "2026-09-27T02:15:33.020878+00:00"
-    },
-    "zman_sheavodtem:aebf57b4-54fb-4e77-b73c-b4c000916dce": {
-      "podcast_id": "zman_sheavodtem",
-      "title": "מאנדרגראונד לארץ נהדרת: הפודקאסט משתלט על עולם התקשורת",
-      "status": "uploaded",
-      "path": "ivr2:/1/20/12.wav",
-      "filename_stem": "12",
-      "uploaded_at": "2026-09-27T08:16:50.345139+00:00"
-    },
-    "zman_sheavodtem:6a88d308-60d0-4454-bcbe-b4c60108e04d": {
-      "podcast_id": "zman_sheavodtem",
-      "title": "Baby no one drives my car",
-      "status": "uploaded",
-      "path": "ivr2:/1/20/9.wav",
-      "filename_stem": "9",
-      "uploaded_at": "2026-09-27T02:16:53.519192+00:00"
-    },
-    "zman_sheavodtem:1578f2e9-b1f5-4d4d-8460-b4cd00f2f3c1": {
-      "podcast_id": "zman_sheavodtem",
-      "title": "קוראים לה בקפה: מה יעלה בגורלה של סטארבקס?",
-      "status": "uploaded",
-      "path": "ivr2:/1/20/13.wav",
-      "filename_stem": "13",
-      "uploaded_at": "2026-09-27T08:17:10.747753+00:00"
-    },
     "little_university:86559fb844ce93361ce630607f493e4b": {
       "podcast_id": "little_university",
       "title": "גילויים מדהימים בגנטיקה חלק ב- חווה מאפריקה",
@@ -12557,14 +12453,6 @@
       "path": "ivr2:/1/42/906.wav",
       "filename_stem": "906",
       "uploaded_at": "2026-10-07T07:08:26.739424+00:00"
-    },
-    "zman_sheavodtem:480482d3-d468-4876-bbee-b4db0107a8e6": {
-      "podcast_id": "zman_sheavodtem",
-      "title": "מטריקס 2026: הסוכנים עוברים לעולם האמיתי",
-      "status": "uploaded",
-      "path": "ivr2:/1/20/17.wav",
-      "filename_stem": "17",
-      "uploaded_at": "2026-10-07T14:34:35.815308+00:00"
     },
     "maariv_magazine:1f84dc8b-b2ca-4537-b3d1-b4dc012a550b": {
       "podcast_id": "maariv_magazine",
@@ -24034,14 +23922,6 @@
       "filename_stem": "2",
       "uploaded_at": "2026-10-14T06:15:47.460508+00:00"
     },
-    "zman_sheavodtem:c04c04dd-7646-4a5c-bcaa-b4e3008e4696": {
-      "podcast_id": "zman_sheavodtem",
-      "title": "עתיד, כסף וקטסטרופה: אתם שאלתם - אנחנו עונים",
-      "status": "uploaded",
-      "path": "ivr2:/1/20/18.wav",
-      "filename_stem": "18",
-      "uploaded_at": "2026-10-14T09:41:48.150289+00:00"
-    },
     "ear_catcher:aa0cf4a0-650f-4f76-b231-b4e300f8e1ab": {
       "podcast_id": "ear_catcher",
       "title": "מה עושים אנשי הקריאייטיב אחרי גיל 50? פרק 454 עם דני יעקובוביץ׳, איש קריאייטיב עצמאי",
@@ -24265,6 +24145,2484 @@
       "path": "ivr2:/1/17/20.wav",
       "filename_stem": "20",
       "uploaded_at": "2026-10-20T20:41:01.332059+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/21411c74-cfa7-5bae-894d-56ef0b820373": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בזמן שעבדתם: פרק 1 - מי החברות הגדולות שמרוויחות ממשבר הקורונה?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/19.wav",
+      "filename_stem": "19",
+      "uploaded_at": "2026-10-20T21:33:37.958015+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/655194fc-a0d9-55fa-a114-ba3497fa6565": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בזמן שעבדתם: פרק 2 - איך קרה שפודקאסטים שווים עכשיו מיליוני דולרים?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/20.wav",
+      "filename_stem": "20",
+      "uploaded_at": "2026-10-20T21:34:01.262643+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/e1d4d441-949c-5f75-9ede-07e614966c95": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בזמן שעבדתם: פרק 3 - מתי תוכלו לטוס לחלל וכמה זה יעלה לכם?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/21.wav",
+      "filename_stem": "21",
+      "uploaded_at": "2026-10-20T21:34:26.204162+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/df4aa3e9-094e-53fb-bf27-f4a0739ff88c": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בזמן שעבדתם: פרק 4 - כך אילון מאסק הרוויח 700 מיליון דולר ברגע",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/22.wav",
+      "filename_stem": "22",
+      "uploaded_at": "2026-10-20T21:34:46.624251+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/d341e3db-ef3d-575f-8ee2-f2e535101a54": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בזמן שעבדתם: פרק 5 - מהפיכת שירות התשלומים בסמארטפונים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/23.wav",
+      "filename_stem": "23",
+      "uploaded_at": "2026-10-20T21:35:11.986329+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/74dcc219-63ec-56aa-b1c3-65b01f1765b9": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בזמן שעבדתם: פרק 6 - ג'ף בזוס שילם מיליארד דולר על הצעצוע החדש שלו",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/24.wav",
+      "filename_stem": "24",
+      "uploaded_at": "2026-10-20T21:35:37.105084+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/49ef9c59-6384-5a24-be10-f6ed6af4d171": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בזמן שעבדתם: פרק 7 - ההדלפה הכי גדולה של מסמכי FBI והחרם המתמשך על פייסבוק",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/25.wav",
+      "filename_stem": "25",
+      "uploaded_at": "2026-10-20T21:35:59.758818+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/335f864a-05f5-577b-b9fa-e1fa7555f11a": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "?למה פייסבוק וגוגל כל כך אוהבות פייק ניוז :בזמן שעבדתם פרק 8",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/26.wav",
+      "filename_stem": "26",
+      "uploaded_at": "2026-10-20T21:36:41.433218+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/0ff57cbd-6062-387d-b6c3-d28c99ee55a4": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בזמן שעבדתם – פרק 9",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/27.wav",
+      "filename_stem": "27",
+      "uploaded_at": "2026-10-20T21:37:25.577731+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/b82134ce-09c9-300e-81d9-a48a3d334145": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בזמן שעבדתם: פרק 10",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/28.wav",
+      "filename_stem": "28",
+      "uploaded_at": "2026-10-20T21:37:47.567308+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/4a4c5ccc-30df-32a3-8f3e-205da5cd2c7d": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בזמן שעבדתם: פרק 11",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/29.wav",
+      "filename_stem": "29",
+      "uploaded_at": "2026-10-20T21:38:16.100065+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/8e82aa26-3184-3133-8644-de73ad1b1b8e": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בזמן שעבדתם: פרק 12 | הווידאוקאסט של דרור גלוברמן ודני פלד",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/30.wav",
+      "filename_stem": "30",
+      "uploaded_at": "2026-10-20T21:38:42.402988+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/a4410641-64f6-314d-886d-0a062d2519c5": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בזמן שעבדתם: פרק 13 | הווידאוקאסט של דרור גלוברמן ודני פלד",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/31.wav",
+      "filename_stem": "31",
+      "uploaded_at": "2026-10-20T21:39:02.317544+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/5e8e53b5-7532-3b99-b1fe-a4f335c7d35f": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בזמן שעבדתם, פרק 14: ג'ף בזוס רוצה לקנות את הנשמה שלכם",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/32.wav",
+      "filename_stem": "32",
+      "uploaded_at": "2026-10-20T21:39:27.358695+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/aefc9a09-b93b-3458-aa8a-469555de9f0c": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בזמן שעבדתם: פרק 15 | הווידאוקאסט של דרור גלוברמן ודני פלד",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/33.wav",
+      "filename_stem": "33",
+      "uploaded_at": "2026-10-20T21:39:55.038456+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/81f1ed44-e150-3c77-99c4-53b7da2d7c7c": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מקניות ועד מגורים: ההשפעות של הקורונה על העולם",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/34.wav",
+      "filename_stem": "34",
+      "uploaded_at": "2026-10-20T21:40:22.170079+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/41e9ae68-11b6-32a2-a57d-b4fed84abc04": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הבאנדל החדש של אפל: לא גימיק שיווקי, אלא אסטרטגיה גאונית",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/35.wav",
+      "filename_stem": "35",
+      "uploaded_at": "2026-10-20T21:40:50.386501+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/651e0ee6-a2c6-313a-8d1e-f58db75effa6": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "ענף הגיימינג בענן צומח בקצב מסחרר, והאיש העשיר בעולם לא נשאר מחוץ לחגיגה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/36.wav",
+      "filename_stem": "36",
+      "uploaded_at": "2026-10-20T21:41:15.987769+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/88cbd341-b121-3868-a632-de99595abaea": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "אחרי הרחפן שממפה את הבית, ג'ף בזוס חשף שירות חדש שישתלט לכם על החיים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/37.wav",
+      "filename_stem": "37",
+      "uploaded_at": "2026-10-20T21:41:44.818719+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/962f8fba-f2fb-3f34-9ba2-ebe30234fea7": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "עושים לכם סדר בבלגן: דו\"ח הקונגרס נגד ענקיות הטכנולוגיה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/38.wav",
+      "filename_stem": "38",
+      "uploaded_at": "2026-10-20T21:42:12.293604+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/4402d307-76a3-3f81-be97-586b6b01999d": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "כולנו מכרנו את נשמתנו לוואטסאפ ולגוגל, אבל יש תקווה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/39.wav",
+      "filename_stem": "39",
+      "uploaded_at": "2026-10-20T21:43:02.284604+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/79e3a557-8e2b-34f2-b883-32886c38199c": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "אחרי שנים של הפסדים, וואטסאפ סוף סוף אימצה מודל כלכלי",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/40.wav",
+      "filename_stem": "40",
+      "uploaded_at": "2026-10-20T21:43:31.452849+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/6a1b0ca2-3953-3ac5-9bee-a9ec4b05654e": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "ארבעת המופלאים של עולם הטכנולוגיה שוברים שיאים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/41.wav",
+      "filename_stem": "41",
+      "uploaded_at": "2026-10-20T21:44:03.902690+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/d7c8a9b5-8473-3ae5-b92d-9c7b901b4e63": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "התנפצה לרסיסים: כך הסתיימה ההנפקה החלומית של ג'ק מא",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/42.wav",
+      "filename_stem": "42",
+      "uploaded_at": "2026-10-20T21:44:34.565879+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/1bf773ef-095d-32e2-9c78-19935e7c3690": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "החברה הישראלית שהולכת לשבור שיאים בנאסד\"ק",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/43.wav",
+      "filename_stem": "43",
+      "uploaded_at": "2026-10-20T21:45:03.071309+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/5917f907-efc6-3273-bcfa-4a4f92a6c420": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הקאמבק התמוה של מאריסה מאייר",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/44.wav",
+      "filename_stem": "44",
+      "uploaded_at": "2026-10-20T21:45:28.958448+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/25ef5fa1-904f-3904-8d48-f472a66385a6": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בזמן הקורונה: המהלך המפתיע של ג'ף בזוס",
+      "status": "error",
+      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "updated_at": "2026-10-20T21:46:06.457554+00:00",
+      "attempt_count": 1,
+      "next_retry": "2026-10-20T22:46:06.457577+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/6af60765-4670-3314-ae5b-5b3986aa878e": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "אמריקה נגד פייסבוק",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/46.wav",
+      "filename_stem": "46",
+      "uploaded_at": "2026-10-20T21:46:35.634490+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/32343f9c-34e2-3be8-a65d-6de91e40b0de": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מתקפת הסייבר שמשגעת את ארה\"ב",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/47.wav",
+      "filename_stem": "47",
+      "uploaded_at": "2026-10-20T21:47:30.504766+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/504af35f-5465-35c6-9e07-1040e4f7343c": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "אחרי ההנפקה שנעצרה: צרות נוספות לג׳ק מא",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/48.wav",
+      "filename_stem": "48",
+      "uploaded_at": "2026-10-20T21:47:54.596265+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/a90d718e-4d98-33df-b6a0-313a522c24b6": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "תחל שנה וברכותיה: 7 הדברים החשובים ביותר שיקרו ב-2021",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/49.wav",
+      "filename_stem": "49",
+      "uploaded_at": "2026-10-20T21:48:24.584657+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/785b089c-046e-3231-854a-6a7ddcbc48ec": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "חושבים שבישראל משלמים הרבה מיסים? תחשבו שוב",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/50.wav",
+      "filename_stem": "50",
+      "uploaded_at": "2026-10-20T21:48:53.301716+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/16438a73-ddad-38b8-984a-4588321ed57f": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "CES 2021: מסכמים את תערוכת הטכנולוגיה הגדולה בעולם",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/51.wav",
+      "filename_stem": "51",
+      "uploaded_at": "2026-10-20T21:49:32.599018+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/72d18ce8-ba9b-303c-961b-14b5fe9ea79f": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "?אינטל החליפה מנכ\"ל. האם זה יעזור לה להתאושש",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/52.wav",
+      "filename_stem": "52",
+      "uploaded_at": "2026-10-20T21:50:01.010896+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/c667262a-a9c2-35e8-9f37-cee71fcaeb5a": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "האם המהלך של אפל יוביל לנפילת פייסבוק?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/53.wav",
+      "filename_stem": "53",
+      "uploaded_at": "2026-10-20T21:50:41.788040+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/0da47b32-3b22-3e0c-9ecf-cdcc918ca732": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בזמן שעבדתם >>הרשת החברתית שרוצה לתפוס את מקומה של טיקטוק",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/54.wav",
+      "filename_stem": "54",
+      "uploaded_at": "2026-10-20T21:51:13.496014+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/0b253170-de10-3591-a1da-fe2cb68a0837": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בזמן שעבדתם >> מארק צוקרברג: \"אנחנו צריכים להכאיב לאפל\"",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/55.wav",
+      "filename_stem": "55",
+      "uploaded_at": "2026-10-20T21:51:59.127506+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/43eb00e6-4e55-32e8-96c0-4dadc28d7c8e": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "צוקרברג התקפל מול אוסטרליה. מה יקרה עכשיו?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/56.wav",
+      "filename_stem": "56",
+      "uploaded_at": "2026-10-20T21:52:40.788729+00:00"
+    },
+    "zman_sheavodtem:makopod.podbean.com/a23c17fa-dd08-31e4-9134-0b5e6756b119": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "המם שנמכר ביותר מחצי מיליון דולר",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/57.wav",
+      "filename_stem": "57",
+      "uploaded_at": "2026-10-20T21:53:08.856125+00:00"
+    },
+    "zman_sheavodtem:a62b9d4c-0a84-4bc9-a8d1-acee00740981": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "צוקרברג משליך את יהבו על המשקפיים החכמים. מה הוא מתכנן?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/59.wav",
+      "filename_stem": "59",
+      "uploaded_at": "2026-10-20T21:54:10.299509+00:00"
+    },
+    "zman_sheavodtem:6f26d6b7-8f92-41c4-902f-ad1700dd0c30": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "האישה שגורמת לג'ף בזוס ולמארק צוקרברג להזיע",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/60.wav",
+      "filename_stem": "60",
+      "uploaded_at": "2026-10-20T21:54:43.231113+00:00"
+    },
+    "zman_sheavodtem:9eda91ac-99fe-4847-8d0d-ad1f00974407": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "המחסור בצ'יפים גובה קורבן נוסף. מתי הוא ייגמר?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/61.wav",
+      "filename_stem": "61",
+      "uploaded_at": "2026-10-20T21:55:13.303875+00:00"
+    },
+    "zman_sheavodtem:6a095ab3-d24b-4709-88ff-ad2600a0a25c": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "גוגל שולפת את הג'וקר שלה. המטרה: חברת הסטרימרים \"רוקו\"",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/62.wav",
+      "filename_stem": "62",
+      "uploaded_at": "2026-10-20T21:55:36.030700+00:00"
+    },
+    "zman_sheavodtem:8094d025-ca3d-4d78-bbb6-ad3400a4e263": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "כולם עליו: הביטקוין משתולל, ולא רק בגלל אילון מאסק",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/63.wav",
+      "filename_stem": "63",
+      "uploaded_at": "2026-10-20T21:56:03.745764+00:00"
+    },
+    "zman_sheavodtem:e6ac4f1c-bba6-4df5-8945-ad3b00bb2051": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "כולם הספידו את וואווי. עכשיו היא חוזרת למגרש",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/64.wav",
+      "filename_stem": "64",
+      "uploaded_at": "2026-10-20T21:56:36.727985+00:00"
+    },
+    "zman_sheavodtem:7975095c-8dab-4803-bed1-ad4200d74b3e": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "ג׳ק דורסי רוצה לבטל את הבנקים. הוא לא היחיד",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/65.wav",
+      "filename_stem": "65",
+      "uploaded_at": "2026-10-20T21:57:03.684484+00:00"
+    },
+    "zman_sheavodtem:6a432480-3f5c-4b84-80c3-ad4900939928": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "עזבו את הקו האדום. אפשר להגיע מחיפה לת\"א תוך 5 דקות",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/66.wav",
+      "filename_stem": "66",
+      "uploaded_at": "2026-10-20T21:57:24.343186+00:00"
+    },
+    "zman_sheavodtem:349642ab-934c-4723-9743-ad4f015f4d85": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "אפל מסתערת על עולם הבריאות. האם היא תשנה אותו מן היסוד?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/67.wav",
+      "filename_stem": "67",
+      "uploaded_at": "2026-10-20T21:57:48.198952+00:00"
+    },
+    "zman_sheavodtem:9d3ba50f-3818-4a27-9e86-ad5700f97724": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הניצחון הגדול של פייסבוק בבית המשפט",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/68.wav",
+      "filename_stem": "68",
+      "uploaded_at": "2026-10-20T21:58:09.366729+00:00"
+    },
+    "zman_sheavodtem:e9cce322-0b51-49db-9448-ad5d015955c6": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "״יוני הגדול״: החודש ההיסטורי של ההייטק הישראלי",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/69.wav",
+      "filename_stem": "69",
+      "uploaded_at": "2026-10-20T21:58:57.789629+00:00"
+    },
+    "zman_sheavodtem:7f343260-335a-4ddc-a652-ad64018581a9": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מעל כולן: טיקטוק השלימה את המהפכה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/70.wav",
+      "filename_stem": "70",
+      "uploaded_at": "2026-10-20T21:59:19.249624+00:00"
+    },
+    "zman_sheavodtem:10d4f4ad-6fcc-436f-9625-ad6c01866419": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "כלי רגשי, שיווקי ופוליטי: פרצופם האמיתי של האימוג'יז נחשף",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/71.wav",
+      "filename_stem": "71",
+      "uploaded_at": "2026-10-20T21:59:44.091785+00:00"
+    },
+    "zman_sheavodtem:a39a3b0f-65b9-4fb7-981d-ad720185e64a": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "אחרי ההצלחה בקורונה: כך זום מתכננת להישאר רלוונטית",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/72.wav",
+      "filename_stem": "72",
+      "uploaded_at": "2026-10-20T22:00:08.899317+00:00"
+    },
+    "zman_sheavodtem:550a0232-85f7-4138-8c54-ad7901864c0a": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "אפקט הפרפר הסיני: התערבות בשיטת החינוך בסין מרעידה את כלכלת העולם",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/73.wav",
+      "filename_stem": "73",
+      "uploaded_at": "2026-10-20T22:00:46.269029+00:00"
+    },
+    "zman_sheavodtem:b9c6516d-3c72-460b-8756-ad80016785b2": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "על אף הכוונות הטובות: הפיתוחים החדשים של אפל מעוררים עליה עליהום",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/74.wav",
+      "filename_stem": "74",
+      "uploaded_at": "2026-10-20T22:01:07.005162+00:00"
+    },
+    "zman_sheavodtem:40b03f98-b74f-43e7-9318-ad880013779b": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "לא משחק ילדים: התביעה נגד דיסני מאיימת לשנות את שוק הקולנוע",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/75.wav",
+      "filename_stem": "75",
+      "uploaded_at": "2026-10-20T22:01:33.603528+00:00"
+    },
+    "zman_sheavodtem:e458ed56-1335-4e00-8e6b-ad8e016e700d": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "רואים כפול: הפיצוח שמצליח להכפיל לאנשים בארה\"ב את המשכורת",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/76.wav",
+      "filename_stem": "76",
+      "uploaded_at": "2026-10-20T22:01:59.963097+00:00"
+    },
+    "zman_sheavodtem:9da6ad64-f01a-4d6e-b894-ad95018b33f8": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפצצה שהטיל מייסד אונלי פאנס",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/77.wav",
+      "filename_stem": "77",
+      "uploaded_at": "2026-10-20T22:02:20.141717+00:00"
+    },
+    "zman_sheavodtem:9fb25f96-2e5f-4fad-80cd-adb900359bdb": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "התוצאות ההרסניות של קריסת פייסבוק",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/78.wav",
+      "filename_stem": "78",
+      "uploaded_at": "2026-10-20T22:02:40.217814+00:00"
+    },
+    "zman_sheavodtem:89f05126-1097-4bb9-abd5-adc0002bc0f9": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "משבר האספקה הגדול של ארה\"ב מאיים על כל העולם",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/79.wav",
+      "filename_stem": "79",
+      "uploaded_at": "2026-10-20T22:03:31.944191+00:00"
+    },
+    "zman_sheavodtem:f7765e61-7011-419b-abc7-adc1002757f9": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "לאן נעלמו 69 מיליארד דולר?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/80.wav",
+      "filename_stem": "80",
+      "uploaded_at": "2026-10-20T22:03:51.174709+00:00"
+    },
+    "zman_sheavodtem:a13f5d77-9925-415a-b66a-adc70030fb08": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מגפת ההתפטרויות שמרעידה את שוק העבודה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/81.wav",
+      "filename_stem": "81",
+      "uploaded_at": "2026-10-20T22:04:14.349261+00:00"
+    },
+    "zman_sheavodtem:1e40aabb-822e-4479-b600-adce00077593": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "כמו כספומט: מהיום ניתן למשוך ביטקוין",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/82.wav",
+      "filename_stem": "82",
+      "uploaded_at": "2026-10-20T22:04:38.414931+00:00"
+    },
+    "zman_sheavodtem:ad41380a-0db2-419a-93b2-add401735a64": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מכוניות מתנגשות: המתחרות הגדולות על עתיד שוק הרכב",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/83.wav",
+      "filename_stem": "83",
+      "uploaded_at": "2026-10-20T22:05:00.946009+00:00"
+    },
+    "zman_sheavodtem:8c76269c-e301-4d9e-9aec-addc0016555e": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הערים רבות: מי תהיה בירת הביטקוין הבאה?",
+      "status": "error",
+      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "updated_at": "2026-10-20T22:05:38.315780+00:00",
+      "attempt_count": 1,
+      "next_retry": "2026-10-20T23:05:38.315807+00:00"
+    },
+    "zman_sheavodtem:64c0f35b-3461-4918-8e74-ade2017ef236": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "החברה הישראלית שהסתבכה עם העולם",
+      "status": "error",
+      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "updated_at": "2026-10-20T22:06:15.555784+00:00",
+      "attempt_count": 1,
+      "next_retry": "2026-10-20T23:06:15.555807+00:00"
+    },
+    "zman_sheavodtem:145f1b6f-fa58-4eaa-a45f-adea00088488": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "ספרות לא זולה: קרבות הNFT של טרנטינו",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/86.wav",
+      "filename_stem": "86",
+      "uploaded_at": "2026-10-20T22:06:39.341960+00:00"
+    },
+    "zman_sheavodtem:6ae671da-2a06-4558-86c4-adf10047fa91": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הטרנד שעשוי להכחיד את חברות האשראי",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/87.wav",
+      "filename_stem": "87",
+      "uploaded_at": "2026-10-20T22:07:09.401699+00:00"
+    },
+    "zman_sheavodtem:ae5bdf5f-ea93-4379-bd74-adf701873800": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "ה'סופר-אפס' שכובשות את המזרח",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/88.wav",
+      "filename_stem": "88",
+      "uploaded_at": "2026-10-20T22:07:30.587159+00:00"
+    },
+    "zman_sheavodtem:c4248932-b6a7-414a-bbf9-adfe01802f24": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "זה סופו של כל ספאק?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/89.wav",
+      "filename_stem": "89",
+      "uploaded_at": "2026-10-20T22:07:54.216930+00:00"
+    },
+    "zman_sheavodtem:9d3151ea-8be8-41d0-a9c1-ae0501839d66": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "רוח של שינוי: מה עתיד לקרות בשוק העבודה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/14.wav",
+      "filename_stem": "14",
+      "uploaded_at": "2026-10-20T22:08:36.058631+00:00"
+    },
+    "zman_sheavodtem:d9b10050-ba45-48c6-b52b-ae0c018127f4": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "אל האינסוף - ומעבר לו",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/90.wav",
+      "filename_stem": "90",
+      "uploaded_at": "2026-10-20T22:08:54.178041+00:00"
+    },
+    "zman_sheavodtem:2dbae0a7-75fa-4c82-932b-ae1301835d6b": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "ספיישל התחזיות הגדולות של המומחים לשנת 2022",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/91.wav",
+      "filename_stem": "91",
+      "uploaded_at": "2026-10-20T22:09:18.875994+00:00"
+    },
+    "zman_sheavodtem:ae68abfe-5ad0-4939-bea9-ae1b0006a4c9": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "ינסקו או יתרסקו: הטכנולוגיות שכולנו נושאים אליהן עיניים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/92.wav",
+      "filename_stem": "92",
+      "uploaded_at": "2026-10-20T22:10:08.405794+00:00"
+    },
+    "zman_sheavodtem:e793fcd1-67a8-42fa-b759-ae2001412cd3": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים: לאן נעלמו 69 מליארד דולר?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/93.wav",
+      "filename_stem": "93",
+      "uploaded_at": "2026-10-20T22:10:40.662491+00:00"
+    },
+    "zman_sheavodtem:40cbbbdd-452a-4b10-adad-ae2700ef406a": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים: מכוניות מתנגשות - המתחרות הגדולות על עתיד שוק הרכב",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/94.wav",
+      "filename_stem": "94",
+      "uploaded_at": "2026-10-20T22:11:03.292030+00:00"
+    },
+    "zman_sheavodtem:233ce47c-7a43-4c6a-8a6a-ae2f0153f2bd": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים: אפקט הפרפר הסיני- התערבות בשיטת החינוך בסין מרעידה את כלכלת העולם",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/95.wav",
+      "filename_stem": "95",
+      "uploaded_at": "2026-10-20T22:11:25.019168+00:00"
+    },
+    "zman_sheavodtem:83d20f62-e180-405a-bcd2-ae3601664453": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "תוך חודש אחד: העליה והירידה הגדולות בהסטוריה של הבורסה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/96.wav",
+      "filename_stem": "96",
+      "uploaded_at": "2026-10-20T22:11:52.297183+00:00"
+    },
+    "zman_sheavodtem:d9ecfd32-f873-4814-bdde-ae3d01677a7e": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מי רוצה להיות מיליונר?  - חלק א'",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/97.wav",
+      "filename_stem": "97",
+      "uploaded_at": "2026-10-20T22:12:10.703792+00:00"
+    },
+    "zman_sheavodtem:48921868-b668-45a0-8faa-ae3e017b66d2": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מי רוצה להיות מיליונר? - חלק ב'",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/98.wav",
+      "filename_stem": "98",
+      "uploaded_at": "2026-10-20T22:12:28.892073+00:00"
+    },
+    "zman_sheavodtem:bdb99862-9966-4e46-b579-ae44017bda53": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הרשת החברתית החדשה של טראמפ שוברת שיאים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/99.wav",
+      "filename_stem": "99",
+      "uploaded_at": "2026-10-20T22:12:52.686311+00:00"
+    },
+    "zman_sheavodtem:343e0f3f-2788-4c4a-ae55-ae4c0011f6ad": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "המאבק הוירטואלי מאחורי מלחמת רוסיה-אוקראינה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/100.wav",
+      "filename_stem": "100",
+      "uploaded_at": "2026-10-20T22:13:24.318604+00:00"
+    },
+    "zman_sheavodtem:f05316cc-7e41-4b74-bcf8-ae530012364e": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "תורת המשחקים: הענף ששם את תעשיות הקולנוע והטלוויזיה בכיס הקטן",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/101.wav",
+      "filename_stem": "101",
+      "uploaded_at": "2026-10-20T22:13:43.446140+00:00"
+    },
+    "zman_sheavodtem:3ff7647d-e1b3-41fe-a5fe-ae59016c3f7f": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בקרוב אצלנו? שבוע עבודה של ארבעה ימים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/102.wav",
+      "filename_stem": "102",
+      "uploaded_at": "2026-10-20T22:14:07.577362+00:00"
+    },
+    "zman_sheavodtem:77a773c9-69f5-432a-932f-ae600189fac5": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "התשואה הגבוהה מכולן: מה קורה בעסקאות הנדל״ן במטאוורס?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/103.wav",
+      "filename_stem": "103",
+      "uploaded_at": "2026-10-20T22:14:33.892742+00:00"
+    },
+    "zman_sheavodtem:8fe7bf9f-3631-4667-bbea-ae67016f5111": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בקרוב אצלינו: קניית ביטקוין דרך הבנק",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/104.wav",
+      "filename_stem": "104",
+      "uploaded_at": "2026-10-20T22:15:09.053730+00:00"
+    },
+    "zman_sheavodtem:8c8ed508-c18c-45b9-92bb-ae6f00373efd": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "אירופה הולכת בכל הכח נגד חברות הטכנולוגיה הגדולות",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/105.wav",
+      "filename_stem": "105",
+      "uploaded_at": "2026-10-20T22:15:35.554350+00:00"
+    },
+    "zman_sheavodtem:15bec25a-5d1d-43e0-b30d-ae910159a684": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "!SHOW ME THE MONEYֱ",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/106.wav",
+      "filename_stem": "106",
+      "uploaded_at": "2026-10-20T22:16:05.501320+00:00"
+    },
+    "zman_sheavodtem:7d736c1d-9ceb-4b8d-a4bc-ae980181a7c6": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "קריפטו - סוף?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/107.wav",
+      "filename_stem": "107",
+      "uploaded_at": "2026-10-20T22:16:29.124039+00:00"
+    },
+    "zman_sheavodtem:47c321f3-f672-45c3-8785-aea00035d400": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "אינטליגנציה מלאכותית",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/108.wav",
+      "filename_stem": "108",
+      "uploaded_at": "2026-10-20T22:16:56.302831+00:00"
+    },
+    "zman_sheavodtem:4ca674b2-262e-43d6-b996-aea6011b7885": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "שינויים בהרגלי הצפייה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/109.wav",
+      "filename_stem": "109",
+      "uploaded_at": "2026-10-20T22:17:24.872485+00:00"
+    },
+    "zman_sheavodtem:ac2df93d-3e79-4319-b86e-aead01765c60": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בזמן שעבדתן",
+      "status": "error",
+      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "updated_at": "2026-10-20T22:18:02.037175+00:00",
+      "attempt_count": 1,
+      "next_retry": "2026-10-20T23:18:02.037198+00:00"
+    },
+    "zman_sheavodtem:1616ea20-e34c-4fe9-b1f3-aeb500301c97": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "פתרונות לילדים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/111.wav",
+      "filename_stem": "111",
+      "uploaded_at": "2026-10-20T22:18:22.286682+00:00"
+    },
+    "zman_sheavodtem:d1e77c83-b2c1-40ef-87e6-aebb010b7f5a": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "על מחשבים ורגשות",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/112.wav",
+      "filename_stem": "112",
+      "uploaded_at": "2026-10-20T22:18:51.247415+00:00"
+    },
+    "zman_sheavodtem:2b82816e-3ff4-427d-9f03-aec2011595c0": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "ההשלכות הטכנולוגיות של סערת ההפלות",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/113.wav",
+      "filename_stem": "113",
+      "uploaded_at": "2026-10-20T22:19:11.950277+00:00"
+    },
+    "zman_sheavodtem:08071ed7-b69d-4b8b-81fe-aec9017b9b2a": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מסכמים חציון",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/114.wav",
+      "filename_stem": "114",
+      "uploaded_at": "2026-10-20T22:19:33.495056+00:00"
+    },
+    "zman_sheavodtem:0ff32ebb-cca2-4622-8d25-aed0016f5857": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מצב ההיי-טק",
+      "status": "error",
+      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "updated_at": "2026-10-20T22:20:10.177404+00:00",
+      "attempt_count": 1,
+      "next_retry": "2026-10-20T23:20:10.177425+00:00"
+    },
+    "zman_sheavodtem:c95be997-d8dd-4d84-ab49-aed80003182e": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "משבר האקלים הוא גם הזדמנות?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/116.wav",
+      "filename_stem": "116",
+      "uploaded_at": "2026-10-20T22:20:31.604387+00:00"
+    },
+    "zman_sheavodtem:5e2eaa00-c498-4cd3-878a-aedf0030230e": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "סין מתחזקת",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/117.wav",
+      "filename_stem": "117",
+      "uploaded_at": "2026-10-20T22:20:57.545098+00:00"
+    },
+    "zman_sheavodtem:c4d73ad1-e154-4188-9090-aee50177716c": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "האם זה סופן של הרשתות החברתיות?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/118.wav",
+      "filename_stem": "118",
+      "uploaded_at": "2026-10-20T22:21:35.342799+00:00"
+    },
+    "zman_sheavodtem:23095fc7-dde3-4712-965d-aeed00358e90": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בזמן שאהבתם",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/119.wav",
+      "filename_stem": "119",
+      "uploaded_at": "2026-10-20T22:22:03.044207+00:00"
+    },
+    "zman_sheavodtem:d1998d5d-246f-4eba-970d-aef4003a2cd5": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים: התשואה הגבוהה מכולן מה קורה בעסקאות הנדל״ן במטאוורס",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/120.wav",
+      "filename_stem": "120",
+      "uploaded_at": "2026-10-20T22:22:34.102227+00:00"
+    },
+    "zman_sheavodtem:2e611ccd-b795-4d46-b7cf-aefc00e13e55": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים: בקרוב אצלנו שבוע עבודה של ארבעה ימים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/121.wav",
+      "filename_stem": "121",
+      "uploaded_at": "2026-10-20T22:22:52.636276+00:00"
+    },
+    "zman_sheavodtem:e1907799-9bda-416b-9c80-af02000375e2": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים: קריפטו - סוף?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/122.wav",
+      "filename_stem": "122",
+      "uploaded_at": "2026-10-20T22:23:25.131560+00:00"
+    },
+    "zman_sheavodtem:f04c34c3-5dd5-475b-bec2-af08016c500a": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "ספיישל: פרק 100",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/123.wav",
+      "filename_stem": "123",
+      "uploaded_at": "2026-10-20T22:23:51.364074+00:00"
+    },
+    "zman_sheavodtem:2ee81c42-4540-400a-8ce6-af0f016fa71c": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הרובוטים באים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/124.wav",
+      "filename_stem": "124",
+      "uploaded_at": "2026-10-20T22:24:15.158578+00:00"
+    },
+    "zman_sheavodtem:6f05599a-5959-4fa1-91dc-af16015fb33f": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "שלושה ביום\\סיפורי מייסדים\\שבוע הספר",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/125.wav",
+      "filename_stem": "125",
+      "uploaded_at": "2026-10-20T22:24:37.123072+00:00"
+    },
+    "zman_sheavodtem:746a5cc8-8f9e-440f-a818-af1e00e8595e": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים: סין מתחזקת",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/126.wav",
+      "filename_stem": "126",
+      "uploaded_at": "2026-10-20T22:25:14.854881+00:00"
+    },
+    "zman_sheavodtem:c1293696-bc02-4c5e-b9ec-af2c0074c803": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים: רוח של שינוי: מה עתיד לקרות בשוק העבודה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/15.wav",
+      "filename_stem": "15",
+      "uploaded_at": "2026-10-20T22:25:38.339969+00:00"
+    },
+    "zman_sheavodtem:a2f32c60-3ca0-4354-8dd1-af3a0043306b": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "ספיישל אילון מאסק - חלק א'",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/127.wav",
+      "filename_stem": "127",
+      "uploaded_at": "2026-10-20T22:26:04.155552+00:00"
+    },
+    "zman_sheavodtem:21da0e8d-255a-47a5-b1f8-af3b00b0ce9c": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "ספיישל אילון מאסק - חלק ב'",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/128.wav",
+      "filename_stem": "128",
+      "uploaded_at": "2026-10-20T22:26:25.538973+00:00"
+    },
+    "zman_sheavodtem:6defbb1d-0cfc-4248-b3ac-af40010239b0": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "עלייתה ונפילתה של אימפריית צוקרברג",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/129.wav",
+      "filename_stem": "129",
+      "uploaded_at": "2026-10-20T22:26:52.552198+00:00"
+    },
+    "zman_sheavodtem:b19d6b96-89f4-41bb-afcd-af470131de78": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "ביבשה באוויר וכבר לא בים: העתיד של שוק הרכב",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/130.wav",
+      "filename_stem": "130",
+      "uploaded_at": "2026-10-20T22:27:21.508401+00:00"
+    },
+    "zman_sheavodtem:3bcf3a8f-9642-4eff-a5c3-af4f00040060": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הונאת הענק שמטלטלת את עולם הקריפטו",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/131.wav",
+      "filename_stem": "131",
+      "uploaded_at": "2026-10-20T22:27:43.708151+00:00"
+    },
+    "zman_sheavodtem:5a62de65-47a3-4f09-bf32-af5501747c06": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מה קורה עם טוויטר?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/132.wav",
+      "filename_stem": "132",
+      "uploaded_at": "2026-10-20T22:28:06.645281+00:00"
+    },
+    "zman_sheavodtem:ac3cc798-c8bc-4f4f-8bba-af5c01669df4": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "ממלכת דיסני: עבר, הווה ועתיד",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/133.wav",
+      "filename_stem": "133",
+      "uploaded_at": "2026-10-20T22:28:29.511361+00:00"
+    },
+    "zman_sheavodtem:b44c77c8-6c84-49d3-8a27-af6301896645": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "משפיעני הרשת משנים את חוקי המשחק",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/134.wav",
+      "filename_stem": "134",
+      "uploaded_at": "2026-10-20T22:28:51.658696+00:00"
+    },
+    "zman_sheavodtem:54b9f090-0f6d-40fe-b842-af6a017346dd": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בינה יתרה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/135.wav",
+      "filename_stem": "135",
+      "uploaded_at": "2026-10-20T22:29:12.807793+00:00"
+    },
+    "zman_sheavodtem:e1f235ad-9308-4a3a-bfeb-af710176d26b": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "קריפטו - הסוף? #2",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/136.wav",
+      "filename_stem": "136",
+      "uploaded_at": "2026-10-20T22:29:35.820874+00:00"
+    },
+    "zman_sheavodtem:745cb3e2-03d1-417c-a9a7-af7801778eed": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מסכמים את שנת 2022",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/137.wav",
+      "filename_stem": "137",
+      "uploaded_at": "2026-10-20T22:29:56.252228+00:00"
+    },
+    "zman_sheavodtem:4ae3934c-ba40-420f-91fb-af800022247f": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "ספיישל התחזיות הגדולות לשנת 2023",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/138.wav",
+      "filename_stem": "138",
+      "uploaded_at": "2026-10-20T22:30:20.033335+00:00"
+    },
+    "zman_sheavodtem:46f734d3-3b6d-4a98-b73e-af86018b3d3b": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הסוף למשבר האקלים? פריצת הדרך המדעית של המאה ה-21",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/139.wav",
+      "filename_stem": "139",
+      "uploaded_at": "2026-10-20T22:30:39.293357+00:00"
+    },
+    "zman_sheavodtem:7dc27cb8-a4bc-4cb1-8030-af8d01851b25": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מי ישלוט על העתיד - בני האדם או המכונות?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/140.wav",
+      "filename_stem": "140",
+      "uploaded_at": "2026-10-20T22:31:03.150288+00:00"
+    },
+    "zman_sheavodtem:08f62a2a-4017-4025-9d9e-af94017c5494": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מגפת הפיטורים מעלה הילוך",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/141.wav",
+      "filename_stem": "141",
+      "uploaded_at": "2026-10-20T22:31:29.152735+00:00"
+    },
+    "zman_sheavodtem:003bf611-a692-4951-ad94-af9b017e5088": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "איך להרוויח כשכולם מפסידים?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/142.wav",
+      "filename_stem": "142",
+      "uploaded_at": "2026-10-20T22:31:52.132060+00:00"
+    },
+    "zman_sheavodtem:b50449b9-1979-4544-8ea5-afa20187da05": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מה חדש בחדשות",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/143.wav",
+      "filename_stem": "143",
+      "uploaded_at": "2026-10-20T22:32:13.603214+00:00"
+    },
+    "zman_sheavodtem:15a93d41-298c-4444-8bb6-afa901723c9d": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "האם כלכלת ישראל בסכנה?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/144.wav",
+      "filename_stem": "144",
+      "uploaded_at": "2026-10-20T22:32:36.867545+00:00"
+    },
+    "zman_sheavodtem:9489f64a-3fd0-4749-944b-afb1002377b6": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הגולם קם על יוצרו? הבינה המלאכותית יוצאת משליטה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/145.wav",
+      "filename_stem": "145",
+      "uploaded_at": "2026-10-20T22:33:00.747440+00:00"
+    },
+    "zman_sheavodtem:e2f722a5-aa27-4e90-a772-afb7017467a2": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "עבודה בסכנת הכחדה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/146.wav",
+      "filename_stem": "146",
+      "uploaded_at": "2026-10-20T22:33:22.709397+00:00"
+    },
+    "zman_sheavodtem:eea618ad-4dc5-4068-8e13-afbd00d8cf5a": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "להשאר צעיר לנצח",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/147.wav",
+      "filename_stem": "147",
+      "uploaded_at": "2026-10-20T22:33:51.267094+00:00"
+    },
+    "zman_sheavodtem:14e8728d-0950-486a-8c01-afc5016510c4": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "המלחמה הקרה בין סין לארה\"ב",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/148.wav",
+      "filename_stem": "148",
+      "uploaded_at": "2026-10-20T22:34:12.637959+00:00"
+    },
+    "zman_sheavodtem:bbaa8991-be65-4c2a-a7a7-afcd00008315": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "צפוף פה: עומס הפיתוחים החדשים בעולמות ה-AI",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/149.wav",
+      "filename_stem": "149",
+      "uploaded_at": "2026-10-20T22:34:36.070126+00:00"
+    },
+    "zman_sheavodtem:2b4205a5-f02a-4da9-8ed5-afd3018aea55": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "משבר הבנקים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/150.wav",
+      "filename_stem": "150",
+      "uploaded_at": "2026-10-20T22:34:56.284539+00:00"
+    },
+    "zman_sheavodtem:1e02e752-cf12-4140-ab57-aff601743652": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "ארץ האפשרויות הבלתי מוגבלות של המתחזים החדשים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/151.wav",
+      "filename_stem": "151",
+      "uploaded_at": "2026-10-20T22:35:20.887262+00:00"
+    },
+    "zman_sheavodtem:3ef20e6d-fb83-4594-9aba-affd0139b816": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מיליוני אנשים לבד",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/152.wav",
+      "filename_stem": "152",
+      "uploaded_at": "2026-10-20T22:35:52.170579+00:00"
+    },
+    "zman_sheavodtem:3f7ecada-0798-4727-8cab-b00401864814": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מירוץ הסוסים של גוגל ומייקרוסופט",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/153.wav",
+      "filename_stem": "153",
+      "uploaded_at": "2026-10-20T22:36:12.758192+00:00"
+    },
+    "zman_sheavodtem:110c8203-9759-46e2-a5b1-b00b016327cb": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הון - שלטון - זקני ציון",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/154.wav",
+      "filename_stem": "154",
+      "uploaded_at": "2026-10-20T22:36:34.652044+00:00"
+    },
+    "zman_sheavodtem:114ee24c-a9c5-4af2-aa09-b012016eb0e6": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "המצטרפת החדשה למועדון טריליון הדולר",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/155.wav",
+      "filename_stem": "155",
+      "uploaded_at": "2026-10-20T22:36:56.373705+00:00"
+    },
+    "zman_sheavodtem:429dad4c-d708-49a6-9228-b019014fdcb4": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "משקפיים חכמים לי בקצה החוטם",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/156.wav",
+      "filename_stem": "156",
+      "uploaded_at": "2026-10-20T22:37:20.787821+00:00"
+    },
+    "zman_sheavodtem:60228bed-b11a-4585-9153-b0200162534f": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "\"שח\": הבינה המלאכותית מאיימת לעשות \"מט\" על האנושות",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/157.wav",
+      "filename_stem": "157",
+      "uploaded_at": "2026-10-20T22:37:43.356058+00:00"
+    },
+    "zman_sheavodtem:ed27a4bf-8d31-4540-aa4c-b02800005650": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הקרב שקורע את הרשת: לאן האינטרנט שלנו הולך?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/158.wav",
+      "filename_stem": "158",
+      "uploaded_at": "2026-10-20T22:38:04.414370+00:00"
+    },
+    "zman_sheavodtem:aeb16cfa-f63d-4c4a-9336-b02e0164f867": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הזריחה המחודשת של ארץ השמש העולה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/159.wav",
+      "filename_stem": "159",
+      "uploaded_at": "2026-10-20T22:38:25.797879+00:00"
+    },
+    "zman_sheavodtem:21dccf56-3b20-4b0c-84bb-b03500e1b8a2": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "על חתולים, גרביים ומחשבים קוונטים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/160.wav",
+      "filename_stem": "160",
+      "uploaded_at": "2026-10-20T22:38:51.465651+00:00"
+    },
+    "zman_sheavodtem:582bcca9-04d7-4a23-b161-b03d00082743": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "היסטריה ושמה ת'רדס",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/161.wav",
+      "filename_stem": "161",
+      "uploaded_at": "2026-10-20T22:39:13.785741+00:00"
+    },
+    "zman_sheavodtem:e5861938-a2db-4b1c-a44e-b041015a6c28": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "טק, סמים ורוקנרול: החומרים שמציפים את סיליקון ואלי",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/162.wav",
+      "filename_stem": "162",
+      "uploaded_at": "2026-10-20T22:39:36.881585+00:00"
+    },
+    "zman_sheavodtem:e38ecc48-c145-4772-9d73-b04a015e620f": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "ההייטק הישראלי: עבר, הווה ועתיד?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/163.wav",
+      "filename_stem": "163",
+      "uploaded_at": "2026-10-20T22:40:04.054425+00:00"
+    },
+    "zman_sheavodtem:31386023-813f-45c0-85f8-b051017d2ee6": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בינה או טמטום? ספיישל הסיפורים הכי מטורללים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/164.wav",
+      "filename_stem": "164",
+      "uploaded_at": "2026-10-20T22:40:42.238956+00:00"
+    },
+    "zman_sheavodtem:5bb38c8c-2779-4887-a1b3-b058017d4ee3": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "שינויי מזג האוויר",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/165.wav",
+      "filename_stem": "165",
+      "uploaded_at": "2026-10-20T22:41:03.154886+00:00"
+    },
+    "zman_sheavodtem:835f0044-b43d-4e11-9e2f-b05f017308b7": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "משיבים מלחמה: בני האנוש נאבקים ברוע הגזירה הטכנולוגית",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/166.wav",
+      "filename_stem": "166",
+      "uploaded_at": "2026-10-20T22:41:25.832327+00:00"
+    },
+    "zman_sheavodtem:6a959434-df8b-40eb-ba5e-b06700162927": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מיליארד סינים כן טועים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/167.wav",
+      "filename_stem": "167",
+      "uploaded_at": "2026-10-20T22:41:47.334919+00:00"
+    },
+    "zman_sheavodtem:013acd4a-475f-4321-baae-b06e00236dad": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "נשק יום הדין: קוד פתוח",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/168.wav",
+      "filename_stem": "168",
+      "uploaded_at": "2026-10-20T22:42:10.316205+00:00"
+    },
+    "zman_sheavodtem:ea349c1f-472d-486d-9e18-b0740161392d": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "השבר והמשבר של תעשיית הטלויזיה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/169.wav",
+      "filename_stem": "169",
+      "uploaded_at": "2026-10-20T22:42:34.363009+00:00"
+    },
+    "zman_sheavodtem:0292019f-ddd6-46a9-9b85-b07b0164e4f2": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "גלגולה של מודעת פרסומת",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/170.wav",
+      "filename_stem": "170",
+      "uploaded_at": "2026-10-20T22:42:57.318167+00:00"
+    },
+    "zman_sheavodtem:3bfc9e59-83a1-4b0d-976c-b082017ce6b4": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "למה אתם לא מכירים את החברה ש-70% מאוכלוסיית העולם מחזיקה במוצר שלה?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/171.wav",
+      "filename_stem": "171",
+      "uploaded_at": "2026-10-20T22:43:30.021624+00:00"
+    },
+    "zman_sheavodtem:a90410de-e07a-4b13-91b9-b089015ce012": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים: מליוני אנשים לבד",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/172.wav",
+      "filename_stem": "172",
+      "uploaded_at": "2026-10-20T22:44:12.538897+00:00"
+    },
+    "zman_sheavodtem:04ec809f-aaa0-40a6-9bbe-b089015fe800": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים: להשאר צעיר לנצח",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/173.wav",
+      "filename_stem": "173",
+      "uploaded_at": "2026-10-20T22:44:29.775865+00:00"
+    },
+    "zman_sheavodtem:5c040a10-ad5d-4733-909a-b0a60012123f": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "האמת על הפייק ניוז",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/174.wav",
+      "filename_stem": "174",
+      "uploaded_at": "2026-10-20T22:44:57.905344+00:00"
+    },
+    "zman_sheavodtem:a4e4a35b-8944-45fa-8972-b0ad002351e0": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "'חרבות כסף': כלכלת מלחמה בישראל",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/175.wav",
+      "filename_stem": "175",
+      "uploaded_at": "2026-10-20T22:45:21.055726+00:00"
+    },
+    "zman_sheavodtem:10b1adfb-8111-4aac-a520-b0b400034af0": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "זירת הטיקטוק: הקרב על הצעירים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/176.wav",
+      "filename_stem": "176",
+      "uploaded_at": "2026-10-20T22:45:44.954576+00:00"
+    },
+    "zman_sheavodtem:93a9bc81-eeb4-462a-9c7e-b0bb00079c4c": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "האם מדובר באייפון הבא?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/177.wav",
+      "filename_stem": "177",
+      "uploaded_at": "2026-10-20T22:46:12.068135+00:00"
+    },
+    "zman_sheavodtem:d079955c-6fc3-4ea4-ae0d-b0c1015e7da6": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "משחקי הכס פינת היורשים: השבוע המטורף של סם אלטמן",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/178.wav",
+      "filename_stem": "178",
+      "uploaded_at": "2026-10-20T22:46:34.999519+00:00"
+    },
+    "zman_sheavodtem:4ac0349a-fd93-40b0-8a4e-b0c900119661": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הביקור שלא יציל את טוויטר והתדמית של אילון מאסק",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/179.wav",
+      "filename_stem": "179",
+      "uploaded_at": "2026-10-20T22:46:53.883722+00:00"
+    },
+    "zman_sheavodtem:3193ec03-1847-45b4-bcc3-b0cc017e3c8d": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בינה מלאכותית  0-1 אנושות",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/180.wav",
+      "filename_stem": "180",
+      "uploaded_at": "2026-10-20T22:47:17.509232+00:00"
+    },
+    "zman_sheavodtem:b52fdff7-a9fe-4b67-9b02-b0d00003524b": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "כך הפילו איראן והחמאס את אימפריות הקריפטו",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/181.wav",
+      "filename_stem": "181",
+      "uploaded_at": "2026-10-20T22:47:39.157105+00:00"
+    },
+    "zman_sheavodtem:63456424-289b-4650-b473-b0d6016b7974": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "גזור-הדבק גרסת ה-DNA",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/182.wav",
+      "filename_stem": "182",
+      "uploaded_at": "2026-10-20T22:47:57.165290+00:00"
+    },
+    "zman_sheavodtem:e3f1993f-0c96-47c1-831a-b0de000674f3": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "דצמבר השחור של גוגל",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/183.wav",
+      "filename_stem": "183",
+      "uploaded_at": "2026-10-20T22:48:19.945382+00:00"
+    },
+    "zman_sheavodtem:f5e0366b-82b3-490e-bac0-b0e4017a451b": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מסכמים את 2023- חלק א'",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/184.wav",
+      "filename_stem": "184",
+      "uploaded_at": "2026-10-20T22:48:47.701615+00:00"
+    },
+    "zman_sheavodtem:f7a0a648-191b-4ee5-b652-b0e80188b60b": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מסכמים את 2023- חלק ב'",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/185.wav",
+      "filename_stem": "185",
+      "uploaded_at": "2026-10-20T22:49:08.164308+00:00"
+    },
+    "zman_sheavodtem:20fd1fdf-b22e-4008-a9cb-b0eb0182631e": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "ספיישל התחזיות הגדולות לשנת 2024",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/186.wav",
+      "filename_stem": "186",
+      "uploaded_at": "2026-10-20T22:49:31.652523+00:00"
+    },
+    "zman_sheavodtem:ece32bed-f2bd-437e-a0b7-b0f201864a39": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הקטר שירד מהפסים: תמונת מצב על ההייטק הישראלי",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/187.wav",
+      "filename_stem": "187",
+      "uploaded_at": "2026-10-20T22:49:53.885974+00:00"
+    },
+    "zman_sheavodtem:1dc40424-eb9f-429b-9e12-b0fa000b88ff": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "שינויים בהרגלי הצריכה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/188.wav",
+      "filename_stem": "188",
+      "uploaded_at": "2026-10-20T22:50:35.466694+00:00"
+    },
+    "zman_sheavodtem:4e76de22-b657-41a3-b20e-b100016a643d": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "האויב המשותף של מנהיגי העולם",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/189.wav",
+      "filename_stem": "189",
+      "uploaded_at": "2026-10-20T22:51:00.309631+00:00"
+    },
+    "zman_sheavodtem:20cd3c02-a1a7-4524-b5b8-b107017246a6": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "חי, גוסס, מת: האמת מאחורי עולמם המופלא של היוניקורנים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/190.wav",
+      "filename_stem": "190",
+      "uploaded_at": "2026-10-20T22:51:20.727170+00:00"
+    },
+    "zman_sheavodtem:2901d7af-8320-4782-bfa6-b10e014352e8": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הרובוטים באים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/191.wav",
+      "filename_stem": "191",
+      "uploaded_at": "2026-10-20T22:51:41.047162+00:00"
+    },
+    "zman_sheavodtem:abcb3ec1-4ae5-4161-b479-b1150184725f": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מופע של איש אחד: הדור הבא של עולם המדיה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/192.wav",
+      "filename_stem": "192",
+      "uploaded_at": "2026-10-20T22:52:02.172260+00:00"
+    },
+    "zman_sheavodtem:b02fbc64-4781-4540-85f3-b11c00987e5a": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "חיים בסרט: המהפכה הגדולה שהקדימה את זמנה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/193.wav",
+      "filename_stem": "193",
+      "uploaded_at": "2026-10-20T22:52:24.594569+00:00"
+    },
+    "zman_sheavodtem:420bdccd-6f79-470d-a7a3-b12101599a22": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מדור דרושים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/194.wav",
+      "filename_stem": "194",
+      "uploaded_at": "2026-10-20T22:52:46.707868+00:00"
+    },
+    "zman_sheavodtem:af61869f-e682-4f99-a925-b12b000f5cf2": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "אוטוטו? תמונת מצב של הרכבים האוטונומיים בשוק",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/16.wav",
+      "filename_stem": "16",
+      "uploaded_at": "2026-10-20T22:53:08.172109+00:00"
+    },
+    "zman_sheavodtem:e8a4616a-73d3-426c-9412-b1310168bf55": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בריאות, נראות וצרכנות: התרופה שמשנה את חוקי המשחק",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/195.wav",
+      "filename_stem": "195",
+      "uploaded_at": "2026-10-20T22:53:54.236029+00:00"
+    },
+    "zman_sheavodtem:1314b7f0-7f70-48fa-bd01-b139003df895": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "דני ודרור עושים את סן-פרנסיסקו",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/196.wav",
+      "filename_stem": "196",
+      "uploaded_at": "2026-10-20T22:54:20.899539+00:00"
+    },
+    "zman_sheavodtem:65d03284-ac02-49db-a664-b13f01789cb5": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "החרם על טיקטוק - גרסת בית הקלפים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/197.wav",
+      "filename_stem": "197",
+      "uploaded_at": "2026-10-20T22:54:43.512992+00:00"
+    },
+    "zman_sheavodtem:2e242df5-960c-4d50-bacd-b1460166c7c7": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "המהירות המסחררת של השתלטות ה-AI",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/198.wav",
+      "filename_stem": "198",
+      "uploaded_at": "2026-10-20T22:55:24.430382+00:00"
+    },
+    "zman_sheavodtem:1d325afa-b84f-4f39-93ad-b14d01595edf": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "זירת הסייבר",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/199.wav",
+      "filename_stem": "199",
+      "uploaded_at": "2026-10-20T22:55:53.136560+00:00"
+    },
+    "zman_sheavodtem:080180dd-e7c8-4ec6-837e-b154017d7187": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "חוצים את הביטקוין",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/200.wav",
+      "filename_stem": "200",
+      "uploaded_at": "2026-10-20T22:56:16.039676+00:00"
+    },
+    "zman_sheavodtem:9497786e-14bd-4e99-8ee8-b15b0162c35e": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים: שינויי מזג האוויר",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/201.wav",
+      "filename_stem": "201",
+      "uploaded_at": "2026-10-20T22:56:37.308339+00:00"
+    },
+    "zman_sheavodtem:73a94fd5-eb29-4958-a2a6-b15b015f4c98": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים: גזור-הדבק גרסת ה-DNA",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/202.wav",
+      "filename_stem": "202",
+      "uploaded_at": "2026-10-20T22:56:54.954276+00:00"
+    },
+    "zman_sheavodtem:6223c749-baf0-47ce-92c8-b1690157e870": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "תוצרת סין: הדור הבא של אופרות הסבון",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/203.wav",
+      "filename_stem": "203",
+      "uploaded_at": "2026-10-20T22:57:16.389790+00:00"
+    },
+    "zman_sheavodtem:7362e61a-0816-4dcc-a026-b170014f9319": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "AI Killed The Radio Star",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/204.wav",
+      "filename_stem": "204",
+      "uploaded_at": "2026-10-20T22:57:39.753102+00:00"
+    },
+    "zman_sheavodtem:55bce753-4787-4514-af16-b17701484798": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "כשטייס המשנה מאיים להפוך לקברניט",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/205.wav",
+      "filename_stem": "205",
+      "uploaded_at": "2026-10-20T22:58:03.496619+00:00"
+    },
+    "zman_sheavodtem:9d932ba1-9fdb-4bba-8dc1-b17e0158e4e7": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מי אתם דור ה-Z?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/206.wav",
+      "filename_stem": "206",
+      "uploaded_at": "2026-10-20T22:58:26.086016+00:00"
+    },
+    "zman_sheavodtem:d36bf955-dc04-4f6c-be1e-b1850153b865": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "ד\"ר דוליטל פינת הלוחשת לתינוקות",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/207.wav",
+      "filename_stem": "207",
+      "uploaded_at": "2026-10-20T22:58:44.972514+00:00"
+    },
+    "zman_sheavodtem:493da142-ca93-4359-998b-b19301514bbe": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "לוקחת ביס מהתפוח: ההשקה של אפל",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/208.wav",
+      "filename_stem": "208",
+      "uploaded_at": "2026-10-20T22:59:07.297604+00:00"
+    },
+    "zman_sheavodtem:6232d38b-0a89-4b30-9e30-b19a015776ac": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "חוזר חלילה: המחלות שעושות קאמבק",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/209.wav",
+      "filename_stem": "209",
+      "uploaded_at": "2026-10-20T22:59:30.133930+00:00"
+    },
+    "zman_sheavodtem:44096f03-138f-46a1-99da-b1a1017ed5f4": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מגן החיות ועד בייבי שארק: המהפכה של יוטיוב",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/210.wav",
+      "filename_stem": "210",
+      "uploaded_at": "2026-10-20T22:59:51.876455+00:00"
+    },
+    "zman_sheavodtem:6f97e767-faad-4330-89bd-b1a8013e6add": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מי שומר על הרשתות החברתיות?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/211.wav",
+      "filename_stem": "211",
+      "uploaded_at": "2026-10-20T23:00:20.659275+00:00"
+    },
+    "zman_sheavodtem:5fce23e2-141c-4270-89a6-b1af018972cd": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "היו זמנים בהוליווד: הסיפור של פרמאונט",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/212.wav",
+      "filename_stem": "212",
+      "uploaded_at": "2026-10-20T23:00:50.667845+00:00"
+    },
+    "zman_sheavodtem:453d8d40-7d81-4e13-81f4-b1b600e10aa8": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "באג 2024",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/213.wav",
+      "filename_stem": "213",
+      "uploaded_at": "2026-10-20T23:01:14.500790+00:00"
+    },
+    "zman_sheavodtem:d02febd0-ad8c-4f89-ae52-b1bd01718cd3": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "שור או דוב? מאחורי המגמות של ה-S&P 500",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/214.wav",
+      "filename_stem": "214",
+      "uploaded_at": "2026-10-20T23:01:37.350541+00:00"
+    },
+    "zman_sheavodtem:8f722081-69b5-4cd7-af09-b1c40110c0ac": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "תולה את הנעליים: נייקי נפרדת מהפסגה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/215.wav",
+      "filename_stem": "215",
+      "uploaded_at": "2026-10-20T23:01:59.400015+00:00"
+    },
+    "zman_sheavodtem:1ecf516d-9213-492a-904a-b1cb0165627e": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "המשחק שמשחק אותה אצל הישראלים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/216.wav",
+      "filename_stem": "216",
+      "uploaded_at": "2026-10-20T23:02:21.677499+00:00"
+    },
+    "zman_sheavodtem:5668c944-9bd7-45cd-add9-b1d200e71ffc": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מגגל תשובה ולא מוצא",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/217.wav",
+      "filename_stem": "217",
+      "uploaded_at": "2026-10-20T23:02:46.840970+00:00"
+    },
+    "zman_sheavodtem:bba390c3-e157-4a34-8452-b1d901795e11": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "כבר לא סוד וכן כמוס: ההתפוצצות של טלגרם",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/218.wav",
+      "filename_stem": "218",
+      "uploaded_at": "2026-10-20T23:03:27.044268+00:00"
+    },
+    "zman_sheavodtem:7ec191cb-ec52-446d-ad32-b1e1000563b0": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בלדה בין כוכבים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/219.wav",
+      "filename_stem": "219",
+      "uploaded_at": "2026-10-20T23:04:01.895674+00:00"
+    },
+    "zman_sheavodtem:a26ce0ee-25ee-45ea-a46f-b1e70160b923": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "האם אפשר לייצר מודל בינה מלאכותית בטוח?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/220.wav",
+      "filename_stem": "220",
+      "uploaded_at": "2026-10-20T23:04:23.743984+00:00"
+    },
+    "zman_sheavodtem:b1683169-370e-4a61-955e-b1ee015a2c2d": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הרגע שבו המחשב הפך ל(כמעט) חכם יותר מהאדם",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/221.wav",
+      "filename_stem": "221",
+      "uploaded_at": "2026-10-20T23:04:46.637509+00:00"
+    },
+    "zman_sheavodtem:78486dfd-5823-4f71-8738-b1f5014a5db8": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הטרנד הכי רותח בסיליקון ואלי",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/222.wav",
+      "filename_stem": "222",
+      "uploaded_at": "2026-10-20T23:05:34.130796+00:00"
+    },
+    "zman_sheavodtem:a57749ce-1862-4450-886a-b1fa00e6b046": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים- טק, סמים ורוקנרול: החומרים שמציפים את סיליקון ואלי",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/223.wav",
+      "filename_stem": "223",
+      "uploaded_at": "2026-10-20T23:05:56.675852+00:00"
+    },
+    "zman_sheavodtem:3234e959-9e43-42d4-902b-b1fa00d17875": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים- בריאות, נראות וצרכנות: התרופה שמשנה את חוקי המשחק",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/224.wav",
+      "filename_stem": "224",
+      "uploaded_at": "2026-10-20T23:06:17.862324+00:00"
+    },
+    "zman_sheavodtem:b34c25ed-5ff3-4f85-9d36-b20100918b8d": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים- מי אתם דור ה-Z?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/225.wav",
+      "filename_stem": "225",
+      "uploaded_at": "2026-10-20T23:06:39.953160+00:00"
+    },
+    "zman_sheavodtem:65fd80fd-3b0c-4e3a-9079-b20100924345": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים- מגן החיות ועד בייבי שארק: המהפכה של יוטיוב",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/226.wav",
+      "filename_stem": "226",
+      "uploaded_at": "2026-10-20T23:07:02.603567+00:00"
+    },
+    "zman_sheavodtem:7e4eda45-a193-4ce1-be65-b218018afcd6": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים- הרובוטים באים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/227.wav",
+      "filename_stem": "227",
+      "uploaded_at": "2026-10-20T23:07:23.815953+00:00"
+    },
+    "zman_sheavodtem:98de3c2b-6947-42f8-90a6-b21a015386de": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הימורים, בחירות וקריפטו",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/228.wav",
+      "filename_stem": "228",
+      "uploaded_at": "2026-10-20T23:07:42.044940+00:00"
+    },
+    "zman_sheavodtem:334b9b60-8d1c-4a5b-9224-b220009898d9": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "אימפריות נופלות מהר: מה קורה באינטל",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/229.wav",
+      "filename_stem": "229",
+      "uploaded_at": "2026-10-20T23:08:06.351889+00:00"
+    },
+    "zman_sheavodtem:7f66eeab-9a9f-4a9c-838b-b226017ef681": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "היום שאחרי שובו של טראמפ",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/230.wav",
+      "filename_stem": "230",
+      "uploaded_at": "2026-10-20T23:08:30.091553+00:00"
+    },
+    "zman_sheavodtem:79991a72-bed3-441b-8e8c-b22e009997d8": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הבהלה לגרעין: ענקיות הטק במירוץ חימוש אנרגטי",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/231.wav",
+      "filename_stem": "231",
+      "uploaded_at": "2026-10-20T23:08:53.076117+00:00"
+    },
+    "zman_sheavodtem:3cc77229-b9ef-4b00-a03e-b23500987b58": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "ענף הרכב החשמלי מחשב מסלול מחדש",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/232.wav",
+      "filename_stem": "232",
+      "uploaded_at": "2026-10-20T23:09:16.308389+00:00"
+    },
+    "zman_sheavodtem:ae6ebea1-7d9b-46ba-9638-b23c00a03627": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הגלילה מותרת למי שמלאו לו 16",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/233.wav",
+      "filename_stem": "233",
+      "uploaded_at": "2026-10-20T23:09:39.213783+00:00"
+    },
+    "zman_sheavodtem:f684b969-137e-47e6-807f-b243009fa6d4": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "חשבון מנופח: עונת הקניות באונליין שוברת שיאים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/234.wav",
+      "filename_stem": "234",
+      "uploaded_at": "2026-10-20T23:10:01.240752+00:00"
+    },
+    "zman_sheavodtem:2322bcc5-1e3e-482c-8417-b24a00071a42": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בזמן שעבדתם לייב: בינה מלאכותית ועתיד האנושות",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/235.wav",
+      "filename_stem": "235",
+      "uploaded_at": "2026-10-20T23:10:29.928578+00:00"
+    },
+    "zman_sheavodtem:ac99bfcc-b79f-47ae-a030-b24c001a18e8": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בזמן שעבדתם לייב: רשתות חברתיות, תחרות ודמוקרטיה",
+      "status": "error",
+      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "updated_at": "2026-10-20T23:11:08.160552+00:00",
+      "attempt_count": 1,
+      "next_retry": "2026-10-21T00:11:08.160573+00:00"
+    },
+    "zman_sheavodtem:eb3e8005-5f22-49a7-9366-b24e01782028": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בזמן שעבדתם לייב: מה צריך לעשות המשקיע הישראלי השנה?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/237.wav",
+      "filename_stem": "237",
+      "uploaded_at": "2026-10-20T23:11:33.335548+00:00"
+    },
+    "zman_sheavodtem:0d4b620b-7cf9-404e-ad69-b2510004215a": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בזמן שעבדתם לייב: האם קטר ההייטק הישראלי ירד מהמסילה?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/238.wav",
+      "filename_stem": "238",
+      "uploaded_at": "2026-10-20T23:12:16.149695+00:00"
+    },
+    "zman_sheavodtem:04bb9349-c0e6-4059-8414-b25800950f9d": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "ונדמה שחלפה לה שנה: מסכמים את שנת 2024",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/239.wav",
+      "filename_stem": "239",
+      "uploaded_at": "2026-10-20T23:12:42.319302+00:00"
+    },
+    "zman_sheavodtem:78c0bdaf-5e18-408e-9aff-b25f001eb41b": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "ספיישל התחזיות הגדולות לשנת 2025",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/240.wav",
+      "filename_stem": "240",
+      "uploaded_at": "2026-10-20T23:13:33.953460+00:00"
+    },
+    "zman_sheavodtem:0a5b1216-fe88-4970-b7fe-b266000e3fee": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מה שהיה הוא לא שיהיה: מסכמים את תערוכת הטכנולוגיה הגדולה בעולם",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/241.wav",
+      "filename_stem": "241",
+      "uploaded_at": "2026-10-20T23:13:58.781178+00:00"
+    },
+    "zman_sheavodtem:d21aad65-c1e4-46c7-babb-b26d001c30f1": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "שלוש ארבע ולעבודה? אל תהיו כל כך בטוחים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/242.wav",
+      "filename_stem": "242",
+      "uploaded_at": "2026-10-20T23:14:23.603564+00:00"
+    },
+    "zman_sheavodtem:080955c1-a68c-4faa-a233-b274002e58c1": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "שניים סינים עם מודל גדול",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/243.wav",
+      "filename_stem": "243",
+      "uploaded_at": "2026-10-20T23:14:50.430996+00:00"
+    },
+    "zman_sheavodtem:b9b2bcad-f6a7-449d-af87-b2790011cbc5": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "עודף במטבעות: טראמפ ממליך את הקריפטו",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/244.wav",
+      "filename_stem": "244",
+      "uploaded_at": "2026-10-20T23:15:16.219870+00:00"
+    },
+    "zman_sheavodtem:002a4265-daba-4a6b-ba83-b27a01891f5a": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הזאב והממותה, החייזר והשיבוטה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/245.wav",
+      "filename_stem": "245",
+      "uploaded_at": "2026-10-20T23:15:37.271017+00:00"
+    },
+    "zman_sheavodtem:5166c7e6-e953-433a-abff-b28200118730": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "שר הטבעות של חברות הטכנולוגיה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/246.wav",
+      "filename_stem": "246",
+      "uploaded_at": "2026-10-20T23:16:01.782955+00:00"
+    },
+    "zman_sheavodtem:bd2efa58-1841-4de2-af31-b289000d51a5": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "טעם ננטש: האלכוהול מפסיד למשקאות העתיד",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/247.wav",
+      "filename_stem": "247",
+      "uploaded_at": "2026-10-20T23:16:26.421452+00:00"
+    },
+    "zman_sheavodtem:61e45589-849c-457f-b730-b290001767a4": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "דרקון ההייטק הסיני מתעורר לחיים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/248.wav",
+      "filename_stem": "248",
+      "uploaded_at": "2026-10-20T23:16:51.604351+00:00"
+    },
+    "zman_sheavodtem:3ab2fe7a-ddc3-4b97-9e52-b297001914f3": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מי צריך קוד כשיש וייב",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/249.wav",
+      "filename_stem": "249",
+      "uploaded_at": "2026-10-20T23:17:21.015220+00:00"
+    },
+    "zman_sheavodtem:dec71c3e-194e-4e7e-874d-b2a50013990e": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מה קורה בראש של טראמפ",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/251.wav",
+      "filename_stem": "251",
+      "uploaded_at": "2026-10-20T23:18:53.702461+00:00"
+    },
+    "zman_sheavodtem:711e2eb5-264d-4723-ab7a-b2ab0182b0e0": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "גוגל פותחת ארנק: הכל על רכישת וויז הישראלית",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/252.wav",
+      "filename_stem": "252",
+      "uploaded_at": "2026-10-20T23:19:19.699103+00:00"
+    },
+    "zman_sheavodtem:b6f7d3f4-79e0-4568-813b-b2b201811181": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "טירוף התמונות של ג'יבלי",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/253.wav",
+      "filename_stem": "253",
+      "uploaded_at": "2026-10-20T23:19:48.485930+00:00"
+    },
+    "zman_sheavodtem:cfa77f42-3caa-4dfb-a494-b2b9018ad0c0": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מי תהיה הנטפליקס של הגיימינג",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/254.wav",
+      "filename_stem": "254",
+      "uploaded_at": "2026-10-20T23:20:14.196129+00:00"
+    },
+    "zman_sheavodtem:b84a106e-d13c-4ef2-a7e5-b2c0016f8baf": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים - ענף הרכב החשמלי מחשב מסלול מחדש",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/255.wav",
+      "filename_stem": "255",
+      "uploaded_at": "2026-10-20T23:20:38.036577+00:00"
+    },
+    "zman_sheavodtem:6cf2da69-aa9c-4e5c-ba4f-b2c701598da8": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים - אימפריות נופלות מהר: מה קורה באינטל",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/256.wav",
+      "filename_stem": "256",
+      "uploaded_at": "2026-10-20T23:21:00.582860+00:00"
+    },
+    "zman_sheavodtem:05d91744-1b7e-41eb-8b27-b2cf00e2e61a": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים - תולה את הנעליים: נייקי נפרדת מהפסגה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/257.wav",
+      "filename_stem": "257",
+      "uploaded_at": "2026-10-20T23:21:24.901222+00:00"
+    },
+    "zman_sheavodtem:fb38cb55-2dac-43c3-964b-b2d501684b19": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "פרק חדש! המודל העסקי של הבינה המלאכותית",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/258.wav",
+      "filename_stem": "258",
+      "uploaded_at": "2026-10-20T23:21:53.962833+00:00"
+    },
+    "zman_sheavodtem:131d5af6-5738-4718-a61f-b2dc0174d34f": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "סופו של עידן: וורן באפט מפנה את כיסאו",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/259.wav",
+      "filename_stem": "259",
+      "uploaded_at": "2026-10-20T23:22:24.541775+00:00"
+    },
+    "zman_sheavodtem:6d8716c7-55f0-48ac-b3e7-b2e500b368fc": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "פרק מיוחד מכנס הבינה המלאכותית של גוגל: כל החידושים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/260.wav",
+      "filename_stem": "260",
+      "uploaded_at": "2026-10-20T23:22:55.173684+00:00"
+    },
+    "zman_sheavodtem:13bdf5fb-a0aa-46ef-9eb8-b2eb00649af5": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "האם אפל בדרכה לגמור כמו נוקיה?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/261.wav",
+      "filename_stem": "261",
+      "uploaded_at": "2026-10-20T23:23:21.757415+00:00"
+    },
+    "zman_sheavodtem:ec2c6e5f-87fa-4c75-98d4-b2f20059d7e0": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "כשהתותחים רועמים תעשיית הדיפנס־טק מדפיסה כסף",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/262.wav",
+      "filename_stem": "262",
+      "uploaded_at": "2026-10-20T23:23:50.509034+00:00"
+    },
+    "zman_sheavodtem:2f041183-79ff-4688-9885-b2f9007c673a": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "טראמפ ומאסק שולפים חרבות",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/263.wav",
+      "filename_stem": "263",
+      "uploaded_at": "2026-10-20T23:24:39.321161+00:00"
+    },
+    "zman_sheavodtem:f0df69fd-704b-47db-962f-b2ff01468a28": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים - הזאב והממותה, החייזר והשיבוטה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/264.wav",
+      "filename_stem": "264",
+      "uploaded_at": "2026-10-20T23:25:01.107455+00:00"
+    },
+    "zman_sheavodtem:c0e089c3-acca-4a98-b0b4-b3070067b151": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים – עודף במטבעות: טראמפ ממליך את הקריפטו",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/265.wav",
+      "filename_stem": "265",
+      "uploaded_at": "2026-10-20T23:25:26.681416+00:00"
+    },
+    "zman_sheavodtem:6fee7731-a121-4b98-8dae-b30d016c1bfa": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "פרק חדש! העולם אובד עצות מול הדיפ־פייק",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/266.wav",
+      "filename_stem": "266",
+      "uploaded_at": "2026-10-20T23:25:55.322067+00:00"
+    },
+    "zman_sheavodtem:06470e2f-d4a2-4436-bf02-b31401688c20": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "נבחרת מהנדסי־העל של צוקרברג",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/267.wav",
+      "filename_stem": "267",
+      "uploaded_at": "2026-10-20T23:26:23.308264+00:00"
+    },
+    "zman_sheavodtem:9334c676-aa23-4f5e-bd80-b31b016dc80e": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "המודל האנטישמי של אילון מאסק",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/268.wav",
+      "filename_stem": "268",
+      "uploaded_at": "2026-10-20T23:26:49.552287+00:00"
+    },
+    "zman_sheavodtem:cedded9c-987e-49d7-98a2-b3240164c901": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בלדה לסוכן כפול",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/269.wav",
+      "filename_stem": "269",
+      "uploaded_at": "2026-10-20T23:27:13.710571+00:00"
+    },
+    "zman_sheavodtem:5064073f-af1f-45e3-b656-b3290167e8c4": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "החברה החדשה במועדון טריליון הדולר",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/270.wav",
+      "filename_stem": "270",
+      "uploaded_at": "2026-10-20T23:27:39.534523+00:00"
+    },
+    "zman_sheavodtem:8d38bf1e-0c10-4924-b40c-b33001618b02": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הנוסחה החדשה להצלחה בקריירה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/271.wav",
+      "filename_stem": "271",
+      "uploaded_at": "2026-10-20T23:28:08.323325+00:00"
+    },
+    "zman_sheavodtem:a6d1dd31-3793-4a34-a8c6-b337017d90c1": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "יחי האינטרנט החדש?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/272.wav",
+      "filename_stem": "272",
+      "uploaded_at": "2026-10-20T23:28:46.173739+00:00"
+    },
+    "zman_sheavodtem:be736768-4b3e-4750-9d41-b33e01667de3": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "עניינים שבלב ובקוד",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/273.wav",
+      "filename_stem": "273",
+      "uploaded_at": "2026-10-20T23:29:12.266613+00:00"
+    },
+    "zman_sheavodtem:0fcdc2f4-2a57-47cb-9f67-b34501606fb9": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הכנה למוח: הסייבורגים קרובים מתמיד",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/274.wav",
+      "filename_stem": "274",
+      "uploaded_at": "2026-10-20T23:29:35.057393+00:00"
+    },
+    "zman_sheavodtem:8b0a18b5-12be-416e-84ee-b34d005df3cc": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מלחמת השבבים: ארה\"ב וסין מתחמשות",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/275.wav",
+      "filename_stem": "275",
+      "uploaded_at": "2026-10-20T23:30:00.452485+00:00"
+    },
+    "zman_sheavodtem:f288b632-d465-43a2-bdc2-b3530166b9fd": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הסושיאל הופך לערוץ הקניות החדש",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/276.wav",
+      "filename_stem": "276",
+      "uploaded_at": "2026-10-20T23:30:25.765713+00:00"
+    },
+    "zman_sheavodtem:71183b61-c974-43b8-9a74-b35a015f9ce0": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "אחד שיודע: הסיפור של לארי אליסון ואורקל",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/277.wav",
+      "filename_stem": "277",
+      "uploaded_at": "2026-10-20T23:30:54.382910+00:00"
+    },
+    "zman_sheavodtem:66e67401-e322-4f30-8cb1-b3610151d79c": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים – טעם ננטש: האלכוהול מפסיד למשקאות העתיד",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/278.wav",
+      "filename_stem": "278",
+      "uploaded_at": "2026-10-20T23:31:31.753956+00:00"
+    },
+    "zman_sheavodtem:afa40245-9def-441d-a810-b369008ec405": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים - סופו של עידן: וורן באפט מפנה את כיסאו",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/279.wav",
+      "filename_stem": "279",
+      "uploaded_at": "2026-10-20T23:32:01.281650+00:00"
+    },
+    "zman_sheavodtem:e652215c-82be-4ff2-bd2e-b370007422fc": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים - מי תהיה הנטפליקס של הגיימינג",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/280.wav",
+      "filename_stem": "280",
+      "uploaded_at": "2026-10-20T23:32:27.694623+00:00"
+    },
+    "zman_sheavodtem:0f191415-c448-4ca2-a56d-b377004718c4": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים - הרובוטים לא באים, הם כבר כאן",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/281.wav",
+      "filename_stem": "281",
+      "uploaded_at": "2026-10-20T23:32:53.960806+00:00"
+    },
+    "zman_sheavodtem:9b527de9-157d-46db-b7c1-b37d0167dc3b": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "עולם חדש ונפלא או בועה?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/282.wav",
+      "filename_stem": "282",
+      "uploaded_at": "2026-10-20T23:33:43.983685+00:00"
+    },
+    "zman_sheavodtem:1dd5659a-298e-4c50-a2e2-b3840166b702": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "חוכמת ההמונים או הימורים?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/283.wav",
+      "filename_stem": "283",
+      "uploaded_at": "2026-10-20T23:34:07.041196+00:00"
+    },
+    "zman_sheavodtem:7b7134b9-b951-4262-9abe-b38b01754ab1": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "האם אנחנו בדרך לאפוקליפסה קוונטית?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/284.wav",
+      "filename_stem": "284",
+      "uploaded_at": "2026-10-20T23:34:33.789142+00:00"
+    },
+    "zman_sheavodtem:13ec90df-d54a-4553-85b7-b392017a5f6b": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בינה מלאכותית ברה מז'ור",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/285.wav",
+      "filename_stem": "285",
+      "uploaded_at": "2026-10-20T23:35:03.052214+00:00"
+    },
+    "zman_sheavodtem:1e63b610-1491-40a6-bd34-b39a000f9a99": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "רוכבת לעבר השקיעה: כשהמסך יורד על הוליווד",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/286.wav",
+      "filename_stem": "286",
+      "uploaded_at": "2026-10-20T23:35:25.196441+00:00"
+    },
+    "zman_sheavodtem:be189191-0f7d-427f-8c69-b3a1000dfb30": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הקפיצה של גוגל",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/287.wav",
+      "filename_stem": "287",
+      "uploaded_at": "2026-10-20T23:35:49.751452+00:00"
+    },
+    "zman_sheavodtem:ce0b1c30-f41b-4277-a59b-b3a800963735": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מרשם לעושר: איך בונים אימפריית תרופות",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/288.wav",
+      "filename_stem": "288",
+      "uploaded_at": "2026-10-20T23:36:16.247107+00:00"
+    },
+    "zman_sheavodtem:db549ab2-7813-4230-b9d4-b3ae0176e176": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "כשהאדמה רועדת מתחת לתעשיית הבידור",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/289.wav",
+      "filename_stem": "289",
+      "uploaded_at": "2026-10-20T23:37:00.490918+00:00"
+    },
+    "zman_sheavodtem:bdf561e6-8c28-46d9-a0b3-b3b5014dccda": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הנפקת על חלל",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/290.wav",
+      "filename_stem": "290",
+      "uploaded_at": "2026-10-20T23:37:37.580108+00:00"
+    },
+    "zman_sheavodtem:42f624b3-12a8-4df6-8692-b3bd0097d672": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "פרסי השנה של בזמן שעבדתם 2025",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/291.wav",
+      "filename_stem": "291",
+      "uploaded_at": "2026-10-20T23:38:03.349239+00:00"
+    },
+    "zman_sheavodtem:3fe68ba3-1d51-4ae4-9307-b3c3017685c9": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "התחזיות לשנת 2026 - חלק א'",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/292.wav",
+      "filename_stem": "292",
+      "uploaded_at": "2026-10-20T23:38:20.969714+00:00"
+    },
+    "zman_sheavodtem:952acd67-ea53-4d0d-966f-b3cb000d6828": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "התחזיות לשנת 2026 - חלק ב'",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/293.wav",
+      "filename_stem": "293",
+      "uploaded_at": "2026-10-20T23:38:48.120126+00:00"
+    },
+    "zman_sheavodtem:950c2720-adbc-421b-85ac-b3d200a1f596": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מסע אל העתיד",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/294.wav",
+      "filename_stem": "294",
+      "uploaded_at": "2026-10-20T23:39:13.289393+00:00"
+    },
+    "zman_sheavodtem:a48baf45-e9cb-4e2b-9a1a-b3d801724dc3": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "עמה ספר!",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/295.wav",
+      "filename_stem": "295",
+      "uploaded_at": "2026-10-20T23:39:39.555527+00:00"
+    },
+    "zman_sheavodtem:6880d017-58bf-4cca-8112-b3e000a0ae00": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הענק השקט: איך אנתרופיק השתלטה למתכנתים על המקלדת",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/296.wav",
+      "filename_stem": "296",
+      "uploaded_at": "2026-10-20T23:40:04.558004+00:00"
+    },
+    "zman_sheavodtem:c59ca05b-d14e-4e1d-a19c-b3e6017f925c": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "אין כניסה לבני-אדם",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/297.wav",
+      "filename_stem": "297",
+      "uploaded_at": "2026-10-20T23:40:46.579754+00:00"
+    },
+    "zman_sheavodtem:6566764c-9acd-4c5d-85ce-b3ee009f6284": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הבהלה לזהב",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/298.wav",
+      "filename_stem": "298",
+      "uploaded_at": "2026-10-20T23:41:14.752881+00:00"
+    },
+    "zman_sheavodtem:25ae6db4-403f-437a-9baa-b3f401552bc0": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "The SaaS-pocalypse",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/299.wav",
+      "filename_stem": "299",
+      "uploaded_at": "2026-10-20T23:41:43.719920+00:00"
+    },
+    "zman_sheavodtem:cb956208-c3f4-4215-941c-b3fb0124d4d6": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "ממדפים לשרתים: המהפכה הטכנולוגית של וולמארט",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/300.wav",
+      "filename_stem": "300",
+      "uploaded_at": "2026-10-20T23:42:07.390148+00:00"
+    },
+    "zman_sheavodtem:cb28df2c-3e3e-4639-8b0c-b40900e41236": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מלחמת הבינה הראשונה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/301.wav",
+      "filename_stem": "301",
+      "uploaded_at": "2026-10-20T23:42:32.842703+00:00"
+    },
+    "zman_sheavodtem:e9831de2-a2db-4c94-a448-b4100187d420": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "אמא הודו מעדכנת גרסה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/302.wav",
+      "filename_stem": "302",
+      "uploaded_at": "2026-10-20T23:42:55.701910+00:00"
+    },
+    "zman_sheavodtem:0d19731e-e412-430c-9716-b417018b6d14": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "שובו של המהמר צוקרברג",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/303.wav",
+      "filename_stem": "303",
+      "uploaded_at": "2026-10-20T23:43:22.702594+00:00"
+    },
+    "zman_sheavodtem:8b04f6ab-b73c-4d1b-94a6-b43b008c8dba": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "בדרך אל האושר",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/304.wav",
+      "filename_stem": "304",
+      "uploaded_at": "2026-10-20T23:43:49.154345+00:00"
+    },
+    "zman_sheavodtem:8284649c-7019-4544-a79e-b441014de293": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "שחק אותה סם",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/305.wav",
+      "filename_stem": "305",
+      "uploaded_at": "2026-10-20T23:44:34.181591+00:00"
+    },
+    "zman_sheavodtem:2e71604b-1702-4628-aeee-b449009122ad": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "העתיד של חברות הטק",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/306.wav",
+      "filename_stem": "306",
+      "uploaded_at": "2026-10-20T23:45:02.597458+00:00"
+    },
+    "zman_sheavodtem:a1a74012-e492-4b6c-a905-b44f016a050c": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "גרעין, בייבי, גרעין: משבר האנרגיה שמטריף את העולם",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/307.wav",
+      "filename_stem": "307",
+      "uploaded_at": "2026-10-20T23:45:26.482987+00:00"
+    },
+    "zman_sheavodtem:4e4e3dcf-e484-4041-89f7-b457008b5571": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "ילדים זה שמחה?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/308.wav",
+      "filename_stem": "308",
+      "uploaded_at": "2026-10-20T23:45:51.979347+00:00"
+    },
+    "zman_sheavodtem:9b426da4-840e-49ba-a651-b45e009913a8": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "צונאמי בהייטק: כשהשקל מתחזק והאי-איי מפטר",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/309.wav",
+      "filename_stem": "309",
+      "uploaded_at": "2026-10-20T23:46:44.133235+00:00"
+    },
+    "zman_sheavodtem:9c40459a-0c73-4add-b8ad-b46400c74cca": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "צעצוע של פיצוץ",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/310.wav",
+      "filename_stem": "310",
+      "uploaded_at": "2026-10-20T23:47:08.855381+00:00"
+    },
+    "zman_sheavodtem:ca82ea81-1ba8-4793-ba99-b46c00967ff1": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "טריליון דולר בייבי",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/311.wav",
+      "filename_stem": "311",
+      "uploaded_at": "2026-10-20T23:47:37.777438+00:00"
+    },
+    "zman_sheavodtem:a847069e-c919-49a5-b080-b473009374b3": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "פרס נובל למכונה: המהפכה המדעית החדשה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/312.wav",
+      "filename_stem": "312",
+      "uploaded_at": "2026-10-20T23:48:04.750003+00:00"
+    },
+    "zman_sheavodtem:375eefa8-259a-4a8f-bb48-b4790168c240": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "לפח האשפה של ההיסטוריה? משבר הג'אנק פוד הגדול",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/313.wav",
+      "filename_stem": "313",
+      "uploaded_at": "2026-10-20T23:48:31.031839+00:00"
+    },
+    "zman_sheavodtem:066cb998-9fae-48c9-bb30-b48000f7e975": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "אפקט טראמפ: כשהממסד משתלט על הקריפטו",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/314.wav",
+      "filename_stem": "314",
+      "uploaded_at": "2026-10-20T23:49:01.600412+00:00"
+    },
+    "zman_sheavodtem:57222af8-9c52-457d-8fcc-b48700f54f24": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "להמציא את הכדור מחדש",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/1.wav",
+      "filename_stem": "1",
+      "uploaded_at": "2026-10-20T23:49:27.086684+00:00"
+    },
+    "zman_sheavodtem:636c150f-454a-4108-b636-b48f008fccd2": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "סטארט-אפ ניישן או סעד ניישן: מי יפרנס אותנו כשהבינה המלאכותית תעשה הכל?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/2.wav",
+      "filename_stem": "2",
+      "uploaded_at": "2026-10-20T23:50:12.399954+00:00"
+    },
+    "zman_sheavodtem:24e649d1-e15c-47f5-a4f4-b49501562f07": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מפצל מסלול מחדש: איך מתכוננים לתרחישים מנוגדים?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/3.wav",
+      "filename_stem": "3",
+      "uploaded_at": "2026-10-20T23:50:47.402832+00:00"
+    },
+    "zman_sheavodtem:ad51db29-4530-40db-870e-b49d008b2764": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים: עמה ספר!",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/4.wav",
+      "filename_stem": "4",
+      "uploaded_at": "2026-10-20T23:51:28.647414+00:00"
+    },
+    "zman_sheavodtem:a4ba2e07-7ed3-4fb0-880e-b4a4009432f4": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים: בינה מלאכותית ברה מז'ור",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/5.wav",
+      "filename_stem": "5",
+      "uploaded_at": "2026-10-20T23:52:01.713619+00:00"
+    },
+    "zman_sheavodtem:9f3b9763-a81c-4f7e-8259-b4b101769620": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "הפרקים האהובים: ממדפים לשרתים- המהפכה הטכנולוגית של וולמארט",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/11.wav",
+      "filename_stem": "11",
+      "uploaded_at": "2026-10-20T23:52:25.016899+00:00"
+    },
+    "zman_sheavodtem:ad0f2437-8952-41f7-a2e3-b4b900866924": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "פרק חדש! כשהסוכנים יצאו משליטה: הצצה לתוך המוח של המכונה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-10-20T23:52:52.599962+00:00"
+    },
+    "zman_sheavodtem:aebf57b4-54fb-4e77-b73c-b4c000916dce": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מאנדרגראונד לארץ נהדרת: הפודקאסט משתלט על עולם התקשורת",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/12.wav",
+      "filename_stem": "12",
+      "uploaded_at": "2026-10-20T23:53:21.964746+00:00"
+    },
+    "zman_sheavodtem:6a88d308-60d0-4454-bcbe-b4c60108e04d": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "Baby no one drives my car",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-10-20T23:54:08.176603+00:00"
+    },
+    "zman_sheavodtem:1578f2e9-b1f5-4d4d-8460-b4cd00f2f3c1": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "קוראים לה בקפה: מה יעלה בגורלה של סטארבקס?",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/13.wav",
+      "filename_stem": "13",
+      "uploaded_at": "2026-10-20T23:54:30.298825+00:00"
+    },
+    "zman_sheavodtem:480482d3-d468-4876-bbee-b4db0107a8e6": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "מטריקס 2026: הסוכנים עוברים לעולם האמיתי",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/17.wav",
+      "filename_stem": "17",
+      "uploaded_at": "2026-10-20T23:54:56.432652+00:00"
+    },
+    "zman_sheavodtem:c04c04dd-7646-4a5c-bcaa-b4e3008e4696": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "עתיד, כסף וקטסטרופה: אתם שאלתם - אנחנו עונים",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/18.wav",
+      "filename_stem": "18",
+      "uploaded_at": "2026-10-20T23:55:48.934762+00:00"
     }
   },
   "next_numbers": {
@@ -24297,7 +26655,7 @@
     "38": 11,
     "39": 9,
     "40": 7,
-    "20": 19,
+    "20": 315,
     "24": 17,
     "41": 11,
     "42": 914,
