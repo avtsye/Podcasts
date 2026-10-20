@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-20T13:02:52.292271+00:00",
+  "updated_at": "2026-10-20T17:17:36.751598+00:00",
   "runs": [
+    {
+      "run_id": "39464170094",
+      "run_number": "291",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-20T17:17:36.751598+00:00",
+      "israel_time": "20/10/2026 20:17",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39464170094",
+      "items": [
+        {
+          "podcast": "מגזין מעריב",
+          "title": "מעל הליגה - פרק 49 | מאבק מחומש בליגת העל",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/15/19.wav"
+          ],
+          "drive_filename": "מעל הליגה - פרק 49 _ מאבק מחומש בליגת העל.mp3",
+          "drive_folder": "מגזין מעריב",
+          "drive_url": "https://drive.google.com/file/d/1UC60qX7qn1grZSE32GA1-px0XMMUuV1t/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/15/19.wav"
+        },
+        {
+          "podcast": "שלושה שיודעים",
+          "title": "השביל הזה מתחיל כאן, בין הספרייה לגילמן",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/42/913.wav"
+          ],
+          "drive_filename": "השביל הזה מתחיל כאן, בין הספרייה לגילמן.mp3",
+          "drive_folder": "שלושה שיודעים",
+          "drive_url": "https://drive.google.com/file/d/1_naDUVCo3_sVg8lprVmC4AWZD74XQcO_/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/42/913.wav"
+        }
+      ]
+    },
     {
       "run_id": "39426977117",
       "run_number": "290",
@@ -2575,20 +2614,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38016130284",
-      "items": []
-    },
-    {
-      "run_id": "38011068385",
-      "run_number": "191",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-10T00:55:43.292756+00:00",
-      "israel_time": "10/10/2026 03:55",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38011068385",
       "items": []
     }
   ]
