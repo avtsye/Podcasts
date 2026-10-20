@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-20T07:39:00.229970+00:00",
+  "updated_at": "2026-10-20T11:46:42.561849+00:00",
   "runs": [
+    {
+      "run_id": "39417040679",
+      "run_number": "289",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-20T11:46:42.561849+00:00",
+      "israel_time": "20/10/2026 14:46",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39417040679",
+      "items": [
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1264 - מוטי לייטנר והציבור החרדי",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1023.wav"
+          ],
+          "drive_filename": "פרק #1264 - מוטי לייטנר והציבור החרדי.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/12peUk1Yaw5Q00XP2nEhPk991g6x_qBeL/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1023.wav"
+        },
+        {
+          "podcast": "הצוללת",
+          "title": "החוקר שבדק מיליון הימורים ומהמר בעצמו: מה יקרה בבחירות? | פרק 391",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/50/3.wav"
+          ],
+          "drive_filename": "החוקר שבדק מיליון הימורים ומהמר בעצמו_ מה יקרה בבחירות_ _ פרק 391.mp3",
+          "drive_folder": "הצוללת",
+          "drive_url": "https://drive.google.com/file/d/1WhrAKTkRYWVK-CtB57fsrVQitpenbzYD/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/50/3.wav"
+        }
+      ]
+    },
     {
       "run_id": "39387811274",
       "run_number": "288",
@@ -2550,20 +2589,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38001290862",
-      "items": []
-    },
-    {
-      "run_id": "37990768909",
-      "run_number": "189",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-09T21:01:30.286116+00:00",
-      "israel_time": "10/10/2026 00:01",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/37990768909",
       "items": []
     }
   ]
