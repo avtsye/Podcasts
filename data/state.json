@@ -1,205 +1,210 @@
 {
   "feeds": {
     "ehad_beyom": {
-      "last_checked": "2026-10-21T20:12:46.018924+00:00",
+      "last_checked": "2026-10-21T22:24:12.685924+00:00",
       "last_error": null
     },
     "geekonomy": {
-      "last_checked": "2026-10-21T20:12:48.458249+00:00",
+      "last_checked": "2026-10-21T22:24:15.436653+00:00",
       "last_error": null
     },
     "hayot_kes": {
-      "last_checked": "2026-10-21T20:12:49.508780+00:00",
+      "last_checked": "2026-10-21T22:24:16.377859+00:00",
       "last_error": null
     },
     "osim_tech": {
-      "last_checked": "2026-10-21T20:12:50.215422+00:00",
+      "last_checked": "2026-10-21T22:24:17.355241+00:00",
       "last_error": null
     },
     "hatshuva": {
-      "last_checked": "2026-10-21T20:12:51.129658+00:00",
+      "last_checked": "2026-10-21T22:24:18.083892+00:00",
       "last_error": null
     },
     "startup_for_startup": {
-      "last_checked": "2026-10-21T20:12:52.867461+00:00",
+      "last_checked": "2026-10-21T22:24:19.615700+00:00",
       "last_error": null
     },
     "money_engines": {
-      "last_checked": "2026-10-21T20:12:53.275581+00:00",
+      "last_checked": "2026-10-21T22:24:19.976853+00:00",
       "last_error": null
     },
     "history_for_children": {
-      "last_checked": "2026-10-21T20:12:54.060552+00:00",
+      "last_checked": "2026-10-21T22:24:20.728596+00:00",
       "last_error": null
     },
     "baduk": {
-      "last_checked": "2026-10-21T20:12:55.554255+00:00",
+      "last_checked": "2026-10-21T22:24:21.059207+00:00",
       "last_error": null
     },
     "20th_century": {
-      "last_checked": "2026-10-21T20:12:56.171227+00:00",
+      "last_checked": "2026-10-21T22:24:21.479775+00:00",
       "last_error": null
     },
     "sakranit": {
-      "last_checked": "2026-10-21T20:12:56.556296+00:00",
+      "last_checked": "2026-10-21T22:24:21.800936+00:00",
       "last_error": null
     },
     "out_of_memory": {
-      "last_checked": "2026-10-21T20:12:56.845683+00:00",
+      "last_checked": "2026-10-21T22:24:22.259088+00:00",
       "last_error": null
     },
     "erech_musaf": {
-      "last_checked": "2026-10-21T20:12:57.122529+00:00",
+      "last_checked": "2026-10-21T22:24:22.465617+00:00",
       "last_error": null
     },
     "team_atzmaim": {
-      "last_checked": "2026-10-21T20:12:57.533911+00:00",
+      "last_checked": "2026-10-21T22:24:22.680515+00:00",
       "last_error": null
     },
     "maariv_magazine": {
-      "last_checked": "2026-10-21T20:12:58.060777+00:00",
+      "last_checked": "2026-10-21T22:24:23.078521+00:00",
       "last_error": null
     },
     "cx_podcast": {
-      "last_checked": "2026-10-21T20:12:58.471897+00:00",
+      "last_checked": "2026-10-21T22:24:23.339008+00:00",
       "last_error": null
     },
     "haim_aherim": {
-      "last_checked": "2026-10-21T20:13:00.229102+00:00",
+      "last_checked": "2026-10-21T22:25:12.398992+00:00",
       "last_error": null
     },
     "esek_kalkali": {
-      "last_checked": "2026-10-21T20:13:00.647756+00:00",
+      "last_checked": "2026-10-21T22:25:12.669313+00:00",
       "last_error": null
     },
     "keta_kalkali": {
-      "last_checked": "2026-10-21T20:13:01.153923+00:00",
+      "last_checked": "2026-10-21T22:25:13.037291+00:00",
       "last_error": null
     },
     "zman_sheavodtem": {
       "last_error": null,
-      "last_checked": "2026-10-21T20:13:01.942079+00:00"
+      "last_checked": "2026-10-21T22:25:13.796643+00:00"
     },
     "little_university": {
-      "last_checked": "2026-10-21T20:13:02.520786+00:00",
+      "last_checked": "2026-10-21T22:25:14.170321+00:00",
       "last_error": null
     },
     "music_tech": {
-      "last_checked": "2026-10-21T20:13:04.377010+00:00",
+      "last_checked": "2026-10-21T22:25:14.456192+00:00",
       "last_error": null
     },
     "traveler": {
-      "last_checked": "2026-10-21T20:13:04.962752+00:00",
+      "last_checked": "2026-10-21T22:25:14.999969+00:00",
       "last_error": null
     },
     "ear_catcher": {
-      "last_checked": "2026-10-21T20:13:06.667155+00:00",
+      "last_checked": "2026-10-21T22:25:16.493566+00:00",
       "last_error": null
     },
     "historia_bederech": {
-      "last_checked": "2026-10-21T20:13:07.057979+00:00",
+      "last_checked": "2026-10-21T22:25:16.710842+00:00",
       "last_error": null
     },
     "historia_ktaim": {
-      "last_checked": "2026-10-21T20:13:07.578771+00:00",
+      "last_checked": "2026-10-21T22:25:17.238557+00:00",
       "last_error": null
     },
     "osim_historia": {
-      "last_checked": "2026-10-21T20:13:08.365034+00:00",
+      "last_checked": "2026-10-21T22:25:17.865166+00:00",
       "last_error": null
     },
     "yaldin": {
       "last_error": null,
-      "last_checked": "2026-10-21T20:13:08.539112+00:00"
+      "last_checked": "2026-10-21T22:25:18.327391+00:00"
     },
     "yetziat_ethiopia": {
-      "last_checked": "2026-10-21T20:13:08.956160+00:00",
+      "last_checked": "2026-10-21T22:25:19.022481+00:00",
       "last_error": null
     },
     "sogen_sodi": {
-      "last_checked": "2026-10-21T20:13:09.157999+00:00",
+      "last_checked": "2026-10-21T22:25:19.185981+00:00",
       "last_error": null
     },
     "sipur_beerech": {
-      "last_checked": "2026-10-21T20:13:09.293002+00:00",
+      "last_checked": "2026-10-21T22:25:19.601462+00:00",
       "last_error": null
     },
     "frontiers_youth": {
-      "last_checked": "2026-10-21T20:13:09.442137+00:00",
+      "last_checked": "2026-10-21T22:25:20.015948+00:00",
       "last_error": null
     },
     "three_who_know": {
       "initialized": true,
-      "last_checked": "2026-10-21T20:13:12.850117+00:00",
+      "last_checked": "2026-10-21T22:25:23.626808+00:00",
       "last_error": null
     },
     "osim_software": {
       "initialized": true,
-      "last_checked": "2026-10-21T20:13:13.457345+00:00",
+      "last_checked": "2026-10-21T22:25:24.127433+00:00",
       "last_error": null
     },
     "how_it_works": {
       "initialized": true,
-      "last_checked": "2026-10-21T20:13:14.648386+00:00",
+      "last_checked": "2026-10-21T22:25:24.395282+00:00",
       "last_error": null
     },
     "historia_big_small": {
       "initialized": true,
-      "last_checked": "2026-10-21T20:13:15.894394+00:00",
+      "last_checked": "2026-10-21T22:25:26.108999+00:00",
       "last_error": null
     },
     "world_war_two": {
       "initialized": true,
-      "last_checked": "2026-10-21T20:13:16.318011+00:00",
+      "last_checked": "2026-10-21T22:25:26.358689+00:00",
       "last_error": null
     },
     "minhar_hazman": {
       "initialized": true,
-      "last_checked": "2026-10-21T20:13:16.872467+00:00",
+      "last_checked": "2026-10-21T22:25:26.837501+00:00",
       "last_error": null
     },
     "triple_agent": {
       "initialized": true,
-      "last_checked": "2026-10-21T20:13:17.089881+00:00",
+      "last_checked": "2026-10-21T22:25:27.170731+00:00",
       "last_error": null
     },
     "grush_hole": {
       "initialized": true,
-      "last_checked": "2026-10-21T20:13:17.461871+00:00",
+      "last_checked": "2026-10-21T22:25:27.456246+00:00",
       "last_error": null
     },
     "hatzolelet": {
       "initialized": true,
-      "last_checked": "2026-10-21T20:13:18.850058+00:00",
+      "last_checked": "2026-10-21T22:25:28.713936+00:00",
       "last_error": null
     },
     "osim_heshbon": {
       "initialized": true,
-      "last_checked": "2026-10-21T20:13:19.257157+00:00",
+      "last_checked": "2026-10-21T22:25:29.446956+00:00",
       "last_error": null
     },
     "al_halal": {
       "initialized": true,
-      "last_checked": "2026-10-21T20:13:19.738061+00:00",
+      "last_checked": "2026-10-21T22:25:29.942034+00:00",
       "last_error": null
     },
     "el_haeinsof": {
       "initialized": true,
-      "last_checked": "2026-10-21T20:13:20.223055+00:00",
+      "last_checked": "2026-10-21T22:25:30.426669+00:00",
       "last_error": null
     },
     "madbarimda": {
       "initialized": true,
-      "last_checked": "2026-10-21T20:13:20.714491+00:00",
+      "last_checked": "2026-10-21T22:25:31.088126+00:00",
       "last_error": null
     },
     "pashut_ai": {
       "initialized": true,
-      "last_checked": "2026-10-21T20:13:21.506393+00:00",
+      "last_checked": "2026-10-21T22:25:31.892806+00:00",
       "last_error": null
     },
     "knesset_nichbada": {
-      "last_checked": "2026-10-21T22:23:38.334281+00:00",
+      "last_checked": "2026-10-21T22:25:32.118141+00:00",
+      "last_error": null
+    },
+    "hapolitikaim": {
+      "initialized": true,
+      "last_checked": "2026-10-21T22:25:32.691560+00:00",
       "last_error": null
     }
   },
@@ -71202,6 +71207,82 @@
       "drive_folder": "כנסת נכבדה",
       "yemos_path": "ivr2:/1/56/33.wav",
       "notification_sent_at": "2026-10-21T22:23:39.702832+00:00"
+    },
+    "haim_aherim:7211b951-4dde-45d1-956f-b4ea014d2a73": {
+      "podcast_id": "haim_aherim",
+      "title": "חיים של אחרים | 21.10.26",
+      "published": "Wed, 21 Oct 2026 20:13:00 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/18165081-89c2-4c67-beaa-ade9007eff95/7211b951-4dde-45d1-956f-b4ea014d2a73/audio.mp3?utm_source=Podcast&in_playlist=69e63bd8-5f53-4674-bdbf-ade900800459",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-10-21T22:24:25.783881+00:00",
+      "drive_file_id": "1h18NI9rwHZL09vQwuEmaAuQcvqYrV1hP",
+      "drive_url": "https://drive.google.com/file/d/1h18NI9rwHZL09vQwuEmaAuQcvqYrV1hP/view?usp=drivesdk",
+      "drive_filename": "חיים של אחרים _ 21.10.26.mp3",
+      "drive_folder": "חיים של אחרים",
+      "yemos_path": "ivr2:/1/17/21.wav",
+      "notification_sent_at": "2026-10-21T22:25:34.007126+00:00"
+    },
+    "hapolitikaim:https://api.spreaker.com/episode/47792024": {
+      "podcast_id": "hapolitikaim",
+      "title": "כנגד כל הסיכויים - אריאל שרון [הפוליטיקאים]",
+      "status": "bootstrap",
+      "seen_at": "2026-10-21T22:25:32.691518+00:00"
+    },
+    "hapolitikaim:https://api.spreaker.com/episode/47358253": {
+      "podcast_id": "hapolitikaim",
+      "title": "נתניהו מודל 96 - חלק ב' [הפוליטיקאים]",
+      "status": "bootstrap",
+      "seen_at": "2026-10-21T22:25:32.691531+00:00"
+    },
+    "hapolitikaim:https://api.spreaker.com/episode/47241449": {
+      "podcast_id": "hapolitikaim",
+      "title": "נתניהו מודל 96 - חלק א' [הפוליטיקאים]",
+      "status": "bootstrap",
+      "seen_at": "2026-10-21T22:25:32.691535+00:00"
+    },
+    "hapolitikaim:https://api.spreaker.com/episode/46630692": {
+      "podcast_id": "hapolitikaim",
+      "title": "בין ויאטנם לאפגניסטן [הפוליטיקאים]",
+      "status": "bootstrap",
+      "seen_at": "2026-10-21T22:25:32.691539+00:00"
+    },
+    "hapolitikaim:https://api.spreaker.com/episode/46190588": {
+      "podcast_id": "hapolitikaim",
+      "title": "למה העיתונאים נוהרים לפוליטיקה? [הפוליטיקאים]",
+      "status": "bootstrap",
+      "seen_at": "2026-10-21T22:25:32.691542+00:00"
+    },
+    "hapolitikaim:https://api.spreaker.com/episode/45766891": {
+      "podcast_id": "hapolitikaim",
+      "title": "הפגנה, לא חשוב על מה [הפוליטיקאים]",
+      "status": "bootstrap",
+      "seen_at": "2026-10-21T22:25:32.691545+00:00"
+    },
+    "hapolitikaim:https://api.spreaker.com/episode/45595980": {
+      "podcast_id": "hapolitikaim",
+      "title": "הבוץ הלבנוני [הפוליטיקאים]",
+      "status": "bootstrap",
+      "seen_at": "2026-10-21T22:25:32.691549+00:00"
+    },
+    "hapolitikaim:https://api.spreaker.com/episode/45394139": {
+      "podcast_id": "hapolitikaim",
+      "title": "צ'חצ'חים ועגבניות - הבחירות ששינו את הפוליטיקה הישראלית [הפוליטיקאים]",
+      "status": "bootstrap",
+      "seen_at": "2026-10-21T22:25:32.691552+00:00"
+    },
+    "hapolitikaim:https://api.spreaker.com/episode/45229341": {
+      "podcast_id": "hapolitikaim",
+      "title": "[הפוליטיקאים] מה יישאר ממפלגת העבודה?",
+      "status": "bootstrap",
+      "seen_at": "2026-10-21T22:25:32.691555+00:00"
+    },
+    "hapolitikaim:https://api.spreaker.com/episode/45098321": {
+      "podcast_id": "hapolitikaim",
+      "title": "[הפוליטיקאים] עבודה או אבודה?",
+      "status": "bootstrap",
+      "seen_at": "2026-10-21T22:25:32.691558+00:00"
     }
   }
 }
