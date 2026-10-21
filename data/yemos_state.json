@@ -26623,12 +26623,28 @@
       "path": "ivr2:/1/20/18.wav",
       "filename_stem": "18",
       "uploaded_at": "2026-10-20T23:55:48.934762+00:00"
+    },
+    "ehad_beyom:197b3193-5ecd-4399-a11d-b4e9011da58e": {
+      "podcast_id": "ehad_beyom",
+      "title": "איך שומרים על הבחירות?",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2666.wav",
+      "filename_stem": "2666",
+      "uploaded_at": "2026-10-21T04:54:30.785627+00:00"
+    },
+    "hayot_kes:7eebc7bb-1129-441f-8f62-b4e90081407d": {
+      "podcast_id": "hayot_kes",
+      "title": "פרק 362: מי מפחד מיום הבחירות?",
+      "status": "uploaded",
+      "path": "ivr2:/1/3/12.wav",
+      "filename_stem": "12",
+      "uploaded_at": "2026-10-21T04:54:51.527202+00:00"
     }
   },
   "next_numbers": {
-    "1": 2666,
+    "1": 2667,
     "2": 1024,
-    "3": 12,
+    "3": 13,
     "4": 17,
     "5": 113,
     "6": 290,

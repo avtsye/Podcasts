@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-20T23:56:53.517756+00:00",
+  "updated_at": "2026-10-21T04:55:23.959953+00:00",
   "runs": [
+    {
+      "run_id": "39546540140",
+      "run_number": "296",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-10-21T04:55:23.959953+00:00",
+      "israel_time": "21/10/2026 07:55",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39546540140",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "איך שומרים על הבחירות?",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2666.wav"
+          ],
+          "drive_filename": "איך שומרים על הבחירות_.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/1CNv1e20wII3IYfzPihxU3quesB_BZkCX/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2666.wav"
+        },
+        {
+          "podcast": "חיות כיס",
+          "title": "פרק 362: מי מפחד מיום הבחירות?",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/3/12.wav"
+          ],
+          "drive_filename": "פרק 362_ מי מפחד מיום הבחירות_.mp3",
+          "drive_folder": "חיות כיס",
+          "drive_url": "https://drive.google.com/file/d/1xp5_TYXdm24SoKaOG727UjpOKAZa8qXb/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/3/12.wav"
+        }
+      ]
+    },
     {
       "run_id": "39518146688",
       "run_number": "295",
@@ -3212,20 +3251,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38076650888",
-      "items": []
-    },
-    {
-      "run_id": "38057021886",
-      "run_number": "195",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-10T13:47:15.093146+00:00",
-      "israel_time": "10/10/2026 16:47",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38057021886",
       "items": []
     }
   ]
