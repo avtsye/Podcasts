@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-10-21T22:25:37.233045+00:00",
+  "updated_at": "2026-10-21T22:26:49.633355+00:00",
   "runs": [
+    {
+      "run_id": "39685792659",
+      "run_number": "305",
+      "event": "issues",
+      "status": "success",
+      "utc_time": "2026-10-21T22:26:49.633355+00:00",
+      "israel_time": "22/10/2026 01:26",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39685792659",
+      "items": [
+        {
+          "podcast": "מלחמת העולם השנייה",
+          "title": "פרק 6 - הבליץ על לונדון",
+          "destinations": [
+            "Google Drive"
+          ],
+          "drive_filename": "פרק 6 - הבליץ על לונדון.mp3",
+          "drive_folder": "מלחמת העולם השנייה",
+          "drive_url": "https://drive.google.com/file/d/1TnO7MEWSZjmbzODhc5CcwqMt-ux1EB69/view?usp=drivesdk"
+        }
+      ]
+    },
     {
       "run_id": "39686157296",
       "run_number": "306",
@@ -3626,20 +3651,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38165971978",
-      "items": []
-    },
-    {
-      "run_id": "38152587700",
-      "run_number": "205",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-11T15:45:52.381693+00:00",
-      "israel_time": "11/10/2026 18:45",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38152587700",
       "items": []
     }
   ]

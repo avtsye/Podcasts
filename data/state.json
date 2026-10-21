@@ -150,7 +150,7 @@
     },
     "world_war_two": {
       "initialized": true,
-      "last_checked": "2026-10-21T22:25:26.358689+00:00",
+      "last_checked": "2026-10-21T22:26:45.167792+00:00",
       "last_error": null
     },
     "minhar_hazman": {
@@ -71283,6 +71283,21 @@
       "title": "[הפוליטיקאים] עבודה או אבודה?",
       "status": "bootstrap",
       "seen_at": "2026-10-21T22:25:32.691558+00:00"
+    },
+    "world_war_two:86412d9a6add9c9d2de86ce89a138493": {
+      "podcast_id": "world_war_two",
+      "title": "פרק 6 - הבליץ על לונדון",
+      "published": "Sun, 15 Oct 2017 13:00:35 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/2fa6a45a-bb83-4402-911c-a92f009305aa/6b08f726-f619-43fe-983b-a92f0098d356/audio.mp3?utm_source=Podcast&in_playlist=d7491a6d-c0a7-4470-8c9d-a92f009305aa&t=1533115408",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "pending",
+      "processed_at": "2026-10-21T22:26:40.868727+00:00",
+      "drive_file_id": "1TnO7MEWSZjmbzODhc5CcwqMt-ux1EB69",
+      "drive_url": "https://drive.google.com/file/d/1TnO7MEWSZjmbzODhc5CcwqMt-ux1EB69/view?usp=drivesdk",
+      "drive_filename": "פרק 6 - הבליץ על לונדון.mp3",
+      "drive_folder": "מלחמת העולם השנייה",
+      "notification_sent_at": "2026-10-21T22:26:46.585962+00:00"
     }
   }
 }
