@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-21T19:13:29.625985+00:00",
+  "updated_at": "2026-10-21T20:13:22.128306+00:00",
   "runs": [
+    {
+      "run_id": "39668284273",
+      "run_number": "303",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-21T20:13:22.128306+00:00",
+      "israel_time": "21/10/2026 23:13",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39668284273",
+      "items": []
+    },
     {
       "run_id": "39659625665",
       "run_number": "302",
@@ -3230,45 +3244,6 @@
           "drive_folder": "גיקונומי",
           "drive_url": "https://drive.google.com/file/d/1PVw7s1aZteDYrcCHfLRWkc9_00w57TQu/view?usp=drivesdk",
           "yemos_path": "ivr2:/1/2/1019.wav"
-        }
-      ]
-    },
-    {
-      "run_id": "38120725317",
-      "run_number": "202",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-11T07:16:23.739252+00:00",
-      "israel_time": "11/10/2026 10:16",
-      "uploads": 2,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38120725317",
-      "items": [
-        {
-          "podcast": "שלושה שיודעים",
-          "title": "תביאו שניים תביאו שלושה תביאו ארבעה ילדים",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/42/907.wav"
-          ],
-          "drive_filename": "תביאו שניים תביאו שלושה תביאו ארבעה ילדים.mp3",
-          "drive_folder": "שלושה שיודעים",
-          "drive_url": "https://drive.google.com/file/d/1pX1WfwbxpstRpvOYr7eLg8Eteagx4JBa/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/42/907.wav"
-        },
-        {
-          "podcast": "פשוט AI",
-          "title": "האם הבינה המלאכותית תגרום לנו לחיות לנצח? 🧬 | פרק 188 עם מתי גיל",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/55/102.wav"
-          ],
-          "drive_filename": "האם הבינה המלאכותית תגרום לנו לחיות לנצח_ 🧬 _ פרק 188 עם מתי גיל.mp3",
-          "drive_folder": "פשוט AI",
-          "drive_url": "https://drive.google.com/file/d/1ICDy1BW3oIc_AmWmbH6fzyauSSRTxNvN/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/55/102.wav"
         }
       ]
     }
