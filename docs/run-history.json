@@ -1,6 +1,55 @@
 {
-  "updated_at": "2026-10-21T04:56:20.185361+00:00",
+  "updated_at": "2026-10-21T10:01:18.152646+00:00",
   "runs": [
+    {
+      "run_id": "39580892478",
+      "run_number": "298",
+      "event": "repository_dispatch",
+      "status": "failure",
+      "utc_time": "2026-10-21T10:01:18.152646+00:00",
+      "israel_time": "21/10/2026 13:01",
+      "uploads": 3,
+      "feed_errors": 0,
+      "target_errors": 2,
+      "partial": true,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39580892478",
+      "items": [
+        {
+          "podcast": "מגזין מעריב",
+          "title": "עוזרו של אהרן ברק: \"אם השמאל ינצח, מנדלבליט ימונה לשופט בעליון\"",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/15/20.wav"
+          ],
+          "drive_filename": "עוזרו של אהרן ברק_ _אם השמאל ינצח, מנדלבליט ימונה לשופט בעליון_.mp3",
+          "drive_folder": "מגזין מעריב",
+          "drive_url": "https://drive.google.com/file/d/1B1ceo3T7UDhMY4hMnp4L3WBvKH98J4QU/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/15/20.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "העתק, הדבק: המהפכה שהופכת עבודה של עשרות שנים לשלוש שעות",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/315.wav"
+          ],
+          "drive_filename": "העתק, הדבק_ המהפכה שהופכת עבודה של עשרות שנים לשלוש שעות.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1n8ZiuLFB-yfkPatES5_mn4Cw4xgKPrw3/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/315.wav"
+        },
+        {
+          "podcast": "שלושה שיודעים",
+          "title": "איילה מה לי ולה",
+          "destinations": [
+            "Google Drive"
+          ],
+          "drive_filename": "איילה מה לי ולה.mp3",
+          "drive_folder": "שלושה שיודעים",
+          "drive_url": "https://drive.google.com/file/d/1RcX9qegkMvKnle6s0QYhy1JKAkY7EGVP/view?usp=drivesdk"
+        }
+      ]
+    },
     {
       "run_id": "39546630337",
       "run_number": "297",
@@ -3225,31 +3274,6 @@
           "drive_folder": "חיים של אחרים",
           "drive_url": "https://drive.google.com/file/d/1JJ4vK3BcPzwvGVZauftFI3cbdyS5POZ5/view?usp=drivesdk",
           "yemos_path": "ivr2:/1/17/13.wav"
-        }
-      ]
-    },
-    {
-      "run_id": "38080898730",
-      "run_number": "197",
-      "event": "issues",
-      "status": "success",
-      "utc_time": "2026-10-10T19:43:26.390212+00:00",
-      "israel_time": "10/10/2026 22:43",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38080898730",
-      "items": [
-        {
-          "podcast": "אחד ביום",
-          "title": "על זה הבחירות: שוויון בנטל",
-          "destinations": [
-            "Google Drive"
-          ],
-          "drive_filename": "על זה הבחירות_ שוויון בנטל.mp3",
-          "drive_folder": "אחד ביום",
-          "drive_url": "https://drive.google.com/file/d/1AlJ2o1l7D_6pbJDtrn8Tv7b6G29RuTqE/view?usp=drivesdk"
         }
       ]
     }

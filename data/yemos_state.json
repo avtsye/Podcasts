@@ -9919,9 +9919,9 @@
       "status": "error",
       "filename_stem": "12",
       "error": "UploadFile finalization query retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-10-18T05:39:11.549834+00:00",
-      "attempt_count": 8,
-      "next_retry": "2026-10-21T05:39:11.549864+00:00"
+      "updated_at": "2026-10-21T09:57:50.389439+00:00",
+      "attempt_count": 9,
+      "next_retry": "2026-10-24T09:57:50.389465+00:00"
     },
     "startup_for_startup:b93b8925-0d61-4f88-8d4d-b49400eb0eca": {
       "podcast_id": "startup_for_startup",
@@ -26639,6 +26639,31 @@
       "path": "ivr2:/1/3/12.wav",
       "filename_stem": "12",
       "uploaded_at": "2026-10-21T04:54:51.527202+00:00"
+    },
+    "maariv_magazine:5d54eb28-5faf-40da-b6b7-b4e20070712c": {
+      "podcast_id": "maariv_magazine",
+      "title": "עוזרו של אהרן ברק: \"אם השמאל ינצח, מנדלבליט ימונה לשופט בעליון\"",
+      "status": "uploaded",
+      "path": "ivr2:/1/15/20.wav",
+      "filename_stem": "20",
+      "uploaded_at": "2026-10-21T09:59:14.339772+00:00"
+    },
+    "zman_sheavodtem:b6038545-b080-4955-b126-b4e901536fff": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "העתק, הדבק: המהפכה שהופכת עבודה של עשרות שנים לשלוש שעות",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/315.wav",
+      "filename_stem": "315",
+      "uploaded_at": "2026-10-21T10:00:03.880300+00:00"
+    },
+    "three_who_know:9186def1-5f31-4545-92c1-b4e90113d466": {
+      "podcast_id": "three_who_know",
+      "title": "איילה מה לי ולה",
+      "status": "error",
+      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "updated_at": "2026-10-21T10:01:03.533429+00:00",
+      "attempt_count": 1,
+      "next_retry": "2026-10-21T11:01:03.533450+00:00"
     }
   },
   "next_numbers": {
@@ -26656,7 +26681,7 @@
     "12": 11,
     "13": 11,
     "14": 5,
-    "15": 20,
+    "15": 21,
     "16": 12,
     "17": 21,
     "18": 11,
@@ -26671,10 +26696,10 @@
     "38": 11,
     "39": 9,
     "40": 7,
-    "20": 315,
+    "20": 316,
     "24": 17,
     "41": 11,
-    "42": 914,
+    "42": 915,
     "55": 104,
     "43": 113,
     "50": 4,
