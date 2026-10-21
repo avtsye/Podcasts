@@ -39,6 +39,11 @@ jobs:
           test -s docs/styles.css
           test -s docs/app.js
           test -s docs/sw.js
+      # The published index is refreshed by a separate workflow, which may
+      # finish after this push-triggered audit. Generate a current local copy
+      # so newly configured feeds are checked without a scheduling race.
+      - name: Build current episode index for validation
+        run: python -m src.build_episode_index
       - name: Run comprehensive read-only audit
         env:
           GOOGLE_TOKEN_JSON: ${{ secrets.GOOGLE_TOKEN_JSON }}
