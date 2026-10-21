@@ -427,6 +427,24 @@
       "drive_folder": "פשוט AI",
       "yemos_branch": "55",
       "category": "טכנולוגיה"
+    },
+    {
+      "id": "knesset_nichbada",
+      "name": "כנסת נכבדה – עם איזי מן",
+      "rss": "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/59ad7970-ebe4-463d-977e-ab5c017f7782/62f44bb5-4d7e-4d0f-8260-ab5c01805d43/podcast.rss",
+      "enabled": true,
+      "drive_folder": "כנסת נכבדה",
+      "yemos_branch": "56",
+      "category": "היסטוריה ופוליטיקה"
+    },
+    {
+      "id": "hapolitikaim",
+      "name": "הפוליטיקאים",
+      "rss": "https://www.spreaker.com/show/4949033/episodes/feed",
+      "enabled": true,
+      "drive_folder": "הפוליטיקאים",
+      "yemos_branch": "57",
+      "category": "היסטוריה ופוליטיקה"
     }
   ]
 }
