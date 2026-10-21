@@ -26671,6 +26671,271 @@
       "path": "ivr2:/1/24/17.wav",
       "filename_stem": "17",
       "uploaded_at": "2026-10-21T15:00:19.557551+00:00"
+    },
+    "knesset_nichbada:2f8e4f89-ccd2-44cf-8c8b-ab66010b629b": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 1 | מאספה מכוננת לכנסת הראשונה",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/1.wav",
+      "filename_stem": "1",
+      "uploaded_at": "2026-10-21T22:05:31.455946+00:00"
+    },
+    "knesset_nichbada:8bc6cbce-0a2f-4952-bb19-ab8c00d6aa44": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 3 | הנאומים הגדולים שנישאו בכנסת",
+      "status": "error",
+      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
+      "updated_at": "2026-10-21T22:06:10.488917+00:00",
+      "attempt_count": 1,
+      "next_retry": "2026-10-21T23:06:10.488937+00:00"
+    },
+    "knesset_nichbada:c3bed472-8ee3-41c9-8336-ab8c00e10a9a": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 4 | הכנסת וועדותיה",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/3.wav",
+      "filename_stem": "3",
+      "uploaded_at": "2026-10-21T22:06:39.543466+00:00"
+    },
+    "knesset_nichbada:8a924c4b-c6a6-4a42-888e-ab8c00e7acf7": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 5 |  יחי הנשיא",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/4.wav",
+      "filename_stem": "4",
+      "uploaded_at": "2026-10-21T22:07:11.944171+00:00"
+    },
+    "knesset_nichbada:34f6b0fc-511e-4b65-9aa1-ab8c00ef1de5": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 6 | משמר הכנסת",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/5.wav",
+      "filename_stem": "5",
+      "uploaded_at": "2026-10-21T22:07:43.064043+00:00"
+    },
+    "knesset_nichbada:2972cdf0-3b4d-4a84-8e87-ab8c00f53f7d": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 7 | אדוני היושב ראש",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-10-21T22:08:14.017151+00:00"
+    },
+    "knesset_nichbada:5ca000ef-b1d5-4c0a-aead-ab8c00bf18be": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 2 | הכנסת המחוקקת",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-10-21T22:08:46.515330+00:00"
+    },
+    "knesset_nichbada:234d25dc-c970-4672-85ba-ab8d012e8279": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 8 |  שיטת הבחירות",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-10-21T22:09:28.008335+00:00"
+    },
+    "knesset_nichbada:eda09a70-49bb-4d71-a52b-ab8d01351570": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 9 |  מזנון הכנסת",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-10-21T22:09:58.260615+00:00"
+    },
+    "knesset_nichbada:07b91cd9-49b7-48b8-8672-ab8d013a70a3": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 10 |  משפחות ושושלות בכנסת",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-10-21T22:10:31.193978+00:00"
+    },
+    "knesset_nichbada:3eae0e0d-1caf-4ad5-9baf-ab8f01017761": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 11 |  הכנסת וירושלים",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/11.wav",
+      "filename_stem": "11",
+      "uploaded_at": "2026-10-21T22:11:01.148381+00:00"
+    },
+    "knesset_nichbada:27beb975-dcb9-4b96-bcaf-ab8f0104d56c": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 12 |  נשים בכנסת",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/12.wav",
+      "filename_stem": "12",
+      "uploaded_at": "2026-10-21T22:11:33.127408+00:00"
+    },
+    "knesset_nichbada:be41129f-e3c8-43ee-b2a5-ab8f01083231": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 13 |  המיעוטים בכנסת",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/13.wav",
+      "filename_stem": "13",
+      "uploaded_at": "2026-10-21T22:12:19.152507+00:00"
+    },
+    "knesset_nichbada:3b70f1e1-0d73-4ea4-b8c9-ab9001395fe8": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 14 |  ממשלות נשבעות אמונים",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/14.wav",
+      "filename_stem": "14",
+      "uploaded_at": "2026-10-21T22:12:51.551929+00:00"
+    },
+    "knesset_nichbada:c0e3faa1-c3a8-454f-bcf5-ab90013d6150": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 15 |  הפיקוח של הכנסת על הממשלה",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/15.wav",
+      "filename_stem": "15",
+      "uploaded_at": "2026-10-21T22:13:38.400592+00:00"
+    },
+    "knesset_nichbada:072196f3-5048-45b2-b637-ab9100a0bb49": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 18 |  מפלגות שהיו ואינן – חלק ב: בימין",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/16.wav",
+      "filename_stem": "16",
+      "uploaded_at": "2026-10-21T22:14:08.178270+00:00"
+    },
+    "knesset_nichbada:9803f3a3-f790-4f9c-b096-ab9100ab787f": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 19 |  מפלגות שהיו ואינן – חלק ג: במרכז",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/17.wav",
+      "filename_stem": "17",
+      "uploaded_at": "2026-10-21T22:14:41.842704+00:00"
+    },
+    "knesset_nichbada:9236dfc9-b8d5-4367-b76b-ab9100b01b46": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 20 |  הכנסת – בית העם",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/18.wav",
+      "filename_stem": "18",
+      "uploaded_at": "2026-10-21T22:15:31.510199+00:00"
+    },
+    "knesset_nichbada:4e9fb112-83a0-4cfa-aa56-ab910104897d": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 21 |  כנסת ירוקה",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/19.wav",
+      "filename_stem": "19",
+      "uploaded_at": "2026-10-21T22:16:05.287076+00:00"
+    },
+    "knesset_nichbada:b671139c-06b7-4316-9786-ab910106f7e2": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 22 |  דברי הכנסת",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/20.wav",
+      "filename_stem": "20",
+      "uploaded_at": "2026-10-21T22:16:40.842454+00:00"
+    },
+    "knesset_nichbada:8f452824-02bf-4d6f-a959-ab94007f3c41": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 23 |  דברי הכנסת",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/21.wav",
+      "filename_stem": "21",
+      "uploaded_at": "2026-10-21T22:17:13.006707+00:00"
+    },
+    "knesset_nichbada:92fc242e-2044-43de-a6e0-ab94008757c3": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 24 |  מרכז החקר והמידע",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/22.wav",
+      "filename_stem": "22",
+      "uploaded_at": "2026-10-21T22:17:44.322199+00:00"
+    },
+    "knesset_nichbada:68f5e946-8dbe-4db9-b789-ab940089c84f": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 25 |  ארכיון הכנסת",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/23.wav",
+      "filename_stem": "23",
+      "uploaded_at": "2026-10-21T22:18:16.831861+00:00"
+    },
+    "knesset_nichbada:9d6c0b9b-fe65-4067-9a13-ab9400b542a2": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 27 |  ספריית הכנסת",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/24.wav",
+      "filename_stem": "24",
+      "uploaded_at": "2026-10-21T22:18:45.990155+00:00"
+    },
+    "knesset_nichbada:9720aa2c-24ce-49c7-b16b-ab9500916441": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 28 |  דברי הכנסת",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/25.wav",
+      "filename_stem": "25",
+      "uploaded_at": "2026-10-21T22:19:17.004650+00:00"
+    },
+    "knesset_nichbada:4c94add6-cca3-447c-98e4-ab9500945f11": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 29 |  האתר של הכנסת",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/26.wav",
+      "filename_stem": "26",
+      "uploaded_at": "2026-10-21T22:19:47.604593+00:00"
+    },
+    "knesset_nichbada:7279bde4-77f1-45ee-ac06-ab9500964641": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 30 |  סיור בכנסת",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/27.wav",
+      "filename_stem": "27",
+      "uploaded_at": "2026-10-21T22:20:20.321418+00:00"
+    },
+    "knesset_nichbada:4d03fd43-047f-4daf-9843-ab9500a2cff8": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 31 |  מערכת היחסים בין הכנסת לבתי המשפט",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/28.wav",
+      "filename_stem": "28",
+      "uploaded_at": "2026-10-21T22:20:52.219632+00:00"
+    },
+    "knesset_nichbada:5ef809b3-5154-4424-8c69-ab9500a57cfc": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 32 |  חברי כנסת שזכו בפרס ישראל",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/29.wav",
+      "filename_stem": "29",
+      "uploaded_at": "2026-10-21T22:21:26.140919+00:00"
+    },
+    "knesset_nichbada:5ac2b62c-70ac-4656-bef3-ab9500aada72": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 33 |  סיור בכנסת",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/30.wav",
+      "filename_stem": "30",
+      "uploaded_at": "2026-10-21T22:21:56.954369+00:00"
+    },
+    "knesset_nichbada:a6c7bf19-379c-4c2e-9076-aba300bc6262": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 26 |  תוכנית לקט",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/31.wav",
+      "filename_stem": "31",
+      "uploaded_at": "2026-10-21T22:22:28.210099+00:00"
+    },
+    "knesset_nichbada:a19da280-bfdd-470f-ba12-aba300bd3282": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 16 |  הכתבים הפרלמנטריים",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/32.wav",
+      "filename_stem": "32",
+      "uploaded_at": "2026-10-21T22:23:04.799117+00:00"
+    },
+    "knesset_nichbada:4eaa01e5-b826-4089-a3fa-aba400f36483": {
+      "podcast_id": "knesset_nichbada",
+      "title": "פרק 17 | מפלגות שנעלמו - שמאל",
+      "status": "uploaded",
+      "path": "ivr2:/1/56/33.wav",
+      "filename_stem": "33",
+      "uploaded_at": "2026-10-21T22:23:38.184628+00:00"
     }
   },
   "next_numbers": {
@@ -26711,6 +26976,7 @@
     "43": 113,
     "50": 4,
     "52": 3,
-    "51": 2
+    "51": 2,
+    "56": 34
   }
 }

@@ -1,6 +1,415 @@
 {
-  "updated_at": "2026-10-21T20:13:22.128306+00:00",
+  "updated_at": "2026-10-21T22:23:43.255247+00:00",
   "runs": [
+    {
+      "run_id": "39683799367",
+      "run_number": "304",
+      "event": "issues",
+      "status": "failure",
+      "utc_time": "2026-10-21T22:23:43.255247+00:00",
+      "israel_time": "22/10/2026 01:23",
+      "uploads": 33,
+      "feed_errors": 0,
+      "target_errors": 1,
+      "partial": true,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39683799367",
+      "items": [
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 1 | מאספה מכוננת לכנסת הראשונה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/1.wav"
+          ],
+          "drive_filename": "פרק 1 _ מאספה מכוננת לכנסת הראשונה.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1fVChHOw5ijb_0GuaCXcWdwxA0uCaSn42/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/1.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 3 | הנאומים הגדולים שנישאו בכנסת",
+          "destinations": [
+            "Google Drive"
+          ],
+          "drive_filename": "פרק 3 _ הנאומים הגדולים שנישאו בכנסת.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1ILXW52P64n9nbMxRJZMO8VTYQI8WAWKc/view?usp=drivesdk"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 4 | הכנסת וועדותיה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/3.wav"
+          ],
+          "drive_filename": "פרק 4 _ הכנסת וועדותיה.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1j3WAjpmDcUAadRbVFRoippWL6H7qqyyA/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/3.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 5 |  יחי הנשיא",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/4.wav"
+          ],
+          "drive_filename": "פרק 5 _ יחי הנשיא.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1ItQFWvoi6-jTxNIwE9xeKJJDVufpza9q/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/4.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 6 | משמר הכנסת",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/5.wav"
+          ],
+          "drive_filename": "פרק 6 _ משמר הכנסת.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1R2M8kgwW7NSP7fjdbXf_RxTEEu03JGdg/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/5.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 7 | אדוני היושב ראש",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/6.wav"
+          ],
+          "drive_filename": "פרק 7 _ אדוני היושב ראש.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1VvqeVXcyBYhHNgVGVu90A5SoIboYF1sb/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/6.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 2 | הכנסת המחוקקת",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/7.wav"
+          ],
+          "drive_filename": "פרק 2 _ הכנסת המחוקקת.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1VWcBcntea9Ukl1LEN0rEiFQZxVQAOag7/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/7.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 8 |  שיטת הבחירות",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/8.wav"
+          ],
+          "drive_filename": "פרק 8 _ שיטת הבחירות.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1Le_qmTCKQJJYYH0LbcBYXhJYRqwXL2ta/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/8.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 9 |  מזנון הכנסת",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/9.wav"
+          ],
+          "drive_filename": "פרק 9 _ מזנון הכנסת.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1J-sC808bw0GVFLbt2PuZ0EVJ2zd-wRyZ/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/9.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 10 |  משפחות ושושלות בכנסת",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/10.wav"
+          ],
+          "drive_filename": "פרק 10 _ משפחות ושושלות בכנסת.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1trKiumds1ny5-zBuy-2aB04VzMO-vQoX/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/10.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 11 |  הכנסת וירושלים",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/11.wav"
+          ],
+          "drive_filename": "פרק 11 _ הכנסת וירושלים.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1NhtioYyh6eKKQmKLJV4fUecgByfAs2a5/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/11.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 12 |  נשים בכנסת",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/12.wav"
+          ],
+          "drive_filename": "פרק 12 _ נשים בכנסת.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/10ko7Gf1nu1iYXINcTLIw9C8RaIluKWtr/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/12.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 13 |  המיעוטים בכנסת",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/13.wav"
+          ],
+          "drive_filename": "פרק 13 _ המיעוטים בכנסת.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1gnb-dsNMSnaDmDfKTZg3ZyLhSqgYOhRI/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/13.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 14 |  ממשלות נשבעות אמונים",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/14.wav"
+          ],
+          "drive_filename": "פרק 14 _ ממשלות נשבעות אמונים.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1p7QAhVxBFiM2SY1Whrxbf68btrraKP6Z/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/14.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 15 |  הפיקוח של הכנסת על הממשלה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/15.wav"
+          ],
+          "drive_filename": "פרק 15 _ הפיקוח של הכנסת על הממשלה.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1IQrYvAFvNvGJTPwaYDGzBem3xF_EhaHn/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/15.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 18 |  מפלגות שהיו ואינן – חלק ב: בימין",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/16.wav"
+          ],
+          "drive_filename": "פרק 18 _ מפלגות שהיו ואינן – חלק ב_ בימין.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1YY-b3f6J6__2T03aFTie_bg67f2RZ-x9/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/16.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 19 |  מפלגות שהיו ואינן – חלק ג: במרכז",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/17.wav"
+          ],
+          "drive_filename": "פרק 19 _ מפלגות שהיו ואינן – חלק ג_ במרכז.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1V7-xwPHw_jjW3oT1GWVbxnm6Vgg-45FE/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/17.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 20 |  הכנסת – בית העם",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/18.wav"
+          ],
+          "drive_filename": "פרק 20 _ הכנסת – בית העם.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1GrrOiydSwGBSlnyZUIzYNCPxGXsbAkP4/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/18.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 21 |  כנסת ירוקה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/19.wav"
+          ],
+          "drive_filename": "פרק 21 _ כנסת ירוקה.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1DGYnb85stev5gr8HQ9QcyuMnFr5os406/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/19.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 22 |  דברי הכנסת",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/20.wav"
+          ],
+          "drive_filename": "פרק 22 _ דברי הכנסת.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1gIjkwOzfSV4s7CTZIuRKDzt2cZxYPoSu/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/20.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 23 |  דברי הכנסת",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/21.wav"
+          ],
+          "drive_filename": "פרק 23 _ דברי הכנסת.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1Hyc5LCdp1xV123NiI06vEraAuZiNRO5J/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/21.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 24 |  מרכז החקר והמידע",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/22.wav"
+          ],
+          "drive_filename": "פרק 24 _ מרכז החקר והמידע.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1h2nnM1vYDYDCPkbBMa6aG_L-zqlbUVUH/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/22.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 25 |  ארכיון הכנסת",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/23.wav"
+          ],
+          "drive_filename": "פרק 25 _ ארכיון הכנסת.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/11guMEZSJ-ZbimfL9DZj4H8mB0Jrf4GQa/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/23.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 27 |  ספריית הכנסת",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/24.wav"
+          ],
+          "drive_filename": "פרק 27 _ ספריית הכנסת.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1571T5eGtpWwEHUamXibUg0AtzOtPLt7h/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/24.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 28 |  דברי הכנסת",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/25.wav"
+          ],
+          "drive_filename": "פרק 28 _ דברי הכנסת.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1P-BCj84spm6tqpmOq6LDsUMaIqIRbPZ7/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/25.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 29 |  האתר של הכנסת",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/26.wav"
+          ],
+          "drive_filename": "פרק 29 _ האתר של הכנסת.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1Y5ue8bQg7-3jFACrZRG1e96ShZcGpSaF/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/26.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 30 |  סיור בכנסת",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/27.wav"
+          ],
+          "drive_filename": "פרק 30 _ סיור בכנסת.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1I6hELJNqWIRngRwrxpS994ahZAWcfEva/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/27.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 31 |  מערכת היחסים בין הכנסת לבתי המשפט",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/28.wav"
+          ],
+          "drive_filename": "פרק 31 _ מערכת היחסים בין הכנסת לבתי המשפט.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1ezu7cgckTX02i7tMjNrkRiMu_cZ8vI0x/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/28.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 32 |  חברי כנסת שזכו בפרס ישראל",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/29.wav"
+          ],
+          "drive_filename": "פרק 32 _ חברי כנסת שזכו בפרס ישראל.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/174q3_NpwPyUyyLNbB9bg4tgG-QyhUFa5/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/29.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 33 |  סיור בכנסת",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/30.wav"
+          ],
+          "drive_filename": "פרק 33 _ סיור בכנסת.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1ilPlAIEJmrZDo78TOQmtRtvD5FLiDC5E/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/30.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 26 |  תוכנית לקט",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/31.wav"
+          ],
+          "drive_filename": "פרק 26 _ תוכנית לקט.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/14kgS_6gMPnPM4sfekIfatCp8EXrdT6Y1/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/31.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 16 |  הכתבים הפרלמנטריים",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/32.wav"
+          ],
+          "drive_filename": "פרק 16 _ הכתבים הפרלמנטריים.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1-fuQGlwa0AlqMnfljZLqjFpP_4nITRG3/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/32.wav"
+        },
+        {
+          "podcast": "כנסת נכבדה – עם איזי מן",
+          "title": "פרק 17 | מפלגות שנעלמו - שמאל",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/56/33.wav"
+          ],
+          "drive_filename": "פרק 17 _ מפלגות שנעלמו - שמאל.mp3",
+          "drive_folder": "כנסת נכבדה",
+          "drive_url": "https://drive.google.com/file/d/1GrEdQ5EHDQJFUblNldama44fccbUXRrQ/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/56/33.wav"
+        }
+      ]
+    },
     {
       "run_id": "39668284273",
       "run_number": "303",
@@ -3219,33 +3628,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38145909109",
       "items": []
-    },
-    {
-      "run_id": "38126635654",
-      "run_number": "203",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-11T08:59:04.056155+00:00",
-      "israel_time": "11/10/2026 11:59",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38126635654",
-      "items": [
-        {
-          "podcast": "גיקונומי",
-          "title": "פרק #1260 - יוני צרויה ולושה",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/2/1019.wav"
-          ],
-          "drive_filename": "פרק #1260 - יוני צרויה ולושה.mp3",
-          "drive_folder": "גיקונומי",
-          "drive_url": "https://drive.google.com/file/d/1PVw7s1aZteDYrcCHfLRWkc9_00w57TQu/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/2/1019.wav"
-        }
-      ]
     }
   ]
 }
