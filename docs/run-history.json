@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-10-21T10:14:33.429224+00:00",
+  "updated_at": "2026-10-21T15:03:21.363160+00:00",
   "runs": [
+    {
+      "run_id": "39621712225",
+      "run_number": "300",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-10-21T15:03:21.363160+00:00",
+      "israel_time": "21/10/2026 18:03",
+      "uploads": 2,
+      "feed_errors": 1,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39621712225",
+      "items": [
+        {
+          "podcast": "Ear Catcher",
+          "title": "״רצינו שידברו עלינו אז איכשהו זה קרה״ פרק 455 עם יובל גרודק מנכ״ל ושותף בגרופר",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/24/17.wav"
+          ],
+          "drive_filename": "״רצינו שידברו עלינו אז איכשהו זה קרה״ פרק 455 עם יובל גרודק מנכ״ל ושותף בגרופר.mp3",
+          "drive_folder": "Ear Catcher",
+          "drive_url": "https://drive.google.com/file/d/1MjE1XKgurjQee69SXMi--kvjzSfQ0cz0/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/24/17.wav"
+        },
+        {
+          "podcast": "שלושה שיודעים",
+          "title": "איילה מה לי ולה",
+          "yemos_path": "ivr2:/1/42/915.wav",
+          "destinations": [
+            "ימות המשיח ivr2:/1/42/915.wav"
+          ]
+        }
+      ]
+    },
     {
       "run_id": "39583048016",
       "run_number": "299",
@@ -3248,20 +3283,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38100975866",
-      "items": []
-    },
-    {
-      "run_id": "38092036105",
-      "run_number": "199",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-10T22:36:53.879901+00:00",
-      "israel_time": "11/10/2026 01:36",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38092036105",
       "items": []
     }
   ]

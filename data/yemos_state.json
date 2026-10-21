@@ -26659,11 +26659,18 @@
     "three_who_know:9186def1-5f31-4545-92c1-b4e90113d466": {
       "podcast_id": "three_who_know",
       "title": "איילה מה לי ולה",
-      "status": "error",
-      "error": "UploadFile request failed: ('Connection aborted.', TimeoutError('The write operation timed out'))",
-      "updated_at": "2026-10-21T10:01:03.533429+00:00",
-      "attempt_count": 1,
-      "next_retry": "2026-10-21T11:01:03.533450+00:00"
+      "status": "uploaded",
+      "path": "ivr2:/1/42/915.wav",
+      "filename_stem": "915",
+      "uploaded_at": "2026-10-21T15:03:08.119552+00:00"
+    },
+    "ear_catcher:2824c3be-06de-4fc3-90e9-b4ea00c4c658": {
+      "podcast_id": "ear_catcher",
+      "title": "״רצינו שידברו עלינו אז איכשהו זה קרה״ פרק 455 עם יובל גרודק מנכ״ל ושותף בגרופר",
+      "status": "uploaded",
+      "path": "ivr2:/1/24/17.wav",
+      "filename_stem": "17",
+      "uploaded_at": "2026-10-21T15:00:19.557551+00:00"
     }
   },
   "next_numbers": {
@@ -26697,9 +26704,9 @@
     "39": 9,
     "40": 7,
     "20": 316,
-    "24": 17,
+    "24": 18,
     "41": 11,
-    "42": 915,
+    "42": 916,
     "55": 104,
     "43": 113,
     "50": 4,
