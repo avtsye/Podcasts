@@ -12298,9 +12298,9 @@
       "status": "error",
       "filename_stem": "16",
       "error": "UploadFile finalization query retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-10-19T06:59:00.467336+00:00",
-      "attempt_count": 8,
-      "next_retry": "2026-10-22T06:59:00.467353+00:00"
+      "updated_at": "2026-10-22T10:16:14.768669+00:00",
+      "attempt_count": 9,
+      "next_retry": "2026-10-25T10:16:14.768702+00:00"
     },
     "osim_historia:https://api.spreaker.com/episode/75567734": {
       "podcast_id": "osim_historia",
@@ -26960,6 +26960,14 @@
       "path": "ivr2:/1/1/2667.wav",
       "filename_stem": "2667",
       "uploaded_at": "2026-10-22T04:55:13.390133+00:00"
+    },
+    "maariv_magazine:d9c5e8c3-bc95-4054-b3a9-b4e20083ad41": {
+      "podcast_id": "maariv_magazine",
+      "title": "\"אתה לא מחליט, אני מחליטה\": עורך הדין שעזב את משרד ראש הממשלה שובר שתיקה",
+      "status": "uploaded",
+      "path": "ivr2:/1/15/21.wav",
+      "filename_stem": "21",
+      "uploaded_at": "2026-10-22T10:17:32.274461+00:00"
     }
   },
   "next_numbers": {
@@ -26977,7 +26985,7 @@
     "12": 11,
     "13": 11,
     "14": 5,
-    "15": 21,
+    "15": 22,
     "16": 12,
     "17": 22,
     "18": 11,

@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-22T04:55:56.285421+00:00",
+  "updated_at": "2026-10-22T10:17:57.737786+00:00",
   "runs": [
+    {
+      "run_id": "39761728690",
+      "run_number": "310",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-22T10:17:57.737786+00:00",
+      "israel_time": "22/10/2026 13:17",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 1,
+      "partial": true,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39761728690",
+      "items": [
+        {
+          "podcast": "מגזין מעריב",
+          "title": "\"אתה לא מחליט, אני מחליטה\": עורך הדין שעזב את משרד ראש הממשלה שובר שתיקה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/15/21.wav"
+          ],
+          "drive_filename": "_אתה לא מחליט, אני מחליטה_ עורך הדין שעזב את משרד ראש הממשלה שובר שתיקה.mp3",
+          "drive_folder": "מגזין מעריב",
+          "drive_url": "https://drive.google.com/file/d/1Lzsx7vUeKBfrcjzOF9lhw7hp7ypIqvUb/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/15/21.wav"
+        }
+      ]
+    },
     {
       "run_id": "39724993453",
       "run_number": "309",
@@ -3650,20 +3677,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38193364234",
-      "items": []
-    },
-    {
-      "run_id": "38188600600",
-      "run_number": "209",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-12T00:36:46.519618+00:00",
-      "israel_time": "12/10/2026 03:36",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 1,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38188600600",
       "items": []
     }
   ]
