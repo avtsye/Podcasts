@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-22T11:33:01.945815+00:00",
+  "updated_at": "2026-10-22T15:23:19.917307+00:00",
   "runs": [
+    {
+      "run_id": "39804146517",
+      "run_number": "312",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-22T15:23:19.917307+00:00",
+      "israel_time": "22/10/2026 18:23",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39804146517",
+      "items": [
+        {
+          "podcast": "מנועי הכסף",
+          "title": "הצמיחה של 7.5% שאינה באמת צמיחה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/7/16.wav"
+          ],
+          "drive_filename": "הצמיחה של 7.5% שאינה באמת צמיחה.mp3",
+          "drive_folder": "מנועי הכסף",
+          "drive_url": "https://drive.google.com/file/d/1leA7H7Or9AuvH03pERBBDsbwyeHPOKwd/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/7/16.wav"
+        }
+      ]
+    },
     {
       "run_id": "39771297771",
       "run_number": "311",
@@ -3627,57 +3654,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38226718699",
       "items": []
-    },
-    {
-      "run_id": "38217581271",
-      "run_number": "211",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-12T07:27:48.138305+00:00",
-      "israel_time": "12/10/2026 10:27",
-      "uploads": 3,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38217581271",
-      "items": [
-        {
-          "podcast": "אחד ביום",
-          "title": "על זה הבחירות: הכלכלה",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/1/2659.wav"
-          ],
-          "drive_filename": "על זה הבחירות_ הכלכלה.mp3",
-          "drive_folder": "אחד ביום",
-          "drive_url": "https://drive.google.com/file/d/1o55HWXwfNv-t2Eti0ZbfiAsUxVsvZPfq/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/1/2659.wav"
-        },
-        {
-          "podcast": "שלושה שיודעים",
-          "title": "החתול שמיל הוא משהו לא רגיל",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/42/908.wav"
-          ],
-          "drive_filename": "החתול שמיל הוא משהו לא רגיל.mp3",
-          "drive_folder": "שלושה שיודעים",
-          "drive_url": "https://drive.google.com/file/d/17Q-CuTMvPUwQstgXBoGlkJ6wnksZG8xL/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/42/908.wav"
-        },
-        {
-          "podcast": "עושים חשבון",
-          "title": "עושים חשבון בקלפי: המדריך הכלכלי למצביע [עושים חשבון]",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/51/1.wav"
-          ],
-          "drive_filename": "עושים חשבון בקלפי_ המדריך הכלכלי למצביע [עושים חשבון].mp3",
-          "drive_folder": "עושים חשבון",
-          "drive_url": "https://drive.google.com/file/d/1V1cejqh_wKU86iccALKF-bEkLV4GgOpR/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/51/1.wav"
-        }
-      ]
     }
   ]
 }
