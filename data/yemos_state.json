@@ -26952,10 +26952,18 @@
       "path": "ivr2:/1/23/14.wav",
       "filename_stem": "14",
       "uploaded_at": "2026-10-22T00:51:40.708677+00:00"
+    },
+    "ehad_beyom:51412c1b-a70a-4a17-9fc4-b4ea01304b91": {
+      "podcast_id": "ehad_beyom",
+      "title": "על זה הבחירות: הדמוקרטיה הישראלית",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2667.wav",
+      "filename_stem": "2667",
+      "uploaded_at": "2026-10-22T04:55:13.390133+00:00"
     }
   },
   "next_numbers": {
-    "1": 2667,
+    "1": 2668,
     "2": 1024,
     "3": 13,
     "4": 17,

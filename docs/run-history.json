@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-22T00:52:03.850465+00:00",
+  "updated_at": "2026-10-22T04:55:56.285421+00:00",
   "runs": [
+    {
+      "run_id": "39724993453",
+      "run_number": "309",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-22T04:55:56.285421+00:00",
+      "israel_time": "22/10/2026 07:55",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39724993453",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "על זה הבחירות: הדמוקרטיה הישראלית",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2667.wav"
+          ],
+          "drive_filename": "על זה הבחירות_ הדמוקרטיה הישראלית.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/1tnkDrfMGBUajMtSyFv6I5L8SsR2vhfVe/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2667.wav"
+        }
+      ]
+    },
     {
       "run_id": "39702096814",
       "run_number": "308",
@@ -3637,20 +3664,6 @@
       "target_errors": 1,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38188600600",
-      "items": []
-    },
-    {
-      "run_id": "38181657333",
-      "run_number": "208",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-11T22:45:45.822260+00:00",
-      "israel_time": "12/10/2026 01:45",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38181657333",
       "items": []
     }
   ]
