@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-21T23:25:17.665976+00:00",
+  "updated_at": "2026-10-22T00:52:03.850465+00:00",
   "runs": [
+    {
+      "run_id": "39702096814",
+      "run_number": "308",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-10-22T00:52:03.850465+00:00",
+      "israel_time": "22/10/2026 03:52",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39702096814",
+      "items": [
+        {
+          "podcast": "הנוסע המתמיד עם נדב יעקבי",
+          "title": "משחק העונה באלופות סיפק את הסחורה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/23/14.wav"
+          ],
+          "drive_filename": "משחק העונה באלופות סיפק את הסחורה.mp3",
+          "drive_folder": "הנוסע המתמיד עם נדב יעקבי",
+          "drive_url": "https://drive.google.com/file/d/1mJqW1OO-3Stivu_5AaiuEWd1QFM4k6Kq/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/23/14.wav"
+        }
+      ]
+    },
     {
       "run_id": "39693197891",
       "run_number": "307",
@@ -3625,33 +3652,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38181657333",
       "items": []
-    },
-    {
-      "run_id": "38171793467",
-      "run_number": "207",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-11T20:21:56.235667+00:00",
-      "israel_time": "11/10/2026 23:21",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38171793467",
-      "items": [
-        {
-          "podcast": "חיים של אחרים",
-          "title": "חיים של אחרים | 11.10.26",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/17/14.wav"
-          ],
-          "drive_filename": "חיים של אחרים _ 11.10.26.mp3",
-          "drive_folder": "חיים של אחרים",
-          "drive_url": "https://drive.google.com/file/d/15RxUHpCUMbeKv7WjDl2L7Am15Nwo8L9g/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/17/14.wav"
-        }
-      ]
     }
   ]
 }
