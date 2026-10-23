@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-23T12:01:19.702732+00:00",
+  "updated_at": "2026-10-23T15:09:45.542312+00:00",
   "runs": [
+    {
+      "run_id": "39975601143",
+      "run_number": "322",
+      "event": "schedule",
+      "status": "failure",
+      "utc_time": "2026-10-23T15:09:45.542312+00:00",
+      "israel_time": "23/10/2026 18:09",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39975601143",
+      "items": [
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1265 - ח״כ יסמין סאקס פרידמן",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1024.wav"
+          ],
+          "drive_filename": "פרק #1265 - ח״כ יסמין סאקס פרידמן.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1tAdRvrEEtYLpDnuSqXjgfl9ZiYiWlpLD/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1024.wav"
+        }
+      ]
+    },
     {
       "run_id": "39950109359",
       "run_number": "321",
@@ -2963,20 +2990,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38487397318",
-      "items": []
-    },
-    {
-      "run_id": "38469601743",
-      "run_number": "221",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-13T21:19:20.117504+00:00",
-      "israel_time": "14/10/2026 00:19",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38469601743",
       "items": []
     }
   ]
