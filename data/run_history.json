@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-22T23:26:29.212069+00:00",
+  "updated_at": "2026-10-23T01:33:54.184647+00:00",
   "runs": [
+    {
+      "run_id": "39884647245",
+      "run_number": "317",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-10-23T01:33:54.184647+00:00",
+      "israel_time": "23/10/2026 04:33",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39884647245",
+      "items": []
+    },
     {
       "run_id": "39871717982",
       "run_number": "316",
@@ -2993,57 +3007,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38364765206",
       "items": []
-    },
-    {
-      "run_id": "38364734050",
-      "run_number": "216",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-13T07:47:50.778504+00:00",
-      "israel_time": "13/10/2026 10:47",
-      "uploads": 3,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38364734050",
-      "items": [
-        {
-          "podcast": "אחד ביום",
-          "title": "מחאת התיכוניסטים בצרפת",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/1/2660.wav"
-          ],
-          "drive_filename": "מחאת התיכוניסטים בצרפת.mp3",
-          "drive_folder": "אחד ביום",
-          "drive_url": "https://drive.google.com/file/d/1D16R2lfnPErZUdgMHsidJni3H1tRepLK/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/1/2660.wav"
-        },
-        {
-          "podcast": "Startup for Startup",
-          "title": "370: איך קיצרנו בניית אייג׳נטים מחודש ליום אחד",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/6/288.wav"
-          ],
-          "drive_filename": "370_ איך קיצרנו בניית אייג׳נטים מחודש ליום אחד.mp3",
-          "drive_folder": "Startup for Startup",
-          "drive_url": "https://drive.google.com/file/d/1-01bnTou9qNjFD2wU3Rjjox8AYSm3BiR/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/6/288.wav"
-        },
-        {
-          "podcast": "שלושה שיודעים",
-          "title": "יש ילד שאבא שלו רופא",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/42/909.wav"
-          ],
-          "drive_filename": "יש ילד שאבא שלו רופא.mp3",
-          "drive_folder": "שלושה שיודעים",
-          "drive_url": "https://drive.google.com/file/d/1ctgxgEuTNc5_JBgl6Qw3plv5sblCJh0f/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/42/909.wav"
-        }
-      ]
     }
   ]
 }
