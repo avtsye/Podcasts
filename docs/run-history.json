@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-10-23T04:57:21.451783+00:00",
+  "updated_at": "2026-10-23T06:33:36.186227+00:00",
   "runs": [
+    {
+      "run_id": "39912100657",
+      "run_number": "319",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-10-23T06:33:36.186227+00:00",
+      "israel_time": "23/10/2026 09:33",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39912100657",
+      "items": [
+        {
+          "podcast": "התשובה",
+          "title": "איפה המקל של גבי ודבי? [התשובה]",
+          "yemos_path": "ivr2:/1/5/112.wav",
+          "destinations": [
+            "ימות המשיח ivr2:/1/5/112.wav"
+          ]
+        }
+      ]
+    },
     {
       "run_id": "39903030360",
       "run_number": "318",
@@ -2980,33 +3003,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38427261676",
       "items": []
-    },
-    {
-      "run_id": "38420920913",
-      "run_number": "218",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-13T15:20:18.018724+00:00",
-      "israel_time": "13/10/2026 18:20",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38420920913",
-      "items": [
-        {
-          "podcast": "גיקונומי",
-          "title": "פרק #1261 - פרופ׳ יניב ארליך ופיתוחים בעולם התרופות",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/2/1020.wav"
-          ],
-          "drive_filename": "פרק #1261 - פרופ׳ יניב ארליך ופיתוחים בעולם התרופות.mp3",
-          "drive_folder": "גיקונומי",
-          "drive_url": "https://drive.google.com/file/d/1Oc-K1mDFJfJ5b56bkjy9RkfhVBTcLoFh/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/2/1020.wav"
-        }
-      ]
     }
   ]
 }

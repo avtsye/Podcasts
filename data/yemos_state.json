@@ -23771,12 +23771,10 @@
     "hatshuva:https://api.spreaker.com/episode/70249445": {
       "podcast_id": "hatshuva",
       "title": "איפה המקל של גבי ודבי? [התשובה]",
-      "status": "error",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/112.wav",
       "filename_stem": "112",
-      "error": "UploadFile finalization query retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-10-20T06:05:12.998741+00:00",
-      "attempt_count": 6,
-      "next_retry": "2026-10-23T06:05:12.998765+00:00"
+      "uploaded_at": "2026-10-23T06:33:03.622999+00:00"
     },
     "hatshuva:https://api.spreaker.com/episode/71195396": {
       "podcast_id": "hatshuva",
