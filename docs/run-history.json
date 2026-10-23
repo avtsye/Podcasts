@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-23T10:09:08.861374+00:00",
+  "updated_at": "2026-10-23T12:01:19.702732+00:00",
   "runs": [
+    {
+      "run_id": "39950109359",
+      "run_number": "321",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-10-23T12:01:19.702732+00:00",
+      "israel_time": "23/10/2026 15:01",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39950109359",
+      "items": []
+    },
     {
       "run_id": "39936942785",
       "run_number": "320",
@@ -2964,45 +2978,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38469601743",
       "items": []
-    },
-    {
-      "run_id": "38465625415",
-      "run_number": "220",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-13T20:50:44.392411+00:00",
-      "israel_time": "13/10/2026 23:50",
-      "uploads": 2,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38465625415",
-      "items": [
-        {
-          "podcast": "מגזין מעריב",
-          "title": "מעל הליגה - פרק 48 | מועמדת חדשה לאליפות?",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/15/16.wav"
-          ],
-          "drive_filename": "מעל הליגה - פרק 48 _ מועמדת חדשה לאליפות_.mp3",
-          "drive_folder": "מגזין מעריב",
-          "drive_url": "https://drive.google.com/file/d/1R1FrhRJvzyiN0SiE20FD9sFxKL0GLO1J/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/15/16.wav"
-        },
-        {
-          "podcast": "חיים של אחרים",
-          "title": "חיים של אחרים | 13.10.26",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/17/16.wav"
-          ],
-          "drive_filename": "חיים של אחרים _ 13.10.26.mp3",
-          "drive_folder": "חיים של אחרים",
-          "drive_url": "https://drive.google.com/file/d/1h-toDD-Hcf16zYpncjQQ0ww96DgACC6x/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/17/16.wav"
-        }
-      ]
     }
   ]
 }
