@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-24T22:22:10.745230+00:00",
+  "updated_at": "2026-10-24T22:32:03.083204+00:00",
   "runs": [
+    {
+      "run_id": "40138925760",
+      "run_number": "336",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-24T22:32:03.083204+00:00",
+      "israel_time": "25/10/2026 01:32",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40138925760",
+      "items": []
+    },
     {
       "run_id": "40138195417",
       "run_number": "335",
@@ -2849,33 +2863,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38757119404",
       "items": []
-    },
-    {
-      "run_id": "38716974161",
-      "run_number": "235",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-15T10:01:08.362436+00:00",
-      "israel_time": "15/10/2026 13:01",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38716974161",
-      "items": [
-        {
-          "podcast": "מנועי הכסף",
-          "title": "גיל שויד: מההשוואה לבועת הדוט.קום, דרך החיים כיו״ר ועד השינוי שהכרחי לילדינו",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/7/14.wav"
-          ],
-          "drive_filename": "גיל שויד_ מההשוואה לבועת הדוט.קום, דרך החיים כיו״ר ועד השינוי שהכרחי לילדינו.mp3",
-          "drive_folder": "מנועי הכסף",
-          "drive_url": "https://drive.google.com/file/d/1eyaeUXjqWyHUL1982e-1BVo5bU7o_xxD/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/7/14.wav"
-        }
-      ]
     }
   ]
 }
