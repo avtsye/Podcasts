@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-24T07:21:38.547602+00:00",
+  "updated_at": "2026-10-24T11:31:37.902903+00:00",
   "runs": [
+    {
+      "run_id": "40090177070",
+      "run_number": "330",
+      "event": "repository_dispatch",
+      "status": "failure",
+      "utc_time": "2026-10-24T11:31:37.902903+00:00",
+      "israel_time": "24/10/2026 14:31",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 1,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40090177070",
+      "items": []
+    },
     {
       "run_id": "40073769333",
       "run_number": "329",
@@ -2901,33 +2915,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38619535739",
       "items": []
-    },
-    {
-      "run_id": "38605097907",
-      "run_number": "229",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-14T17:17:07.101361+00:00",
-      "israel_time": "14/10/2026 20:17",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38605097907",
-      "items": [
-        {
-          "podcast": "Ear Catcher",
-          "title": "מה עושים אנשי הקריאייטיב אחרי גיל 50? פרק 454 עם דני יעקובוביץ׳, איש קריאייטיב עצמאי",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/24/16.wav"
-          ],
-          "drive_filename": "מה עושים אנשי הקריאייטיב אחרי גיל 50_ פרק 454 עם דני יעקובוביץ׳, איש קריאייטיב עצמאי.mp3",
-          "drive_folder": "Ear Catcher",
-          "drive_url": "https://drive.google.com/file/d/13RaQmK41uok6Al1CPTXHfJf8y85e7XmW/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/24/16.wav"
-        }
-      ]
     }
   ]
 }
