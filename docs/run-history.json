@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-24T19:31:44.233602+00:00",
+  "updated_at": "2026-10-24T22:22:10.745230+00:00",
   "runs": [
+    {
+      "run_id": "40138195417",
+      "run_number": "335",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-10-24T22:22:10.745230+00:00",
+      "israel_time": "25/10/2026 01:22",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40138195417",
+      "items": []
+    },
     {
       "run_id": "40125647462",
       "run_number": "334",
@@ -2860,33 +2874,6 @@
           "drive_folder": "מנועי הכסף",
           "drive_url": "https://drive.google.com/file/d/1eyaeUXjqWyHUL1982e-1BVo5bU7o_xxD/view?usp=drivesdk",
           "yemos_path": "ivr2:/1/7/14.wav"
-        }
-      ]
-    },
-    {
-      "run_id": "38683172065",
-      "run_number": "234",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-15T04:47:18.415663+00:00",
-      "israel_time": "15/10/2026 07:47",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 1,
-      "partial": true,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38683172065",
-      "items": [
-        {
-          "podcast": "אחד ביום",
-          "title": "קמפיין המפלגה הגדולה",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/1/2662.wav"
-          ],
-          "drive_filename": "קמפיין המפלגה הגדולה.mp3",
-          "drive_folder": "אחד ביום",
-          "drive_url": "https://drive.google.com/file/d/1M2uI8nWa2cvd5R1HYZUUQnmfc-7YRt8F/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/1/2662.wav"
         }
       ]
     }
