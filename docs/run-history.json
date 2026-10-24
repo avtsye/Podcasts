@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-24T16:38:41.809544+00:00",
+  "updated_at": "2026-10-24T19:31:44.233602+00:00",
   "runs": [
+    {
+      "run_id": "40125647462",
+      "run_number": "334",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-24T19:31:44.233602+00:00",
+      "israel_time": "24/10/2026 22:31",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40125647462",
+      "items": []
+    },
     {
       "run_id": "40112450664",
       "run_number": "333",
@@ -2873,33 +2887,6 @@
           "drive_folder": "אחד ביום",
           "drive_url": "https://drive.google.com/file/d/1M2uI8nWa2cvd5R1HYZUUQnmfc-7YRt8F/view?usp=drivesdk",
           "yemos_path": "ivr2:/1/1/2662.wav"
-        }
-      ]
-    },
-    {
-      "run_id": "38657145344",
-      "run_number": "233",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-14T23:58:36.944547+00:00",
-      "israel_time": "15/10/2026 02:58",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38657145344",
-      "items": [
-        {
-          "podcast": "הנוסע המתמיד עם נדב יעקבי",
-          "title": "מבול של שערים ודרמות",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/23/13.wav"
-          ],
-          "drive_filename": "מבול של שערים ודרמות.mp3",
-          "drive_folder": "הנוסע המתמיד עם נדב יעקבי",
-          "drive_url": "https://drive.google.com/file/d/1PikGssO4iYiMltxMn6z8g3TCC2pe_h4N/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/23/13.wav"
         }
       ]
     }
