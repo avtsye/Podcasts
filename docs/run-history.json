@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-23T23:12:00.587236+00:00",
+  "updated_at": "2026-10-24T01:38:35.120121+00:00",
   "runs": [
+    {
+      "run_id": "40050650634",
+      "run_number": "326",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-10-24T01:38:35.120121+00:00",
+      "israel_time": "24/10/2026 04:38",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40050650634",
+      "items": []
+    },
     {
       "run_id": "40038208149",
       "run_number": "325",
@@ -2925,45 +2939,6 @@
           "drive_folder": "בזמן שעבדתם",
           "drive_url": "https://drive.google.com/file/d/1n1qLOaGOIxInkgX5FxV8Nz-EDl1Br5fQ/view?usp=drivesdk",
           "yemos_path": "ivr2:/1/20/18.wav"
-        }
-      ]
-    },
-    {
-      "run_id": "38520990783",
-      "run_number": "225",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-14T06:15:53.837819+00:00",
-      "israel_time": "14/10/2026 09:15",
-      "uploads": 2,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38520990783",
-      "items": [
-        {
-          "podcast": "שלושה שיודעים",
-          "title": "הסם המסוכן - הופך כל מלאך לשטן",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/42/910.wav"
-          ],
-          "drive_filename": "הסם המסוכן - הופך כל מלאך לשטן.mp3",
-          "drive_folder": "שלושה שיודעים",
-          "drive_url": "https://drive.google.com/file/d/1jY-QsR42s_DCT4-G3WXBsIE0RiWn1G6C/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/42/910.wav"
-        },
-        {
-          "podcast": "הצוללת",
-          "title": "\"ירדתי על ברך והתחננתי שתחזור\": שיחה על החיים ועל המוות עם פרופ' גיל סיגל\"",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/50/2.wav"
-          ],
-          "drive_filename": "_ירדתי על ברך והתחננתי שתחזור_ שיחה על החיים ועל המוות עם פרופ' גיל סיגל_.mp3",
-          "drive_folder": "הצוללת",
-          "drive_url": "https://drive.google.com/file/d/1v53tnQUSnR_Ln1Uq17-ibKbAKSZkSexQ/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/50/2.wav"
         }
       ]
     }
