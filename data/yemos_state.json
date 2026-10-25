@@ -26982,10 +26982,18 @@
       "path": "ivr2:/1/2/1024.wav",
       "filename_stem": "1024",
       "uploaded_at": "2026-10-23T15:09:06.811633+00:00"
+    },
+    "ehad_beyom:54eb0c0b-4152-456d-a9e4-b4ed008db558": {
+      "podcast_id": "ehad_beyom",
+      "title": "למה טראמפ תומך בנתניהו?",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2668.wav",
+      "filename_stem": "2668",
+      "uploaded_at": "2026-10-25T05:10:04.784262+00:00"
     }
   },
   "next_numbers": {
-    "1": 2668,
+    "1": 2669,
     "2": 1025,
     "3": 13,
     "4": 17,

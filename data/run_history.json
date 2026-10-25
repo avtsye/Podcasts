@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-25T01:14:34.001095+00:00",
+  "updated_at": "2026-10-25T05:10:37.500944+00:00",
   "runs": [
+    {
+      "run_id": "40164500864",
+      "run_number": "339",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-10-25T05:10:37.500944+00:00",
+      "israel_time": "25/10/2026 07:10",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40164500864",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "למה טראמפ תומך בנתניהו?",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2668.wav"
+          ],
+          "drive_filename": "למה טראמפ תומך בנתניהו_.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/1K6_vJUMF7QLRn4BNvV9m0_uTdKeySCed/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2668.wav"
+        }
+      ]
+    },
     {
       "run_id": "40149797454",
       "run_number": "338",
@@ -2848,20 +2875,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38791906815",
-      "items": []
-    },
-    {
-      "run_id": "38791891275",
-      "run_number": "238",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-15T19:12:32.241949+00:00",
-      "israel_time": "15/10/2026 22:12",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38791891275",
       "items": []
     }
   ]
