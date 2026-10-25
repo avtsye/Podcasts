@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-25T06:14:37.509215+00:00",
+  "updated_at": "2026-10-25T09:52:03.203934+00:00",
   "runs": [
+    {
+      "run_id": "40182327552",
+      "run_number": "341",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-10-25T09:52:03.203934+00:00",
+      "israel_time": "25/10/2026 11:52",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40182327552",
+      "items": [
+        {
+          "podcast": "שלושה שיודעים",
+          "title": "את הזן יש לשבח ולהיטיב בהרכבה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/42/916.wav"
+          ],
+          "drive_filename": "את הזן יש לשבח ולהיטיב בהרכבה.mp3",
+          "drive_folder": "שלושה שיודעים",
+          "drive_url": "https://drive.google.com/file/d/1TzyhnbkInrkD3CdGyhL77SBE92h3kmV9/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/42/916.wav"
+        }
+      ]
+    },
     {
       "run_id": "40168354480",
       "run_number": "340",
@@ -2861,20 +2888,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38816727380",
-      "items": []
-    },
-    {
-      "run_id": "38816681828",
-      "run_number": "240",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-15T22:23:37.620400+00:00",
-      "israel_time": "16/10/2026 01:23",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38816681828",
       "items": []
     }
   ]
