@@ -27006,6 +27006,14 @@
       "path": "ivr2:/1/2/1025.wav",
       "filename_stem": "1025",
       "uploaded_at": "2026-10-25T14:13:55.955207+00:00"
+    },
+    "sakranit:71c62a6c-2353-40e0-964d-b4ee010c6b19": {
+      "podcast_id": "sakranit",
+      "title": "לאיזו מפלגה מצביע CHATGPT?",
+      "status": "uploaded",
+      "path": "ivr2:/1/11/12.wav",
+      "filename_stem": "12",
+      "uploaded_at": "2026-10-25T17:41:01.989215+00:00"
     }
   },
   "next_numbers": {
@@ -27019,7 +27027,7 @@
     "8": 12,
     "9": 49,
     "10": 11,
-    "11": 12,
+    "11": 13,
     "12": 11,
     "13": 11,
     "14": 5,
