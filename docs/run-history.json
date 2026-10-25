@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-25T19:41:36.113412+00:00",
+  "updated_at": "2026-10-25T22:27:48.305757+00:00",
   "runs": [
+    {
+      "run_id": "40240191605",
+      "run_number": "348",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-10-25T22:27:48.305757+00:00",
+      "israel_time": "26/10/2026 00:27",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40240191605",
+      "items": [
+        {
+          "podcast": "חיים של אחרים",
+          "title": "חיים של אחרים | 25.10.26",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/17/22.wav"
+          ],
+          "drive_filename": "חיים של אחרים _ 25.10.26.mp3",
+          "drive_folder": "חיים של אחרים",
+          "drive_url": "https://drive.google.com/file/d/1KhjTJcRm8xsiNk0O2Z6AuYdV0GH3oFnd/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/17/22.wav"
+        }
+      ]
+    },
     {
       "run_id": "40227176578",
       "run_number": "347",
@@ -2887,20 +2914,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38901002932",
-      "items": []
-    },
-    {
-      "run_id": "38883546556",
-      "run_number": "246",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-16T09:54:15.578798+00:00",
-      "israel_time": "16/10/2026 12:54",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/38883546556",
       "items": []
     }
   ]
