@@ -26998,11 +26998,19 @@
       "path": "ivr2:/1/42/916.wav",
       "filename_stem": "916",
       "uploaded_at": "2026-10-25T09:51:51.766473+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/5c9f325f-b1c7-375a-bf51-a33588d4b5ad": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1266 - נפתלי בנט",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1025.wav",
+      "filename_stem": "1025",
+      "uploaded_at": "2026-10-25T14:13:55.955207+00:00"
     }
   },
   "next_numbers": {
     "1": 2669,
-    "2": 1025,
+    "2": 1026,
     "3": 13,
     "4": 17,
     "5": 113,
