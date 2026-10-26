@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-26T11:28:28.263452+00:00",
+  "updated_at": "2026-10-26T14:20:54.944081+00:00",
   "runs": [
+    {
+      "run_id": "40338560211",
+      "run_number": "355",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-26T14:20:54.944081+00:00",
+      "israel_time": "26/10/2026 16:20",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40338560211",
+      "items": [
+        {
+          "podcast": "מגזין מעריב",
+          "title": "שחקן עיט - עם מוטי קקון | ״מחצית בשכונה״, פרק 64",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/15/22.wav"
+          ],
+          "drive_filename": "שחקן עיט - עם מוטי קקון _ ״מחצית בשכונה״, פרק 64.mp3",
+          "drive_folder": "מגזין מעריב",
+          "drive_url": "https://drive.google.com/file/d/1kn8K-Iha3qH_-v249h8KPBvGoHHV0XYB/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/15/22.wav"
+        }
+      ]
+    },
     {
       "run_id": "40315131711",
       "run_number": "354",
@@ -2962,20 +2989,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39017397542",
-      "items": []
-    },
-    {
-      "run_id": "39002969988",
-      "run_number": "253",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-17T04:33:41.240990+00:00",
-      "israel_time": "17/10/2026 07:33",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39002969988",
       "items": []
     }
   ]
