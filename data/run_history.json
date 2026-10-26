@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-26T06:23:51.424959+00:00",
+  "updated_at": "2026-10-26T11:28:28.263452+00:00",
   "runs": [
+    {
+      "run_id": "40315131711",
+      "run_number": "354",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-10-26T11:28:28.263452+00:00",
+      "israel_time": "26/10/2026 13:28",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40315131711",
+      "items": [
+        {
+          "podcast": "שלושה שיודעים",
+          "title": "הם יודעים שזו ספירה לאחור עד הפיצוץ",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/42/917.wav"
+          ],
+          "drive_filename": "הם יודעים שזו ספירה לאחור עד הפיצוץ.mp3",
+          "drive_folder": "שלושה שיודעים",
+          "drive_url": "https://drive.google.com/file/d/1OqVQ7IMOwT-Ly3QqPg7UMgW1Iak9YiER/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/42/917.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "למה מהפכת הבינה המלאכותית היא בעצם מהפכת הדאטא (מידע) 📇 | פרק 190 עם גבריאלה כהן, מונגודיבי",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/104.wav"
+          ],
+          "drive_filename": "למה מהפכת הבינה המלאכותית היא בעצם מהפכת הדאטא (מידע) 📇 _ פרק 190 עם גבריאלה כהן, מונגודיבי.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1w9SdMSAUBfCb5Slo70gqOGEUWRtiHuB_/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/55/104.wav"
+        }
+      ]
+    },
     {
       "run_id": "40279512235",
       "run_number": "353",
@@ -2937,20 +2976,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39002969988",
-      "items": []
-    },
-    {
-      "run_id": "39000641439",
-      "run_number": "252",
-      "event": "repository_dispatch",
-      "status": "failure",
-      "utc_time": "2026-10-17T03:56:48.187417+00:00",
-      "israel_time": "17/10/2026 06:56",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 1,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39000641439",
       "items": []
     }
   ]
