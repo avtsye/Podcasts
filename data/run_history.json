@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-26T17:34:45.220044+00:00",
+  "updated_at": "2026-10-26T20:33:13.619530+00:00",
   "runs": [
+    {
+      "run_id": "40396452948",
+      "run_number": "357",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-26T20:33:13.619530+00:00",
+      "israel_time": "26/10/2026 22:33",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40396452948",
+      "items": [
+        {
+          "podcast": "עושים טכנולוגיה",
+          "title": "העתידן שהיה הגיבור של סטיב ג'ובס [עושים טכנולוגיה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/4/17.wav"
+          ],
+          "drive_filename": "העתידן שהיה הגיבור של סטיב ג'ובס [עושים טכנולוגיה].mp3",
+          "drive_folder": "עושים טכנולוגיה",
+          "drive_url": "https://drive.google.com/file/d/1V3qlpk8TohsT-NDjICA9QNiPc_-5WxRV/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/4/17.wav"
+        }
+      ]
+    },
     {
       "run_id": "40369823868",
       "run_number": "356",
@@ -2975,20 +3002,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39032135283",
-      "items": []
-    },
-    {
-      "run_id": "39021068509",
-      "run_number": "255",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-17T09:26:07.504004+00:00",
-      "israel_time": "17/10/2026 12:26",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39021068509",
       "items": []
     }
   ]

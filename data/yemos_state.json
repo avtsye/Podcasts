@@ -27070,13 +27070,21 @@
       "path": "ivr2:/1/15/22.wav",
       "filename_stem": "22",
       "uploaded_at": "2026-10-26T14:20:21.369302+00:00"
+    },
+    "osim_tech:https://api.spreaker.com/episode/75283562": {
+      "podcast_id": "osim_tech",
+      "title": "העתידן שהיה הגיבור של סטיב ג'ובס [עושים טכנולוגיה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/4/17.wav",
+      "filename_stem": "17",
+      "uploaded_at": "2026-10-26T20:32:38.465853+00:00"
     }
   },
   "next_numbers": {
     "1": 2670,
     "2": 1026,
     "3": 14,
-    "4": 17,
+    "4": 18,
     "5": 113,
     "6": 290,
     "7": 17,
