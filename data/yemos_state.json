@@ -27094,10 +27094,18 @@
       "path": "ivr2:/1/2/1026.wav",
       "filename_stem": "1026",
       "uploaded_at": "2026-10-27T00:29:57.358156+00:00"
+    },
+    "ehad_beyom:e8398ae6-48b7-4974-bfcc-b4ef01624be2": {
+      "podcast_id": "ehad_beyom",
+      "title": "פותחים סוגריים (מחשבות על הבחירות)",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2670.wav",
+      "filename_stem": "2670",
+      "uploaded_at": "2026-10-27T06:20:32.103024+00:00"
     }
   },
   "next_numbers": {
-    "1": 2670,
+    "1": 2671,
     "2": 1027,
     "3": 14,
     "4": 18,
