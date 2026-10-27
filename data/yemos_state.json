@@ -27086,11 +27086,19 @@
       "path": "ivr2:/1/17/23.wav",
       "filename_stem": "23",
       "uploaded_at": "2026-10-26T21:55:36.465799+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/686729dc-7042-373f-9541-4688658a4e2d": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1267 - אריאל אדמוני וקטר",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1026.wav",
+      "filename_stem": "1026",
+      "uploaded_at": "2026-10-27T00:29:57.358156+00:00"
     }
   },
   "next_numbers": {
     "1": 2670,
-    "2": 1026,
+    "2": 1027,
     "3": 14,
     "4": 18,
     "5": 113,
