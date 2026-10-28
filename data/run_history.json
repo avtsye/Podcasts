@@ -1,6 +1,57 @@
 {
-  "updated_at": "2026-10-28T02:20:11.765556+00:00",
+  "updated_at": "2026-10-28T07:32:09.705190+00:00",
   "runs": [
+    {
+      "run_id": "40650481956",
+      "run_number": "369",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-10-28T07:32:09.705190+00:00",
+      "israel_time": "28/10/2026 09:32",
+      "uploads": 3,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40650481956",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "האנשים שמאחורי אחוז ההצבעה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2671.wav"
+          ],
+          "drive_filename": "האנשים שמאחורי אחוז ההצבעה.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/1RYkBvTXSV3pvL1p9GP9xwF1VgmPXC6Wt/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2671.wav"
+        },
+        {
+          "podcast": "חיות כיס",
+          "title": "פרק 194: הבוקר שאחרי (ש.ח.)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/3/14.wav"
+          ],
+          "drive_filename": "פרק 194_ הבוקר שאחרי (ש.ח.).mp3",
+          "drive_folder": "חיות כיס",
+          "drive_url": "https://drive.google.com/file/d/1JOp4v4Y_6qRqZa8CIzv356JYHcuuwgFn/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/3/14.wav"
+        },
+        {
+          "podcast": "שלושה שיודעים",
+          "title": "אלימות היא כרסום יסוד הדמוקרטיה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/42/918.wav"
+          ],
+          "drive_filename": "אלימות היא כרסום יסוד הדמוקרטיה.mp3",
+          "drive_folder": "שלושה שיודעים",
+          "drive_url": "https://drive.google.com/file/d/1wElDs2BBefUwe7NujNqt7CM5L5vSOIEO/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/42/918.wav"
+        }
+      ]
+    },
     {
       "run_id": "40620248795",
       "run_number": "368",
@@ -2988,45 +3039,6 @@
           "drive_folder": "מגזין מעריב",
           "drive_url": "https://drive.google.com/file/d/18syTJeVb76Q5EGKf_ymJNVQQGytGmlT9/view?usp=drivesdk",
           "yemos_path": "ivr2:/1/15/18.wav"
-        }
-      ]
-    },
-    {
-      "run_id": "39102340374",
-      "run_number": "267",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-18T05:59:28.686835+00:00",
-      "israel_time": "18/10/2026 08:59",
-      "uploads": 2,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39102340374",
-      "items": [
-        {
-          "podcast": "שלושה שיודעים",
-          "title": "רק אל עצמי לדבר ידעתי",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/42/911.wav"
-          ],
-          "drive_filename": "רק אל עצמי לדבר ידעתי.mp3",
-          "drive_folder": "שלושה שיודעים",
-          "drive_url": "https://drive.google.com/file/d/1_u4BRHDynAv-vobghBP9Ba-OxSYBu5gx/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/42/911.wav"
-        },
-        {
-          "podcast": "פשוט AI",
-          "title": "הגיע הזמן לדבר על אינסטינקט! 🕵️ | פרק 189 עם שרית אברבוך אליה (Instinct)",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/55/103.wav"
-          ],
-          "drive_filename": "הגיע הזמן לדבר על אינסטינקט! 🕵️ _ פרק 189 עם שרית אברבוך אליה (Instinct).mp3",
-          "drive_folder": "פשוט AI",
-          "drive_url": "https://drive.google.com/file/d/18-xRogPc4oGEXhW6POZLynPw63OHhWyw/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/55/103.wav"
         }
       ]
     }

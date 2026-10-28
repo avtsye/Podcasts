@@ -27102,12 +27102,36 @@
       "path": "ivr2:/1/1/2670.wav",
       "filename_stem": "2670",
       "uploaded_at": "2026-10-27T06:20:32.103024+00:00"
+    },
+    "ehad_beyom:7b769131-fc57-4e8f-acc4-b4f1001f0079": {
+      "podcast_id": "ehad_beyom",
+      "title": "האנשים שמאחורי אחוז ההצבעה",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2671.wav",
+      "filename_stem": "2671",
+      "uploaded_at": "2026-10-28T07:30:39.169272+00:00"
+    },
+    "hayot_kes:e34a6458-d2f9-4f15-ac78-b4e800c6a43d": {
+      "podcast_id": "hayot_kes",
+      "title": "פרק 194: הבוקר שאחרי (ש.ח.)",
+      "status": "uploaded",
+      "path": "ivr2:/1/3/14.wav",
+      "filename_stem": "14",
+      "uploaded_at": "2026-10-28T07:31:00.140189+00:00"
+    },
+    "three_who_know:07bfed1c-0ea6-48f5-ad79-b4ef00f8ed1e": {
+      "podcast_id": "three_who_know",
+      "title": "אלימות היא כרסום יסוד הדמוקרטיה",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/918.wav",
+      "filename_stem": "918",
+      "uploaded_at": "2026-10-28T07:31:57.776016+00:00"
     }
   },
   "next_numbers": {
-    "1": 2671,
+    "1": 2672,
     "2": 1027,
-    "3": 14,
+    "3": 15,
     "4": 18,
     "5": 113,
     "6": 290,
@@ -27137,7 +27161,7 @@
     "20": 316,
     "24": 18,
     "41": 11,
-    "42": 918,
+    "42": 919,
     "55": 105,
     "43": 113,
     "50": 4,
