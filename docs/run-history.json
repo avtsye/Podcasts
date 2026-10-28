@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-28T09:45:27.725042+00:00",
+  "updated_at": "2026-10-28T14:25:39.872614+00:00",
   "runs": [
+    {
+      "run_id": "40705537982",
+      "run_number": "371",
+      "event": "repository_dispatch",
+      "status": "failure",
+      "utc_time": "2026-10-28T14:25:39.872614+00:00",
+      "israel_time": "28/10/2026 16:25",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 1,
+      "partial": true,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40705537982",
+      "items": [
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "כל הביצים בבועה אחת",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/316.wav"
+          ],
+          "drive_filename": "כל הביצים בבועה אחת.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1C6BECrXhHInFyp_RAI0gg3Oni_klUC17/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/316.wav"
+        }
+      ]
+    },
     {
       "run_id": "40666624132",
       "run_number": "370",
@@ -2989,33 +3016,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39133493964",
       "items": []
-    },
-    {
-      "run_id": "39122321876",
-      "run_number": "269",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-18T11:14:17.455353+00:00",
-      "israel_time": "18/10/2026 14:14",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39122321876",
-      "items": [
-        {
-          "podcast": "מנועי הכסף",
-          "title": "החרם שעוד לא ראינו - ולמה הוא הכי מסוכן לישראל",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/7/15.wav"
-          ],
-          "drive_filename": "החרם שעוד לא ראינו - ולמה הוא הכי מסוכן לישראל.mp3",
-          "drive_folder": "מנועי הכסף",
-          "drive_url": "https://drive.google.com/file/d/14L8oKXlZuNHHylAwQeXd9ORU1QsaDQIB/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/7/15.wav"
-        }
-      ]
     }
   ]
 }

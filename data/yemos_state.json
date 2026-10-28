@@ -12298,9 +12298,9 @@
       "status": "error",
       "filename_stem": "16",
       "error": "UploadFile finalization query retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-10-25T11:43:19.176318+00:00",
-      "attempt_count": 10,
-      "next_retry": "2026-10-28T11:43:19.176337+00:00"
+      "updated_at": "2026-10-28T14:24:42.908777+00:00",
+      "attempt_count": 11,
+      "next_retry": "2026-10-31T14:24:42.908807+00:00"
     },
     "osim_historia:https://api.spreaker.com/episode/75567734": {
       "podcast_id": "osim_historia",
@@ -27126,6 +27126,14 @@
       "path": "ivr2:/1/42/918.wav",
       "filename_stem": "918",
       "uploaded_at": "2026-10-28T07:31:57.776016+00:00"
+    },
+    "zman_sheavodtem:edd591ea-dd89-406e-b472-b4f100a4c4c3": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "כל הביצים בבועה אחת",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/316.wav",
+      "filename_stem": "316",
+      "uploaded_at": "2026-10-28T14:25:19.907213+00:00"
     }
   },
   "next_numbers": {
@@ -27158,7 +27166,7 @@
     "38": 11,
     "39": 9,
     "40": 7,
-    "20": 316,
+    "20": 317,
     "24": 18,
     "41": 11,
     "42": 919,
