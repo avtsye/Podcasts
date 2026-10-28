@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-28T19:48:07.397195+00:00",
+  "updated_at": "2026-10-28T21:42:53.937142+00:00",
   "runs": [
+    {
+      "run_id": "40774015118",
+      "run_number": "374",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-28T21:42:53.937142+00:00",
+      "israel_time": "28/10/2026 23:42",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40774015118",
+      "items": [
+        {
+          "podcast": "חיים של אחרים",
+          "title": "חיים של אחרים | 28.10.26",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/17/24.wav"
+          ],
+          "drive_filename": "חיים של אחרים _ 28.10.26.mp3",
+          "drive_folder": "חיים של אחרים",
+          "drive_url": "https://drive.google.com/file/d/1PfWTDqBtAC5QSv-949cBZdylViJDa-VZ/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/17/24.wav"
+        }
+      ]
+    },
     {
       "run_id": "40757404634",
       "run_number": "373",
@@ -3002,33 +3029,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39152845838",
       "items": []
-    },
-    {
-      "run_id": "39148490304",
-      "run_number": "272",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-18T17:13:46.280456+00:00",
-      "israel_time": "18/10/2026 20:13",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39148490304",
-      "items": [
-        {
-          "podcast": "סקרנית",
-          "title": "הפודקאסט הזה הוא לא אמיתי",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/11/11.wav"
-          ],
-          "drive_filename": "הפודקאסט הזה הוא לא אמיתי.mp3",
-          "drive_folder": "סקרנית",
-          "drive_url": "https://drive.google.com/file/d/1FDvNIAhEi9n_IWCErLX-olSszuDitmoH/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/11/11.wav"
-        }
-      ]
     }
   ]
 }
