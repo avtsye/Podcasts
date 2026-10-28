@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-28T14:25:39.872614+00:00",
+  "updated_at": "2026-10-28T16:41:58.820607+00:00",
   "runs": [
+    {
+      "run_id": "40728245059",
+      "run_number": "372",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-28T16:41:58.820607+00:00",
+      "israel_time": "28/10/2026 18:41",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40728245059",
+      "items": [
+        {
+          "podcast": "מגזין מעריב",
+          "title": "מעל הליגה - פרק 50 | מכבי חיפה צריכה לקבל החלטה דרמטית",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/15/23.wav"
+          ],
+          "drive_filename": "מעל הליגה - פרק 50 _ מכבי חיפה צריכה לקבל החלטה דרמטית.mp3",
+          "drive_folder": "מגזין מעריב",
+          "drive_url": "https://drive.google.com/file/d/10mFN51czFJA-OxMAQoOP8ps9gBlxwzda/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/15/23.wav"
+        }
+      ]
+    },
     {
       "run_id": "40705537982",
       "run_number": "371",
@@ -3001,20 +3028,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39136867446",
-      "items": []
-    },
-    {
-      "run_id": "39133493964",
-      "run_number": "270",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-18T13:53:44.158163+00:00",
-      "israel_time": "18/10/2026 16:53",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39133493964",
       "items": []
     }
   ]
