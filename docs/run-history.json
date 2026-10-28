@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-28T07:32:09.705190+00:00",
+  "updated_at": "2026-10-28T09:45:27.725042+00:00",
   "runs": [
+    {
+      "run_id": "40666624132",
+      "run_number": "370",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-28T09:45:27.725042+00:00",
+      "israel_time": "28/10/2026 11:45",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40666624132",
+      "items": []
+    },
     {
       "run_id": "40650481956",
       "run_number": "369",
@@ -3000,45 +3014,6 @@
           "drive_folder": "מנועי הכסף",
           "drive_url": "https://drive.google.com/file/d/14L8oKXlZuNHHylAwQeXd9ORU1QsaDQIB/view?usp=drivesdk",
           "yemos_path": "ivr2:/1/7/15.wav"
-        }
-      ]
-    },
-    {
-      "run_id": "39117247121",
-      "run_number": "268",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-18T09:58:01.091405+00:00",
-      "israel_time": "18/10/2026 12:58",
-      "uploads": 2,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39117247121",
-      "items": [
-        {
-          "podcast": "מגזין מעריב",
-          "title": "לבורסה לא אכפת בכמה קניתם\": המלכודת שמפילה גם את המשקיעים המנוסים ביותר",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/15/17.wav"
-          ],
-          "drive_filename": "לבורסה לא אכפת בכמה קניתם_ המלכודת שמפילה גם את המשקיעים המנוסים ביותר.mp3",
-          "drive_folder": "מגזין מעריב",
-          "drive_url": "https://drive.google.com/file/d/1spY16lxFXp_wGCVkK8aDVzOPLf5Wfh8k/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/15/17.wav"
-        },
-        {
-          "podcast": "מגזין מעריב",
-          "title": "אחרי שתבע אישית את רונן בר: קב\"ט הנובה תוקף - \"ישלם בכלא עד סוף חייו\"",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/15/18.wav"
-          ],
-          "drive_filename": "אחרי שתבע אישית את רונן בר_ קב_ט הנובה תוקף - _ישלם בכלא עד סוף חייו_.mp3",
-          "drive_folder": "מגזין מעריב",
-          "drive_url": "https://drive.google.com/file/d/18syTJeVb76Q5EGKf_ymJNVQQGytGmlT9/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/15/18.wav"
         }
       ]
     }
