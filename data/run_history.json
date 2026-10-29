@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-29T09:43:29.332457+00:00",
+  "updated_at": "2026-10-29T16:13:02.159751+00:00",
   "runs": [
+    {
+      "run_id": "40909063980",
+      "run_number": "379",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-29T16:13:02.159751+00:00",
+      "israel_time": "29/10/2026 18:13",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40909063980",
+      "items": [
+        {
+          "podcast": "מנועי הכסף",
+          "title": "הבחירות הכריעו את הריבית",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/7/17.wav"
+          ],
+          "drive_filename": "הבחירות הכריעו את הריבית.mp3",
+          "drive_folder": "מנועי הכסף",
+          "drive_url": "https://drive.google.com/file/d/1mi-wxx8ndqlN_-oa_3Npd1Gar5H4C2i4/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/7/17.wav"
+        },
+        {
+          "podcast": "הצוללת",
+          "title": "עדיין אין ממשלה, אבל מה עם הכלכלה? | פרק 392",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/50/4.wav"
+          ],
+          "drive_filename": "עדיין אין ממשלה, אבל מה עם הכלכלה_ _ פרק 392.mp3",
+          "drive_folder": "הצוללת",
+          "drive_url": "https://drive.google.com/file/d/1AKIVNQ8Dj6wolSZaeeFxNd0uQCJE2hlb/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/50/4.wav"
+        }
+      ]
+    },
     {
       "run_id": "40851766363",
       "run_number": "378",
@@ -3003,20 +3042,6 @@
           "yemos_path": "ivr2:/1/43/112.wav"
         }
       ]
-    },
-    {
-      "run_id": "39185100736",
-      "run_number": "277",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-19T01:23:57.056654+00:00",
-      "israel_time": "19/10/2026 04:23",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39185100736",
-      "items": []
     }
   ]
 }
