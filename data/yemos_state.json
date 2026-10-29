@@ -27174,11 +27174,19 @@
       "path": "ivr2:/1/50/4.wav",
       "filename_stem": "4",
       "uploaded_at": "2026-10-29T16:12:53.146052+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/9e713f18-6b3c-3aa4-ace2-193d01f7c97c": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1268 - ד״ר אסיף סיני",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1027.wav",
+      "filename_stem": "1027",
+      "uploaded_at": "2026-10-29T21:11:51.395075+00:00"
     }
   },
   "next_numbers": {
     "1": 2673,
-    "2": 1027,
+    "2": 1028,
     "3": 15,
     "4": 18,
     "5": 113,

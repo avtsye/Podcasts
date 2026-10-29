@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-29T16:13:02.159751+00:00",
+  "updated_at": "2026-10-29T21:12:26.445999+00:00",
   "runs": [
+    {
+      "run_id": "40955533975",
+      "run_number": "380",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-29T21:12:26.445999+00:00",
+      "israel_time": "29/10/2026 23:12",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40955533975",
+      "items": [
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1268 - ד״ר אסיף סיני",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1027.wav"
+          ],
+          "drive_filename": "פרק #1268 - ד״ר אסיף סיני.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1KsiLSRwexG8huCBKRONoZ5eKSU57gUx9/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1027.wav"
+        }
+      ]
+    },
     {
       "run_id": "40909063980",
       "run_number": "379",
@@ -2979,69 +3006,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39218653767",
       "items": []
-    },
-    {
-      "run_id": "39212960444",
-      "run_number": "278",
-      "event": "repository_dispatch",
-      "status": "failure",
-      "utc_time": "2026-10-19T07:01:56.043635+00:00",
-      "israel_time": "19/10/2026 10:01",
-      "uploads": 4,
-      "feed_errors": 0,
-      "target_errors": 1,
-      "partial": true,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39212960444",
-      "items": [
-        {
-          "podcast": "אחד ביום",
-          "title": "על זה הבחירות: ביטחון אישי",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/1/2664.wav"
-          ],
-          "drive_filename": "על זה הבחירות_ ביטחון אישי.mp3",
-          "drive_folder": "אחד ביום",
-          "drive_url": "https://drive.google.com/file/d/12ghzDJDqaGOqa3rvV8gFI3V5bpQxCtcG/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/1/2664.wav"
-        },
-        {
-          "podcast": "עושים היסטוריה עם ערן ניצן",
-          "title": "חטיפת הסרג׳נטים [עושים היסטוריה]",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/27/14.wav"
-          ],
-          "drive_filename": "חטיפת הסרג׳נטים [עושים היסטוריה].mp3",
-          "drive_folder": "עושים היסטוריה עם ערן ניצן",
-          "drive_url": "https://drive.google.com/file/d/11dg2s7DuBdNy1yppWmzIn-qwwjC0-6zx/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/27/14.wav"
-        },
-        {
-          "podcast": "שלושה שיודעים",
-          "title": "יש לי ציפור קטנה באוזן",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/42/912.wav"
-          ],
-          "drive_filename": "יש לי ציפור קטנה באוזן.mp3",
-          "drive_folder": "שלושה שיודעים",
-          "drive_url": "https://drive.google.com/file/d/1ZqQojwBrWA2WzD9K_cm6O5G_FwjI3etq/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/42/912.wav"
-        },
-        {
-          "podcast": "עושים תוכנה",
-          "title": "Loop Engineering | תמיר דרשר [עושים תוכנה]",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/43/112.wav"
-          ],
-          "drive_filename": "Loop Engineering _ תמיר דרשר [עושים תוכנה].mp3",
-          "drive_folder": "עושים תוכנה",
-          "drive_url": "https://drive.google.com/file/d/13bgpiiHENGtw_IibhmgvS7WzF-Ayul60/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/43/112.wav"
-        }
-      ]
     }
   ]
 }
