@@ -27150,10 +27150,18 @@
       "path": "ivr2:/1/17/24.wav",
       "filename_stem": "24",
       "uploaded_at": "2026-10-28T21:42:28.903814+00:00"
+    },
+    "ehad_beyom:b809ce1e-5e4e-41f7-8660-b4f10139f97b": {
+      "podcast_id": "ehad_beyom",
+      "title": "הערבים נהרו",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2672.wav",
+      "filename_stem": "2672",
+      "uploaded_at": "2026-10-29T08:34:42.082633+00:00"
     }
   },
   "next_numbers": {
-    "1": 2672,
+    "1": 2673,
     "2": 1027,
     "3": 15,
     "4": 18,

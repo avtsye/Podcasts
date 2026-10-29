@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-29T01:50:54.423566+00:00",
+  "updated_at": "2026-10-29T08:35:18.166872+00:00",
   "runs": [
+    {
+      "run_id": "40843075607",
+      "run_number": "377",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-29T08:35:18.166872+00:00",
+      "israel_time": "29/10/2026 10:35",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40843075607",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "הערבים נהרו",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2672.wav"
+          ],
+          "drive_filename": "הערבים נהרו.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/197WUj73vH4P3zcXWTmKswBZqHRSI6fSL/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2672.wav"
+        }
+      ]
+    },
     {
       "run_id": "40802775291",
       "run_number": "376",
@@ -2990,45 +3017,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39175833231",
       "items": []
-    },
-    {
-      "run_id": "39164988025",
-      "run_number": "275",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-18T20:51:14.511539+00:00",
-      "israel_time": "18/10/2026 23:51",
-      "uploads": 2,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39164988025",
-      "items": [
-        {
-          "podcast": "גיקונומי",
-          "title": "פרק #1263 - תומר פרסיקו",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/2/1022.wav"
-          ],
-          "drive_filename": "פרק #1263 - תומר פרסיקו.mp3",
-          "drive_folder": "גיקונומי",
-          "drive_url": "https://drive.google.com/file/d/1t1RoZ42bkFl6o9usaOdgR55ka3KfDfGO/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/2/1022.wav"
-        },
-        {
-          "podcast": "חיים של אחרים",
-          "title": "חיים של אחרים | 18.10.26",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/17/18.wav"
-          ],
-          "drive_filename": "חיים של אחרים _ 18.10.26.mp3",
-          "drive_folder": "חיים של אחרים",
-          "drive_url": "https://drive.google.com/file/d/1CLcMGeEeZ2bHfxA9gF7WX-I41zL-i6vM/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/17/18.wav"
-        }
-      ]
     }
   ]
 }
