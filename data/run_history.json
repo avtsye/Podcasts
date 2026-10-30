@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-30T07:12:38.815775+00:00",
+  "updated_at": "2026-10-30T14:16:30.710196+00:00",
   "runs": [
+    {
+      "run_id": "41070103536",
+      "run_number": "383",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-30T14:16:30.710196+00:00",
+      "israel_time": "30/10/2026 16:16",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 1,
+      "partial": true,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41070103536",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "ראיתי שמעתי: נגה ארז ואורי רוסו",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2673.wav"
+          ],
+          "drive_filename": "ראיתי שמעתי_ נגה ארז ואורי רוסו.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/1zGALSmZjblpF9NGXkjhTe4Ag68vVu0z-/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2673.wav"
+        }
+      ]
+    },
     {
       "run_id": "41018594486",
       "run_number": "382",
@@ -2992,20 +3019,6 @@
           "yemos_path": "ivr2:/1/52/2.wav"
         }
       ]
-    },
-    {
-      "run_id": "39279769470",
-      "run_number": "281",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-19T15:41:04.526494+00:00",
-      "israel_time": "19/10/2026 18:41",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39279769470",
-      "items": []
     }
   ]
 }

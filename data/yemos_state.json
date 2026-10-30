@@ -9915,13 +9915,13 @@
     },
     "osim_tech:https://api.spreaker.com/episode/75283499": {
       "podcast_id": "osim_tech",
-      "title": "מה הבעיה שלי עם אפל [עושים טכנולוגיה] ש.ח.",
+      "title": "מה הבעיה שלי עם אפל (ש.ח.) [עושים טכנולוגיה]",
       "status": "error",
       "filename_stem": "12",
       "error": "UploadFile finalization query retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-10-27T12:43:40.493430+00:00",
-      "attempt_count": 11,
-      "next_retry": "2026-10-30T12:43:40.493461+00:00"
+      "updated_at": "2026-10-30T14:15:57.413958+00:00",
+      "attempt_count": 12,
+      "next_retry": "2026-11-02T14:15:57.413984+00:00"
     },
     "startup_for_startup:b93b8925-0d61-4f88-8d4d-b49400eb0eca": {
       "podcast_id": "startup_for_startup",
@@ -27182,10 +27182,18 @@
       "path": "ivr2:/1/2/1027.wav",
       "filename_stem": "1027",
       "uploaded_at": "2026-10-29T21:11:51.395075+00:00"
+    },
+    "ehad_beyom:1a24f5ea-6925-45b8-8be7-b4f3007945fa": {
+      "podcast_id": "ehad_beyom",
+      "title": "ראיתי שמעתי: נגה ארז ואורי רוסו",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2673.wav",
+      "filename_stem": "2673",
+      "uploaded_at": "2026-10-30T14:15:28.767651+00:00"
     }
   },
   "next_numbers": {
-    "1": 2673,
+    "1": 2674,
     "2": 1028,
     "3": 15,
     "4": 18,
