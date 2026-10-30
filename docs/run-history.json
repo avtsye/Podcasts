@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-30T14:16:30.710196+00:00",
+  "updated_at": "2026-10-30T19:28:55.872884+00:00",
   "runs": [
+    {
+      "run_id": "41115476326",
+      "run_number": "384",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-10-30T19:28:55.872884+00:00",
+      "israel_time": "30/10/2026 21:28",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41115476326",
+      "items": []
+    },
     {
       "run_id": "41070103536",
       "run_number": "383",
@@ -2990,33 +3004,6 @@
           "drive_folder": "חיים של אחרים",
           "drive_url": "https://drive.google.com/file/d/1U8EVwlcfp1q4RJt9ICeIALp2v3Yq2Mep/view?usp=drivesdk",
           "yemos_path": "ivr2:/1/17/19.wav"
-        }
-      ]
-    },
-    {
-      "run_id": "39316795434",
-      "run_number": "282",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-19T20:10:06.138930+00:00",
-      "israel_time": "19/10/2026 23:10",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39316795434",
-      "items": [
-        {
-          "podcast": "על-חלל",
-          "title": "פרק 78 - Creation Space",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/52/2.wav"
-          ],
-          "drive_filename": "פרק 78 - Creation Space.mp3",
-          "drive_folder": "על-חלל",
-          "drive_url": "https://drive.google.com/file/d/1Gk_ms_Uhq9dZWZXLH5viJQGeYIyD_hFK/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/52/2.wav"
         }
       ]
     }
