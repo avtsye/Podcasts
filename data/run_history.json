@@ -1,6 +1,621 @@
 {
-  "updated_at": "2026-10-31T17:48:10.947165+00:00",
+  "updated_at": "2026-10-31T19:40:06.767524+00:00",
   "runs": [
+    {
+      "run_id": "41227437575",
+      "run_number": "393",
+      "event": "issues",
+      "status": "success",
+      "utc_time": "2026-10-31T19:40:06.767524+00:00",
+      "israel_time": "31/10/2026 21:40",
+      "uploads": 90,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41227437575",
+      "items": [
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1179 - שלום בוגוסלבסקי ומזרח אירופה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1028.wav"
+          ],
+          "drive_filename": "פרק #1179 - שלום בוגוסלבסקי ומזרח אירופה.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1ZJ5z_Mbtr6hn3FFhw-RXsdsV3mpZzoiW/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1028.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1180 - ד״ר עמיחי מיטלמן והנדסת בניין",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1029.wav"
+          ],
+          "drive_filename": "פרק #1180 - ד״ר עמיחי מיטלמן והנדסת בניין.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1_vjNX82dyR_9wz0DnFO6X_R0g3j-RWj-/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1029.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1181 - רונן שובל והגות פוליטית",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1030.wav"
+          ],
+          "drive_filename": "פרק #1181 - רונן שובל והגות פוליטית.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1KoggFotpyJtRTgiWsJ1LfLxKEaDknT-3/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1030.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1182 - ד״ר יניי שפיצר והיסטוריה כלכלית",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1031.wav"
+          ],
+          "drive_filename": "פרק #1182 - ד״ר יניי שפיצר והיסטוריה כלכלית.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1q-TrxIX3FXthLLO7gm6W6zyLc1KvJMpx/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1031.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1183 - טוביה טננבאום וישראל המקראית",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1032.wav"
+          ],
+          "drive_filename": "פרק #1183 - טוביה טננבאום וישראל המקראית.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1gPw74lOZ7B0i9oN9oV6ayxHZ5p9eTnYp/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1032.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1184 - עידו וולף נלחם בסרטן",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1033.wav"
+          ],
+          "drive_filename": "פרק #1184 - עידו וולף נלחם בסרטן.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/14GmvaEsnfT_yf-vuqniezy4rI7Qw10s0/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1033.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1185 - יאיר נבות והונגריה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1034.wav"
+          ],
+          "drive_filename": "פרק #1185 - יאיר נבות והונגריה.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1JRimCDMw-1hgoaCBi6e-V0JHnL4QI2m8/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1034.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1186 - אבנר וילן והגרעין האירני",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1035.wav"
+          ],
+          "drive_filename": "פרק #1186 - אבנר וילן והגרעין האירני.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1NIpgAATPmC99rvJTH_uCQIL2JWpDkkzE/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1035.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1187 - ניצן דוד פוקס ומיצרי הורמוז",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1036.wav"
+          ],
+          "drive_filename": "פרק #1187 - ניצן דוד פוקס ומיצרי הורמוז.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/14dZIzSCxcqP6Rxz0NYPNFCmEsRd5bPMG/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1036.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1188 - ד״ר נתב יתום ממגן רכבים",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1037.wav"
+          ],
+          "drive_filename": "פרק #1188 - ד״ר נתב יתום ממגן רכבים.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1dUzxedf2EY3oX7tsG_9GG6ixFtAlfjfx/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1037.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1189 - יהונתן אדירי, הורמוז ומוסדות",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1038.wav"
+          ],
+          "drive_filename": "פרק #1189 - יהונתן אדירי, הורמוז ומוסדות.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1JzNeEqirW0dpk2CTAA1oJtZhKsnxHPy6/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1038.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1190 - שאול מרידור, האוצר ו-AI",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1039.wav"
+          ],
+          "drive_filename": "פרק #1190 - שאול מרידור, האוצר ו-AI.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1rwYff5_1TJePUSvlceSuRhhHsUZZUM2F/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1039.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1191 - מרינה פוזנר וחוויות אוכל",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1040.wav"
+          ],
+          "drive_filename": "פרק #1191 - מרינה פוזנר וחוויות אוכל.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1R_sRDlIAKxCDcNVWk9M5824pkBQYjmrz/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1040.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1192 - סולימאן מסוודה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1041.wav"
+          ],
+          "drive_filename": "פרק #1192 - סולימאן מסוודה.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1APbhUh6TionO_wv8Pejfn83HiXIGRo0-/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1041.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1193 - שמעון טולץ וקופרהלם",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1042.wav"
+          ],
+          "drive_filename": "פרק #1193 - שמעון טולץ וקופרהלם.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1QhfXgcQZ24PKdGo_OjymFObdk7AqSAjj/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1042.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1194 - ראם עמינח ותקציב צה״ל",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1043.wav"
+          ],
+          "drive_filename": "פרק #1194 - ראם עמינח ותקציב צה״ל.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1kz1DIN4NElzpPkpURTTst_rKBUGnhbDT/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1043.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1195 - ד״ר מורן זגה והגיאוגרפיה של המפרץ",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1044.wav"
+          ],
+          "drive_filename": "פרק #1195 - ד״ר מורן זגה והגיאוגרפיה של המפרץ.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1UZl5dSG_EnIddvx3xa2ozc-4TiD9Sj7b/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1044.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1196 - CJ Hetherington is Limitless",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1045.wav"
+          ],
+          "drive_filename": "פרק #1196 - CJ Hetherington is Limitless.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1E6y7FyPTFFhzUxrXkrWnGlBPgsLFOpHc/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1045.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1197 - שלום ברינגר ואלכוהול מקומי",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1046.wav"
+          ],
+          "drive_filename": "פרק #1197 - שלום ברינגר ואלכוהול מקומי.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1PBGaFadlz7ptlJqojDCh-pVMDEGxj7Cj/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1046.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1198 - יאיר טל פותח דף חדש ב-Au10ix",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1047.wav"
+          ],
+          "drive_filename": "פרק #1198 - יאיר טל פותח דף חדש ב-Au10ix.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1EFb-7qEuifaQH_dB5eHblXx5jHG4wiqS/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1047.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1199 - ג׳ימבו ג׳יי",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1048.wav"
+          ],
+          "drive_filename": "פרק #1199 - ג׳ימבו ג׳יי.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1SW3wwfXrquw7zkkz1CWM9rq9V3_MJWWG/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1048.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1200 - ד״ר יריב מוהר וכשלי הפרוגרס",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1049.wav"
+          ],
+          "drive_filename": "פרק #1200 - ד״ר יריב מוהר וכשלי הפרוגרס.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/16JaofHRdKiUFrghmbZ0JS3fA9M2VDKkR/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1049.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1201 - עמית בן-דב וגונג",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1050.wav"
+          ],
+          "drive_filename": "פרק #1201 - עמית בן-דב וגונג.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1iFSl8mC9aPQJ6D5hip5pr3Jfn1RNZ0jg/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1050.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1202 - מייסם ג׳לג׳ולי",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1051.wav"
+          ],
+          "drive_filename": "פרק #1202 - מייסם ג׳לג׳ולי.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/19gMPyXN2-8Rj2maiS06ESQ6E68IjMJ8b/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1051.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1203 - פרופ׳ ינאי עופרן מפתח תרופות",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1052.wav"
+          ],
+          "drive_filename": "פרק #1203 - פרופ׳ ינאי עופרן מפתח תרופות.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/18Lczt2aATa8TQXpSWP9a_13f8C2qbUnA/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1052.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1204 - ד״ר יניי שפיצר והדולר-שקל",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1053.wav"
+          ],
+          "drive_filename": "פרק #1204 - ד״ר יניי שפיצר והדולר-שקל.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1EtBftg2fSHejyus4xQbQzaEQS_mkx85A/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1053.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1205 - אדם פישר",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1054.wav"
+          ],
+          "drive_filename": "פרק #1205 - אדם פישר.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1mc9aqh6QR1Hir4czotRQsnRY1tp8uMMq/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1054.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1206 - ד״ר אור לביא והחיזבאללה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1055.wav"
+          ],
+          "drive_filename": "פרק #1206 - ד״ר אור לביא והחיזבאללה.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1sztB6xFXPJpbBftdC7AVbVcFPHx6sYBV/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1055.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1207 - ערן יריב ו-AI במיקרוסופט",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1056.wav"
+          ],
+          "drive_filename": "פרק #1207 - ערן יריב ו-AI במיקרוסופט.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1o-mqQnynloKGFygsSklIlwIf8JJGqCku/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1056.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1208 - אליזבט צורקוב והמזרח התיכון",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1057.wav"
+          ],
+          "drive_filename": "פרק #1208 - אליזבט צורקוב והמזרח התיכון.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1lFD7thsO6mDPYbwAAV1H8zf3q03oo8Vw/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1057.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1209 - ד״ר אסף נתנזון ו-EON",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1058.wav"
+          ],
+          "drive_filename": "פרק #1209 - ד״ר אסף נתנזון ו-EON.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/15tou-JL5UOU2xRqiYB5g-FnyPhb7Cwgf/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1058.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1210 - רועי דורון יוצר מוזיקה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1059.wav"
+          ],
+          "drive_filename": "פרק #1210 - רועי דורון יוצר מוזיקה.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1K9o_oj5fzmVGN1qJCxOdLvqIw9areOjz/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1059.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1211 - ד״ר ליאור שאלתיאל ופגיעות עצביות",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1060.wav"
+          ],
+          "drive_filename": "פרק #1211 - ד״ר ליאור שאלתיאל ופגיעות עצביות.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1m39aH5-y1otvmjePIUgni-IHZDJWy7Bq/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1060.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1212 - ד״ר מיכל אנגל, ספורטאיות ותינוק אחד בר מזל",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1061.wav"
+          ],
+          "drive_filename": "פרק #1212 - ד״ר מיכל אנגל, ספורטאיות ותינוק אחד בר מזל.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/15RsBr7vYmsECbyHfLePksM4tLE7-W0l1/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1061.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1213 - פרופ׳ ברק כהן רופא מרדים",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1062.wav"
+          ],
+          "drive_filename": "פרק #1213 - פרופ׳ ברק כהן רופא מרדים.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/100SipUZwr0H0FZ9IdSPjZuudgkv2mTt5/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1062.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1214 - אסף זמיר",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1063.wav"
+          ],
+          "drive_filename": "פרק #1214 - אסף זמיר.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/11SqrOWXyOTJS-KZofOp2Lnib7IFhpBgo/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1063.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1215 - איל עופר וההסכם עם איראן",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1064.wav"
+          ],
+          "drive_filename": "פרק #1215 - איל עופר וההסכם עם איראן.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1mh7EFTWf4JUDCMeohwlb0QxFdNQBRVlZ/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1064.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1216 - אבי כץ ו-SPACים",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1065.wav"
+          ],
+          "drive_filename": "פרק #1216 - אבי כץ ו-SPACים.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1t68FZ4Z_0RrZKxVUVT_G98lvad7vQcoW/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1065.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1217 - אליזבט צורקוב וההסכמים הרעים",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1066.wav"
+          ],
+          "drive_filename": "פרק #1217 - אליזבט צורקוב וההסכמים הרעים.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1aqZ_Go0QcpEsrsQhVUom_n_TLjtbZjY0/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1066.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1218 - ד״ר מוטי ענברי והאוונגליסטים",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1067.wav"
+          ],
+          "drive_filename": "פרק #1218 - ד״ר מוטי ענברי והאוונגליסטים.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1GGrNgOPNDuaw-VyANNRR3aXx7BcbSx5f/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1067.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1219 - ניר הירשמן",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1068.wav"
+          ],
+          "drive_filename": "פרק #1219 - ניר הירשמן.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/18AFe1LBhVJpXUrONKJREzutAgOfGRhfj/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1068.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1220 - ד״ר נועם סולמון ומערכת החיסון",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1069.wav"
+          ],
+          "drive_filename": "פרק #1220 - ד״ר נועם סולמון ומערכת החיסון.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1aR9bruoasb68YQSZc3XOqucBxhVjAEW4/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1069.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1221 - איל השקס, אסטרטגיה ואנרגיה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1070.wav"
+          ],
+          "drive_filename": "פרק #1221 - איל השקס, אסטרטגיה ואנרגיה.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/194kMcT3ZSvn7NWzOhA4LnvOE45fXLteD/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1070.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1222 - ד״ר ערן כ״ץ",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1071.wav"
+          ],
+          "drive_filename": "פרק #1222 - ד״ר ערן כ״ץ.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1TVKmqgVwVhuwHiBH_tKf3nLNJJtTTSdF/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1071.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1223 - ירון ניסקי והאויבת בקטר",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1072.wav"
+          ],
+          "drive_filename": "פרק #1223 - ירון ניסקי והאויבת בקטר.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1I5aEVh_inIT_V9aO0cPs9GHSdoBgiYdA/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1072.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1224 - ננסי וונג, בכירה-משקיעה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1073.wav"
+          ],
+          "drive_filename": "פרק #1224 - ננסי וונג, בכירה-משקיעה.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1RHg1sjBnwGy8aGWmdIId1kA6J0L5XNE9/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1073.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1225 - פרופ׳ הלל כהן ותחילת הסכסוך",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1074.wav"
+          ],
+          "drive_filename": "פרק #1225 - פרופ׳ הלל כהן ותחילת הסכסוך.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1qamq1l7g4WkEA48fTOPW3SGYl87BKHmn/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1074.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1226 - אלעד וולך עוזר לרופאים",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1075.wav"
+          ],
+          "drive_filename": "פרק #1226 - אלעד וולך עוזר לרופאים.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/14h5FPDfDnfXPgnsn1r-f53Ffcjlhr99Z/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1075.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1227 - ח״כ גלעד קריב",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1076.wav"
+          ],
+          "drive_filename": "פרק #1227 - ח״כ גלעד קריב.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1Mkal5xLRd9U2ItN475bVkgEm7qW-fvOR/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1076.wav"
+        },
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1228 - איילת שני ונרקיסיסטים",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1077.wav"
+          ],
+          "drive_filename": "פרק #1228 - איילת שני ונרקיסיסטים.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1VTVAjnh4RY44qCGQ1UTIiuiXcp7VMcFB/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1077.wav"
+        }
+      ]
+    },
     {
       "run_id": "41226214688",
       "run_number": "392",
@@ -2902,45 +3517,6 @@
           "drive_folder": "חיים של אחרים",
           "drive_url": "https://drive.google.com/file/d/1-oQWV-YRTUkhZYz9oXXH4b4Fa_muG_vj/view?usp=drivesdk",
           "yemos_path": "ivr2:/1/17/20.wav"
-        }
-      ]
-    },
-    {
-      "run_id": "39464170094",
-      "run_number": "291",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-20T17:17:36.751598+00:00",
-      "israel_time": "20/10/2026 20:17",
-      "uploads": 2,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39464170094",
-      "items": [
-        {
-          "podcast": "מגזין מעריב",
-          "title": "מעל הליגה - פרק 49 | מאבק מחומש בליגת העל",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/15/19.wav"
-          ],
-          "drive_filename": "מעל הליגה - פרק 49 _ מאבק מחומש בליגת העל.mp3",
-          "drive_folder": "מגזין מעריב",
-          "drive_url": "https://drive.google.com/file/d/1UC60qX7qn1grZSE32GA1-px0XMMUuV1t/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/15/19.wav"
-        },
-        {
-          "podcast": "שלושה שיודעים",
-          "title": "השביל הזה מתחיל כאן, בין הספרייה לגילמן",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/42/913.wav"
-          ],
-          "drive_filename": "השביל הזה מתחיל כאן, בין הספרייה לגילמן.mp3",
-          "drive_folder": "שלושה שיודעים",
-          "drive_url": "https://drive.google.com/file/d/1_naDUVCo3_sVg8lprVmC4AWZD74XQcO_/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/42/913.wav"
         }
       ]
     }

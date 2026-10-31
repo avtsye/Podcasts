@@ -1,37 +1,5 @@
 {
   "episodes": {
-    "geekonomy.podbean.com/4f99d35b-c934-35e2-8a45-0553c4a400cf": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1244 - אור שאלתיאל ומים בישראל",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/6.wav",
-      "filename_stem": "6",
-      "uploaded_at": "2026-09-24T20:07:38.745918+00:00"
-    },
-    "geekonomy.podbean.com/72a6d7c7-e5ba-36f0-a2ff-d42e5c5df5b1": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1245 - יקיר סודרי ובילדוטס",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/7.wav",
-      "filename_stem": "7",
-      "uploaded_at": "2026-09-24T20:08:18.799304+00:00"
-    },
-    "geekonomy.podbean.com/2dd48f7f-fc21-3a4a-abbc-b54d5cb83a75": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1246 - רועי דהאן מכין אוכל טעים",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/8.wav",
-      "filename_stem": "8",
-      "uploaded_at": "2026-09-24T20:09:06.660658+00:00"
-    },
-    "geekonomy.podbean.com/719427f3-253d-3590-b838-05537f330ef6": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1247 - מרדכי כהן והעשור המבוזבז",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/9.wav",
-      "filename_stem": "9",
-      "uploaded_at": "2026-09-24T20:10:03.059892+00:00"
-    },
     "849acc4c-606b-471e-90d0-b48d011c3b36": {
       "podcast_id": "startup_for_startup",
       "title": "359: איך מגדירים, מגייסים ומודדים מפתחים בעידן ה-AI",
@@ -406,30 +374,6 @@
       "path": "ivr2:/1/8/11.wav",
       "filename_stem": "11",
       "uploaded_at": "2026-09-28T18:46:52.102347+00:00"
-    },
-    "geekonomy.podbean.com/dc036c49-7cb1-3273-b495-132401fa043f": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #457 - ניק צדוק ופוטבול",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/13.wav",
-      "filename_stem": "13",
-      "uploaded_at": "2026-09-28T20:45:39.534448+00:00"
-    },
-    "geekonomy.podbean.com/12d36e4f-1ca2-36ba-9698-722bf57c1588": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #765 - ניר צדוק סקנד דאון",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/14.wav",
-      "filename_stem": "14",
-      "uploaded_at": "2026-09-28T20:46:34.426787+00:00"
-    },
-    "geekonomy.podbean.com/717d8852-0511-353e-8a34-53b2f5de67cb": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1079 - ניר צדוק אוהד הפועל",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/15.wav",
-      "filename_stem": "15",
-      "uploaded_at": "2026-09-28T20:47:46.524074+00:00"
     },
     "https://api.spreaker.com/episode/62356150": {
       "podcast_id": "osim_tech",
@@ -9681,86 +9625,6 @@
       "filename_stem": "2653",
       "uploaded_at": "2026-10-04T06:59:15.889119+00:00"
     },
-    "geekonomy:geekonomy.podbean.com/fc7ce686-9d01-311a-829b-211b102690b4": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1248 - עדי חכמון ורשת החשמל",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/10.wav",
-      "filename_stem": "10",
-      "uploaded_at": "2026-09-24T20:10:51.926052+00:00"
-    },
-    "geekonomy:geekonomy.podbean.com/b2d6a491-947f-356b-9ad4-152bc8c259ca": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1249 - העסקים של ערן אפרת",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/1.wav",
-      "filename_stem": "1",
-      "uploaded_at": "2026-09-24T10:48:30.772159+00:00"
-    },
-    "geekonomy:geekonomy.podbean.com/bb92ac80-bd94-302d-ae55-e1ea676bd1d1": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1250 - דניאל בכמט, מתמטיקה ו-AI",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/2.wav",
-      "filename_stem": "2",
-      "uploaded_at": "2026-09-24T10:49:11.366799+00:00"
-    },
-    "geekonomy:geekonomy.podbean.com/6d9fcc41-da87-3b26-95d7-1d79601b461b": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1251 - ג׳רמי סוארד מסתכל מתחת לקרקע",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/3.wav",
-      "filename_stem": "3",
-      "uploaded_at": "2026-09-24T10:49:57.440344+00:00"
-    },
-    "geekonomy:geekonomy.podbean.com/0031cfbc-73ff-37d7-a4b7-914c0dd1df35": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1252 -  אנשים שפגשתי",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/4.wav",
-      "filename_stem": "4",
-      "uploaded_at": "2026-09-24T10:50:40.682898+00:00"
-    },
-    "geekonomy:geekonomy.podbean.com/c6e614a6-34ce-3717-8c69-01c6d0817662": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1253 - חיים לוינסון",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/5.wav",
-      "filename_stem": "5",
-      "uploaded_at": "2026-09-24T10:52:04.192927+00:00"
-    },
-    "geekonomy:geekonomy.podbean.com/fd173d90-9154-370b-be37-23d7f9fc0930": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1254 - ד״ר אלעד מנטוביץ מחדש לאנבידיה",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/11.wav",
-      "filename_stem": "11",
-      "uploaded_at": "2026-09-24T22:09:43.123213+00:00"
-    },
-    "geekonomy:geekonomy.podbean.com/392362b1-8030-33a7-8355-fff5e9cb9143": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1255 - אבישי עובדיה וקריסת שוק הנדל״ן",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/12.wav",
-      "filename_stem": "12",
-      "uploaded_at": "2026-09-27T22:16:26.391047+00:00"
-    },
-    "geekonomy:geekonomy.podbean.com/2ae55323-6094-399d-b27a-386eb885e119": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1256 -  יאיר מירון",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/16.wav",
-      "filename_stem": "16",
-      "uploaded_at": "2026-09-30T00:31:45.851444+00:00"
-    },
-    "geekonomy:geekonomy.podbean.com/86885e8c-83b7-3b76-9358-0c776903f95d": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1257 - פרופ׳ דידי פביאן וסרטן העין",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/1016.wav",
-      "filename_stem": "1016",
-      "uploaded_at": "2026-10-02T12:43:15.971606+00:00"
-    },
     "hayot_kes:9f4716d3-32fc-4731-8b9a-b47e00fcc2e3": {
       "podcast_id": "hayot_kes",
       "title": "פרק 357: הבינה המלאכותית לא תיקח לכם את העבודה. אז מי כן? פרק בונוס",
@@ -12268,14 +12132,6 @@
       "filename_stem": "91",
       "uploaded_at": "2026-10-02T06:53:09.774432+00:00"
     },
-    "geekonomy:geekonomy.podbean.com/b80767f8-2268-3675-94d2-b9a8c45be986": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1258 - ח״כ אפרת רייטן",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/1017.wav",
-      "filename_stem": "1017",
-      "uploaded_at": "2026-10-04T21:32:41.783189+00:00"
-    },
     "haim_aherim:ab074f99-5ff1-4356-9b61-b4d9014bcb02": {
       "podcast_id": "haim_aherim",
       "title": "חיים של אחרים | 04.10.26",
@@ -12509,14 +12365,6 @@
       "path": "ivr2:/1/24/15.wav",
       "filename_stem": "15",
       "uploaded_at": "2026-10-08T16:33:32.114655+00:00"
-    },
-    "geekonomy:geekonomy.podbean.com/4228ab3d-ba3f-3bda-a163-9ca091ec57a0": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1259 - פרופ׳ נדב כהן ולמידת מכונה",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/1018.wav",
-      "filename_stem": "1018",
-      "uploaded_at": "2026-10-09T09:12:48.180506+00:00"
     },
     "ehad_beyom:32197afb-1e21-4a82-929e-acd60147f2c9": {
       "podcast_id": "ehad_beyom",
@@ -22899,14 +22747,6 @@
       "filename_stem": "102",
       "uploaded_at": "2026-10-11T07:16:20.389408+00:00"
     },
-    "geekonomy:geekonomy.podbean.com/3c1d6985-6402-3988-bdd8-e9906af9a11c": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1260 - יוני צרויה ולושה",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/1019.wav",
-      "filename_stem": "1019",
-      "uploaded_at": "2026-10-11T08:58:25.735885+00:00"
-    },
     "haim_aherim:40abd16d-8706-436c-8ca4-b4e0014bcaee": {
       "podcast_id": "haim_aherim",
       "title": "חיים של אחרים | 11.10.26",
@@ -23864,14 +23704,6 @@
       "filename_stem": "909",
       "uploaded_at": "2026-10-13T07:47:37.360488+00:00"
     },
-    "geekonomy:geekonomy.podbean.com/786681f2-e139-354e-911d-b98137d47bb4": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1261 - פרופ׳ יניב ארליך ופיתוחים בעולם התרופות",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/1020.wav",
-      "filename_stem": "1020",
-      "uploaded_at": "2026-10-13T15:19:43.473115+00:00"
-    },
     "maariv_magazine:4579fcb6-06e1-425f-8dd9-b4e201113986": {
       "podcast_id": "maariv_magazine",
       "title": "מעל הליגה - פרק 48 | מועמדת חדשה לאליפות?",
@@ -23960,14 +23792,6 @@
       "filename_stem": "14",
       "uploaded_at": "2026-10-15T10:00:34.967111+00:00"
     },
-    "geekonomy:geekonomy.podbean.com/b4f3735e-e283-366c-a0e5-d586bca366c5": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1262 - שי גיל ותעופה אזרחית",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/1021.wav",
-      "filename_stem": "1021",
-      "uploaded_at": "2026-10-16T00:40:00.866525+00:00"
-    },
     "ehad_beyom:9818741d-a34f-4f46-92ee-b4e6011a3e5d": {
       "podcast_id": "ehad_beyom",
       "title": "העם הנבחר: שיחה עם יאיר שרקי",
@@ -24023,14 +23847,6 @@
       "path": "ivr2:/1/11/11.wav",
       "filename_stem": "11",
       "uploaded_at": "2026-10-18T17:13:19.069198+00:00"
-    },
-    "geekonomy:geekonomy.podbean.com/fa443122-8464-3d52-97a0-76bc627fd81f": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1263 - תומר פרסיקו",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/1022.wav",
-      "filename_stem": "1022",
-      "uploaded_at": "2026-10-18T20:49:55.649477+00:00"
     },
     "haim_aherim:836f9592-104f-413d-b8af-b4e7014c1240": {
       "podcast_id": "haim_aherim",
@@ -24103,14 +23919,6 @@
       "path": "ivr2:/1/6/289.wav",
       "filename_stem": "289",
       "uploaded_at": "2026-10-20T02:10:07.052402+00:00"
-    },
-    "geekonomy:geekonomy.podbean.com/91b85635-e2b0-32be-98bb-b44c55339e58": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1264 - מוטי לייטנר והציבור החרדי",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/1023.wav",
-      "filename_stem": "1023",
-      "uploaded_at": "2026-10-20T11:45:30.565607+00:00"
     },
     "hatzolelet:b117460e-10af-4494-b12d-b4e800ce510b": {
       "podcast_id": "hatzolelet",
@@ -26975,14 +26783,6 @@
       "filename_stem": "16",
       "uploaded_at": "2026-10-22T15:22:54.685357+00:00"
     },
-    "geekonomy:geekonomy.podbean.com/0819c272-f5e0-3586-ae0d-066bc06bb12b": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1265 - ח״כ יסמין סאקס פרידמן",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/1024.wav",
-      "filename_stem": "1024",
-      "uploaded_at": "2026-10-23T15:09:06.811633+00:00"
-    },
     "ehad_beyom:54eb0c0b-4152-456d-a9e4-b4ed008db558": {
       "podcast_id": "ehad_beyom",
       "title": "למה טראמפ תומך בנתניהו?",
@@ -26998,14 +26798,6 @@
       "path": "ivr2:/1/42/916.wav",
       "filename_stem": "916",
       "uploaded_at": "2026-10-25T09:51:51.766473+00:00"
-    },
-    "geekonomy:geekonomy.podbean.com/5c9f325f-b1c7-375a-bf51-a33588d4b5ad": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1266 - נפתלי בנט",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/1025.wav",
-      "filename_stem": "1025",
-      "uploaded_at": "2026-10-25T14:13:55.955207+00:00"
     },
     "sakranit:71c62a6c-2353-40e0-964d-b4ee010c6b19": {
       "podcast_id": "sakranit",
@@ -27087,14 +26879,6 @@
       "filename_stem": "23",
       "uploaded_at": "2026-10-26T21:55:36.465799+00:00"
     },
-    "geekonomy:geekonomy.podbean.com/686729dc-7042-373f-9541-4688658a4e2d": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1267 - אריאל אדמוני וקטר",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/1026.wav",
-      "filename_stem": "1026",
-      "uploaded_at": "2026-10-27T00:29:57.358156+00:00"
-    },
     "ehad_beyom:e8398ae6-48b7-4974-bfcc-b4ef01624be2": {
       "podcast_id": "ehad_beyom",
       "title": "פותחים סוגריים (מחשבות על הבחירות)",
@@ -27175,14 +26959,6 @@
       "filename_stem": "4",
       "uploaded_at": "2026-10-29T16:12:53.146052+00:00"
     },
-    "geekonomy:geekonomy.podbean.com/9e713f18-6b3c-3aa4-ace2-193d01f7c97c": {
-      "podcast_id": "geekonomy",
-      "title": "פרק #1268 - ד״ר אסיף סיני",
-      "status": "uploaded",
-      "path": "ivr2:/1/2/1027.wav",
-      "filename_stem": "1027",
-      "uploaded_at": "2026-10-29T21:11:51.395075+00:00"
-    },
     "ehad_beyom:1a24f5ea-6925-45b8-8be7-b4f3007945fa": {
       "podcast_id": "ehad_beyom",
       "title": "ראיתי שמעתי: נגה ארז ואורי רוסו",
@@ -27190,11 +26966,755 @@
       "path": "ivr2:/1/1/2673.wav",
       "filename_stem": "2673",
       "uploaded_at": "2026-10-30T14:15:28.767651+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/dc036c49-7cb1-3273-b495-132401fa043f": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #457 - ניק צדוק ופוטבול",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/13.wav",
+      "filename_stem": "13",
+      "uploaded_at": "2026-09-28T20:45:39.534448+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/12d36e4f-1ca2-36ba-9698-722bf57c1588": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #765 - ניר צדוק סקנד דאון",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/14.wav",
+      "filename_stem": "14",
+      "uploaded_at": "2026-09-28T20:46:34.426787+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/717d8852-0511-353e-8a34-53b2f5de67cb": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1079 - ניר צדוק אוהד הפועל",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/15.wav",
+      "filename_stem": "15",
+      "uploaded_at": "2026-09-28T20:47:46.524074+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/cec43236-40ad-31d0-be5d-bbfae9a9847c": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1179 - שלום בוגוסלבסקי ומזרח אירופה",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1028.wav",
+      "filename_stem": "1028",
+      "uploaded_at": "2026-10-31T18:03:59.634861+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/1435d052-46f0-3acd-bc9f-151ca835fff9": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1180 - ד״ר עמיחי מיטלמן והנדסת בניין",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1029.wav",
+      "filename_stem": "1029",
+      "uploaded_at": "2026-10-31T18:05:00.866946+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/45c27f0b-e626-3330-8157-ab28ee9662fe": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1181 - רונן שובל והגות פוליטית",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1030.wav",
+      "filename_stem": "1030",
+      "uploaded_at": "2026-10-31T18:06:25.887274+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/37a91e25-72c7-31e1-ba34-624b3ff3535c": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1182 - ד״ר יניי שפיצר והיסטוריה כלכלית",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1031.wav",
+      "filename_stem": "1031",
+      "uploaded_at": "2026-10-31T18:07:35.522372+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/66d3fa01-e5bd-318b-9b00-2277c8852139": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1183 - טוביה טננבאום וישראל המקראית",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1032.wav",
+      "filename_stem": "1032",
+      "uploaded_at": "2026-10-31T18:08:37.005314+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/4f297158-dd98-3f0a-80c0-910e2114f2b8": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1184 - עידו וולף נלחם בסרטן",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1033.wav",
+      "filename_stem": "1033",
+      "uploaded_at": "2026-10-31T18:09:29.297566+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/04463c92-b856-3527-a27a-ee01580b5c6c": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1185 - יאיר נבות והונגריה",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1034.wav",
+      "filename_stem": "1034",
+      "uploaded_at": "2026-10-31T18:10:36.298494+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/9805ae2a-88be-32e0-a5a9-9c49fe9d66cc": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1186 - אבנר וילן והגרעין האירני",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1035.wav",
+      "filename_stem": "1035",
+      "uploaded_at": "2026-10-31T18:11:28.173900+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/f032b253-f6da-32a1-8ff5-7692f864bb0b": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1187 - ניצן דוד פוקס ומיצרי הורמוז",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1036.wav",
+      "filename_stem": "1036",
+      "uploaded_at": "2026-10-31T18:12:40.314614+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/239f0842-37fc-3aab-9775-0f496d20c4a6": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1188 - ד״ר נתב יתום ממגן רכבים",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1037.wav",
+      "filename_stem": "1037",
+      "uploaded_at": "2026-10-31T18:13:33.573603+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/f086957b-6c21-3270-8327-cafed2e0d62e": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1189 - יהונתן אדירי, הורמוז ומוסדות",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1038.wav",
+      "filename_stem": "1038",
+      "uploaded_at": "2026-10-31T18:14:47.386343+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/a9c11031-1fbd-3fc2-ba4e-30d848d91b49": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1190 - שאול מרידור, האוצר ו-AI",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1039.wav",
+      "filename_stem": "1039",
+      "uploaded_at": "2026-10-31T18:15:53.004811+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/d34010e9-7f4a-3650-8a89-1d7c774ddfb0": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1191 - מרינה פוזנר וחוויות אוכל",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1040.wav",
+      "filename_stem": "1040",
+      "uploaded_at": "2026-10-31T18:17:18.919941+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/548cefab-54a6-3148-87bd-b25adcee598a": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1192 - סולימאן מסוודה",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1041.wav",
+      "filename_stem": "1041",
+      "uploaded_at": "2026-10-31T18:18:31.741883+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/4a306218-ab1b-3a47-b25c-b542add2f7ac": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1193 - שמעון טולץ וקופרהלם",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1042.wav",
+      "filename_stem": "1042",
+      "uploaded_at": "2026-10-31T18:19:35.594058+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/369a3796-dbbe-30ce-869a-384c83cbc4b2": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1194 - ראם עמינח ותקציב צה״ל",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1043.wav",
+      "filename_stem": "1043",
+      "uploaded_at": "2026-10-31T18:20:43.832804+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/3a70c093-9b7e-31e4-bb92-d11a07fba0e2": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1195 - ד״ר מורן זגה והגיאוגרפיה של המפרץ",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1044.wav",
+      "filename_stem": "1044",
+      "uploaded_at": "2026-10-31T18:21:49.223886+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/5b444adf-e0aa-332b-981f-e57b69097121": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1196 - CJ Hetherington is Limitless",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1045.wav",
+      "filename_stem": "1045",
+      "uploaded_at": "2026-10-31T18:22:44.810031+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/ca920288-1952-3f2d-8da9-a93b44593026": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1197 - שלום ברינגר ואלכוהול מקומי",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1046.wav",
+      "filename_stem": "1046",
+      "uploaded_at": "2026-10-31T18:23:48.983286+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/73dececa-b7ce-346b-ba5a-db740347e677": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1198 - יאיר טל פותח דף חדש ב-Au10ix",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1047.wav",
+      "filename_stem": "1047",
+      "uploaded_at": "2026-10-31T18:24:44.185776+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/3db2df09-531b-39e9-9457-69f4cb08cc3d": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1199 - ג׳ימבו ג׳יי",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1048.wav",
+      "filename_stem": "1048",
+      "uploaded_at": "2026-10-31T18:25:59.488347+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/85b3c7e8-459a-3685-a970-c08116bfa04a": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1200 - ד״ר יריב מוהר וכשלי הפרוגרס",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1049.wav",
+      "filename_stem": "1049",
+      "uploaded_at": "2026-10-31T18:27:06.734380+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/76b1b21f-5689-3612-acd7-f851d7f78cf5": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1201 - עמית בן-דב וגונג",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1050.wav",
+      "filename_stem": "1050",
+      "uploaded_at": "2026-10-31T18:28:10.117971+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/cb06266a-7b0f-3d21-ae6e-e449e9b3c14f": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1202 - מייסם ג׳לג׳ולי",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1051.wav",
+      "filename_stem": "1051",
+      "uploaded_at": "2026-10-31T18:29:38.990420+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/e8e356d7-ac50-3283-9d65-94804866aa68": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1203 - פרופ׳ ינאי עופרן מפתח תרופות",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1052.wav",
+      "filename_stem": "1052",
+      "uploaded_at": "2026-10-31T18:30:56.637565+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/4ee8cc96-bf79-368e-a974-0598d3efddd2": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1204 - ד״ר יניי שפיצר והדולר-שקל",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1053.wav",
+      "filename_stem": "1053",
+      "uploaded_at": "2026-10-31T18:32:41.764669+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/ce9adb16-8168-3fc6-a23d-45db84e0affd": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1205 - אדם פישר",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1054.wav",
+      "filename_stem": "1054",
+      "uploaded_at": "2026-10-31T18:33:30.193644+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/6ad9cb75-906f-3129-9c49-51ae9713790c": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1206 - ד״ר אור לביא והחיזבאללה",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1055.wav",
+      "filename_stem": "1055",
+      "uploaded_at": "2026-10-31T18:34:34.753261+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/864352f9-24ce-3144-8ba6-b09f1bee2872": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1207 - ערן יריב ו-AI במיקרוסופט",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1056.wav",
+      "filename_stem": "1056",
+      "uploaded_at": "2026-10-31T18:35:43.653265+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/9c80609b-d531-3264-a77e-cbc59615d649": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1208 - אליזבט צורקוב והמזרח התיכון",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1057.wav",
+      "filename_stem": "1057",
+      "uploaded_at": "2026-10-31T18:37:20.754665+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/f0af0a55-432b-3a20-bd2d-bfb37886446c": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1209 - ד״ר אסף נתנזון ו-EON",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1058.wav",
+      "filename_stem": "1058",
+      "uploaded_at": "2026-10-31T18:38:22.918380+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/4ee8c9f7-0281-3ef3-b539-0b39511d93f3": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1210 - רועי דורון יוצר מוזיקה",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1059.wav",
+      "filename_stem": "1059",
+      "uploaded_at": "2026-10-31T18:39:54.761808+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/7631c96e-7fab-348b-9034-a1191dd80add": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1211 - ד״ר ליאור שאלתיאל ופגיעות עצביות",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1060.wav",
+      "filename_stem": "1060",
+      "uploaded_at": "2026-10-31T18:41:19.291037+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/062f0ed5-20b3-3dc4-b9a2-81c9a8e2d941": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1212 - ד״ר מיכל אנגל, ספורטאיות ותינוק אחד בר מזל",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1061.wav",
+      "filename_stem": "1061",
+      "uploaded_at": "2026-10-31T18:43:27.607325+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/a2a50ee1-7fb7-3942-9361-764dbca54aa7": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1213 - פרופ׳ ברק כהן רופא מרדים",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1062.wav",
+      "filename_stem": "1062",
+      "uploaded_at": "2026-10-31T18:44:39.576530+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/4dae4909-4116-36dd-b8c8-a97a0195c7ef": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1214 - אסף זמיר",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1063.wav",
+      "filename_stem": "1063",
+      "uploaded_at": "2026-10-31T18:45:33.313943+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/2b5937ba-b195-380d-a163-275899bb034e": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1215 - איל עופר וההסכם עם איראן",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1064.wav",
+      "filename_stem": "1064",
+      "uploaded_at": "2026-10-31T18:46:11.006729+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/19c4d2b1-3a72-3faf-8922-2d25af542f33": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1216 - אבי כץ ו-SPACים",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1065.wav",
+      "filename_stem": "1065",
+      "uploaded_at": "2026-10-31T18:47:18.973643+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/6c4d5ec0-a370-3590-9dd8-6ddf100e2ef6": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1217 - אליזבט צורקוב וההסכמים הרעים",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1066.wav",
+      "filename_stem": "1066",
+      "uploaded_at": "2026-10-31T18:48:26.582560+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/9716ee8e-fea6-3ee4-8792-015947e11d3e": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1218 - ד״ר מוטי ענברי והאוונגליסטים",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1067.wav",
+      "filename_stem": "1067",
+      "uploaded_at": "2026-10-31T18:49:17.250853+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/1c5ed5d6-72bb-33ee-805d-27b0530d4547": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1219 - ניר הירשמן",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1068.wav",
+      "filename_stem": "1068",
+      "uploaded_at": "2026-10-31T18:50:08.709978+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/a325fe6c-3370-34ba-afb5-4f937e62907b": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1220 - ד״ר נועם סולמון ומערכת החיסון",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1069.wav",
+      "filename_stem": "1069",
+      "uploaded_at": "2026-10-31T18:51:47.555683+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/a9cb2ad5-4de8-309a-bd1d-6af7554fd77e": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1221 - איל השקס, אסטרטגיה ואנרגיה",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1070.wav",
+      "filename_stem": "1070",
+      "uploaded_at": "2026-10-31T18:52:50.167318+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/a182a30b-a8ba-3400-bd70-7d5cbc4aaa90": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1222 - ד״ר ערן כ״ץ",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1071.wav",
+      "filename_stem": "1071",
+      "uploaded_at": "2026-10-31T18:53:56.444728+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/98b89bdf-9bbf-31df-b8b1-4a3546668754": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1223 - ירון ניסקי והאויבת בקטר",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1072.wav",
+      "filename_stem": "1072",
+      "uploaded_at": "2026-10-31T18:55:05.339685+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/b7ea68ff-3100-3fab-ad4e-90b8b382bc22": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1224 - ננסי וונג, בכירה-משקיעה",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1073.wav",
+      "filename_stem": "1073",
+      "uploaded_at": "2026-10-31T18:55:52.556339+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/48505f3e-88f0-33d7-817e-07f491cf7b8f": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1225 - פרופ׳ הלל כהן ותחילת הסכסוך",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1074.wav",
+      "filename_stem": "1074",
+      "uploaded_at": "2026-10-31T18:56:51.594649+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/8810eee2-2fc3-3c66-b0a1-3b3ff61bc523": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1226 - אלעד וולך עוזר לרופאים",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1075.wav",
+      "filename_stem": "1075",
+      "uploaded_at": "2026-10-31T18:57:46.617702+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/9a2aea1f-7275-31b9-b55c-8a7a3e1206c3": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1227 - ח״כ גלעד קריב",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1076.wav",
+      "filename_stem": "1076",
+      "uploaded_at": "2026-10-31T18:58:55.769732+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/9121919b-d945-3b79-9093-1c3a4d65aac4": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1228 - איילת שני ונרקיסיסטים",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1077.wav",
+      "filename_stem": "1077",
+      "uploaded_at": "2026-10-31T18:59:46.523548+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/a980febe-15d9-3d7a-93f2-2bb06d8b5b1b": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1229 -  פרופ' יועד קנת חוקר יצירתיות",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1078.wav",
+      "filename_stem": "1078",
+      "uploaded_at": "2026-10-31T19:00:54.425239+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/5f5671cc-fa89-3a4a-8313-d302ed2b6b0c": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1230 - ד״ר יונתן כהן ומכונות קוונטיות",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1079.wav",
+      "filename_stem": "1079",
+      "uploaded_at": "2026-10-31T19:01:57.575996+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/4cc33737-3142-3e53-844c-24d90ac28f10": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1231 - בצלאל סמוטריץ׳",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1080.wav",
+      "filename_stem": "1080",
+      "uploaded_at": "2026-10-31T19:03:18.265106+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/54caf9fd-e15a-3955-8477-f7a8073d7333": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1232 - פרופ׳ אבנר בן זקן היסטוריון מדעי",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1081.wav",
+      "filename_stem": "1081",
+      "uploaded_at": "2026-10-31T19:04:48.763098+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/94c9ce61-b725-3511-af4e-8786af3ef23b": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1233 - מארק דובוביץ, איראן וישראל",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1082.wav",
+      "filename_stem": "1082",
+      "uploaded_at": "2026-10-31T19:05:51.571770+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/a1ed320f-6b4d-3437-96e6-7e6cfff11c64": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1234 - אודי דנינו מסרב להיות פסימי",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1083.wav",
+      "filename_stem": "1083",
+      "uploaded_at": "2026-10-31T19:07:11.176405+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/83baa6da-0e4c-3900-9cd2-6149efdc6cbb": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1235 - יונתן אלון ופנגו",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1084.wav",
+      "filename_stem": "1084",
+      "uploaded_at": "2026-10-31T19:07:55.484242+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/2df85448-77d8-3e2c-a742-1983a074b0c2": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1236 - מורה מודאג",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1085.wav",
+      "filename_stem": "1085",
+      "uploaded_at": "2026-10-31T19:08:57.305735+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/36338223-d183-3536-aabd-eb420959bb8c": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1237 - לי מוזר משקיעה בביטחון",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1086.wav",
+      "filename_stem": "1086",
+      "uploaded_at": "2026-10-31T19:09:46.831002+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/c317a0b5-fa7e-3d12-aee6-0b0fad0cb492": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1238 - מירב עלמה סבר ונשים חרדיות",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1087.wav",
+      "filename_stem": "1087",
+      "uploaded_at": "2026-10-31T19:11:10.150203+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/6925916e-d97e-36d2-9481-790b0aa0b279": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1239 - גלעד לוי התחיל מוקדם",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1088.wav",
+      "filename_stem": "1088",
+      "uploaded_at": "2026-10-31T19:12:22.390429+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/8ac2a787-bda0-38e6-892c-0c166c51d1e7": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1240 - ח״כ מירב כהן",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1089.wav",
+      "filename_stem": "1089",
+      "uploaded_at": "2026-10-31T19:13:23.412206+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/f5a4d5f7-fb4e-3a91-b008-71bcce9656a2": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1241 - פרופ׳ דני אורבך וטבח כפר קאסם",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1090.wav",
+      "filename_stem": "1090",
+      "uploaded_at": "2026-10-31T19:14:13.915607+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/b5ecda0e-7fa4-3fde-85dd-414bb80d7628": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1242 - ד״ר אלינור ארז חוקרת חקלאות",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1091.wav",
+      "filename_stem": "1091",
+      "uploaded_at": "2026-10-31T19:14:59.884295+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/ed406cda-8783-3a39-a3af-142a3bb34c3f": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1243 - טל אסיף, זהב שחור ודראפט קולנוע ראשון",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1092.wav",
+      "filename_stem": "1092",
+      "uploaded_at": "2026-10-31T19:15:56.595417+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/4f99d35b-c934-35e2-8a45-0553c4a400cf": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1244 - אור שאלתיאל ומים בישראל",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/6.wav",
+      "filename_stem": "6",
+      "uploaded_at": "2026-10-31T19:16:50.091180+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/72a6d7c7-e5ba-36f0-a2ff-d42e5c5df5b1": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1245 - יקיר סודרי ובילדוטס",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/7.wav",
+      "filename_stem": "7",
+      "uploaded_at": "2026-10-31T19:17:35.103351+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/2dd48f7f-fc21-3a4a-abbc-b54d5cb83a75": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1246 - רועי דהאן מכין אוכל טעים",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/8.wav",
+      "filename_stem": "8",
+      "uploaded_at": "2026-10-31T19:18:26.428225+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/719427f3-253d-3590-b838-05537f330ef6": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1247 - מרדכי כהן והעשור המבוזבז",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/9.wav",
+      "filename_stem": "9",
+      "uploaded_at": "2026-10-31T19:19:14.792332+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/fc7ce686-9d01-311a-829b-211b102690b4": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1248 - עדי חכמון ורשת החשמל",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/10.wav",
+      "filename_stem": "10",
+      "uploaded_at": "2026-10-31T19:20:05.851896+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/b2d6a491-947f-356b-9ad4-152bc8c259ca": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1249 - העסקים של ערן אפרת",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1.wav",
+      "filename_stem": "1",
+      "uploaded_at": "2026-10-31T19:21:14.856838+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/bb92ac80-bd94-302d-ae55-e1ea676bd1d1": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1250 - דניאל בכמט, מתמטיקה ו-AI",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/2.wav",
+      "filename_stem": "2",
+      "uploaded_at": "2026-10-31T19:21:52.397590+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/6d9fcc41-da87-3b26-95d7-1d79601b461b": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1251 - ג׳רמי סוארד מסתכל מתחת לקרקע",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/3.wav",
+      "filename_stem": "3",
+      "uploaded_at": "2026-10-31T19:22:48.470063+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/0031cfbc-73ff-37d7-a4b7-914c0dd1df35": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1252 -  אנשים שפגשתי",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/4.wav",
+      "filename_stem": "4",
+      "uploaded_at": "2026-10-31T19:23:41.150416+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/c6e614a6-34ce-3717-8c69-01c6d0817662": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1253 - חיים לוינסון",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/5.wav",
+      "filename_stem": "5",
+      "uploaded_at": "2026-10-31T19:25:13.364798+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/fd173d90-9154-370b-be37-23d7f9fc0930": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1254 - ד״ר אלעד מנטוביץ מחדש לאנבידיה",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/11.wav",
+      "filename_stem": "11",
+      "uploaded_at": "2026-10-31T19:26:08.227849+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/392362b1-8030-33a7-8355-fff5e9cb9143": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1255 - אבישי עובדיה וקריסת שוק הנדל״ן",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/12.wav",
+      "filename_stem": "12",
+      "uploaded_at": "2026-10-31T19:27:07.694272+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/2ae55323-6094-399d-b27a-386eb885e119": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1256 -  יאיר מירון",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/16.wav",
+      "filename_stem": "16",
+      "uploaded_at": "2026-10-31T19:28:19.081519+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/86885e8c-83b7-3b76-9358-0c776903f95d": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1257 - פרופ׳ דידי פביאן וסרטן העין",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1016.wav",
+      "filename_stem": "1016",
+      "uploaded_at": "2026-10-31T19:29:36.523154+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/b80767f8-2268-3675-94d2-b9a8c45be986": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1258 - ח״כ אפרת רייטן",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1017.wav",
+      "filename_stem": "1017",
+      "uploaded_at": "2026-10-31T19:30:41.689135+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/4228ab3d-ba3f-3bda-a163-9ca091ec57a0": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1259 - פרופ׳ נדב כהן ולמידת מכונה",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1018.wav",
+      "filename_stem": "1018",
+      "uploaded_at": "2026-10-31T19:31:35.485843+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/3c1d6985-6402-3988-bdd8-e9906af9a11c": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1260 - יוני צרויה ולושה",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1019.wav",
+      "filename_stem": "1019",
+      "uploaded_at": "2026-10-31T19:32:30.171627+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/786681f2-e139-354e-911d-b98137d47bb4": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1261 - פרופ׳ יניב ארליך ופיתוחים בעולם התרופות",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1020.wav",
+      "filename_stem": "1020",
+      "uploaded_at": "2026-10-31T19:33:32.966330+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/b4f3735e-e283-366c-a0e5-d586bca366c5": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1262 - שי גיל ותעופה אזרחית",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1021.wav",
+      "filename_stem": "1021",
+      "uploaded_at": "2026-10-31T19:34:26.301189+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/fa443122-8464-3d52-97a0-76bc627fd81f": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1263 - תומר פרסיקו",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1022.wav",
+      "filename_stem": "1022",
+      "uploaded_at": "2026-10-31T19:35:29.709465+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/91b85635-e2b0-32be-98bb-b44c55339e58": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1264 - מוטי לייטנר והציבור החרדי",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1023.wav",
+      "filename_stem": "1023",
+      "uploaded_at": "2026-10-31T19:36:44.597685+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/0819c272-f5e0-3586-ae0d-066bc06bb12b": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1265 - ח״כ יסמין סאקס פרידמן",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1024.wav",
+      "filename_stem": "1024",
+      "uploaded_at": "2026-10-31T19:37:34.936926+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/5c9f325f-b1c7-375a-bf51-a33588d4b5ad": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1266 - נפתלי בנט",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1025.wav",
+      "filename_stem": "1025",
+      "uploaded_at": "2026-10-31T19:38:33.194758+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/686729dc-7042-373f-9541-4688658a4e2d": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1267 - אריאל אדמוני וקטר",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1026.wav",
+      "filename_stem": "1026",
+      "uploaded_at": "2026-10-31T19:39:20.403662+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/9e713f18-6b3c-3aa4-ace2-193d01f7c97c": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1268 - ד״ר אסיף סיני",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1027.wav",
+      "filename_stem": "1027",
+      "uploaded_at": "2026-10-31T19:40:02.241262+00:00"
     }
   },
   "next_numbers": {
     "1": 2674,
-    "2": 1028,
+    "2": 1093,
     "3": 15,
     "4": 18,
     "5": 113,
