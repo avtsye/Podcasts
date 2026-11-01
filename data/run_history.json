@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-01T14:58:55.186271+00:00",
+  "updated_at": "2026-11-01T15:14:56.141197+00:00",
   "runs": [
+    {
+      "run_id": "41320176624",
+      "run_number": "400",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-01T15:14:56.141197+00:00",
+      "israel_time": "01/11/2026 17:14",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41320176624",
+      "items": []
+    },
     {
       "run_id": "41318671977",
       "run_number": "399",
@@ -2883,55 +2897,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39583048016",
       "items": []
-    },
-    {
-      "run_id": "39580892478",
-      "run_number": "298",
-      "event": "repository_dispatch",
-      "status": "failure",
-      "utc_time": "2026-10-21T10:01:18.152646+00:00",
-      "israel_time": "21/10/2026 13:01",
-      "uploads": 3,
-      "feed_errors": 0,
-      "target_errors": 2,
-      "partial": true,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39580892478",
-      "items": [
-        {
-          "podcast": "מגזין מעריב",
-          "title": "עוזרו של אהרן ברק: \"אם השמאל ינצח, מנדלבליט ימונה לשופט בעליון\"",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/15/20.wav"
-          ],
-          "drive_filename": "עוזרו של אהרן ברק_ _אם השמאל ינצח, מנדלבליט ימונה לשופט בעליון_.mp3",
-          "drive_folder": "מגזין מעריב",
-          "drive_url": "https://drive.google.com/file/d/1B1ceo3T7UDhMY4hMnp4L3WBvKH98J4QU/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/15/20.wav"
-        },
-        {
-          "podcast": "בזמן שעבדתם",
-          "title": "העתק, הדבק: המהפכה שהופכת עבודה של עשרות שנים לשלוש שעות",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/20/315.wav"
-          ],
-          "drive_filename": "העתק, הדבק_ המהפכה שהופכת עבודה של עשרות שנים לשלוש שעות.mp3",
-          "drive_folder": "בזמן שעבדתם",
-          "drive_url": "https://drive.google.com/file/d/1n8ZiuLFB-yfkPatES5_mn4Cw4xgKPrw3/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/20/315.wav"
-        },
-        {
-          "podcast": "שלושה שיודעים",
-          "title": "איילה מה לי ולה",
-          "destinations": [
-            "Google Drive"
-          ],
-          "drive_filename": "איילה מה לי ולה.mp3",
-          "drive_folder": "שלושה שיודעים",
-          "drive_url": "https://drive.google.com/file/d/1RcX9qegkMvKnle6s0QYhy1JKAkY7EGVP/view?usp=drivesdk"
-        }
-      ]
     }
   ]
 }
