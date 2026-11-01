@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-01T01:14:56.444184+00:00",
+  "updated_at": "2026-11-01T07:39:17.692671+00:00",
   "runs": [
+    {
+      "run_id": "41285557955",
+      "run_number": "398",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-01T07:39:17.692671+00:00",
+      "israel_time": "01/11/2026 09:39",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41285557955",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "הפוליטיקה החרדית החדשה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2674.wav"
+          ],
+          "drive_filename": "הפוליטיקה החרדית החדשה.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/1fVF6olIIz6_BM2X8PgsGer7KjQHhc7qt/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2674.wav"
+        },
+        {
+          "podcast": "פשוט AI",
+          "title": "הסוכנים הקוליים שעושים כבר מכירות בטלפון 📞 | פרק 1919 עם אור גולדשמידט ואיליה רונין, קולדי",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/105.wav"
+          ],
+          "drive_filename": "הסוכנים הקוליים שעושים כבר מכירות בטלפון 📞 _ פרק 1919 עם אור גולדשמידט ואיליה רונין, קולדי.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1NA2_cOstTCioLOsJ2wFdNjHhUn7FpA7k/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/55/105.wav"
+        }
+      ]
+    },
     {
       "run_id": "41260223558",
       "run_number": "397",
@@ -2868,45 +2907,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39546630337",
       "items": []
-    },
-    {
-      "run_id": "39546540140",
-      "run_number": "296",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-21T04:55:23.959953+00:00",
-      "israel_time": "21/10/2026 07:55",
-      "uploads": 2,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39546540140",
-      "items": [
-        {
-          "podcast": "אחד ביום",
-          "title": "איך שומרים על הבחירות?",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/1/2666.wav"
-          ],
-          "drive_filename": "איך שומרים על הבחירות_.mp3",
-          "drive_folder": "אחד ביום",
-          "drive_url": "https://drive.google.com/file/d/1CNv1e20wII3IYfzPihxU3quesB_BZkCX/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/1/2666.wav"
-        },
-        {
-          "podcast": "חיות כיס",
-          "title": "פרק 362: מי מפחד מיום הבחירות?",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/3/12.wav"
-          ],
-          "drive_filename": "פרק 362_ מי מפחד מיום הבחירות_.mp3",
-          "drive_folder": "חיות כיס",
-          "drive_url": "https://drive.google.com/file/d/1xp5_TYXdm24SoKaOG727UjpOKAZa8qXb/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/3/12.wav"
-        }
-      ]
     }
   ]
 }
