@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-01T19:28:42.024742+00:00",
+  "updated_at": "2026-11-01T19:46:14.880875+00:00",
   "runs": [
+    {
+      "run_id": "41343328977",
+      "run_number": "402",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-01T19:46:14.880875+00:00",
+      "israel_time": "01/11/2026 21:46",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41343328977",
+      "items": []
+    },
     {
       "run_id": "41341810369",
       "run_number": "401",
@@ -2875,41 +2889,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39624681143",
       "items": []
-    },
-    {
-      "run_id": "39621712225",
-      "run_number": "300",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-21T15:03:21.363160+00:00",
-      "israel_time": "21/10/2026 18:03",
-      "uploads": 2,
-      "feed_errors": 1,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39621712225",
-      "items": [
-        {
-          "podcast": "Ear Catcher",
-          "title": "״רצינו שידברו עלינו אז איכשהו זה קרה״ פרק 455 עם יובל גרודק מנכ״ל ושותף בגרופר",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/24/17.wav"
-          ],
-          "drive_filename": "״רצינו שידברו עלינו אז איכשהו זה קרה״ פרק 455 עם יובל גרודק מנכ״ל ושותף בגרופר.mp3",
-          "drive_folder": "Ear Catcher",
-          "drive_url": "https://drive.google.com/file/d/1MjE1XKgurjQee69SXMi--kvjzSfQ0cz0/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/24/17.wav"
-        },
-        {
-          "podcast": "שלושה שיודעים",
-          "title": "איילה מה לי ולה",
-          "yemos_path": "ivr2:/1/42/915.wav",
-          "destinations": [
-            "ימות המשיח ivr2:/1/42/915.wav"
-          ]
-        }
-      ]
     }
   ]
 }
