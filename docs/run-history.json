@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-01T07:39:17.692671+00:00",
+  "updated_at": "2026-11-01T14:58:55.186271+00:00",
   "runs": [
+    {
+      "run_id": "41318671977",
+      "run_number": "399",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-01T14:58:55.186271+00:00",
+      "israel_time": "01/11/2026 16:58",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41318671977",
+      "items": [
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1269 - מיכל צ׳רנוביצקי והממ״חים",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1093.wav"
+          ],
+          "drive_filename": "פרק #1269 - מיכל צ׳רנוביצקי והממ״חים.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1pe6XchjmE1-I6-iISopla1En_w5Y9LAW/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1093.wav"
+        },
+        {
+          "podcast": "שלושה שיודעים",
+          "title": "שירותים ציבוריים שריחם למרחוק",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/42/919.wav"
+          ],
+          "drive_filename": "שירותים ציבוריים שריחם למרחוק.mp3",
+          "drive_folder": "שלושה שיודעים",
+          "drive_url": "https://drive.google.com/file/d/1Oq92cNCiegH5eNQ3gMLxp_fbklFbEUmf/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/42/919.wav"
+        }
+      ]
+    },
     {
       "run_id": "41285557955",
       "run_number": "398",
@@ -2893,20 +2932,6 @@
           "drive_url": "https://drive.google.com/file/d/1RcX9qegkMvKnle6s0QYhy1JKAkY7EGVP/view?usp=drivesdk"
         }
       ]
-    },
-    {
-      "run_id": "39546630337",
-      "run_number": "297",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-21T04:56:20.185361+00:00",
-      "israel_time": "21/10/2026 07:56",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39546630337",
-      "items": []
     }
   ]
 }
