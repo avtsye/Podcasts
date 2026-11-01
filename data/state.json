@@ -1,210 +1,210 @@
 {
   "feeds": {
     "ehad_beyom": {
-      "last_checked": "2026-11-01T19:45:41.047693+00:00",
+      "last_checked": "2026-11-01T22:58:53.552889+00:00",
       "last_error": null
     },
     "geekonomy": {
-      "last_checked": "2026-11-01T19:45:43.466535+00:00",
+      "last_checked": "2026-11-01T22:58:55.645136+00:00",
       "last_error": null
     },
     "hayot_kes": {
-      "last_checked": "2026-11-01T19:45:44.484397+00:00",
+      "last_checked": "2026-11-01T22:58:56.675989+00:00",
       "last_error": null
     },
     "osim_tech": {
-      "last_checked": "2026-11-01T19:45:45.091061+00:00",
+      "last_checked": "2026-11-01T22:58:57.219814+00:00",
       "last_error": null
     },
     "hatshuva": {
-      "last_checked": "2026-11-01T19:45:45.853639+00:00",
+      "last_checked": "2026-11-01T22:58:57.878213+00:00",
       "last_error": null
     },
     "startup_for_startup": {
-      "last_checked": "2026-11-01T19:45:47.573276+00:00",
+      "last_checked": "2026-11-01T22:58:59.404357+00:00",
       "last_error": null
     },
     "money_engines": {
-      "last_checked": "2026-11-01T19:45:48.043440+00:00",
+      "last_checked": "2026-11-01T22:58:59.926078+00:00",
       "last_error": null
     },
     "history_for_children": {
-      "last_checked": "2026-11-01T19:45:48.917637+00:00",
+      "last_checked": "2026-11-01T22:59:00.766496+00:00",
       "last_error": null
     },
     "baduk": {
-      "last_checked": "2026-11-01T19:45:49.350859+00:00",
+      "last_checked": "2026-11-01T22:59:01.267159+00:00",
       "last_error": null
     },
     "20th_century": {
-      "last_checked": "2026-11-01T19:45:49.916440+00:00",
+      "last_checked": "2026-11-01T22:59:01.831688+00:00",
       "last_error": null
     },
     "sakranit": {
-      "last_checked": "2026-11-01T19:45:50.339745+00:00",
+      "last_checked": "2026-11-01T22:59:02.308574+00:00",
       "last_error": null
     },
     "out_of_memory": {
-      "last_checked": "2026-11-01T19:45:50.710633+00:00",
+      "last_checked": "2026-11-01T22:59:02.768740+00:00",
       "last_error": null
     },
     "erech_musaf": {
-      "last_checked": "2026-11-01T19:45:51.038905+00:00",
+      "last_checked": "2026-11-01T22:59:03.187958+00:00",
       "last_error": null
     },
     "team_atzmaim": {
-      "last_checked": "2026-11-01T19:45:51.395483+00:00",
+      "last_checked": "2026-11-01T22:59:03.595560+00:00",
       "last_error": null
     },
     "maariv_magazine": {
-      "last_checked": "2026-11-01T19:45:51.872854+00:00",
+      "last_checked": "2026-11-01T22:59:04.106224+00:00",
       "last_error": null
     },
     "cx_podcast": {
-      "last_checked": "2026-11-01T19:45:52.218716+00:00",
+      "last_checked": "2026-11-01T22:59:04.518305+00:00",
       "last_error": null
     },
     "haim_aherim": {
-      "last_checked": "2026-11-01T19:45:53.884635+00:00",
+      "last_checked": "2026-11-01T22:59:43.632991+00:00",
       "last_error": null
     },
     "esek_kalkali": {
-      "last_checked": "2026-11-01T19:45:54.239821+00:00",
+      "last_checked": "2026-11-01T22:59:44.067277+00:00",
       "last_error": null
     },
     "keta_kalkali": {
-      "last_checked": "2026-11-01T19:45:54.719735+00:00",
+      "last_checked": "2026-11-01T22:59:44.591658+00:00",
       "last_error": null
     },
     "zman_sheavodtem": {
       "last_error": null,
-      "last_checked": "2026-11-01T19:45:55.507165+00:00"
+      "last_checked": "2026-11-01T22:59:45.301524+00:00"
     },
     "little_university": {
-      "last_checked": "2026-11-01T19:45:56.017647+00:00",
+      "last_checked": "2026-11-01T22:59:45.857086+00:00",
       "last_error": null
     },
     "music_tech": {
-      "last_checked": "2026-11-01T19:45:56.413060+00:00",
+      "last_checked": "2026-11-01T22:59:46.288317+00:00",
       "last_error": null
     },
     "traveler": {
-      "last_checked": "2026-11-01T19:45:57.023903+00:00",
+      "last_checked": "2026-11-01T22:59:46.940118+00:00",
       "last_error": null
     },
     "ear_catcher": {
-      "last_checked": "2026-11-01T19:45:58.649864+00:00",
+      "last_checked": "2026-11-01T22:59:48.397879+00:00",
       "last_error": null
     },
     "historia_bederech": {
-      "last_checked": "2026-11-01T19:45:59.015022+00:00",
+      "last_checked": "2026-11-01T22:59:48.880987+00:00",
       "last_error": null
     },
     "historia_ktaim": {
-      "last_checked": "2026-11-01T19:46:00.622082+00:00",
+      "last_checked": "2026-11-01T22:59:50.755475+00:00",
       "last_error": null
     },
     "osim_historia": {
-      "last_checked": "2026-11-01T19:46:01.396830+00:00",
+      "last_checked": "2026-11-01T22:59:51.564671+00:00",
       "last_error": null
     },
     "yaldin": {
       "last_error": null,
-      "last_checked": "2026-11-01T19:46:01.560661+00:00"
+      "last_checked": "2026-11-01T22:59:52.611443+00:00"
     },
     "yetziat_ethiopia": {
-      "last_checked": "2026-11-01T19:46:02.204835+00:00",
+      "last_checked": "2026-11-01T22:59:53.617201+00:00",
       "last_error": null
     },
     "sogen_sodi": {
-      "last_checked": "2026-11-01T19:46:02.359070+00:00",
+      "last_checked": "2026-11-01T22:59:53.858422+00:00",
       "last_error": null
     },
     "sipur_beerech": {
-      "last_checked": "2026-11-01T19:46:02.751877+00:00",
+      "last_checked": "2026-11-01T22:59:54.652968+00:00",
       "last_error": null
     },
     "frontiers_youth": {
-      "last_checked": "2026-11-01T19:46:03.160611+00:00",
+      "last_checked": "2026-11-01T22:59:55.439078+00:00",
       "last_error": null
     },
     "three_who_know": {
       "initialized": true,
-      "last_checked": "2026-11-01T19:46:06.404368+00:00",
+      "last_checked": "2026-11-01T22:59:58.436583+00:00",
       "last_error": null
     },
     "osim_software": {
       "initialized": true,
-      "last_checked": "2026-11-01T19:46:06.922357+00:00",
+      "last_checked": "2026-11-01T22:59:59.129580+00:00",
       "last_error": null
     },
     "how_it_works": {
       "initialized": true,
-      "last_checked": "2026-11-01T19:46:07.337748+00:00",
+      "last_checked": "2026-11-01T22:59:59.580578+00:00",
       "last_error": null
     },
     "historia_big_small": {
       "initialized": true,
-      "last_checked": "2026-11-01T19:46:08.504708+00:00",
+      "last_checked": "2026-11-01T23:00:01.343076+00:00",
       "last_error": null
     },
     "world_war_two": {
       "initialized": true,
-      "last_checked": "2026-11-01T19:46:08.845707+00:00",
+      "last_checked": "2026-11-01T23:00:02.369593+00:00",
       "last_error": null
     },
     "minhar_hazman": {
       "initialized": true,
-      "last_checked": "2026-11-01T19:46:09.370560+00:00",
+      "last_checked": "2026-11-01T23:00:03.025355+00:00",
       "last_error": null
     },
     "triple_agent": {
       "initialized": true,
-      "last_checked": "2026-11-01T19:46:09.563040+00:00",
+      "last_checked": "2026-11-01T23:00:03.256925+00:00",
       "last_error": null
     },
     "grush_hole": {
       "initialized": true,
-      "last_checked": "2026-11-01T19:46:09.850691+00:00",
+      "last_checked": "2026-11-01T23:00:03.520111+00:00",
       "last_error": null
     },
     "hatzolelet": {
       "initialized": true,
-      "last_checked": "2026-11-01T19:46:11.211859+00:00",
+      "last_checked": "2026-11-01T23:00:05.746287+00:00",
       "last_error": null
     },
     "osim_heshbon": {
       "initialized": true,
-      "last_checked": "2026-11-01T19:46:11.584946+00:00",
+      "last_checked": "2026-11-01T23:00:06.067736+00:00",
       "last_error": null
     },
     "al_halal": {
       "initialized": true,
-      "last_checked": "2026-11-01T19:46:12.042203+00:00",
+      "last_checked": "2026-11-01T23:00:06.524125+00:00",
       "last_error": null
     },
     "el_haeinsof": {
       "initialized": true,
-      "last_checked": "2026-11-01T19:46:12.448465+00:00",
+      "last_checked": "2026-11-01T23:00:06.957064+00:00",
       "last_error": null
     },
     "madbarimda": {
       "initialized": true,
-      "last_checked": "2026-11-01T19:46:12.926830+00:00",
+      "last_checked": "2026-11-01T23:00:07.406046+00:00",
       "last_error": null
     },
     "pashut_ai": {
       "initialized": true,
-      "last_checked": "2026-11-01T19:46:13.695517+00:00",
+      "last_checked": "2026-11-01T23:00:08.134445+00:00",
       "last_error": null
     },
     "knesset_nichbada": {
-      "last_checked": "2026-11-01T19:46:13.971302+00:00",
+      "last_checked": "2026-11-01T23:00:10.250398+00:00",
       "last_error": null
     },
     "hapolitikaim": {
       "initialized": true,
-      "last_checked": "2026-11-01T19:46:14.260243+00:00",
+      "last_checked": "2026-11-01T23:00:10.566708+00:00",
       "last_error": null
     }
   },
@@ -72176,6 +72176,22 @@
       "drive_folder": "סקרנית",
       "yemos_path": "ivr2:/1/11/13.wav",
       "notification_sent_at": "2026-11-01T19:28:39.297627+00:00"
+    },
+    "haim_aherim:1dd51f90-8a4d-45fb-8e56-b4f5015c8d51": {
+      "podcast_id": "haim_aherim",
+      "title": "חיים של אחרים | 01.11.26",
+      "published": "Sun, 01 Nov 2026 21:09:02 +0000",
+      "audio_url": "https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/18165081-89c2-4c67-beaa-ade9007eff95/1dd51f90-8a4d-45fb-8e56-b4f5015c8d51/audio.mp3?utm_source=Podcast&in_playlist=69e63bd8-5f53-4674-bdbf-ade900800459",
+      "status": "notified",
+      "notification_status": "sent",
+      "yemos_status": "uploaded",
+      "processed_at": "2026-11-01T22:59:06.542720+00:00",
+      "drive_file_id": "1iYNC3uxovsbm40RF77pa9UkmGYA9Xmwe",
+      "drive_url": "https://drive.google.com/file/d/1iYNC3uxovsbm40RF77pa9UkmGYA9Xmwe/view?usp=drivesdk",
+      "drive_filename": "חיים של אחרים _ 01.11.26.mp3",
+      "drive_folder": "חיים של אחרים",
+      "yemos_path": "ivr2:/1/17/25.wav",
+      "notification_sent_at": "2026-11-01T23:00:11.824692+00:00"
     }
   }
 }
