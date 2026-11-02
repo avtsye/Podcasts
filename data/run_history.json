@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-02T16:12:21.697341+00:00",
+  "updated_at": "2026-11-02T19:50:59.990786+00:00",
   "runs": [
+    {
+      "run_id": "41513476197",
+      "run_number": "409",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-02T19:50:59.990786+00:00",
+      "israel_time": "02/11/2026 21:50",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41513476197",
+      "items": [
+        {
+          "podcast": "עושים טכנולוגיה",
+          "title": "התיק המוזר של טיקים בטיקטוק (ש.ח.) [עושים טכנולוגיה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/4/18.wav"
+          ],
+          "drive_filename": "התיק המוזר של טיקים בטיקטוק (ש.ח.) [עושים טכנולוגיה].mp3",
+          "drive_folder": "עושים טכנולוגיה",
+          "drive_url": "https://drive.google.com/file/d/1Wl5Wi-sC0Mo2TGAovqwgu3GE-KzEPcTz/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/4/18.wav"
+        },
+        {
+          "podcast": "עושים טכנולוגיה",
+          "title": "עתיד האנושות הוא סולארפאנק (ש.ח.) [עושים טכנולוגיה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/4/19.wav"
+          ],
+          "drive_filename": "עתיד האנושות הוא סולארפאנק (ש.ח.) [עושים טכנולוגיה].mp3",
+          "drive_folder": "עושים טכנולוגיה",
+          "drive_url": "https://drive.google.com/file/d/1kNcNFD8n9SjQg7_hqbmXGZsg7Wobd1R9/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/4/19.wav"
+        }
+      ]
+    },
     {
       "run_id": "41478920030",
       "run_number": "408",
@@ -2555,20 +2594,6 @@
           "yemos_path": "ivr2:/1/23/14.wav"
         }
       ]
-    },
-    {
-      "run_id": "39693197891",
-      "run_number": "307",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-21T23:25:17.665976+00:00",
-      "israel_time": "22/10/2026 02:25",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39693197891",
-      "items": []
     }
   ]
 }

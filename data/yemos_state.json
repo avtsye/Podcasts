@@ -27814,13 +27814,29 @@
       "path": "ivr2:/1/42/920.wav",
       "filename_stem": "920",
       "uploaded_at": "2026-11-02T09:41:46.874689+00:00"
+    },
+    "osim_tech:https://api.spreaker.com/episode/75283600": {
+      "podcast_id": "osim_tech",
+      "title": "התיק המוזר של טיקים בטיקטוק (ש.ח.) [עושים טכנולוגיה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/4/18.wav",
+      "filename_stem": "18",
+      "uploaded_at": "2026-11-02T19:50:03.348686+00:00"
+    },
+    "osim_tech:https://api.spreaker.com/episode/75283639": {
+      "podcast_id": "osim_tech",
+      "title": "עתיד האנושות הוא סולארפאנק (ש.ח.) [עושים טכנולוגיה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/4/19.wav",
+      "filename_stem": "19",
+      "uploaded_at": "2026-11-02T19:50:30.892207+00:00"
     }
   },
   "next_numbers": {
     "1": 2676,
     "2": 1094,
     "3": 15,
-    "4": 18,
+    "4": 20,
     "5": 113,
     "6": 290,
     "7": 18,
