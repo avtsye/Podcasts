@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-02T19:50:59.990786+00:00",
+  "updated_at": "2026-11-02T23:36:31.721174+00:00",
   "runs": [
+    {
+      "run_id": "41546557129",
+      "run_number": "410",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-02T23:36:31.721174+00:00",
+      "israel_time": "03/11/2026 01:36",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41546557129",
+      "items": [
+        {
+          "podcast": "חיים של אחרים",
+          "title": "חיים של אחרים | 02.11.26",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/17/26.wav"
+          ],
+          "drive_filename": "חיים של אחרים _ 02.11.26.mp3",
+          "drive_folder": "חיים של אחרים",
+          "drive_url": "https://drive.google.com/file/d/1tzkSXX3GP6pZEF5CTXs71iMrcti-b2Bj/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/17/26.wav"
+        }
+      ]
+    },
     {
       "run_id": "41513476197",
       "run_number": "409",
@@ -2565,33 +2592,6 @@
           "drive_folder": "אחד ביום",
           "drive_url": "https://drive.google.com/file/d/1tnkDrfMGBUajMtSyFv6I5L8SsR2vhfVe/view?usp=drivesdk",
           "yemos_path": "ivr2:/1/1/2667.wav"
-        }
-      ]
-    },
-    {
-      "run_id": "39702096814",
-      "run_number": "308",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-22T00:52:03.850465+00:00",
-      "israel_time": "22/10/2026 03:52",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39702096814",
-      "items": [
-        {
-          "podcast": "הנוסע המתמיד עם נדב יעקבי",
-          "title": "משחק העונה באלופות סיפק את הסחורה",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/23/14.wav"
-          ],
-          "drive_filename": "משחק העונה באלופות סיפק את הסחורה.mp3",
-          "drive_folder": "הנוסע המתמיד עם נדב יעקבי",
-          "drive_url": "https://drive.google.com/file/d/1mJqW1OO-3Stivu_5AaiuEWd1QFM4k6Kq/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/23/14.wav"
         }
       ]
     }
