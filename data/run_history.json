@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-11-02T06:16:26.615144+00:00",
+  "updated_at": "2026-11-02T09:42:00.051638+00:00",
   "runs": [
+    {
+      "run_id": "41422330861",
+      "run_number": "407",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-02T09:42:00.051638+00:00",
+      "israel_time": "02/11/2026 11:42",
+      "uploads": 4,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41422330861",
+      "items": [
+        {
+          "podcast": "מגזין מעריב",
+          "title": "נמצאה מחבקת צעירה אחרת: הסיפור שאמה של סיוון אלקבץ גילתה רק לאחר הטבח",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/15/24.wav"
+          ],
+          "drive_filename": "נמצאה מחבקת צעירה אחרת_ הסיפור שאמה של סיוון אלקבץ גילתה רק לאחר הטבח.mp3",
+          "drive_folder": "מגזין מעריב",
+          "drive_url": "https://drive.google.com/file/d/1cE2vHeoeSBjGAzNBL8eiaJbvGVawdCsc/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/15/24.wav"
+        },
+        {
+          "podcast": "The CX PODCAST",
+          "title": "מהחזון לשטח: כך הופכת תפיסת ״הבנק היוזם״ לחוויית שירות חדשה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/16/12.wav"
+          ],
+          "drive_filename": "מהחזון לשטח_ כך הופכת תפיסת ״הבנק היוזם״ לחוויית שירות חדשה.mp3",
+          "drive_folder": "The CX PODCAST",
+          "drive_url": "https://drive.google.com/file/d/1BdGnRdnBbZ4cd9cAbTciQpLfWxog7dBW/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/16/12.wav"
+        },
+        {
+          "podcast": "הנוסע המתמיד עם נדב יעקבי",
+          "title": "הבלאגן סביב כדור הזהב",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/23/15.wav"
+          ],
+          "drive_filename": "הבלאגן סביב כדור הזהב.mp3",
+          "drive_folder": "הנוסע המתמיד עם נדב יעקבי",
+          "drive_url": "https://drive.google.com/file/d/1YjR-9xsKmkjnO1JU49dTsV8Q3irYheJu/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/23/15.wav"
+        },
+        {
+          "podcast": "שלושה שיודעים",
+          "title": "העורב הלקחן",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/42/920.wav"
+          ],
+          "drive_filename": "העורב הלקחן.mp3",
+          "drive_folder": "שלושה שיודעים",
+          "drive_url": "https://drive.google.com/file/d/1EtC81Q1TNWlkAbwghJPvltkKRWhkwr22/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/42/920.wav"
+        }
+      ]
+    },
     {
       "run_id": "41398592397",
       "run_number": "406",
@@ -2515,33 +2578,6 @@
           "drive_filename": "פרק 6 - הבליץ על לונדון.mp3",
           "drive_folder": "מלחמת העולם השנייה",
           "drive_url": "https://drive.google.com/file/d/1TnO7MEWSZjmbzODhc5CcwqMt-ux1EB69/view?usp=drivesdk"
-        }
-      ]
-    },
-    {
-      "run_id": "39686157296",
-      "run_number": "306",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-21T22:25:37.233045+00:00",
-      "israel_time": "22/10/2026 01:25",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39686157296",
-      "items": [
-        {
-          "podcast": "חיים של אחרים",
-          "title": "חיים של אחרים | 21.10.26",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/17/21.wav"
-          ],
-          "drive_filename": "חיים של אחרים _ 21.10.26.mp3",
-          "drive_folder": "חיים של אחרים",
-          "drive_url": "https://drive.google.com/file/d/1h18NI9rwHZL09vQwuEmaAuQcvqYrV1hP/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/17/21.wav"
         }
       ]
     }
