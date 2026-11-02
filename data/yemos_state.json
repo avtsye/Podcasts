@@ -9783,9 +9783,9 @@
       "status": "error",
       "filename_stem": "12",
       "error": "UploadFile finalization query retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-10-30T14:15:57.413958+00:00",
-      "attempt_count": 12,
-      "next_retry": "2026-11-02T14:15:57.413984+00:00"
+      "updated_at": "2026-11-02T16:11:51.699028+00:00",
+      "attempt_count": 13,
+      "next_retry": "2026-11-05T16:11:51.699048+00:00"
     },
     "startup_for_startup:b93b8925-0d61-4f88-8d4d-b49400eb0eca": {
       "podcast_id": "startup_for_startup",
