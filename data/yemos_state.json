@@ -27854,6 +27854,14 @@
       "path": "ivr2:/1/6/290.wav",
       "filename_stem": "290",
       "uploaded_at": "2026-11-03T06:54:26.016810+00:00"
+    },
+    "three_who_know:a3d4b403-ead1-4c29-8fdd-b4f7006bc556": {
+      "podcast_id": "three_who_know",
+      "title": "חיפה חיפה עיר עם עתיד",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/921.wav",
+      "filename_stem": "921",
+      "uploaded_at": "2026-11-03T09:37:55.798555+00:00"
     }
   },
   "next_numbers": {
@@ -27889,7 +27897,7 @@
     "20": 317,
     "24": 18,
     "41": 11,
-    "42": 921,
+    "42": 922,
     "55": 106,
     "43": 114,
     "50": 5,

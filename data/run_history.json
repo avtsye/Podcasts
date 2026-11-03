@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-03T06:54:59.941909+00:00",
+  "updated_at": "2026-11-03T09:38:08.137428+00:00",
   "runs": [
+    {
+      "run_id": "41612424917",
+      "run_number": "413",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-03T09:38:08.137428+00:00",
+      "israel_time": "03/11/2026 11:38",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41612424917",
+      "items": [
+        {
+          "podcast": "שלושה שיודעים",
+          "title": "חיפה חיפה עיר עם עתיד",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/42/921.wav"
+          ],
+          "drive_filename": "חיפה חיפה עיר עם עתיד.mp3",
+          "drive_folder": "שלושה שיודעים",
+          "drive_url": "https://drive.google.com/file/d/1d2RE0aDfyV-IrFjni--4Im6tYV6nco_F/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/42/921.wav"
+        }
+      ]
+    },
     {
       "run_id": "41592710018",
       "run_number": "412",
@@ -2579,20 +2606,6 @@
           "yemos_path": "ivr2:/1/7/16.wav"
         }
       ]
-    },
-    {
-      "run_id": "39771297771",
-      "run_number": "311",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-22T11:33:01.945815+00:00",
-      "israel_time": "22/10/2026 14:33",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39771297771",
-      "items": []
     }
   ]
 }
