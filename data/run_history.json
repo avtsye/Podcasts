@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-03T15:16:49.960547+00:00",
+  "updated_at": "2026-11-03T17:23:54.858833+00:00",
   "runs": [
+    {
+      "run_id": "41683500984",
+      "run_number": "415",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-03T17:23:54.858833+00:00",
+      "israel_time": "03/11/2026 19:23",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41683500984",
+      "items": [
+        {
+          "podcast": "מגזין מעריב",
+          "title": "מעל הליגה - פרק 51 | מחמש נותרו שלוש",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/15/25.wav"
+          ],
+          "drive_filename": "מעל הליגה - פרק 51 _ מחמש נותרו שלוש.mp3",
+          "drive_folder": "מגזין מעריב",
+          "drive_url": "https://drive.google.com/file/d/1e_OkVUN5q_Gz_84Yy2wsDmmVrEJRw1jG/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/15/25.wav"
+        }
+      ]
+    },
     {
       "run_id": "41661688710",
       "run_number": "414",
@@ -2591,20 +2618,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39846506532",
-      "items": []
-    },
-    {
-      "run_id": "39844648145",
-      "run_number": "313",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-22T19:58:26.500352+00:00",
-      "israel_time": "22/10/2026 22:58",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39844648145",
       "items": []
     }
   ]
