@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-03T09:38:08.137428+00:00",
+  "updated_at": "2026-11-03T15:16:49.960547+00:00",
   "runs": [
+    {
+      "run_id": "41661688710",
+      "run_number": "414",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-03T15:16:49.960547+00:00",
+      "israel_time": "03/11/2026 17:16",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 1,
+      "partial": true,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41661688710",
+      "items": [
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1270 - ד״ר קובי ברדה ובחירות האמצע",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1094.wav"
+          ],
+          "drive_filename": "פרק #1270 - ד״ר קובי ברדה ובחירות האמצע.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/182twKvMxsLBup5EaadTjODjpP-0eGRLr/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1094.wav"
+        }
+      ]
+    },
     {
       "run_id": "41612424917",
       "run_number": "413",
@@ -2579,33 +2606,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39844648145",
       "items": []
-    },
-    {
-      "run_id": "39804146517",
-      "run_number": "312",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-22T15:23:19.917307+00:00",
-      "israel_time": "22/10/2026 18:23",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39804146517",
-      "items": [
-        {
-          "podcast": "מנועי הכסף",
-          "title": "הצמיחה של 7.5% שאינה באמת צמיחה",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/7/16.wav"
-          ],
-          "drive_filename": "הצמיחה של 7.5% שאינה באמת צמיחה.mp3",
-          "drive_folder": "מנועי הכסף",
-          "drive_url": "https://drive.google.com/file/d/1leA7H7Or9AuvH03pERBBDsbwyeHPOKwd/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/7/16.wav"
-        }
-      ]
     }
   ]
 }

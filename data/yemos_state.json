@@ -12154,9 +12154,9 @@
       "status": "error",
       "filename_stem": "16",
       "error": "UploadFile finalization query retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-10-31T14:50:57.046935+00:00",
-      "attempt_count": 12,
-      "next_retry": "2026-11-03T14:50:57.046951+00:00"
+      "updated_at": "2026-11-03T15:16:09.682508+00:00",
+      "attempt_count": 13,
+      "next_retry": "2026-11-06T15:16:09.682530+00:00"
     },
     "osim_historia:https://api.spreaker.com/episode/75567734": {
       "podcast_id": "osim_historia",
@@ -27862,11 +27862,19 @@
       "path": "ivr2:/1/42/921.wav",
       "filename_stem": "921",
       "uploaded_at": "2026-11-03T09:37:55.798555+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/0ed5a2eb-5193-3f81-8ba1-b16f5e925450": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1270 - ד״ר קובי ברדה ובחירות האמצע",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1094.wav",
+      "filename_stem": "1094",
+      "uploaded_at": "2026-11-03T15:15:46.177703+00:00"
     }
   },
   "next_numbers": {
     "1": 2677,
-    "2": 1094,
+    "2": 1095,
     "3": 15,
     "4": 20,
     "5": 113,
