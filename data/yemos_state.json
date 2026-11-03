@@ -27838,15 +27838,31 @@
       "path": "ivr2:/1/17/26.wav",
       "filename_stem": "26",
       "uploaded_at": "2026-11-02T23:36:06.461875+00:00"
+    },
+    "ehad_beyom:f5309d94-d800-47ac-b497-b4f700018e68": {
+      "podcast_id": "ehad_beyom",
+      "title": "התכנית של גוש השינוי",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2676.wav",
+      "filename_stem": "2676",
+      "uploaded_at": "2026-11-03T06:53:51.693708+00:00"
+    },
+    "startup_for_startup:8c3d036b-efe4-4c69-9309-b4f0010511ce": {
+      "podcast_id": "startup_for_startup",
+      "title": "3 שלבים להטמעת AI: מאדופשן ראשוני לבניית תהליכים מחדש",
+      "status": "uploaded",
+      "path": "ivr2:/1/6/290.wav",
+      "filename_stem": "290",
+      "uploaded_at": "2026-11-03T06:54:26.016810+00:00"
     }
   },
   "next_numbers": {
-    "1": 2676,
+    "1": 2677,
     "2": 1094,
     "3": 15,
     "4": 20,
     "5": 113,
-    "6": 290,
+    "6": 291,
     "7": 18,
     "8": 12,
     "9": 49,
