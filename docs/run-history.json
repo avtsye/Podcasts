@@ -1,6 +1,57 @@
 {
-  "updated_at": "2026-11-04T09:23:10.377432+00:00",
+  "updated_at": "2026-11-04T17:58:01.177526+00:00",
   "runs": [
+    {
+      "run_id": "41881635353",
+      "run_number": "421",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-04T17:58:01.177526+00:00",
+      "israel_time": "04/11/2026 19:58",
+      "uploads": 3,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41881635353",
+      "items": [
+        {
+          "podcast": "מגזין מעריב",
+          "title": "מחנה דגו - עם ברוך דגו | ״מחצית בשכונה״, פרק 65",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/15/26.wav"
+          ],
+          "drive_filename": "מחנה דגו - עם ברוך דגו _ ״מחצית בשכונה״, פרק 65.mp3",
+          "drive_folder": "מגזין מעריב",
+          "drive_url": "https://drive.google.com/file/d/1LXySZWsgqIpBL_9CyKUIkB-CsLUu6INp/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/15/26.wav"
+        },
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "המרדנות יוצאת לפנסיה: המשבר של הארלי דייווידסון",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/317.wav"
+          ],
+          "drive_filename": "המרדנות יוצאת לפנסיה_ המשבר של הארלי דייווידסון.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1WufOVw2k3ytqV_RoHmduBjv-8Sd9goPq/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/317.wav"
+        },
+        {
+          "podcast": "Ear Catcher",
+          "title": "הסושיאל התפוצץ אבל איפה המנדטים? פרק 456 עם מיה זיו סילבר, מנהלת הסושיאל של בנט",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/24/18.wav"
+          ],
+          "drive_filename": "הסושיאל התפוצץ אבל איפה המנדטים_ פרק 456 עם מיה זיו סילבר, מנהלת הסושיאל של בנט.mp3",
+          "drive_folder": "Ear Catcher",
+          "drive_url": "https://drive.google.com/file/d/1EZdV2w8SzHmMQPPwgH-BPUX1UWd7A9pC/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/24/18.wav"
+        }
+      ]
+    },
     {
       "run_id": "41806725954",
       "run_number": "420",
@@ -2646,29 +2697,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39936942785",
       "items": []
-    },
-    {
-      "run_id": "39912100657",
-      "run_number": "319",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-23T06:33:36.186227+00:00",
-      "israel_time": "23/10/2026 09:33",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39912100657",
-      "items": [
-        {
-          "podcast": "התשובה",
-          "title": "איפה המקל של גבי ודבי? [התשובה]",
-          "yemos_path": "ivr2:/1/5/112.wav",
-          "destinations": [
-            "ימות המשיח ivr2:/1/5/112.wav"
-          ]
-        }
-      ]
     }
   ]
 }

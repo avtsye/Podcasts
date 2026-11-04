@@ -27910,6 +27910,30 @@
       "path": "ivr2:/1/42/922.wav",
       "filename_stem": "922",
       "uploaded_at": "2026-11-04T09:22:57.522127+00:00"
+    },
+    "maariv_magazine:987e74ff-7b73-46de-8fb8-b4f800a4d51f": {
+      "podcast_id": "maariv_magazine",
+      "title": "מחנה דגו - עם ברוך דגו | ״מחצית בשכונה״, פרק 65",
+      "status": "uploaded",
+      "path": "ivr2:/1/15/26.wav",
+      "filename_stem": "26",
+      "uploaded_at": "2026-11-04T17:56:10.611080+00:00"
+    },
+    "zman_sheavodtem:9f19578b-aa55-412d-a6fb-b4f800a9d239": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "המרדנות יוצאת לפנסיה: המשבר של הארלי דייווידסון",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/317.wav",
+      "filename_stem": "317",
+      "uploaded_at": "2026-11-04T17:56:36.861952+00:00"
+    },
+    "ear_catcher:87ccf6ed-86ef-4dc4-97de-b4f800c1edcb": {
+      "podcast_id": "ear_catcher",
+      "title": "הסושיאל התפוצץ אבל איפה המנדטים? פרק 456 עם מיה זיו סילבר, מנהלת הסושיאל של בנט",
+      "status": "uploaded",
+      "path": "ivr2:/1/24/18.wav",
+      "filename_stem": "18",
+      "uploaded_at": "2026-11-04T17:57:34.448601+00:00"
     }
   },
   "next_numbers": {
@@ -27927,7 +27951,7 @@
     "12": 11,
     "13": 11,
     "14": 5,
-    "15": 26,
+    "15": 27,
     "16": 13,
     "17": 28,
     "18": 11,
@@ -27942,8 +27966,8 @@
     "38": 11,
     "39": 9,
     "40": 7,
-    "20": 317,
-    "24": 18,
+    "20": 318,
+    "24": 19,
     "41": 11,
     "42": 923,
     "55": 106,
