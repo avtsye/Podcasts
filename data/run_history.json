@@ -1,6 +1,57 @@
 {
-  "updated_at": "2026-11-04T02:38:22.244251+00:00",
+  "updated_at": "2026-11-04T09:23:10.377432+00:00",
   "runs": [
+    {
+      "run_id": "41806725954",
+      "run_number": "420",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-04T09:23:10.377432+00:00",
+      "israel_time": "04/11/2026 11:23",
+      "uploads": 3,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41806725954",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "האם השב״כ שמר על הבחירות?",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2677.wav"
+          ],
+          "drive_filename": "האם השב״כ שמר על הבחירות_.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/1eajRxgVPir1PcP9g1vvuNidQ4DHDNxJj/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2677.wav"
+        },
+        {
+          "podcast": "חיות כיס",
+          "title": "פרק 364: ואם תהיה ממשלת שינוי",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/3/15.wav"
+          ],
+          "drive_filename": "פרק 364_ ואם תהיה ממשלת שינוי.mp3",
+          "drive_folder": "חיות כיס",
+          "drive_url": "https://drive.google.com/file/d/1xoXncsoFSbn3blCVRsP7mTtnssF4bJc3/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/3/15.wav"
+        },
+        {
+          "podcast": "שלושה שיודעים",
+          "title": "חולצה כחולה והיא עולה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/42/922.wav"
+          ],
+          "drive_filename": "חולצה כחולה והיא עולה.mp3",
+          "drive_folder": "שלושה שיודעים",
+          "drive_url": "https://drive.google.com/file/d/11rDKL2Cs8qp5fP-9haKegHKPPWB7bO2N/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/42/922.wav"
+        }
+      ]
+    },
     {
       "run_id": "41761983426",
       "run_number": "419",
@@ -2618,20 +2669,6 @@
           ]
         }
       ]
-    },
-    {
-      "run_id": "39903030360",
-      "run_number": "318",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-23T04:57:21.451783+00:00",
-      "israel_time": "23/10/2026 07:57",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39903030360",
-      "items": []
     }
   ]
 }
