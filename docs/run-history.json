@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-11-05T15:32:43.447070+00:00",
+  "updated_at": "2026-11-05T19:02:41.427038+00:00",
   "runs": [
+    {
+      "run_id": "42089843154",
+      "run_number": "429",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-05T19:02:41.427038+00:00",
+      "israel_time": "05/11/2026 21:02",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42089843154",
+      "items": [
+        {
+          "podcast": "עושים טכנולוגיה",
+          "title": "מה הבעיה שלי עם אפל (ש.ח.) [עושים טכנולוגיה]",
+          "yemos_path": "ivr2:/1/4/12.wav",
+          "destinations": [
+            "ימות המשיח ivr2:/1/4/12.wav"
+          ]
+        }
+      ]
+    },
     {
       "run_id": "42055817948",
       "run_number": "428",
@@ -2745,20 +2768,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40070505713",
-      "items": []
-    },
-    {
-      "run_id": "40050697922",
-      "run_number": "327",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-24T01:39:31.080727+00:00",
-      "israel_time": "24/10/2026 04:39",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40050697922",
       "items": []
     }
   ]
