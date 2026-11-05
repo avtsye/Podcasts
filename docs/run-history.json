@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-05T06:54:02.660143+00:00",
+  "updated_at": "2026-11-05T11:36:59.725790+00:00",
   "runs": [
+    {
+      "run_id": "42020158902",
+      "run_number": "427",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-05T11:36:59.725790+00:00",
+      "israel_time": "05/11/2026 13:36",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42020158902",
+      "items": [
+        {
+          "podcast": "מגזין מעריב",
+          "title": "בראיון גלוי: מנכ\"ל בית הנשיא חושף את הסיפור המשפחתי מאחורי המאבק בחרמות",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/15/27.wav"
+          ],
+          "drive_filename": "בראיון גלוי_ מנכ_ל בית הנשיא חושף את הסיפור המשפחתי מאחורי המאבק בחרמות.mp3",
+          "drive_folder": "מגזין מעריב",
+          "drive_url": "https://drive.google.com/file/d/1yoIRrclULqCabpCHT7Y6AbyA4-x39ivQ/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/15/27.wav"
+        },
+        {
+          "podcast": "הצוללת",
+          "title": "למה משבר 2008 עלול לקרות שוב, והקשר לבחירות האמצע בארה\"ב | פרק 393",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/50/5.wav"
+          ],
+          "drive_filename": "למה משבר 2008 עלול לקרות שוב, והקשר לבחירות האמצע בארה_ב _ פרק 393.mp3",
+          "drive_folder": "הצוללת",
+          "drive_url": "https://drive.google.com/file/d/1LDQ_VPJxq-RushKgHcv69SC8o797xRmG/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/50/5.wav"
+        }
+      ]
+    },
     {
       "run_id": "41983416524",
       "run_number": "426",
@@ -2707,20 +2746,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40050650634",
-      "items": []
-    },
-    {
-      "run_id": "40038208149",
-      "run_number": "325",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-23T23:12:00.587236+00:00",
-      "israel_time": "24/10/2026 02:12",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40038208149",
       "items": []
     }
   ]
