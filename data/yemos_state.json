@@ -27980,11 +27980,19 @@
       "path": "ivr2:/1/7/18.wav",
       "filename_stem": "18",
       "uploaded_at": "2026-11-05T15:32:14.196611+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/e4769b15-903a-32b2-859b-03b7aade92da": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1270 דן פאנדוס פורץ עם AI",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1095.wav",
+      "filename_stem": "1095",
+      "uploaded_at": "2026-11-05T22:03:38.477788+00:00"
     }
   },
   "next_numbers": {
     "1": 2679,
-    "2": 1095,
+    "2": 1096,
     "3": 16,
     "4": 20,
     "5": 113,

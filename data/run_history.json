@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-05T19:02:41.427038+00:00",
+  "updated_at": "2026-11-05T22:04:10.392639+00:00",
   "runs": [
+    {
+      "run_id": "42117932987",
+      "run_number": "430",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-05T22:04:10.392639+00:00",
+      "israel_time": "06/11/2026 00:04",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42117932987",
+      "items": [
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1270 דן פאנדוס פורץ עם AI",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1095.wav"
+          ],
+          "drive_filename": "פרק #1270 דן פאנדוס פורץ עם AI.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1M_v32bgmgtjtU3Q3y-lHS7uzD5m4YeOg/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1095.wav"
+        }
+      ]
+    },
     {
       "run_id": "42089843154",
       "run_number": "429",
@@ -2754,20 +2781,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40073769333",
-      "items": []
-    },
-    {
-      "run_id": "40070505713",
-      "run_number": "328",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-24T06:31:36.864898+00:00",
-      "israel_time": "24/10/2026 09:31",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40070505713",
       "items": []
     }
   ]
