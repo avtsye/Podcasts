@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-04T23:43:40.511760+00:00",
+  "updated_at": "2026-11-05T03:41:53.691003+00:00",
   "runs": [
+    {
+      "run_id": "41963028513",
+      "run_number": "425",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-05T03:41:53.691003+00:00",
+      "israel_time": "05/11/2026 05:41",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41963028513",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "הצונאמי הכחול באמריקה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2678.wav"
+          ],
+          "drive_filename": "הצונאמי הכחול באמריקה.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/11T3FnIF2np1qBAbo0p6wmQUXil-yZfIO/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2678.wav"
+        },
+        {
+          "podcast": "הנוסע המתמיד עם נדב יעקבי",
+          "title": "פ.ס.ז' וקומו מפרקות, ריאל ויונייטד ניצלות",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/23/16.wav"
+          ],
+          "drive_filename": "פ.ס.ז' וקומו מפרקות, ריאל ויונייטד ניצלות.mp3",
+          "drive_folder": "הנוסע המתמיד עם נדב יעקבי",
+          "drive_url": "https://drive.google.com/file/d/1zkmbxYl2m4oSTbE6xqH6EX7VUEzNRqeb/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/23/16.wav"
+        }
+      ]
+    },
     {
       "run_id": "41935881295",
       "run_number": "424",
@@ -2682,20 +2721,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40010260254",
-      "items": []
-    },
-    {
-      "run_id": "39990964811",
-      "run_number": "323",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-23T16:57:30.049108+00:00",
-      "israel_time": "23/10/2026 19:57",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/39990964811",
       "items": []
     }
   ]
