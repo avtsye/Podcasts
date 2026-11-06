@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-06T02:30:38.900861+00:00",
+  "updated_at": "2026-11-06T06:54:47.262037+00:00",
   "runs": [
+    {
+      "run_id": "42177224289",
+      "run_number": "433",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-06T06:54:47.262037+00:00",
+      "israel_time": "06/11/2026 08:54",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42177224289",
+      "items": [
+        {
+          "podcast": "התשובה",
+          "title": "איך לבחור? פרק לייב [התשובה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/5/113.wav"
+          ],
+          "drive_filename": "איך לבחור_ פרק לייב [התשובה].mp3",
+          "drive_folder": "התשובה",
+          "drive_url": "https://drive.google.com/file/d/1EteSnAaQVqp8Ozcsfpt4PG5DjfWHODZl/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/5/113.wav"
+        }
+      ]
+    },
     {
       "run_id": "42150695537",
       "run_number": "432",
@@ -2767,20 +2794,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40104103052",
-      "items": []
-    },
-    {
-      "run_id": "40095081841",
-      "run_number": "331",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-24T12:43:43.780628+00:00",
-      "israel_time": "24/10/2026 15:43",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40095081841",
       "items": []
     }
   ]

@@ -27988,6 +27988,14 @@
       "path": "ivr2:/1/2/1095.wav",
       "filename_stem": "1095",
       "uploaded_at": "2026-11-05T22:03:38.477788+00:00"
+    },
+    "hatshuva:https://api.spreaker.com/episode/76175073": {
+      "podcast_id": "hatshuva",
+      "title": "איך לבחור? פרק לייב [התשובה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/5/113.wav",
+      "filename_stem": "113",
+      "uploaded_at": "2026-11-06T06:54:12.886140+00:00"
     }
   },
   "next_numbers": {
@@ -27995,7 +28003,7 @@
     "2": 1096,
     "3": 16,
     "4": 20,
-    "5": 113,
+    "5": 114,
     "6": 291,
     "7": 19,
     "8": 12,
