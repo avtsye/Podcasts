@@ -12149,12 +12149,10 @@
     "osim_tech:https://api.spreaker.com/episode/75283543": {
       "podcast_id": "osim_tech",
       "title": "שמענו שנפטרת, האם זה נכון? (ש.ח.) [עושים טכנולוגיה]",
-      "status": "error",
+      "status": "uploaded",
+      "path": "ivr2:/1/4/16.wav",
       "filename_stem": "16",
-      "error": "UploadFile finalization query retry failed: Invalid file identifier or file name.",
-      "updated_at": "2026-11-03T15:16:09.682508+00:00",
-      "attempt_count": 13,
-      "next_retry": "2026-11-06T15:16:09.682530+00:00"
+      "uploaded_at": "2026-11-06T18:02:06.343296+00:00"
     },
     "osim_historia:https://api.spreaker.com/episode/75567734": {
       "podcast_id": "osim_historia",

@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-11-06T14:55:31.032401+00:00",
+  "updated_at": "2026-11-06T18:02:34.557832+00:00",
   "runs": [
+    {
+      "run_id": "42266894178",
+      "run_number": "436",
+      "event": "schedule",
+      "status": "failure",
+      "utc_time": "2026-11-06T18:02:34.557832+00:00",
+      "israel_time": "06/11/2026 20:02",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42266894178",
+      "items": [
+        {
+          "podcast": "עושים טכנולוגיה",
+          "title": "שמענו שנפטרת, האם זה נכון? (ש.ח.) [עושים טכנולוגיה]",
+          "yemos_path": "ivr2:/1/4/16.wav",
+          "destinations": [
+            "ימות המשיח ivr2:/1/4/16.wav"
+          ]
+        }
+      ]
+    },
     {
       "run_id": "42238137317",
       "run_number": "435",
@@ -2780,20 +2803,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40138195417",
-      "items": []
-    },
-    {
-      "run_id": "40125647462",
-      "run_number": "334",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-24T19:31:44.233602+00:00",
-      "israel_time": "24/10/2026 22:31",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40125647462",
       "items": []
     }
   ]
