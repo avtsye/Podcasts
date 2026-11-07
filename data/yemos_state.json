@@ -27994,10 +27994,18 @@
       "path": "ivr2:/1/5/113.wav",
       "filename_stem": "113",
       "uploaded_at": "2026-11-06T06:54:12.886140+00:00"
+    },
+    "ehad_beyom:242ddb15-b696-4f53-83e9-b4fb0074347c": {
+      "podcast_id": "ehad_beyom",
+      "title": "ראיתי שמעתי: זאב נחמה",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2679.wav",
+      "filename_stem": "2679",
+      "uploaded_at": "2026-11-07T10:18:49.816159+00:00"
     }
   },
   "next_numbers": {
-    "1": 2679,
+    "1": 2680,
     "2": 1096,
     "3": 16,
     "4": 20,

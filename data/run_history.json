@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-07T06:28:40.421923+00:00",
+  "updated_at": "2026-11-07T10:19:20.899346+00:00",
   "runs": [
+    {
+      "run_id": "42363347686",
+      "run_number": "442",
+      "event": "schedule",
+      "status": "failure",
+      "utc_time": "2026-11-07T10:19:20.899346+00:00",
+      "israel_time": "07/11/2026 12:19",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42363347686",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "ראיתי שמעתי: זאב נחמה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2679.wav"
+          ],
+          "drive_filename": "ראיתי שמעתי_ זאב נחמה.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/1p3bdiqaCXhGOToKSQvvkijMw7ALk2YuQ/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2679.wav"
+        }
+      ]
+    },
     {
       "run_id": "42347118311",
       "run_number": "441",
@@ -2777,20 +2804,6 @@
           "yemos_path": "ivr2:/1/42/916.wav"
         }
       ]
-    },
-    {
-      "run_id": "40168354480",
-      "run_number": "340",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-25T06:14:37.509215+00:00",
-      "israel_time": "25/10/2026 08:14",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40168354480",
-      "items": []
     }
   ]
 }
