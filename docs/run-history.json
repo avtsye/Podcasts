@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-07T16:52:01.563584+00:00",
+  "updated_at": "2026-11-07T18:14:14.595630+00:00",
   "runs": [
+    {
+      "run_id": "42400196714",
+      "run_number": "445",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-07T18:14:14.595630+00:00",
+      "israel_time": "07/11/2026 20:14",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42400196714",
+      "items": []
+    },
     {
       "run_id": "42393382971",
       "run_number": "444",
@@ -2764,33 +2778,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40211758830",
       "items": []
-    },
-    {
-      "run_id": "40201154641",
-      "run_number": "344",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-25T14:14:43.655886+00:00",
-      "israel_time": "25/10/2026 16:14",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40201154641",
-      "items": [
-        {
-          "podcast": "גיקונומי",
-          "title": "פרק #1266 - נפתלי בנט",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/2/1025.wav"
-          ],
-          "drive_filename": "פרק #1266 - נפתלי בנט.mp3",
-          "drive_folder": "גיקונומי",
-          "drive_url": "https://drive.google.com/file/d/1ojAfk4Zg9dX-iHLd3pvqMI-r8dOd25wi/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/2/1025.wav"
-        }
-      ]
     }
   ]
 }
