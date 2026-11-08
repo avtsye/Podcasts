@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-08T20:30:47.414458+00:00",
+  "updated_at": "2026-11-08T22:46:38.658729+00:00",
   "runs": [
+    {
+      "run_id": "42531791193",
+      "run_number": "453",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-08T22:46:38.658729+00:00",
+      "israel_time": "09/11/2026 00:46",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42531791193",
+      "items": [
+        {
+          "podcast": "חיים של אחרים",
+          "title": "חיים של אחרים | 08.11.26",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/17/29.wav"
+          ],
+          "drive_filename": "חיים של אחרים _ 08.11.26.mp3",
+          "drive_folder": "חיים של אחרים",
+          "drive_url": "https://drive.google.com/file/d/1Vnpmat3uF2fpIu7ov_UHcHJnjJid5w0K/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/17/29.wav"
+        }
+      ]
+    },
     {
       "run_id": "42520416042",
       "run_number": "452",
@@ -2776,57 +2803,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40279512235",
       "items": []
-    },
-    {
-      "run_id": "40273963074",
-      "run_number": "352",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-26T05:25:58.281902+00:00",
-      "israel_time": "26/10/2026 07:25",
-      "uploads": 3,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40273963074",
-      "items": [
-        {
-          "podcast": "אחד ביום",
-          "title": "על זה הבחירות: החינוך",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/1/2669.wav"
-          ],
-          "drive_filename": "על זה הבחירות_ החינוך.mp3",
-          "drive_folder": "אחד ביום",
-          "drive_url": "https://drive.google.com/file/d/17Lm0Mcif7ICqguolPJiUalLwxwJHrq4B/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/1/2669.wav"
-        },
-        {
-          "podcast": "חיות כיס",
-          "title": "פרק 363: ״כל מה שידענו על מה זה הייטק משתנה״",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/3/13.wav"
-          ],
-          "drive_filename": "פרק 363_ ״כל מה שידענו על מה זה הייטק משתנה״.mp3",
-          "drive_folder": "חיות כיס",
-          "drive_url": "https://drive.google.com/file/d/1ch4cnwSNhTKlMLXkjJKMDTuIsStqBxNu/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/3/13.wav"
-        },
-        {
-          "podcast": "עושים חשבון",
-          "title": "האם ה-AI יכול להביס את הבורסה? [עושים חשבון]",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/51/2.wav"
-          ],
-          "drive_filename": "האם ה-AI יכול להביס את הבורסה_ [עושים חשבון].mp3",
-          "drive_folder": "עושים חשבון",
-          "drive_url": "https://drive.google.com/file/d/18L_0VVb27lJzKhzg7NAeR9WSzMCLBNVD/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/51/2.wav"
-        }
-      ]
     }
   ]
 }
