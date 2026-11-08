@@ -28002,10 +28002,26 @@
       "path": "ivr2:/1/1/2679.wav",
       "filename_stem": "2679",
       "uploaded_at": "2026-11-07T10:18:49.816159+00:00"
+    },
+    "ehad_beyom:d4f5261a-b310-4f91-b59d-b4fb01245c9f": {
+      "podcast_id": "ehad_beyom",
+      "title": "מי מפחד מממשלת מיעוט?",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2680.wav",
+      "filename_stem": "2680",
+      "uploaded_at": "2026-11-08T07:26:06.639100+00:00"
+    },
+    "madbarimda:lbscience.podbean.com/486d5ea4-b1f9-37ed-b090-0fe13625fb76": {
+      "podcast_id": "madbarimda",
+      "title": "פרק 182: ד\"ר יוליה גולנד - למדוד ולהתמודד עם מצבי דחק (סטרס)",
+      "status": "uploaded",
+      "path": "ivr2:/1/54/1.wav",
+      "filename_stem": "1",
+      "uploaded_at": "2026-11-08T07:27:24.826380+00:00"
     }
   },
   "next_numbers": {
-    "1": 2680,
+    "1": 2681,
     "2": 1096,
     "3": 16,
     "4": 20,
@@ -28044,6 +28060,7 @@
     "52": 3,
     "51": 3,
     "56": 34,
-    "46": 2
+    "46": 2,
+    "54": 2
   }
 }

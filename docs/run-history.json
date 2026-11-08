@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-08T00:41:21.603347+00:00",
+  "updated_at": "2026-11-08T07:27:30.752594+00:00",
   "runs": [
+    {
+      "run_id": "42458742382",
+      "run_number": "448",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-08T07:27:30.752594+00:00",
+      "israel_time": "08/11/2026 09:27",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42458742382",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "מי מפחד מממשלת מיעוט?",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2680.wav"
+          ],
+          "drive_filename": "מי מפחד מממשלת מיעוט_.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/1lJ0BQVSDcmEEccMZoMvbNq1CLsDbcmBx/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2680.wav"
+        },
+        {
+          "podcast": "מדברימדע",
+          "title": "פרק 182: ד\"ר יוליה גולנד - למדוד ולהתמודד עם מצבי דחק (סטרס)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/54/1.wav"
+          ],
+          "drive_filename": "פרק 182_ ד_ר יוליה גולנד - למדוד ולהתמודד עם מצבי דחק (סטרס).mp3",
+          "drive_folder": "מדברימדע",
+          "drive_url": "https://drive.google.com/file/d/185Or7jEzDPqvIxDQvI5yp7gE1U9gcNUp/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/54/1.wav"
+        }
+      ]
+    },
     {
       "run_id": "42430844041",
       "run_number": "447",
@@ -2751,20 +2790,6 @@
           "yemos_path": "ivr2:/1/17/22.wav"
         }
       ]
-    },
-    {
-      "run_id": "40227176578",
-      "run_number": "347",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-25T19:41:36.113412+00:00",
-      "israel_time": "25/10/2026 21:41",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40227176578",
-      "items": []
     }
   ]
 }
