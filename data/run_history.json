@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-07T20:56:24.790688+00:00",
+  "updated_at": "2026-11-08T00:41:21.603347+00:00",
   "runs": [
+    {
+      "run_id": "42430844041",
+      "run_number": "447",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-08T00:41:21.603347+00:00",
+      "israel_time": "08/11/2026 02:41",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42430844041",
+      "items": []
+    },
     {
       "run_id": "42413384440",
       "run_number": "446",
@@ -2751,33 +2765,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40227176578",
       "items": []
-    },
-    {
-      "run_id": "40217564154",
-      "run_number": "346",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-25T17:41:37.931911+00:00",
-      "israel_time": "25/10/2026 19:41",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40217564154",
-      "items": [
-        {
-          "podcast": "סקרנית",
-          "title": "לאיזו מפלגה מצביע CHATGPT?",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/11/12.wav"
-          ],
-          "drive_filename": "לאיזו מפלגה מצביע CHATGPT_.mp3",
-          "drive_folder": "סקרנית",
-          "drive_url": "https://drive.google.com/file/d/1nYSif0AxwNSQAIrk1geFaYmX7Krj4Zer/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/11/12.wav"
-        }
-      ]
     }
   ]
 }
