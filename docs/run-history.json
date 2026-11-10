@@ -1,6 +1,57 @@
 {
-  "updated_at": "2026-11-10T09:57:17.257667+00:00",
+  "updated_at": "2026-11-10T17:57:36.778986+00:00",
   "runs": [
+    {
+      "run_id": "42869558180",
+      "run_number": "462",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-10T17:57:36.778986+00:00",
+      "israel_time": "10/11/2026 19:57",
+      "uploads": 3,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42869558180",
+      "items": [
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1272 - גיל שלי ופוסט טראומה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1097.wav"
+          ],
+          "drive_filename": "פרק #1272 - גיל שלי ופוסט טראומה.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1Qj-tp0tWTo_gQAzPZRnkfFPmFpuyMfun/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1097.wav"
+        },
+        {
+          "podcast": "מגזין מעריב",
+          "title": "מעל הליגה - פרק 52 | רעידת אדמה במכבי חיפה ומוליכה חדשה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/15/28.wav"
+          ],
+          "drive_filename": "מעל הליגה - פרק 52 _ רעידת אדמה במכבי חיפה ומוליכה חדשה.mp3",
+          "drive_folder": "מגזין מעריב",
+          "drive_url": "https://drive.google.com/file/d/1cRZVPLXy4jerE1X7pdN1OrGiNRMzHqy6/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/15/28.wav"
+        },
+        {
+          "podcast": "הנוסע המתמיד עם נדב יעקבי",
+          "title": "הקריסה המפוארת של מנצ'סטר יונייטד",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/23/17.wav"
+          ],
+          "drive_filename": "הקריסה המפוארת של מנצ'סטר יונייטד.mp3",
+          "drive_folder": "הנוסע המתמיד עם נדב יעקבי",
+          "drive_url": "https://drive.google.com/file/d/12HN6mL_GPv2l0Y3nosSQbTx5H3cM2Ek2/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/23/17.wav"
+        }
+      ]
+    },
     {
       "run_id": "42794758816",
       "run_number": "461",
@@ -2785,20 +2836,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40510507268",
-      "items": []
-    },
-    {
-      "run_id": "40505930629",
-      "run_number": "361",
-      "event": "repository_dispatch",
-      "status": "failure",
-      "utc_time": "2026-10-27T12:44:11.388570+00:00",
-      "israel_time": "27/10/2026 14:44",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 1,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40505930629",
       "items": []
     }
   ]
