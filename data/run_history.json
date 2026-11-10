@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-09T20:10:39.398443+00:00",
+  "updated_at": "2026-11-10T02:11:58.165153+00:00",
   "runs": [
+    {
+      "run_id": "42740887961",
+      "run_number": "460",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-10T02:11:58.165153+00:00",
+      "israel_time": "10/11/2026 04:11",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42740887961",
+      "items": [
+        {
+          "podcast": "חיים של אחרים",
+          "title": "חיים של אחרים | 09.11.26",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/17/30.wav"
+          ],
+          "drive_filename": "חיים של אחרים _ 09.11.26.mp3",
+          "drive_folder": "חיים של אחרים",
+          "drive_url": "https://drive.google.com/file/d/1SVX_ScXKp5Nn4rjkdoCgZaQwHH9uKBRe/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/17/30.wav"
+        }
+      ]
+    },
     {
       "run_id": "42690267305",
       "run_number": "459",
@@ -2747,33 +2774,6 @@
           "drive_folder": "אחד ביום",
           "drive_url": "https://drive.google.com/file/d/1ZYxZFsdd2tX8jl6Pkrqj3Q_RpZJ3jgxn/view?usp=drivesdk",
           "yemos_path": "ivr2:/1/1/2670.wav"
-        }
-      ]
-    },
-    {
-      "run_id": "40426678275",
-      "run_number": "359",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-27T00:30:41.726301+00:00",
-      "israel_time": "27/10/2026 02:30",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40426678275",
-      "items": [
-        {
-          "podcast": "גיקונומי",
-          "title": "פרק #1267 - אריאל אדמוני וקטר",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/2/1026.wav"
-          ],
-          "drive_filename": "פרק #1267 - אריאל אדמוני וקטר.mp3",
-          "drive_folder": "גיקונומי",
-          "drive_url": "https://drive.google.com/file/d/10VSl3Zy1dCKPmKqX0SdPSiqZOoYv5vjo/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/2/1026.wav"
         }
       ]
     }
