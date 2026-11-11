@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-10T23:28:20.291469+00:00",
+  "updated_at": "2026-11-11T02:57:37.751514+00:00",
   "runs": [
+    {
+      "run_id": "42949395618",
+      "run_number": "465",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-11T02:57:37.751514+00:00",
+      "israel_time": "11/11/2026 04:57",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42949395618",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "בראש של ליברמן",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2683.wav"
+          ],
+          "drive_filename": "בראש של ליברמן.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/1VoVvpVS240ArCp4qnWlezBn5NzXAOqB2/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2683.wav"
+        }
+      ]
+    },
     {
       "run_id": "42923343628",
       "run_number": "464",
@@ -2835,20 +2862,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40595521900",
-      "items": []
-    },
-    {
-      "run_id": "40562866489",
-      "run_number": "364",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-27T18:45:59.216299+00:00",
-      "israel_time": "27/10/2026 20:45",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40562866489",
       "items": []
     }
   ]
