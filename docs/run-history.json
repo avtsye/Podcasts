@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-11T18:06:42.480443+00:00",
+  "updated_at": "2026-11-11T22:04:47.752981+00:00",
   "runs": [
+    {
+      "run_id": "43108462426",
+      "run_number": "470",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-11T22:04:47.752981+00:00",
+      "israel_time": "12/11/2026 00:04",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/43108462426",
+      "items": [
+        {
+          "podcast": "חיים של אחרים",
+          "title": "חיים של אחרים | 11.11.26",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/17/32.wav"
+          ],
+          "drive_filename": "חיים של אחרים _ 11.11.26.mp3",
+          "drive_folder": "חיים של אחרים",
+          "drive_url": "https://drive.google.com/file/d/15OL7_MoqwyrqFo85fGUEwpbH3x96MkrA/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/17/32.wav"
+        }
+      ]
+    },
     {
       "run_id": "43074450799",
       "run_number": "469",
@@ -2874,57 +2901,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40666624132",
       "items": []
-    },
-    {
-      "run_id": "40650481956",
-      "run_number": "369",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-28T07:32:09.705190+00:00",
-      "israel_time": "28/10/2026 09:32",
-      "uploads": 3,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40650481956",
-      "items": [
-        {
-          "podcast": "אחד ביום",
-          "title": "האנשים שמאחורי אחוז ההצבעה",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/1/2671.wav"
-          ],
-          "drive_filename": "האנשים שמאחורי אחוז ההצבעה.mp3",
-          "drive_folder": "אחד ביום",
-          "drive_url": "https://drive.google.com/file/d/1RYkBvTXSV3pvL1p9GP9xwF1VgmPXC6Wt/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/1/2671.wav"
-        },
-        {
-          "podcast": "חיות כיס",
-          "title": "פרק 194: הבוקר שאחרי (ש.ח.)",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/3/14.wav"
-          ],
-          "drive_filename": "פרק 194_ הבוקר שאחרי (ש.ח.).mp3",
-          "drive_folder": "חיות כיס",
-          "drive_url": "https://drive.google.com/file/d/1JOp4v4Y_6qRqZa8CIzv356JYHcuuwgFn/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/3/14.wav"
-        },
-        {
-          "podcast": "שלושה שיודעים",
-          "title": "אלימות היא כרסום יסוד הדמוקרטיה",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/42/918.wav"
-          ],
-          "drive_filename": "אלימות היא כרסום יסוד הדמוקרטיה.mp3",
-          "drive_folder": "שלושה שיודעים",
-          "drive_url": "https://drive.google.com/file/d/1wElDs2BBefUwe7NujNqt7CM5L5vSOIEO/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/42/918.wav"
-        }
-      ]
     }
   ]
 }
