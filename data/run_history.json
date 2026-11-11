@@ -1,6 +1,57 @@
 {
-  "updated_at": "2026-11-11T02:57:37.751514+00:00",
+  "updated_at": "2026-11-11T06:34:30.328494+00:00",
   "runs": [
+    {
+      "run_id": "42973099543",
+      "run_number": "466",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-11T06:34:30.328494+00:00",
+      "israel_time": "11/11/2026 08:34",
+      "uploads": 3,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42973099543",
+      "items": [
+        {
+          "podcast": "חיות כיס",
+          "title": "פרק 365: למה כל ענב עולה כמו זהב",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/3/16.wav"
+          ],
+          "drive_filename": "פרק 365_ למה כל ענב עולה כמו זהב.mp3",
+          "drive_folder": "חיות כיס",
+          "drive_url": "https://drive.google.com/file/d/1J62rXgDvKUybwOj3yCApVzlFXi6UmHkJ/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/3/16.wav"
+        },
+        {
+          "podcast": "שלושה שיודעים",
+          "title": "אני מצחצח שיניים טידידל דידל די",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/42/926.wav"
+          ],
+          "drive_filename": "אני מצחצח שיניים טידידל דידל די.mp3",
+          "drive_folder": "שלושה שיודעים",
+          "drive_url": "https://drive.google.com/file/d/1n8TzqiBJOkCI-iffiD_JByH4cx5Vpr3s/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/42/926.wav"
+        },
+        {
+          "podcast": "הצוללת",
+          "title": "\"אני רוצה שכל קנייה של הישראלים תתחיל בוולט. משלוחי אוכל? זו רק ההתחלה\" | מנכ\"ל וולט בראיון ראשון",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/50/6.wav"
+          ],
+          "drive_filename": "_אני רוצה שכל קנייה של הישראלים תתחיל בוולט. משלוחי אוכל_ זו רק ההתחלה_ _ מנכ_ל וולט בראיון ראשון.mp3",
+          "drive_folder": "הצוללת",
+          "drive_url": "https://drive.google.com/file/d/10mRq8UQAUtQrI_fkWPHk7xtjth04cCuC/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/50/6.wav"
+        }
+      ]
+    },
     {
       "run_id": "42949395618",
       "run_number": "465",
@@ -2848,20 +2899,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40598753086",
-      "items": []
-    },
-    {
-      "run_id": "40595521900",
-      "run_number": "365",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-10-27T22:32:36.417175+00:00",
-      "israel_time": "28/10/2026 00:32",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40595521900",
       "items": []
     }
   ]
