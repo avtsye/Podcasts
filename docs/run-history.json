@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-11T06:34:30.328494+00:00",
+  "updated_at": "2026-11-11T10:38:06.894398+00:00",
   "runs": [
+    {
+      "run_id": "43004958293",
+      "run_number": "467",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-11T10:38:06.894398+00:00",
+      "israel_time": "11/11/2026 12:38",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/43004958293",
+      "items": [
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "אושן 11 גרסת צפון קוריאה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/318.wav"
+          ],
+          "drive_filename": "אושן 11 גרסת צפון קוריאה.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1c0CyREmM0rNCyS2slz37y36MHdjL7Zoa/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/318.wav"
+        },
+        {
+          "podcast": "Ear Catcher",
+          "title": "\"עשר שניות, או שאיבדת אותי\" פרק 457 עם אושר אסולין, מנהל התוכן והקריאייטיב באפפ-ריל מיקרודרמה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/24/19.wav"
+          ],
+          "drive_filename": "_עשר שניות, או שאיבדת אותי_ פרק 457 עם אושר אסולין, מנהל התוכן והקריאייטיב באפפ-ריל מיקרודרמה.mp3",
+          "drive_folder": "Ear Catcher",
+          "drive_url": "https://drive.google.com/file/d/109qFTSlfElFXYPeUO7SXHJALh6k-kRTQ/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/24/19.wav"
+        }
+      ]
+    },
     {
       "run_id": "42973099543",
       "run_number": "466",
@@ -2885,20 +2924,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40616226610",
-      "items": []
-    },
-    {
-      "run_id": "40598753086",
-      "run_number": "366",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-27T22:58:56.997428+00:00",
-      "israel_time": "28/10/2026 00:58",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40598753086",
       "items": []
     }
   ]

@@ -28178,6 +28178,22 @@
       "path": "ivr2:/1/50/6.wav",
       "filename_stem": "6",
       "uploaded_at": "2026-11-11T06:34:23.457363+00:00"
+    },
+    "zman_sheavodtem:b409d0fb-2983-4424-bf2d-b4ff00a62bb3": {
+      "podcast_id": "zman_sheavodtem",
+      "title": "אושן 11 גרסת צפון קוריאה",
+      "status": "uploaded",
+      "path": "ivr2:/1/20/318.wav",
+      "filename_stem": "318",
+      "uploaded_at": "2026-11-11T10:36:48.137363+00:00"
+    },
+    "ear_catcher:41211fa3-af4f-4ef7-8083-b4ff0097c6d5": {
+      "podcast_id": "ear_catcher",
+      "title": "\"עשר שניות, או שאיבדת אותי\" פרק 457 עם אושר אסולין, מנהל התוכן והקריאייטיב באפפ-ריל מיקרודרמה",
+      "status": "uploaded",
+      "path": "ivr2:/1/24/19.wav",
+      "filename_stem": "19",
+      "uploaded_at": "2026-11-11T10:37:45.052271+00:00"
     }
   },
   "next_numbers": {
@@ -28210,8 +28226,8 @@
     "38": 11,
     "39": 9,
     "40": 7,
-    "20": 318,
-    "24": 19,
+    "20": 319,
+    "24": 20,
     "41": 11,
     "42": 927,
     "55": 107,
