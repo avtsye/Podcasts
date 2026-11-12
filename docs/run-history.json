@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-12T00:48:27.269308+00:00",
+  "updated_at": "2026-11-12T03:05:02.693858+00:00",
   "runs": [
+    {
+      "run_id": "43145637505",
+      "run_number": "472",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-12T03:05:02.693858+00:00",
+      "israel_time": "12/11/2026 05:05",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/43145637505",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "הסודות של מנכ״ל אנבידיה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2684.wav"
+          ],
+          "drive_filename": "הסודות של מנכ״ל אנבידיה.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/1emKOyOaNutCEkdBv9ZOMrIkavgtQsYrJ/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2684.wav"
+        }
+      ]
+    },
     {
       "run_id": "43129793742",
       "run_number": "471",
@@ -2885,33 +2912,6 @@
           "drive_folder": "מגזין מעריב",
           "drive_url": "https://drive.google.com/file/d/10mFN51czFJA-OxMAQoOP8ps9gBlxwzda/view?usp=drivesdk",
           "yemos_path": "ivr2:/1/15/23.wav"
-        }
-      ]
-    },
-    {
-      "run_id": "40705537982",
-      "run_number": "371",
-      "event": "repository_dispatch",
-      "status": "failure",
-      "utc_time": "2026-10-28T14:25:39.872614+00:00",
-      "israel_time": "28/10/2026 16:25",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 1,
-      "partial": true,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40705537982",
-      "items": [
-        {
-          "podcast": "בזמן שעבדתם",
-          "title": "כל הביצים בבועה אחת",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/20/316.wav"
-          ],
-          "drive_filename": "כל הביצים בבועה אחת.mp3",
-          "drive_folder": "בזמן שעבדתם",
-          "drive_url": "https://drive.google.com/file/d/1C6BECrXhHInFyp_RAI0gg3Oni_klUC17/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/20/316.wav"
         }
       ]
     }

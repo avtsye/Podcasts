@@ -28210,10 +28210,18 @@
       "path": "ivr2:/1/52/3.wav",
       "filename_stem": "3",
       "uploaded_at": "2026-11-12T00:48:19.841719+00:00"
+    },
+    "ehad_beyom:e5a8115e-6eb2-4a67-bafe-b500000b440e": {
+      "podcast_id": "ehad_beyom",
+      "title": "הסודות של מנכ״ל אנבידיה",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2684.wav",
+      "filename_stem": "2684",
+      "uploaded_at": "2026-11-12T03:04:29.914007+00:00"
     }
   },
   "next_numbers": {
-    "1": 2684,
+    "1": 2685,
     "2": 1098,
     "3": 17,
     "4": 20,
