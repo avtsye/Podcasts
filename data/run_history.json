@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-11T22:04:47.752981+00:00",
+  "updated_at": "2026-11-12T00:48:27.269308+00:00",
   "runs": [
+    {
+      "run_id": "43129793742",
+      "run_number": "471",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-12T00:48:27.269308+00:00",
+      "israel_time": "12/11/2026 02:48",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/43129793742",
+      "items": [
+        {
+          "podcast": "על-חלל",
+          "title": "פרק 79 - זבל חללי",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/52/3.wav"
+          ],
+          "drive_filename": "פרק 79 - זבל חללי.mp3",
+          "drive_folder": "על-חלל",
+          "drive_url": "https://drive.google.com/file/d/185PpyR_YQVkMvUxIfjFfvWKQ7hfDxU-1/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/52/3.wav"
+        }
+      ]
+    },
     {
       "run_id": "43108462426",
       "run_number": "470",
@@ -2887,20 +2914,6 @@
           "yemos_path": "ivr2:/1/20/316.wav"
         }
       ]
-    },
-    {
-      "run_id": "40666624132",
-      "run_number": "370",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-28T09:45:27.725042+00:00",
-      "israel_time": "28/10/2026 11:45",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40666624132",
-      "items": []
     }
   ]
 }

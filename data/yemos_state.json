@@ -28202,6 +28202,14 @@
       "path": "ivr2:/1/17/32.wav",
       "filename_stem": "32",
       "uploaded_at": "2026-11-11T22:04:28.392306+00:00"
+    },
+    "al_halal:Buzzsprout-20105135": {
+      "podcast_id": "al_halal",
+      "title": "פרק 79 - זבל חללי",
+      "status": "uploaded",
+      "path": "ivr2:/1/52/3.wav",
+      "filename_stem": "3",
+      "uploaded_at": "2026-11-12T00:48:19.841719+00:00"
     }
   },
   "next_numbers": {
@@ -28241,7 +28249,7 @@
     "55": 107,
     "43": 114,
     "50": 7,
-    "52": 3,
+    "52": 4,
     "51": 4,
     "56": 34,
     "46": 2,
