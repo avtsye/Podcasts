@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-12T11:22:28.534570+00:00",
+  "updated_at": "2026-11-12T16:22:55.872359+00:00",
   "runs": [
+    {
+      "run_id": "43257554334",
+      "run_number": "475",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-12T16:22:55.872359+00:00",
+      "israel_time": "12/11/2026 18:22",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/43257554334",
+      "items": [
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1273 - ד״ר הראל חורב ומבנה החמאס",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1098.wav"
+          ],
+          "drive_filename": "פרק #1273 - ד״ר הראל חורב ומבנה החמאס.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1Xba1LBKfgCK67G2PlMt7RZInDYlQPj0w/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1098.wav"
+        },
+        {
+          "podcast": "מנועי הכסף",
+          "title": "מה פרשת אנבידיה תעשה לשווקים ולכלכלה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/7/19.wav"
+          ],
+          "drive_filename": "מה פרשת אנבידיה תעשה לשווקים ולכלכלה.mp3",
+          "drive_folder": "מנועי הכסף",
+          "drive_url": "https://drive.google.com/file/d/1XZwjtlpoRZLBkPU3hqjGrFyWfDKJozRY/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/7/19.wav"
+        }
+      ]
+    },
     {
       "run_id": "43208486902",
       "run_number": "474",
@@ -2874,33 +2913,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40788819622",
       "items": []
-    },
-    {
-      "run_id": "40774015118",
-      "run_number": "374",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-28T21:42:53.937142+00:00",
-      "israel_time": "28/10/2026 23:42",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40774015118",
-      "items": [
-        {
-          "podcast": "חיים של אחרים",
-          "title": "חיים של אחרים | 28.10.26",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/17/24.wav"
-          ],
-          "drive_filename": "חיים של אחרים _ 28.10.26.mp3",
-          "drive_folder": "חיים של אחרים",
-          "drive_url": "https://drive.google.com/file/d/1PfWTDqBtAC5QSv-949cBZdylViJDa-VZ/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/17/24.wav"
-        }
-      ]
     }
   ]
 }

@@ -28218,16 +28218,32 @@
       "path": "ivr2:/1/1/2684.wav",
       "filename_stem": "2684",
       "uploaded_at": "2026-11-12T03:04:29.914007+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/dd8f9e68-c366-3ecd-909b-6017438ca314": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1273 - ד״ר הראל חורב ומבנה החמאס",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1098.wav",
+      "filename_stem": "1098",
+      "uploaded_at": "2026-11-12T16:21:41.196956+00:00"
+    },
+    "money_engines:11c0197d-7d0f-4543-bcf6-b50000d52580": {
+      "podcast_id": "money_engines",
+      "title": "מה פרשת אנבידיה תעשה לשווקים ולכלכלה",
+      "status": "uploaded",
+      "path": "ivr2:/1/7/19.wav",
+      "filename_stem": "19",
+      "uploaded_at": "2026-11-12T16:22:26.611185+00:00"
     }
   },
   "next_numbers": {
     "1": 2685,
-    "2": 1098,
+    "2": 1099,
     "3": 17,
     "4": 20,
     "5": 114,
     "6": 292,
-    "7": 19,
+    "7": 20,
     "8": 12,
     "9": 49,
     "10": 11,
