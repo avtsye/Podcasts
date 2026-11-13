@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-13T18:08:47.710288+00:00",
+  "updated_at": "2026-11-13T22:41:21.403318+00:00",
   "runs": [
+    {
+      "run_id": "43521199243",
+      "run_number": "484",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-13T22:41:21.403318+00:00",
+      "israel_time": "14/11/2026 00:41",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/43521199243",
+      "items": []
+    },
     {
       "run_id": "43479594700",
       "run_number": "483",
@@ -2848,33 +2862,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41115476326",
       "items": []
-    },
-    {
-      "run_id": "41070103536",
-      "run_number": "383",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-30T14:16:30.710196+00:00",
-      "israel_time": "30/10/2026 16:16",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 1,
-      "partial": true,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41070103536",
-      "items": [
-        {
-          "podcast": "אחד ביום",
-          "title": "ראיתי שמעתי: נגה ארז ואורי רוסו",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/1/2673.wav"
-          ],
-          "drive_filename": "ראיתי שמעתי_ נגה ארז ואורי רוסו.mp3",
-          "drive_folder": "אחד ביום",
-          "drive_url": "https://drive.google.com/file/d/1zGALSmZjblpF9NGXkjhTe4Ag68vVu0z-/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/1/2673.wav"
-        }
-      ]
     }
   ]
 }
