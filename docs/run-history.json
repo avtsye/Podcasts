@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-13T02:51:41.160606+00:00",
+  "updated_at": "2026-11-13T08:04:56.477274+00:00",
   "runs": [
+    {
+      "run_id": "43390232935",
+      "run_number": "480",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-13T08:04:56.477274+00:00",
+      "israel_time": "13/11/2026 10:04",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/43390232935",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "ראיתי שמעתי: נונו",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2685.wav"
+          ],
+          "drive_filename": "ראיתי שמעתי_ נונו.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/1WkNlWdIIHr5NuDNtCI_3HKzXxZRlbafy/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2685.wav"
+        }
+      ]
+    },
     {
       "run_id": "43354971040",
       "run_number": "479",
@@ -2859,45 +2886,6 @@
           "drive_folder": "גיקונומי",
           "drive_url": "https://drive.google.com/file/d/1KsiLSRwexG8huCBKRONoZ5eKSU57gUx9/view?usp=drivesdk",
           "yemos_path": "ivr2:/1/2/1027.wav"
-        }
-      ]
-    },
-    {
-      "run_id": "40909063980",
-      "run_number": "379",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-29T16:13:02.159751+00:00",
-      "israel_time": "29/10/2026 18:13",
-      "uploads": 2,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40909063980",
-      "items": [
-        {
-          "podcast": "מנועי הכסף",
-          "title": "הבחירות הכריעו את הריבית",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/7/17.wav"
-          ],
-          "drive_filename": "הבחירות הכריעו את הריבית.mp3",
-          "drive_folder": "מנועי הכסף",
-          "drive_url": "https://drive.google.com/file/d/1mi-wxx8ndqlN_-oa_3Npd1Gar5H4C2i4/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/7/17.wav"
-        },
-        {
-          "podcast": "הצוללת",
-          "title": "עדיין אין ממשלה, אבל מה עם הכלכלה? | פרק 392",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/50/4.wav"
-          ],
-          "drive_filename": "עדיין אין ממשלה, אבל מה עם הכלכלה_ _ פרק 392.mp3",
-          "drive_folder": "הצוללת",
-          "drive_url": "https://drive.google.com/file/d/1AKIVNQ8Dj6wolSZaeeFxNd0uQCJE2hlb/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/50/4.wav"
         }
       ]
     }
