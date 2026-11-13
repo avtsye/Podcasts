@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-12T22:25:41.160998+00:00",
+  "updated_at": "2026-11-13T01:08:36.466760+00:00",
   "runs": [
+    {
+      "run_id": "43342529724",
+      "run_number": "478",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-13T01:08:36.466760+00:00",
+      "israel_time": "13/11/2026 03:08",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/43342529724",
+      "items": []
+    },
     {
       "run_id": "43319661326",
       "run_number": "477",
@@ -2886,33 +2900,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40851766363",
       "items": []
-    },
-    {
-      "run_id": "40843075607",
-      "run_number": "377",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-10-29T08:35:18.166872+00:00",
-      "israel_time": "29/10/2026 10:35",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/40843075607",
-      "items": [
-        {
-          "podcast": "אחד ביום",
-          "title": "הערבים נהרו",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/1/2672.wav"
-          ],
-          "drive_filename": "הערבים נהרו.mp3",
-          "drive_folder": "אחד ביום",
-          "drive_url": "https://drive.google.com/file/d/197WUj73vH4P3zcXWTmKswBZqHRSI6fSL/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/1/2672.wav"
-        }
-      ]
     }
   ]
 }
