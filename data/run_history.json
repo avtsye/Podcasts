@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-15T20:32:14.089771+00:00",
+  "updated_at": "2026-11-15T22:55:01.536403+00:00",
   "runs": [
+    {
+      "run_id": "43771685209",
+      "run_number": "499",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-15T22:55:01.536403+00:00",
+      "israel_time": "16/11/2026 00:55",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/43771685209",
+      "items": [
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1274 - ניר גזית",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1099.wav"
+          ],
+          "drive_filename": "פרק #1274 - ניר גזית.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1yjCbENvzpj7-7HaOKsxqqulRNeQI5ab9/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1099.wav"
+        },
+        {
+          "podcast": "חיים של אחרים",
+          "title": "חיים של אחרים | 15.11.26",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/17/33.wav"
+          ],
+          "drive_filename": "חיים של אחרים _ 15.11.26.mp3",
+          "drive_folder": "חיים של אחרים",
+          "drive_url": "https://drive.google.com/file/d/1RcSn44TzU5CPmc5xL2LE6Z1iAaRNSjPd/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/17/33.wav"
+        }
+      ]
+    },
     {
       "run_id": "43758548530",
       "run_number": "498",
@@ -2247,45 +2286,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41320176624",
       "items": []
-    },
-    {
-      "run_id": "41318671977",
-      "run_number": "399",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-11-01T14:58:55.186271+00:00",
-      "israel_time": "01/11/2026 16:58",
-      "uploads": 2,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41318671977",
-      "items": [
-        {
-          "podcast": "גיקונומי",
-          "title": "פרק #1269 - מיכל צ׳רנוביצקי והממ״חים",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/2/1093.wav"
-          ],
-          "drive_filename": "פרק #1269 - מיכל צ׳רנוביצקי והממ״חים.mp3",
-          "drive_folder": "גיקונומי",
-          "drive_url": "https://drive.google.com/file/d/1pe6XchjmE1-I6-iISopla1En_w5Y9LAW/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/2/1093.wav"
-        },
-        {
-          "podcast": "שלושה שיודעים",
-          "title": "שירותים ציבוריים שריחם למרחוק",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/42/919.wav"
-          ],
-          "drive_filename": "שירותים ציבוריים שריחם למרחוק.mp3",
-          "drive_folder": "שלושה שיודעים",
-          "drive_url": "https://drive.google.com/file/d/1Oq92cNCiegH5eNQ3gMLxp_fbklFbEUmf/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/42/919.wav"
-        }
-      ]
     }
   ]
 }
