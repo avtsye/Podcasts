@@ -28242,10 +28242,34 @@
       "path": "ivr2:/1/1/2685.wav",
       "filename_stem": "2685",
       "uploaded_at": "2026-11-13T08:04:24.073540+00:00"
+    },
+    "ehad_beyom:700dbe68-a383-4d4a-b228-b502009280f9": {
+      "podcast_id": "ehad_beyom",
+      "title": "הפלונטר האיראני",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2686.wav",
+      "filename_stem": "2686",
+      "uploaded_at": "2026-11-15T07:53:57.046083+00:00"
+    },
+    "three_who_know:01a43dce-94a6-4157-bb60-b503006bb8b5": {
+      "podcast_id": "three_who_know",
+      "title": "תנו לי הרבה שיער ארוך ונהדר",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/927.wav",
+      "filename_stem": "927",
+      "uploaded_at": "2026-11-15T07:54:47.063386+00:00"
+    },
+    "pashut_ai:7f13a0d9-9ace-46f9-928b-61c46cf9cf02": {
+      "podcast_id": "pashut_ai",
+      "title": "איך בכלל עובדת כל הבינה המלאכותית הזו ומהם מודלים מקומיים? ⏪ | פרק 193 עם רני אלבג",
+      "status": "uploaded",
+      "path": "ivr2:/1/55/107.wav",
+      "filename_stem": "107",
+      "uploaded_at": "2026-11-15T07:55:18.412827+00:00"
     }
   },
   "next_numbers": {
-    "1": 2686,
+    "1": 2687,
     "2": 1099,
     "3": 17,
     "4": 20,
@@ -28277,8 +28301,8 @@
     "20": 319,
     "24": 20,
     "41": 11,
-    "42": 927,
-    "55": 107,
+    "42": 928,
+    "55": 108,
     "43": 114,
     "50": 7,
     "52": 4,
