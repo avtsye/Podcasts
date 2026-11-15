@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-15T15:32:00.908684+00:00",
+  "updated_at": "2026-11-15T17:47:13.862778+00:00",
   "runs": [
+    {
+      "run_id": "43742940093",
+      "run_number": "497",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-15T17:47:13.862778+00:00",
+      "israel_time": "15/11/2026 19:47",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/43742940093",
+      "items": [
+        {
+          "podcast": "סקרנית",
+          "title": "מי יכול להחליף אותו?",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/11/15.wav"
+          ],
+          "drive_filename": "מי יכול להחליף אותו_.mp3",
+          "drive_folder": "סקרנית",
+          "drive_url": "https://drive.google.com/file/d/1mPtFgeocZEwwhrf4X5XD-K8GRpJHitxS/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/11/15.wav"
+        }
+      ]
+    },
     {
       "run_id": "43730341980",
       "run_number": "496",
@@ -2284,20 +2311,6 @@
           "yemos_path": "ivr2:/1/55/105.wav"
         }
       ]
-    },
-    {
-      "run_id": "41260223558",
-      "run_number": "397",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-11-01T01:14:56.444184+00:00",
-      "israel_time": "01/11/2026 03:14",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41260223558",
-      "items": []
     }
   ]
 }
