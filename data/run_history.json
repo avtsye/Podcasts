@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-15T17:47:13.862778+00:00",
+  "updated_at": "2026-11-15T20:32:14.089771+00:00",
   "runs": [
+    {
+      "run_id": "43758548530",
+      "run_number": "498",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-15T20:32:14.089771+00:00",
+      "israel_time": "15/11/2026 22:32",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/43758548530",
+      "items": []
+    },
     {
       "run_id": "43742940093",
       "run_number": "497",
@@ -2270,45 +2284,6 @@
           "drive_folder": "שלושה שיודעים",
           "drive_url": "https://drive.google.com/file/d/1Oq92cNCiegH5eNQ3gMLxp_fbklFbEUmf/view?usp=drivesdk",
           "yemos_path": "ivr2:/1/42/919.wav"
-        }
-      ]
-    },
-    {
-      "run_id": "41285557955",
-      "run_number": "398",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-11-01T07:39:17.692671+00:00",
-      "israel_time": "01/11/2026 09:39",
-      "uploads": 2,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41285557955",
-      "items": [
-        {
-          "podcast": "אחד ביום",
-          "title": "הפוליטיקה החרדית החדשה",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/1/2674.wav"
-          ],
-          "drive_filename": "הפוליטיקה החרדית החדשה.mp3",
-          "drive_folder": "אחד ביום",
-          "drive_url": "https://drive.google.com/file/d/1fVF6olIIz6_BM2X8PgsGer7KjQHhc7qt/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/1/2674.wav"
-        },
-        {
-          "podcast": "פשוט AI",
-          "title": "הסוכנים הקוליים שעושים כבר מכירות בטלפון 📞 | פרק 1919 עם אור גולדשמידט ואיליה רונין, קולדי",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/55/105.wav"
-          ],
-          "drive_filename": "הסוכנים הקוליים שעושים כבר מכירות בטלפון 📞 _ פרק 1919 עם אור גולדשמידט ואיליה רונין, קולדי.mp3",
-          "drive_folder": "פשוט AI",
-          "drive_url": "https://drive.google.com/file/d/1NA2_cOstTCioLOsJ2wFdNjHhUn7FpA7k/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/55/105.wav"
         }
       ]
     }
