@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-16T00:19:26.902552+00:00",
+  "updated_at": "2026-11-16T02:47:38.700375+00:00",
   "runs": [
+    {
+      "run_id": "43794172322",
+      "run_number": "501",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-16T02:47:38.700375+00:00",
+      "israel_time": "16/11/2026 04:47",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/43794172322",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "לוד על סף פיצוץ",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2687.wav"
+          ],
+          "drive_filename": "לוד על סף פיצוץ.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/1LWJVisH-S7d_al6NLG5cLoSA6MZmgV-0/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2687.wav"
+        }
+      ]
+    },
     {
       "run_id": "43779614558",
       "run_number": "500",
@@ -2259,33 +2286,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41343328977",
       "items": []
-    },
-    {
-      "run_id": "41341810369",
-      "run_number": "401",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-11-01T19:28:42.024742+00:00",
-      "israel_time": "01/11/2026 21:28",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41341810369",
-      "items": [
-        {
-          "podcast": "סקרנית",
-          "title": "גם לצ'טבוט יש רגשות",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/11/13.wav"
-          ],
-          "drive_filename": "גם לצ'טבוט יש רגשות.mp3",
-          "drive_folder": "סקרנית",
-          "drive_url": "https://drive.google.com/file/d/1HoCz6OlCo-akNeeCDOFiCyj3MZTT5reX/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/11/13.wav"
-        }
-      ]
     }
   ]
 }

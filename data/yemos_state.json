@@ -28290,10 +28290,18 @@
       "path": "ivr2:/1/17/33.wav",
       "filename_stem": "33",
       "uploaded_at": "2026-11-15T22:54:37.012266+00:00"
+    },
+    "ehad_beyom:a256bc2a-6d3e-44cb-af29-b503012d899a": {
+      "podcast_id": "ehad_beyom",
+      "title": "לוד על סף פיצוץ",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2687.wav",
+      "filename_stem": "2687",
+      "uploaded_at": "2026-11-16T02:46:58.840457+00:00"
     }
   },
   "next_numbers": {
-    "1": 2687,
+    "1": 2688,
     "2": 1100,
     "3": 17,
     "4": 20,
