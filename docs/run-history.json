@@ -1,6 +1,57 @@
 {
-  "updated_at": "2026-11-16T02:47:38.700375+00:00",
+  "updated_at": "2026-11-16T07:12:06.503078+00:00",
   "runs": [
+    {
+      "run_id": "43821701773",
+      "run_number": "502",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-16T07:12:06.503078+00:00",
+      "israel_time": "16/11/2026 09:12",
+      "uploads": 3,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/43821701773",
+      "items": [
+        {
+          "podcast": "עושים היסטוריה עם ערן ניצן",
+          "title": "היילי סלאסי - הקיסר העצוב [עושים היסטוריה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/27/16.wav"
+          ],
+          "drive_filename": "היילי סלאסי - הקיסר העצוב [עושים היסטוריה].mp3",
+          "drive_folder": "עושים היסטוריה עם ערן ניצן",
+          "drive_url": "https://drive.google.com/file/d/1XGYO_TE_FiVrGky4CgigCmgbBTclwe-P/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/27/16.wav"
+        },
+        {
+          "podcast": "שלושה שיודעים",
+          "title": "ובקש חלום קטן",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/42/928.wav"
+          ],
+          "drive_filename": "ובקש חלום קטן.mp3",
+          "drive_folder": "שלושה שיודעים",
+          "drive_url": "https://drive.google.com/file/d/1sOwTo_O1Ip2BlS3riiZ4GiMQ5usYRRzk/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/42/928.wav"
+        },
+        {
+          "podcast": "עושים תוכנה",
+          "title": "מעבר ל\"מוח שני\": מהפכת ה-Context Lake של חברת פריוריטי [עושים תוכנה]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/43/114.wav"
+          ],
+          "drive_filename": "מעבר ל_מוח שני_ מהפכת ה-Context Lake של חברת פריוריטי [עושים תוכנה].mp3",
+          "drive_folder": "עושים תוכנה",
+          "drive_url": "https://drive.google.com/file/d/1XaMiZeIi8kr1IklT7lygm6s2LnEUF5qU/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/43/114.wav"
+        }
+      ]
+    },
     {
       "run_id": "43794172322",
       "run_number": "501",
@@ -2272,20 +2323,6 @@
           "yemos_path": "ivr2:/1/17/25.wav"
         }
       ]
-    },
-    {
-      "run_id": "41343328977",
-      "run_number": "402",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-11-01T19:46:14.880875+00:00",
-      "israel_time": "01/11/2026 21:46",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41343328977",
-      "items": []
     }
   ]
 }

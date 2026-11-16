@@ -28298,6 +28298,30 @@
       "path": "ivr2:/1/1/2687.wav",
       "filename_stem": "2687",
       "uploaded_at": "2026-11-16T02:46:58.840457+00:00"
+    },
+    "osim_historia:https://api.spreaker.com/episode/76394124": {
+      "podcast_id": "osim_historia",
+      "title": "היילי סלאסי - הקיסר העצוב [עושים היסטוריה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/27/16.wav",
+      "filename_stem": "16",
+      "uploaded_at": "2026-11-16T07:10:09.143075+00:00"
+    },
+    "three_who_know:7c38076d-9acb-45df-971b-b504005ca4b7": {
+      "podcast_id": "three_who_know",
+      "title": "ובקש חלום קטן",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/928.wav",
+      "filename_stem": "928",
+      "uploaded_at": "2026-11-16T07:10:43.121353+00:00"
+    },
+    "osim_software:https://api.spreaker.com/episode/76389146": {
+      "podcast_id": "osim_software",
+      "title": "מעבר ל\"מוח שני\": מהפכת ה-Context Lake של חברת פריוריטי [עושים תוכנה]",
+      "status": "uploaded",
+      "path": "ivr2:/1/43/114.wav",
+      "filename_stem": "114",
+      "uploaded_at": "2026-11-16T07:11:51.901157+00:00"
     }
   },
   "next_numbers": {
@@ -28325,7 +28349,7 @@
     "23": 18,
     "25": 9,
     "26": 176,
-    "27": 16,
+    "27": 17,
     "37": 436,
     "38": 11,
     "39": 9,
@@ -28333,9 +28357,9 @@
     "20": 319,
     "24": 20,
     "41": 11,
-    "42": 928,
+    "42": 929,
     "55": 108,
-    "43": 114,
+    "43": 115,
     "50": 7,
     "52": 4,
     "51": 4,
