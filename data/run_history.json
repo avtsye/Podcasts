@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-17T14:30:24.168268+00:00",
+  "updated_at": "2026-11-17T18:26:25.574839+00:00",
   "runs": [
+    {
+      "run_id": "44146955378",
+      "run_number": "510",
+      "event": "repository_dispatch",
+      "status": "failure",
+      "utc_time": "2026-11-17T18:26:25.574839+00:00",
+      "israel_time": "17/11/2026 20:26",
+      "uploads": 2,
+      "feed_errors": 1,
+      "target_errors": 1,
+      "partial": true,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/44146955378",
+      "items": [
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1275 - עבד אבו שחאדה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1100.wav"
+          ],
+          "drive_filename": "פרק #1275 - עבד אבו שחאדה.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1e99-eSDq6vZVSkRUs1EBOUe3HGNYzTrD/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1100.wav"
+        },
+        {
+          "podcast": "הצוללת",
+          "title": "הקשר בין פרשת אנבידיה לפנסיה שלכם והאמונה בכלכלת ישראל: שיחה עם אבנר סטפק",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/50/7.wav"
+          ],
+          "drive_filename": "הקשר בין פרשת אנבידיה לפנסיה שלכם והאמונה בכלכלת ישראל_ שיחה עם אבנר סטפק.mp3",
+          "drive_folder": "הצוללת",
+          "drive_url": "https://drive.google.com/file/d/1CaDlaxBj7A5ppCZT63XdnbwbF_rKFTNt/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/50/7.wav"
+        }
+      ]
+    },
     {
       "run_id": "44103672920",
       "run_number": "509",
@@ -2223,33 +2262,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41564081252",
       "items": []
-    },
-    {
-      "run_id": "41546557129",
-      "run_number": "410",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-11-02T23:36:31.721174+00:00",
-      "israel_time": "03/11/2026 01:36",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41546557129",
-      "items": [
-        {
-          "podcast": "חיים של אחרים",
-          "title": "חיים של אחרים | 02.11.26",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/17/26.wav"
-          ],
-          "drive_filename": "חיים של אחרים _ 02.11.26.mp3",
-          "drive_folder": "חיים של אחרים",
-          "drive_url": "https://drive.google.com/file/d/1tzkSXX3GP6pZEF5CTXs71iMrcti-b2Bj/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/17/26.wav"
-        }
-      ]
     }
   ]
 }
