@@ -28370,6 +28370,22 @@
       "path": "ivr2:/1/50/7.wav",
       "filename_stem": "7",
       "uploaded_at": "2026-11-17T18:26:17.986832+00:00"
+    },
+    "haim_aherim:ceccfcb8-0b58-44b0-bd51-b505015c8eb5": {
+      "podcast_id": "haim_aherim",
+      "title": "חיים של אחרים | 17.11.26",
+      "status": "uploaded",
+      "path": "ivr2:/1/17/35.wav",
+      "filename_stem": "35",
+      "uploaded_at": "2026-11-17T22:56:09.542755+00:00"
+    },
+    "traveler:d3b565a3-86ee-402c-9e1e-b50501210f27": {
+      "podcast_id": "traveler",
+      "title": "הסיפור המיוחד של אמדספור",
+      "status": "uploaded",
+      "path": "ivr2:/1/23/19.wav",
+      "filename_stem": "19",
+      "uploaded_at": "2026-11-17T22:56:54.252669+00:00"
     }
   },
   "next_numbers": {
@@ -28389,12 +28405,12 @@
     "14": 5,
     "15": 29,
     "16": 13,
-    "17": 35,
+    "17": 36,
     "18": 11,
     "19": 11,
     "21": 266,
     "22": 23,
-    "23": 19,
+    "23": 20,
     "25": 9,
     "26": 176,
     "27": 17,

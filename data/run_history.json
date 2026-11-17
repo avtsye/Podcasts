@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-17T18:26:25.574839+00:00",
+  "updated_at": "2026-11-17T22:57:16.343011+00:00",
   "runs": [
+    {
+      "run_id": "44194616614",
+      "run_number": "511",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-17T22:57:16.343011+00:00",
+      "israel_time": "18/11/2026 00:57",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/44194616614",
+      "items": [
+        {
+          "podcast": "חיים של אחרים",
+          "title": "חיים של אחרים | 17.11.26",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/17/35.wav"
+          ],
+          "drive_filename": "חיים של אחרים _ 17.11.26.mp3",
+          "drive_folder": "חיים של אחרים",
+          "drive_url": "https://drive.google.com/file/d/1jJhgKo3E3qoCIAT4ncuhbZiPBJyb5DmV/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/17/35.wav"
+        },
+        {
+          "podcast": "הנוסע המתמיד עם נדב יעקבי",
+          "title": "הסיפור המיוחד של אמדספור",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/23/19.wav"
+          ],
+          "drive_filename": "הסיפור המיוחד של אמדספור.mp3",
+          "drive_folder": "הנוסע המתמיד עם נדב יעקבי",
+          "drive_url": "https://drive.google.com/file/d/1O6JUcxrlNdX95v-GbYyWWRg_och3KuCA/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/23/19.wav"
+        }
+      ]
+    },
     {
       "run_id": "44146955378",
       "run_number": "510",
@@ -2248,20 +2287,6 @@
           "yemos_path": "ivr2:/1/6/290.wav"
         }
       ]
-    },
-    {
-      "run_id": "41564081252",
-      "run_number": "411",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-11-03T02:07:58.870869+00:00",
-      "israel_time": "03/11/2026 04:07",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41564081252",
-      "items": []
     }
   ]
 }
