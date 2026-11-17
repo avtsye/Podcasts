@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-16T22:11:34.109511+00:00",
+  "updated_at": "2026-11-17T00:50:26.946290+00:00",
   "runs": [
+    {
+      "run_id": "43990778658",
+      "run_number": "506",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-17T00:50:26.946290+00:00",
+      "israel_time": "17/11/2026 02:50",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/43990778658",
+      "items": []
+    },
     {
       "run_id": "43967353939",
       "run_number": "505",
@@ -2270,57 +2284,6 @@
           "drive_folder": "שלושה שיודעים",
           "drive_url": "https://drive.google.com/file/d/1EtC81Q1TNWlkAbwghJPvltkKRWhkwr22/view?usp=drivesdk",
           "yemos_path": "ivr2:/1/42/920.wav"
-        }
-      ]
-    },
-    {
-      "run_id": "41398592397",
-      "run_number": "406",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-11-02T06:16:26.615144+00:00",
-      "israel_time": "02/11/2026 08:16",
-      "uploads": 3,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41398592397",
-      "items": [
-        {
-          "podcast": "אחד ביום",
-          "title": "המדריך לפופוליסט המתחיל",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/1/2675.wav"
-          ],
-          "drive_filename": "המדריך לפופוליסט המתחיל.mp3",
-          "drive_folder": "אחד ביום",
-          "drive_url": "https://drive.google.com/file/d/1FNvIVbWWZcWHwBh7tkdFiXyswjY7vE33/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/1/2675.wav"
-        },
-        {
-          "podcast": "עושים היסטוריה עם ערן ניצן",
-          "title": "דליפה במכון הביולוגי - מרקוס קלינברג [‏עושים היסטוריה]",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/27/15.wav"
-          ],
-          "drive_filename": "דליפה במכון הביולוגי - מרקוס קלינברג [‏עושים היסטוריה].mp3",
-          "drive_folder": "עושים היסטוריה עם ערן ניצן",
-          "drive_url": "https://drive.google.com/file/d/1kjSBFXILFattsoeiMw-5vkc-PNVo5Pch/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/27/15.wav"
-        },
-        {
-          "podcast": "עושים תוכנה",
-          "title": "איך עובד מחשב קוונטי? | שרון סברייגו ואמיר נוה [עושים תוכנה]",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/43/113.wav"
-          ],
-          "drive_filename": "איך עובד מחשב קוונטי_ _ שרון סברייגו ואמיר נוה [עושים תוכנה].mp3",
-          "drive_folder": "עושים תוכנה",
-          "drive_url": "https://drive.google.com/file/d/1sXiGWwbLwyhKLpdP1aHxPaYTM-0P4GHb/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/43/113.wav"
         }
       ]
     }
