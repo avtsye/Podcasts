@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-18T08:37:09.576768+00:00",
+  "updated_at": "2026-11-18T14:06:36.200502+00:00",
   "runs": [
+    {
+      "run_id": "44320453843",
+      "run_number": "515",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-18T14:06:36.200502+00:00",
+      "israel_time": "18/11/2026 16:06",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/44320453843",
+      "items": [
+        {
+          "podcast": "בזמן שעבדתם",
+          "title": "הואנג באנג: כסף, כוח ומאבקי שליטה באנבידיה",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/20/319.wav"
+          ],
+          "drive_filename": "הואנג באנג_ כסף, כוח ומאבקי שליטה באנבידיה.mp3",
+          "drive_folder": "בזמן שעבדתם",
+          "drive_url": "https://drive.google.com/file/d/1UxKFP4vEICabml5Ag1N51NfO77WL_W5a/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/20/319.wav"
+        }
+      ]
+    },
     {
       "run_id": "44268242649",
       "run_number": "514",
@@ -2271,33 +2298,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41718331158",
       "items": []
-    },
-    {
-      "run_id": "41683500984",
-      "run_number": "415",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-11-03T17:23:54.858833+00:00",
-      "israel_time": "03/11/2026 19:23",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41683500984",
-      "items": [
-        {
-          "podcast": "מגזין מעריב",
-          "title": "מעל הליגה - פרק 51 | מחמש נותרו שלוש",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/15/25.wav"
-          ],
-          "drive_filename": "מעל הליגה - פרק 51 _ מחמש נותרו שלוש.mp3",
-          "drive_folder": "מגזין מעריב",
-          "drive_url": "https://drive.google.com/file/d/1e_OkVUN5q_Gz_84Yy2wsDmmVrEJRw1jG/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/15/25.wav"
-        }
-      ]
     }
   ]
 }
