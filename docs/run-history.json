@@ -1,6 +1,57 @@
 {
-  "updated_at": "2026-11-18T04:28:15.904529+00:00",
+  "updated_at": "2026-11-18T08:37:09.576768+00:00",
   "runs": [
+    {
+      "run_id": "44268242649",
+      "run_number": "514",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-18T08:37:09.576768+00:00",
+      "israel_time": "18/11/2026 10:37",
+      "uploads": 3,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/44268242649",
+      "items": [
+        {
+          "podcast": "מגזין מעריב",
+          "title": "חברה מצוינת, השקעה גרועה: הטעות שעולה למשקיעים ביוקר",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/15/29.wav"
+          ],
+          "drive_filename": "חברה מצוינת, השקעה גרועה_ הטעות שעולה למשקיעים ביוקר.mp3",
+          "drive_folder": "מגזין מעריב",
+          "drive_url": "https://drive.google.com/file/d/1zWY6-w8BatpD6wMg4fpMhibpbFjl2SZ6/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/15/29.wav"
+        },
+        {
+          "podcast": "מגזין מעריב",
+          "title": "דרום אדום - עם אפרים דוידי | מחצית שכונה, פרק 66",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/15/30.wav"
+          ],
+          "drive_filename": "דרום אדום - עם אפרים דוידי _ מחצית שכונה, פרק 66.mp3",
+          "drive_folder": "מגזין מעריב",
+          "drive_url": "https://drive.google.com/file/d/1AKc_UH9ZRyoZMsb-Mr_hBZQumDxCcFLl/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/15/30.wav"
+        },
+        {
+          "podcast": "שלושה שיודעים",
+          "title": "והעיקר שצוחקים",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/42/930.wav"
+          ],
+          "drive_filename": "והעיקר שצוחקים.mp3",
+          "drive_folder": "שלושה שיודעים",
+          "drive_url": "https://drive.google.com/file/d/1b9A3AXfcCDdVPjbjhcpraV_RdXLy69uV/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/42/930.wav"
+        }
+      ]
+    },
     {
       "run_id": "44237372016",
       "run_number": "513",
@@ -2245,33 +2296,6 @@
           "drive_folder": "מגזין מעריב",
           "drive_url": "https://drive.google.com/file/d/1e_OkVUN5q_Gz_84Yy2wsDmmVrEJRw1jG/view?usp=drivesdk",
           "yemos_path": "ivr2:/1/15/25.wav"
-        }
-      ]
-    },
-    {
-      "run_id": "41661688710",
-      "run_number": "414",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-11-03T15:16:49.960547+00:00",
-      "israel_time": "03/11/2026 17:16",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 1,
-      "partial": true,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41661688710",
-      "items": [
-        {
-          "podcast": "גיקונומי",
-          "title": "פרק #1270 - ד״ר קובי ברדה ובחירות האמצע",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/2/1094.wav"
-          ],
-          "drive_filename": "פרק #1270 - ד״ר קובי ברדה ובחירות האמצע.mp3",
-          "drive_folder": "גיקונומי",
-          "drive_url": "https://drive.google.com/file/d/182twKvMxsLBup5EaadTjODjpP-0eGRLr/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/2/1094.wav"
         }
       ]
     }
