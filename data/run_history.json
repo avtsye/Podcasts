@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-17T22:57:16.343011+00:00",
+  "updated_at": "2026-11-18T01:12:56.619579+00:00",
   "runs": [
+    {
+      "run_id": "44213943769",
+      "run_number": "512",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-18T01:12:56.619579+00:00",
+      "israel_time": "18/11/2026 03:12",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/44213943769",
+      "items": []
+    },
     {
       "run_id": "44194616614",
       "run_number": "511",
@@ -2246,45 +2260,6 @@
           "drive_folder": "שלושה שיודעים",
           "drive_url": "https://drive.google.com/file/d/1d2RE0aDfyV-IrFjni--4Im6tYV6nco_F/view?usp=drivesdk",
           "yemos_path": "ivr2:/1/42/921.wav"
-        }
-      ]
-    },
-    {
-      "run_id": "41592710018",
-      "run_number": "412",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-11-03T06:54:59.941909+00:00",
-      "israel_time": "03/11/2026 08:54",
-      "uploads": 2,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41592710018",
-      "items": [
-        {
-          "podcast": "אחד ביום",
-          "title": "התכנית של גוש השינוי",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/1/2676.wav"
-          ],
-          "drive_filename": "התכנית של גוש השינוי.mp3",
-          "drive_folder": "אחד ביום",
-          "drive_url": "https://drive.google.com/file/d/1TeCvGmqcjdE40SbbEq5mUA3Z5_HfxKb3/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/1/2676.wav"
-        },
-        {
-          "podcast": "Startup for Startup",
-          "title": "3 שלבים להטמעת AI: מאדופשן ראשוני לבניית תהליכים מחדש",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/6/290.wav"
-          ],
-          "drive_filename": "3 שלבים להטמעת AI_ מאדופשן ראשוני לבניית תהליכים מחדש.mp3",
-          "drive_folder": "Startup for Startup",
-          "drive_url": "https://drive.google.com/file/d/1ADtEUl5kJkbjE1S95XwCzDL5c3SsX3Ia/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/6/290.wav"
         }
       ]
     }
