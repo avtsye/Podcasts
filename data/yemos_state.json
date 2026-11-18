@@ -28386,12 +28386,28 @@
       "path": "ivr2:/1/23/19.wav",
       "filename_stem": "19",
       "uploaded_at": "2026-11-17T22:56:54.252669+00:00"
+    },
+    "ehad_beyom:78e69955-f26f-4c70-893b-b505012a9631": {
+      "podcast_id": "ehad_beyom",
+      "title": "מי שומר על הגיל הרך?",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2689.wav",
+      "filename_stem": "2689",
+      "uploaded_at": "2026-11-18T04:27:20.976082+00:00"
+    },
+    "hayot_kes:65b46ace-527b-463f-bbc5-b50500dc45d6": {
+      "podcast_id": "hayot_kes",
+      "title": "פרק 366: כל המדינה אתר בנייה",
+      "status": "uploaded",
+      "path": "ivr2:/1/3/17.wav",
+      "filename_stem": "17",
+      "uploaded_at": "2026-11-18T04:27:47.431464+00:00"
     }
   },
   "next_numbers": {
-    "1": 2689,
+    "1": 2690,
     "2": 1101,
-    "3": 17,
+    "3": 18,
     "4": 20,
     "5": 114,
     "6": 293,
