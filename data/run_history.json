@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-18T23:37:13.833348+00:00",
+  "updated_at": "2026-11-19T03:34:12.480280+00:00",
   "runs": [
+    {
+      "run_id": "44452226468",
+      "run_number": "519",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-19T03:34:12.480280+00:00",
+      "israel_time": "19/11/2026 05:34",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/44452226468",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "האישה שקברה את כולם",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2690.wav"
+          ],
+          "drive_filename": "האישה שקברה את כולם.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/15EWorZq1PCNgtrwaUVfeCKj8yCFDeO3j/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2690.wav"
+        }
+      ]
+    },
     {
       "run_id": "44422197869",
       "run_number": "518",
@@ -2297,20 +2324,6 @@
           "yemos_path": "ivr2:/1/42/922.wav"
         }
       ]
-    },
-    {
-      "run_id": "41761983426",
-      "run_number": "419",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-11-04T02:38:22.244251+00:00",
-      "israel_time": "04/11/2026 04:38",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41761983426",
-      "items": []
     }
   ]
 }
