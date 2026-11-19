@@ -28458,16 +28458,32 @@
       "path": "ivr2:/1/1/2690.wav",
       "filename_stem": "2690",
       "uploaded_at": "2026-11-19T03:33:45.322798+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/ca11463f-015a-3091-9b60-406b09c4f52b": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1276 - איתי גולדה נולד מחדש",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1101.wav",
+      "filename_stem": "1101",
+      "uploaded_at": "2026-11-19T22:03:35.127255+00:00"
+    },
+    "money_engines:258a9c75-fb1a-474b-ad51-b50700d914fa": {
+      "podcast_id": "money_engines",
+      "title": "המדד שהפתיע: האם הריבית בישראל תרד כבר ביום שני",
+      "status": "uploaded",
+      "path": "ivr2:/1/7/20.wav",
+      "filename_stem": "20",
+      "uploaded_at": "2026-11-19T22:04:35.589089+00:00"
     }
   },
   "next_numbers": {
     "1": 2691,
-    "2": 1101,
+    "2": 1102,
     "3": 18,
     "4": 20,
     "5": 114,
     "6": 293,
-    "7": 20,
+    "7": 21,
     "8": 12,
     "9": 49,
     "10": 11,
