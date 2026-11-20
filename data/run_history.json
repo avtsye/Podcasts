@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-20T19:14:36.195503+00:00",
+  "updated_at": "2026-11-20T21:10:51.560286+00:00",
   "runs": [
+    {
+      "run_id": "44817893535",
+      "run_number": "528",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-20T21:10:51.560286+00:00",
+      "israel_time": "20/11/2026 23:10",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/44817893535",
+      "items": []
+    },
     {
       "run_id": "44800170704",
       "run_number": "527",
@@ -2196,33 +2210,6 @@
           "destinations": [
             "ימות המשיח ivr2:/1/4/12.wav"
           ]
-        }
-      ]
-    },
-    {
-      "run_id": "42055817948",
-      "run_number": "428",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-11-05T15:32:43.447070+00:00",
-      "israel_time": "05/11/2026 17:32",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42055817948",
-      "items": [
-        {
-          "podcast": "מנועי הכסף",
-          "title": "ירידות, דשדוש או גל חדש: לאן הולך שוק הדיור",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/7/18.wav"
-          ],
-          "drive_filename": "ירידות, דשדוש או גל חדש_ לאן הולך שוק הדיור.mp3",
-          "drive_folder": "מנועי הכסף",
-          "drive_url": "https://drive.google.com/file/d/1x2GvCcNjcC749e8c25atMDRnVgG1KISk/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/7/18.wav"
         }
       ]
     }
