@@ -28474,10 +28474,18 @@
       "path": "ivr2:/1/7/20.wav",
       "filename_stem": "20",
       "uploaded_at": "2026-11-19T22:04:35.589089+00:00"
+    },
+    "ehad_beyom:2cefd669-c3ed-40ea-91ad-b50800773035": {
+      "podcast_id": "ehad_beyom",
+      "title": "ראיתי שמעתי: מיכה שטרית",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2691.wav",
+      "filename_stem": "2691",
+      "uploaded_at": "2026-11-20T11:22:34.244741+00:00"
     }
   },
   "next_numbers": {
-    "1": 2691,
+    "1": 2692,
     "2": 1102,
     "3": 18,
     "4": 20,

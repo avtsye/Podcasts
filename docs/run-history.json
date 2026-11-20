@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-20T03:25:41.071413+00:00",
+  "updated_at": "2026-11-20T11:23:14.575157+00:00",
   "runs": [
+    {
+      "run_id": "44726994702",
+      "run_number": "525",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-20T11:23:14.575157+00:00",
+      "israel_time": "20/11/2026 13:23",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/44726994702",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "ראיתי שמעתי: מיכה שטרית",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2691.wav"
+          ],
+          "drive_filename": "ראיתי שמעתי_ מיכה שטרית.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/12B9sPyQyAJ_87sbgEzFKoKEQxpkfLzzv/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2691.wav"
+        }
+      ]
+    },
     {
       "run_id": "44667289195",
       "run_number": "524",
@@ -2223,45 +2250,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41983416524",
       "items": []
-    },
-    {
-      "run_id": "41963028513",
-      "run_number": "425",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-11-05T03:41:53.691003+00:00",
-      "israel_time": "05/11/2026 05:41",
-      "uploads": 2,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/41963028513",
-      "items": [
-        {
-          "podcast": "אחד ביום",
-          "title": "הצונאמי הכחול באמריקה",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/1/2678.wav"
-          ],
-          "drive_filename": "הצונאמי הכחול באמריקה.mp3",
-          "drive_folder": "אחד ביום",
-          "drive_url": "https://drive.google.com/file/d/11T3FnIF2np1qBAbo0p6wmQUXil-yZfIO/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/1/2678.wav"
-        },
-        {
-          "podcast": "הנוסע המתמיד עם נדב יעקבי",
-          "title": "פ.ס.ז' וקומו מפרקות, ריאל ויונייטד ניצלות",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/23/16.wav"
-          ],
-          "drive_filename": "פ.ס.ז' וקומו מפרקות, ריאל ויונייטד ניצלות.mp3",
-          "drive_folder": "הנוסע המתמיד עם נדב יעקבי",
-          "drive_url": "https://drive.google.com/file/d/1zkmbxYl2m4oSTbE6xqH6EX7VUEzNRqeb/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/23/16.wav"
-        }
-      ]
     }
   ]
 }
