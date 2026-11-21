@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-21T11:12:11.712741+00:00",
+  "updated_at": "2026-11-21T16:12:46.469594+00:00",
   "runs": [
+    {
+      "run_id": "44923179800",
+      "run_number": "533",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-21T16:12:46.469594+00:00",
+      "israel_time": "21/11/2026 18:12",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/44923179800",
+      "items": [
+        {
+          "podcast": "פשוט AI",
+          "title": "מה באמת קורה מאחורי הקלעים של סוכני הבינה המלאכותית 🎞️ | פרק 194 עם גל כהן, מיינד סקיוריטי",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/55/108.wav"
+          ],
+          "drive_filename": "מה באמת קורה מאחורי הקלעים של סוכני הבינה המלאכותית 🎞️ _ פרק 194 עם גל כהן, מיינד סקיוריטי.mp3",
+          "drive_folder": "פשוט AI",
+          "drive_url": "https://drive.google.com/file/d/1eyELxiPoGu6sDiHgXQ2AD_dK6q0CavCf/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/55/108.wav"
+        }
+      ]
+    },
     {
       "run_id": "44897905032",
       "run_number": "532",
@@ -2163,33 +2190,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42206709184",
       "items": []
-    },
-    {
-      "run_id": "42177224289",
-      "run_number": "433",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-11-06T06:54:47.262037+00:00",
-      "israel_time": "06/11/2026 08:54",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42177224289",
-      "items": [
-        {
-          "podcast": "התשובה",
-          "title": "איך לבחור? פרק לייב [התשובה]",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/5/113.wav"
-          ],
-          "drive_filename": "איך לבחור_ פרק לייב [התשובה].mp3",
-          "drive_folder": "התשובה",
-          "drive_url": "https://drive.google.com/file/d/1EteSnAaQVqp8Ozcsfpt4PG5DjfWHODZl/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/5/113.wav"
-        }
-      ]
     }
   ]
 }
