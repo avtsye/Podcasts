@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-20T21:10:51.560286+00:00",
+  "updated_at": "2026-11-21T00:50:01.622801+00:00",
   "runs": [
+    {
+      "run_id": "44846321147",
+      "run_number": "529",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-21T00:50:01.622801+00:00",
+      "israel_time": "21/11/2026 02:50",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/44846321147",
+      "items": []
+    },
     {
       "run_id": "44817893535",
       "run_number": "528",
@@ -2187,29 +2201,6 @@
           "drive_folder": "גיקונומי",
           "drive_url": "https://drive.google.com/file/d/1M_v32bgmgtjtU3Q3y-lHS7uzD5m4YeOg/view?usp=drivesdk",
           "yemos_path": "ivr2:/1/2/1095.wav"
-        }
-      ]
-    },
-    {
-      "run_id": "42089843154",
-      "run_number": "429",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-11-05T19:02:41.427038+00:00",
-      "israel_time": "05/11/2026 21:02",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42089843154",
-      "items": [
-        {
-          "podcast": "עושים טכנולוגיה",
-          "title": "מה הבעיה שלי עם אפל (ש.ח.) [עושים טכנולוגיה]",
-          "yemos_path": "ivr2:/1/4/12.wav",
-          "destinations": [
-            "ימות המשיח ivr2:/1/4/12.wav"
-          ]
         }
       ]
     }
