@@ -28490,10 +28490,18 @@
       "path": "ivr2:/1/55/108.wav",
       "filename_stem": "108",
       "uploaded_at": "2026-11-21T16:12:40.954701+00:00"
+    },
+    "ehad_beyom:05e69ed4-00aa-4243-b802-b50900f7eb22": {
+      "podcast_id": "ehad_beyom",
+      "title": "אין פרק, משחקים GTA6",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2692.wav",
+      "filename_stem": "2692",
+      "uploaded_at": "2026-11-22T06:56:20.718144+00:00"
     }
   },
   "next_numbers": {
-    "1": 2692,
+    "1": 2693,
     "2": 1102,
     "3": 18,
     "4": 20,
