@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-22T06:56:55.908090+00:00",
+  "updated_at": "2026-11-22T08:54:57.390471+00:00",
   "runs": [
+    {
+      "run_id": "45004858906",
+      "run_number": "539",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-22T08:54:57.390471+00:00",
+      "israel_time": "22/11/2026 10:54",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/45004858906",
+      "items": [
+        {
+          "podcast": "מגזין מעריב",
+          "title": "ההקלטה בכלא, המפגש עם ההורים והפרט שלא סופר: \"הייתי בורחת הרבה לפני\"",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/15/32.wav"
+          ],
+          "drive_filename": "ההקלטה בכלא, המפגש עם ההורים והפרט שלא סופר_ _הייתי בורחת הרבה לפני_.mp3",
+          "drive_folder": "מגזין מעריב",
+          "drive_url": "https://drive.google.com/file/d/1g-Ro8fcFU7Rgm58Jq8hhUJeLhY6YGRiw/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/15/32.wav"
+        },
+        {
+          "podcast": "שלושה שיודעים",
+          "title": "לחברה שלי יש סולם",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/42/931.wav"
+          ],
+          "drive_filename": "לחברה שלי יש סולם.mp3",
+          "drive_folder": "שלושה שיודעים",
+          "drive_url": "https://drive.google.com/file/d/1XXW_s27H00Ic8ETjsUWecG6-4bguEQ1g/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/42/931.wav"
+        }
+      ]
+    },
     {
       "run_id": "44995914165",
       "run_number": "538",
@@ -2179,20 +2218,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42331258495",
-      "items": []
-    },
-    {
-      "run_id": "42318197984",
-      "run_number": "439",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-11-07T00:27:04.219706+00:00",
-      "israel_time": "07/11/2026 02:27",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42318197984",
       "items": []
     }
   ]
