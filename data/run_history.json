@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-22T17:02:14.805753+00:00",
+  "updated_at": "2026-11-22T21:51:09.905756+00:00",
   "runs": [
+    {
+      "run_id": "45074262782",
+      "run_number": "542",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-22T21:51:09.905756+00:00",
+      "israel_time": "22/11/2026 23:51",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/45074262782",
+      "items": [
+        {
+          "podcast": "חיים של אחרים",
+          "title": "חיים של אחרים | 22.11.26",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/17/37.wav"
+          ],
+          "drive_filename": "חיים של אחרים _ 22.11.26.mp3",
+          "drive_folder": "חיים של אחרים",
+          "drive_url": "https://drive.google.com/file/d/1ePkv5-veZzo_M9Z3X_I0FMBMzP84oQLe/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/17/37.wav"
+        }
+      ]
+    },
     {
       "run_id": "45046996203",
       "run_number": "541",
@@ -2218,33 +2245,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42377038657",
       "items": []
-    },
-    {
-      "run_id": "42363347686",
-      "run_number": "442",
-      "event": "schedule",
-      "status": "failure",
-      "utc_time": "2026-11-07T10:19:20.899346+00:00",
-      "israel_time": "07/11/2026 12:19",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42363347686",
-      "items": [
-        {
-          "podcast": "אחד ביום",
-          "title": "ראיתי שמעתי: זאב נחמה",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/1/2679.wav"
-          ],
-          "drive_filename": "ראיתי שמעתי_ זאב נחמה.mp3",
-          "drive_folder": "אחד ביום",
-          "drive_url": "https://drive.google.com/file/d/1p3bdiqaCXhGOToKSQvvkijMw7ALk2YuQ/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/1/2679.wav"
-        }
-      ]
     }
   ]
 }
