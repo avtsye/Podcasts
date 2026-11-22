@@ -28514,11 +28514,19 @@
       "path": "ivr2:/1/42/931.wav",
       "filename_stem": "931",
       "uploaded_at": "2026-11-22T08:54:44.136173+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/b537096f-cf18-3756-9a89-f9e9fef7860f": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1277 - אליזבט צורקוב טייק 3",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1102.wav",
+      "filename_stem": "1102",
+      "uploaded_at": "2026-11-22T15:24:42.321968+00:00"
     }
   },
   "next_numbers": {
     "1": 2693,
-    "2": 1102,
+    "2": 1103,
     "3": 18,
     "4": 20,
     "5": 114,
