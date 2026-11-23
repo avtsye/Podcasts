@@ -28538,10 +28538,34 @@
       "path": "ivr2:/1/17/37.wav",
       "filename_stem": "37",
       "uploaded_at": "2026-11-22T21:50:46.921600+00:00"
+    },
+    "ehad_beyom:0afc5270-cfcf-4c0c-a510-b50a01743dbc": {
+      "podcast_id": "ehad_beyom",
+      "title": "עושים סדר: החשדות להטיית בחירות",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2693.wav",
+      "filename_stem": "2693",
+      "uploaded_at": "2026-11-23T12:13:13.752189+00:00"
+    },
+    "three_who_know:cc2ec7ad-6990-4402-bd98-b50b006b7acb": {
+      "podcast_id": "three_who_know",
+      "title": "אז קחי איתך מעיל או סוודר",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/932.wav",
+      "filename_stem": "932",
+      "uploaded_at": "2026-11-23T12:14:25.565631+00:00"
+    },
+    "osim_heshbon:https://api.spreaker.com/episode/76524585": {
+      "podcast_id": "osim_heshbon",
+      "title": "מה בדיוק עושה מונופול? [עושים חשבון]",
+      "status": "uploaded",
+      "path": "ivr2:/1/51/4.wav",
+      "filename_stem": "4",
+      "uploaded_at": "2026-11-23T12:15:33.310138+00:00"
     }
   },
   "next_numbers": {
-    "1": 2693,
+    "1": 2694,
     "2": 1103,
     "3": 18,
     "4": 20,
@@ -28573,12 +28597,12 @@
     "20": 320,
     "24": 20,
     "41": 11,
-    "42": 932,
+    "42": 933,
     "55": 109,
     "43": 115,
     "50": 8,
     "52": 4,
-    "51": 4,
+    "51": 5,
     "56": 34,
     "46": 2,
     "54": 2

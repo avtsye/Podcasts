@@ -1,6 +1,57 @@
 {
-  "updated_at": "2026-11-23T02:50:26.431527+00:00",
+  "updated_at": "2026-11-23T12:15:40.106730+00:00",
   "runs": [
+    {
+      "run_id": "45172120365",
+      "run_number": "544",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-23T12:15:40.106730+00:00",
+      "israel_time": "23/11/2026 14:15",
+      "uploads": 3,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/45172120365",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "עושים סדר: החשדות להטיית בחירות",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2693.wav"
+          ],
+          "drive_filename": "עושים סדר_ החשדות להטיית בחירות.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/1Yw-BG1qBtzU0iogse2ZKXfyehd2rhH9f/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2693.wav"
+        },
+        {
+          "podcast": "שלושה שיודעים",
+          "title": "אז קחי איתך מעיל או סוודר",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/42/932.wav"
+          ],
+          "drive_filename": "אז קחי איתך מעיל או סוודר.mp3",
+          "drive_folder": "שלושה שיודעים",
+          "drive_url": "https://drive.google.com/file/d/1GMEVDIrQWu9Xk6u3fnBoI27o9QO1_KcM/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/42/932.wav"
+        },
+        {
+          "podcast": "עושים חשבון",
+          "title": "מה בדיוק עושה מונופול? [עושים חשבון]",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/51/4.wav"
+          ],
+          "drive_filename": "מה בדיוק עושה מונופול_ [עושים חשבון].mp3",
+          "drive_folder": "עושים חשבון",
+          "drive_url": "https://drive.google.com/file/d/1ikXyUZ68UxubJU3NMs0hwkpdKIUzvllJ/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/51/4.wav"
+        }
+      ]
+    },
     {
       "run_id": "45102407438",
       "run_number": "543",
@@ -2230,20 +2281,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42400196714",
-      "items": []
-    },
-    {
-      "run_id": "42393382971",
-      "run_number": "444",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-11-07T16:52:01.563584+00:00",
-      "israel_time": "07/11/2026 18:52",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42393382971",
       "items": []
     }
   ]
