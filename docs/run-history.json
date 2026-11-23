@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-23T12:15:40.106730+00:00",
+  "updated_at": "2026-11-23T12:58:07.962554+00:00",
   "runs": [
+    {
+      "run_id": "45178818206",
+      "run_number": "545",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-23T12:58:07.962554+00:00",
+      "israel_time": "23/11/2026 14:58",
+      "uploads": 0,
+      "feed_errors": 1,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/45178818206",
+      "items": []
+    },
     {
       "run_id": "45172120365",
       "run_number": "544",
@@ -2267,20 +2281,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42413384440",
-      "items": []
-    },
-    {
-      "run_id": "42400196714",
-      "run_number": "445",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-11-07T18:14:14.595630+00:00",
-      "israel_time": "07/11/2026 20:14",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42400196714",
       "items": []
     }
   ]
