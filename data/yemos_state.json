@@ -28570,15 +28570,47 @@
       "path": "ivr2:/1/17/38.wav",
       "filename_stem": "38",
       "uploaded_at": "2026-11-23T23:58:02.790808+00:00"
+    },
+    "ehad_beyom:6e4b1e26-c812-47a2-ba72-b50b014f67ca": {
+      "podcast_id": "ehad_beyom",
+      "title": "איך מנהלים מו״מ קואליציוני?",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2694.wav",
+      "filename_stem": "2694",
+      "uploaded_at": "2026-11-24T09:25:33.902779+00:00"
+    },
+    "startup_for_startup:8e7387ac-228f-4e91-b7cf-b50b00c2a306": {
+      "podcast_id": "startup_for_startup",
+      "title": "הפלייבוק החדש: לבנות חברה שמתחרה בענקיות",
+      "status": "uploaded",
+      "path": "ivr2:/1/6/293.wav",
+      "filename_stem": "293",
+      "uploaded_at": "2026-11-24T09:26:05.677277+00:00"
+    },
+    "maariv_magazine:2afdcd0f-ed2b-4ee0-b870-b50c008017b3": {
+      "podcast_id": "maariv_magazine",
+      "title": "אוסמו הגדול - עם רפי אוסמו | מחצית בשכונה, פרק 67",
+      "status": "uploaded",
+      "path": "ivr2:/1/15/33.wav",
+      "filename_stem": "33",
+      "uploaded_at": "2026-11-24T09:27:21.798537+00:00"
+    },
+    "three_who_know:fe563d97-19dc-45d2-bd06-b50c006c9bca": {
+      "podcast_id": "three_who_know",
+      "title": "סימן שאתה צעיר כמו יום אביב בהיר",
+      "status": "uploaded",
+      "path": "ivr2:/1/42/933.wav",
+      "filename_stem": "933",
+      "uploaded_at": "2026-11-24T09:30:22.951034+00:00"
     }
   },
   "next_numbers": {
-    "1": 2694,
+    "1": 2695,
     "2": 1103,
     "3": 18,
     "4": 20,
     "5": 114,
-    "6": 293,
+    "6": 294,
     "7": 21,
     "8": 12,
     "9": 49,
@@ -28587,7 +28619,7 @@
     "12": 11,
     "13": 11,
     "14": 5,
-    "15": 33,
+    "15": 34,
     "16": 13,
     "17": 39,
     "18": 11,
@@ -28605,7 +28637,7 @@
     "20": 320,
     "24": 20,
     "41": 11,
-    "42": 933,
+    "42": 934,
     "55": 109,
     "43": 115,
     "50": 8,

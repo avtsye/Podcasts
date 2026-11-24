@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-11-24T00:56:54.345488+00:00",
+  "updated_at": "2026-11-24T09:30:35.110714+00:00",
   "runs": [
+    {
+      "run_id": "45364985143",
+      "run_number": "548",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-24T09:30:35.110714+00:00",
+      "israel_time": "24/11/2026 11:30",
+      "uploads": 4,
+      "feed_errors": 1,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/45364985143",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "איך מנהלים מו״מ קואליציוני?",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2694.wav"
+          ],
+          "drive_filename": "איך מנהלים מו״מ קואליציוני_.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/1wmW7XQWOj2GCatOVkSd86PP2aW4SVxza/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2694.wav"
+        },
+        {
+          "podcast": "Startup for Startup",
+          "title": "הפלייבוק החדש: לבנות חברה שמתחרה בענקיות",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/6/293.wav"
+          ],
+          "drive_filename": "הפלייבוק החדש_ לבנות חברה שמתחרה בענקיות.mp3",
+          "drive_folder": "Startup for Startup",
+          "drive_url": "https://drive.google.com/file/d/10ae-83mT61s-YmhRXcfjnnGr9K-GIKG1/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/6/293.wav"
+        },
+        {
+          "podcast": "מגזין מעריב",
+          "title": "אוסמו הגדול - עם רפי אוסמו | מחצית בשכונה, פרק 67",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/15/33.wav"
+          ],
+          "drive_filename": "אוסמו הגדול - עם רפי אוסמו _ מחצית בשכונה, פרק 67.mp3",
+          "drive_folder": "מגזין מעריב",
+          "drive_url": "https://drive.google.com/file/d/1QNr1z31hIaZSnf5R1nFCFaMWjLdp__Ae/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/15/33.wav"
+        },
+        {
+          "podcast": "שלושה שיודעים",
+          "title": "סימן שאתה צעיר כמו יום אביב בהיר",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/42/933.wav"
+          ],
+          "drive_filename": "סימן שאתה צעיר כמו יום אביב בהיר.mp3",
+          "drive_folder": "שלושה שיודעים",
+          "drive_url": "https://drive.google.com/file/d/14hWxPr6JKfi9LtdTBlCOzW-vds4bNGo_/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/42/933.wav"
+        }
+      ]
+    },
     {
       "run_id": "45301139707",
       "run_number": "547",
@@ -2254,45 +2317,6 @@
           "drive_folder": "פשוט AI",
           "drive_url": "https://drive.google.com/file/d/1RH-0T9VF7YzCBMp70-xw8Hm4PjEjPykX/view?usp=drivesdk",
           "yemos_path": "ivr2:/1/55/106.wav"
-        }
-      ]
-    },
-    {
-      "run_id": "42458742382",
-      "run_number": "448",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-11-08T07:27:30.752594+00:00",
-      "israel_time": "08/11/2026 09:27",
-      "uploads": 2,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42458742382",
-      "items": [
-        {
-          "podcast": "אחד ביום",
-          "title": "מי מפחד מממשלת מיעוט?",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/1/2680.wav"
-          ],
-          "drive_filename": "מי מפחד מממשלת מיעוט_.mp3",
-          "drive_folder": "אחד ביום",
-          "drive_url": "https://drive.google.com/file/d/1lJ0BQVSDcmEEccMZoMvbNq1CLsDbcmBx/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/1/2680.wav"
-        },
-        {
-          "podcast": "מדברימדע",
-          "title": "פרק 182: ד\"ר יוליה גולנד - למדוד ולהתמודד עם מצבי דחק (סטרס)",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/54/1.wav"
-          ],
-          "drive_filename": "פרק 182_ ד_ר יוליה גולנד - למדוד ולהתמודד עם מצבי דחק (סטרס).mp3",
-          "drive_folder": "מדברימדע",
-          "drive_url": "https://drive.google.com/file/d/185Or7jEzDPqvIxDQvI5yp7gE1U9gcNUp/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/54/1.wav"
         }
       ]
     }
