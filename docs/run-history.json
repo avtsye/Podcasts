@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-24T09:30:35.110714+00:00",
+  "updated_at": "2026-11-24T11:00:00.922222+00:00",
   "runs": [
+    {
+      "run_id": "45379932021",
+      "run_number": "549",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-24T11:00:00.922222+00:00",
+      "israel_time": "24/11/2026 13:00",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/45379932021",
+      "items": []
+    },
     {
       "run_id": "45364985143",
       "run_number": "548",
@@ -2268,57 +2282,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42494009272",
       "items": []
-    },
-    {
-      "run_id": "42489902533",
-      "run_number": "449",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-11-08T14:30:49.746595+00:00",
-      "israel_time": "08/11/2026 16:30",
-      "uploads": 3,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42489902533",
-      "items": [
-        {
-          "podcast": "גיקונומי",
-          "title": "פרק #1271 - איתי סליאר וצרפת",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/2/1096.wav"
-          ],
-          "drive_filename": "פרק #1271 - איתי סליאר וצרפת.mp3",
-          "drive_folder": "גיקונומי",
-          "drive_url": "https://drive.google.com/file/d/1VRwpATyI3aQjhkgK0tx_PZ52NJBVT7Rs/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/2/1096.wav"
-        },
-        {
-          "podcast": "שלושה שיודעים",
-          "title": "הו, הסלע האדום, האדום",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/42/923.wav"
-          ],
-          "drive_filename": "הו, הסלע האדום, האדום.mp3",
-          "drive_folder": "שלושה שיודעים",
-          "drive_url": "https://drive.google.com/file/d/1O4aj2KqHupf2hQyto8xk5ee9AuFRPh4n/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/42/923.wav"
-        },
-        {
-          "podcast": "פשוט AI",
-          "title": "ככה סוכני בינה מלאכותית שינו לי את העסק (לטובה) 👍 | פרק 191 עם נועם שפלטר",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/55/106.wav"
-          ],
-          "drive_filename": "ככה סוכני בינה מלאכותית שינו לי את העסק (לטובה) 👍 _ פרק 191 עם נועם שפלטר.mp3",
-          "drive_folder": "פשוט AI",
-          "drive_url": "https://drive.google.com/file/d/1RH-0T9VF7YzCBMp70-xw8Hm4PjEjPykX/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/55/106.wav"
-        }
-      ]
     }
   ]
 }
