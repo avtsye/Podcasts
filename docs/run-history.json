@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-24T11:00:00.922222+00:00",
+  "updated_at": "2026-11-24T20:21:02.084442+00:00",
   "runs": [
+    {
+      "run_id": "45479392952",
+      "run_number": "550",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-24T20:21:02.084442+00:00",
+      "israel_time": "24/11/2026 22:21",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/45479392952",
+      "items": [
+        {
+          "podcast": "גיקונומי",
+          "title": "פרק #1278 - רונן שובל חושש מפוסט ציונות",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/2/1103.wav"
+          ],
+          "drive_filename": "פרק #1278 - רונן שובל חושש מפוסט ציונות.mp3",
+          "drive_folder": "גיקונומי",
+          "drive_url": "https://drive.google.com/file/d/1KYwQ2PKK1TrU2zJ3cOigOZgJCzH3U1Vt/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/2/1103.wav"
+        },
+        {
+          "podcast": "ילדין",
+          "title": "המשחק (עונה 6, פרק 3)",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/37/436.wav"
+          ],
+          "drive_filename": "המשחק (עונה 6, פרק 3).mp3",
+          "drive_folder": "ילדין",
+          "drive_url": "https://drive.google.com/file/d/1a83fepa-cm_f3IPsWQVQIKi0blgo8buX/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/37/436.wav"
+        }
+      ]
+    },
     {
       "run_id": "45379932021",
       "run_number": "549",
@@ -2268,20 +2307,6 @@
           "yemos_path": "ivr2:/1/11/14.wav"
         }
       ]
-    },
-    {
-      "run_id": "42494009272",
-      "run_number": "450",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-11-08T15:17:42.264359+00:00",
-      "israel_time": "08/11/2026 17:17",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42494009272",
-      "items": []
     }
   ]
 }

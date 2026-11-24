@@ -28602,11 +28602,27 @@
       "path": "ivr2:/1/42/933.wav",
       "filename_stem": "933",
       "uploaded_at": "2026-11-24T09:30:22.951034+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/7567af60-d192-311d-833c-c4beda12bb80": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1278 - רונן שובל חושש מפוסט ציונות",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1103.wav",
+      "filename_stem": "1103",
+      "uploaded_at": "2026-11-24T20:20:09.085901+00:00"
+    },
+    "yaldin:https://hubhopper.com/episode/hmshq-wnh-6-prq-3": {
+      "podcast_id": "yaldin",
+      "title": "המשחק (עונה 6, פרק 3)",
+      "status": "uploaded",
+      "path": "ivr2:/1/37/436.wav",
+      "filename_stem": "436",
+      "uploaded_at": "2026-11-24T20:20:45.506949+00:00"
     }
   },
   "next_numbers": {
     "1": 2695,
-    "2": 1103,
+    "2": 1104,
     "3": 18,
     "4": 20,
     "5": 114,
@@ -28630,7 +28646,7 @@
     "25": 9,
     "26": 176,
     "27": 17,
-    "37": 436,
+    "37": 437,
     "38": 11,
     "39": 9,
     "40": 7,
