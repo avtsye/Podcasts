@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-25T13:35:37.816187+00:00",
+  "updated_at": "2026-11-25T15:41:40.091795+00:00",
   "runs": [
+    {
+      "run_id": "45647708755",
+      "run_number": "555",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-25T15:41:40.091795+00:00",
+      "israel_time": "25/11/2026 17:41",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/45647708755",
+      "items": [
+        {
+          "podcast": "Ear Catcher",
+          "title": "הגג של פחמני: פרק 458 עם הילה סלומון, אייל גיא וחזקוש ישורון",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/24/20.wav"
+          ],
+          "drive_filename": "הגג של פחמני_ פרק 458 עם הילה סלומון, אייל גיא וחזקוש ישורון.mp3",
+          "drive_folder": "Ear Catcher",
+          "drive_url": "https://drive.google.com/file/d/1nLxKELeB--kburTv2F9P3ksFwgp7aY9S/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/24/20.wav"
+        }
+      ]
+    },
     {
       "run_id": "45624826781",
       "run_number": "554",
@@ -2330,20 +2357,6 @@
           "yemos_path": "ivr2:/1/51/3.wav"
         }
       ]
-    },
-    {
-      "run_id": "42548696117",
-      "run_number": "455",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-11-09T02:03:09.573913+00:00",
-      "israel_time": "09/11/2026 04:03",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42548696117",
-      "items": []
     }
   ]
 }
