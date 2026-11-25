@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-11-25T03:42:26.540870+00:00",
+  "updated_at": "2026-11-25T04:20:59.075864+00:00",
   "runs": [
+    {
+      "run_id": "45546082676",
+      "run_number": "553",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-25T04:20:59.075864+00:00",
+      "israel_time": "25/11/2026 06:20",
+      "uploads": 0,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/45546082676",
+      "items": []
+    },
     {
       "run_id": "45541665848",
       "run_number": "552",
@@ -2305,33 +2319,6 @@
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42542869956",
       "items": []
-    },
-    {
-      "run_id": "42531791193",
-      "run_number": "453",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-11-08T22:46:38.658729+00:00",
-      "israel_time": "09/11/2026 00:46",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42531791193",
-      "items": [
-        {
-          "podcast": "חיים של אחרים",
-          "title": "חיים של אחרים | 08.11.26",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/17/29.wav"
-          ],
-          "drive_filename": "חיים של אחרים _ 08.11.26.mp3",
-          "drive_folder": "חיים של אחרים",
-          "drive_url": "https://drive.google.com/file/d/1Vnpmat3uF2fpIu7ov_UHcHJnjJid5w0K/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/17/29.wav"
-        }
-      ]
     }
   ]
 }
