@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-24T21:20:22.326742+00:00",
+  "updated_at": "2026-11-25T03:42:26.540870+00:00",
   "runs": [
+    {
+      "run_id": "45541665848",
+      "run_number": "552",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-25T03:42:26.540870+00:00",
+      "israel_time": "25/11/2026 05:42",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/45541665848",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "פסק הדין הראשון על רצח עם",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2695.wav"
+          ],
+          "drive_filename": "פסק הדין הראשון על רצח עם.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/1zcaRrU6pwPE_UIyxdz-EGcmU0017I2wb/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2695.wav"
+        },
+        {
+          "podcast": "חיות כיס",
+          "title": "פרק 367: אמבולנס הנפש",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/3/18.wav"
+          ],
+          "drive_filename": "פרק 367_ אמבולנס הנפש.mp3",
+          "drive_folder": "חיות כיס",
+          "drive_url": "https://drive.google.com/file/d/1hpOt7lKhbbaf5L5zU4cYHRueCnpOFMVF/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/3/18.wav"
+        }
+      ]
+    },
     {
       "run_id": "45489462325",
       "run_number": "551",
@@ -2293,20 +2332,6 @@
           "yemos_path": "ivr2:/1/17/29.wav"
         }
       ]
-    },
-    {
-      "run_id": "42520416042",
-      "run_number": "452",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-11-08T20:30:47.414458+00:00",
-      "israel_time": "08/11/2026 22:30",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42520416042",
-      "items": []
     }
   ]
 }
