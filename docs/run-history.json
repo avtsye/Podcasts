@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-26T09:35:39.195218+00:00",
+  "updated_at": "2026-11-26T14:55:25.809718+00:00",
   "runs": [
+    {
+      "run_id": "45843568557",
+      "run_number": "560",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-26T14:55:25.809718+00:00",
+      "israel_time": "26/11/2026 16:55",
+      "uploads": 1,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/45843568557",
+      "items": [
+        {
+          "podcast": "מנועי הכסף",
+          "title": "״לא ראינו את זה בעבר״: התנודתיות בשווקים זה הנורמלי החדש",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/7/21.wav"
+          ],
+          "drive_filename": "״לא ראינו את זה בעבר״_ התנודתיות בשווקים זה הנורמלי החדש.mp3",
+          "drive_folder": "מנועי הכסף",
+          "drive_url": "https://drive.google.com/file/d/1FC4A344RT8-aAZi9L5FpQ4oLvE8n21nr/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/7/21.wav"
+        }
+      ]
+    },
     {
       "run_id": "45793298579",
       "run_number": "559",
@@ -2342,33 +2369,6 @@
           "drive_folder": "שלושה שיודעים",
           "drive_url": "https://drive.google.com/file/d/1Q4DshO9p4Q4tA2sTDUJnJgsD5JQGfy7g/view?usp=drivesdk",
           "yemos_path": "ivr2:/1/42/925.wav"
-        }
-      ]
-    },
-    {
-      "run_id": "42740887961",
-      "run_number": "460",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-11-10T02:11:58.165153+00:00",
-      "israel_time": "10/11/2026 04:11",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42740887961",
-      "items": [
-        {
-          "podcast": "חיים של אחרים",
-          "title": "חיים של אחרים | 09.11.26",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/17/30.wav"
-          ],
-          "drive_filename": "חיים של אחרים _ 09.11.26.mp3",
-          "drive_folder": "חיים של אחרים",
-          "drive_url": "https://drive.google.com/file/d/1SVX_ScXKp5Nn4rjkdoCgZaQwHH9uKBRe/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/17/30.wav"
         }
       ]
     }
