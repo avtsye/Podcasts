@@ -28706,11 +28706,19 @@
       "path": "ivr2:/1/7/21.wav",
       "filename_stem": "21",
       "uploaded_at": "2026-11-26T14:54:49.573224+00:00"
+    },
+    "geekonomy:geekonomy.podbean.com/e8f6f5a0-bc8a-3d5d-b7ba-aaae4d33687b": {
+      "podcast_id": "geekonomy",
+      "title": "פרק #1279 - פרופ׳ ארז גלעד ואנרגיה אטומית",
+      "status": "uploaded",
+      "path": "ivr2:/1/2/1104.wav",
+      "filename_stem": "1104",
+      "uploaded_at": "2026-11-26T23:40:22.869799+00:00"
     }
   },
   "next_numbers": {
     "1": 2697,
-    "2": 1104,
+    "2": 1105,
     "3": 19,
     "4": 20,
     "5": 114,
