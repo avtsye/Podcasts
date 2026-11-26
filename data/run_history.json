@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-26T00:26:41.500400+00:00",
+  "updated_at": "2026-11-26T04:51:39.460802+00:00",
   "runs": [
+    {
+      "run_id": "45757659955",
+      "run_number": "558",
+      "event": "repository_dispatch",
+      "status": "success",
+      "utc_time": "2026-11-26T04:51:39.460802+00:00",
+      "israel_time": "26/11/2026 06:51",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/45757659955",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "הגילויים החדשים על רון ארד",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2696.wav"
+          ],
+          "drive_filename": "הגילויים החדשים על רון ארד.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/1PCwjH7GB_9B3_j5w8839z_RXR5U3s6n8/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2696.wav"
+        },
+        {
+          "podcast": "הצוללת",
+          "title": "מנכ\"ל וואן זירו מדבר על המכירה, רבולוט וסוף עידן האפליקציות | כוחות השוק",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/50/8.wav"
+          ],
+          "drive_filename": "מנכ_ל וואן זירו מדבר על המכירה, רבולוט וסוף עידן האפליקציות _ כוחות השוק.mp3",
+          "drive_folder": "הצוללת",
+          "drive_url": "https://drive.google.com/file/d/1QVmikLhlEZUxlWvGda-Du05fctrqObQK/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/50/8.wav"
+        }
+      ]
+    },
     {
       "run_id": "45728614207",
       "run_number": "557",
@@ -2331,20 +2370,6 @@
       "target_errors": 0,
       "partial": false,
       "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42690267305",
-      "items": []
-    },
-    {
-      "run_id": "42677660310",
-      "run_number": "458",
-      "event": "schedule",
-      "status": "success",
-      "utc_time": "2026-11-09T18:51:33.022282+00:00",
-      "israel_time": "09/11/2026 20:51",
-      "uploads": 0,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42677660310",
       "items": []
     }
   ]
