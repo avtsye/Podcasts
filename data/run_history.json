@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-27T05:24:49.927731+00:00",
+  "updated_at": "2026-11-27T12:32:45.893142+00:00",
   "runs": [
+    {
+      "run_id": "45999240405",
+      "run_number": "565",
+      "event": "schedule",
+      "status": "success",
+      "utc_time": "2026-11-27T12:32:45.893142+00:00",
+      "israel_time": "27/11/2026 14:32",
+      "uploads": 2,
+      "feed_errors": 0,
+      "target_errors": 0,
+      "partial": false,
+      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/45999240405",
+      "items": [
+        {
+          "podcast": "אחד ביום",
+          "title": "ראיתי שמעתי: גל תורן",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/1/2697.wav"
+          ],
+          "drive_filename": "ראיתי שמעתי_ גל תורן.mp3",
+          "drive_folder": "אחד ביום",
+          "drive_url": "https://drive.google.com/file/d/11xAWoY0dOCK4F4QSjpClttNtx-rPc0Rf/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/1/2697.wav"
+        },
+        {
+          "podcast": "מגזין מעריב",
+          "title": "\"בכל מקום שתבחר בעולם\": שיקלי חושף את ההצעה של בנט - ואת הקו האדום שלו",
+          "destinations": [
+            "Google Drive",
+            "ימות המשיח ivr2:/1/15/34.wav"
+          ],
+          "drive_filename": "_בכל מקום שתבחר בעולם_ שיקלי חושף את ההצעה של בנט - ואת הקו האדום שלו.mp3",
+          "drive_folder": "מגזין מעריב",
+          "drive_url": "https://drive.google.com/file/d/1ENagRzJ7ygs2JwJZaYrG8KMxwMKaSwQk/view?usp=drivesdk",
+          "yemos_path": "ivr2:/1/15/34.wav"
+        }
+      ]
+    },
     {
       "run_id": "45945581485",
       "run_number": "564",
@@ -2268,33 +2307,6 @@
           "drive_folder": "הצוללת",
           "drive_url": "https://drive.google.com/file/d/10mRq8UQAUtQrI_fkWPHk7xtjth04cCuC/view?usp=drivesdk",
           "yemos_path": "ivr2:/1/50/6.wav"
-        }
-      ]
-    },
-    {
-      "run_id": "42949395618",
-      "run_number": "465",
-      "event": "repository_dispatch",
-      "status": "success",
-      "utc_time": "2026-11-11T02:57:37.751514+00:00",
-      "israel_time": "11/11/2026 04:57",
-      "uploads": 1,
-      "feed_errors": 0,
-      "target_errors": 0,
-      "partial": false,
-      "run_url": "https://github.com/avtsye/Podcasts/actions/runs/42949395618",
-      "items": [
-        {
-          "podcast": "אחד ביום",
-          "title": "בראש של ליברמן",
-          "destinations": [
-            "Google Drive",
-            "ימות המשיח ivr2:/1/1/2683.wav"
-          ],
-          "drive_filename": "בראש של ליברמן.mp3",
-          "drive_folder": "אחד ביום",
-          "drive_url": "https://drive.google.com/file/d/1VoVvpVS240ArCp4qnWlezBn5NzXAOqB2/view?usp=drivesdk",
-          "yemos_path": "ivr2:/1/1/2683.wav"
         }
       ]
     }

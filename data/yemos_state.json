@@ -28714,10 +28714,26 @@
       "path": "ivr2:/1/2/1104.wav",
       "filename_stem": "1104",
       "uploaded_at": "2026-11-26T23:40:22.869799+00:00"
+    },
+    "ehad_beyom:a8d4ca0d-7c40-4c24-b08d-b50e014c6f24": {
+      "podcast_id": "ehad_beyom",
+      "title": "ראיתי שמעתי: גל תורן",
+      "status": "uploaded",
+      "path": "ivr2:/1/1/2697.wav",
+      "filename_stem": "2697",
+      "uploaded_at": "2026-11-27T12:31:46.143410+00:00"
+    },
+    "maariv_magazine:d8f39bae-a18b-43cc-9d48-b50b008ca9c2": {
+      "podcast_id": "maariv_magazine",
+      "title": "\"בכל מקום שתבחר בעולם\": שיקלי חושף את ההצעה של בנט - ואת הקו האדום שלו",
+      "status": "uploaded",
+      "path": "ivr2:/1/15/34.wav",
+      "filename_stem": "34",
+      "uploaded_at": "2026-11-27T12:32:24.613799+00:00"
     }
   },
   "next_numbers": {
-    "1": 2697,
+    "1": 2698,
     "2": 1105,
     "3": 19,
     "4": 20,
@@ -28731,7 +28747,7 @@
     "12": 11,
     "13": 11,
     "14": 5,
-    "15": 34,
+    "15": 35,
     "16": 13,
     "17": 41,
     "18": 11,
